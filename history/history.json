@@ -1,0 +1,3850 @@
+{
+  "9df3453586ba26255f1a5c14ab19e593" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3ca94ef064ba8b06",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471485051,
+        "stop" : 1667471494576,
+        "duration" : 9525
+      }
+    } ]
+  },
+  "304ab28bb52dd4c774fb8edc6d332daa" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "763fead1deb4d4c4",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472352271,
+        "stop" : 1667472353468,
+        "duration" : 1197
+      }
+    } ]
+  },
+  "d9ce42911e1b0a92f3bc91cfe746afdb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b647adda4a05a96a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472866616,
+        "stop" : 1667472873921,
+        "duration" : 7305
+      }
+    } ]
+  },
+  "a41b91928d6d7a8cf2be2865a3355f7e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3458886bd1d4b6f5",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667473048969,
+        "stop" : 1667473051017,
+        "duration" : 2048
+      }
+    } ]
+  },
+  "9daaed56100fccf6f1723847ebdf1e4d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c2657f708fd1cf4f",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"tim burton\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667472171213,
+        "stop" : 1667472172008,
+        "duration" : 795
+      }
+    } ]
+  },
+  "d2eb5558d4d4a79b7cfa52114f84716b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c64c11e718e2f412",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471270969,
+        "stop" : 1667471289605,
+        "duration" : 18636
+      }
+    } ]
+  },
+  "518db44bc82c6da68f68d7b549bebf6c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8d1373a5816b240d",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471005989,
+        "stop" : 1667471020976,
+        "duration" : 14987
+      }
+    } ]
+  },
+  "3bc78c0a1dd02b77622a1890676d8afb" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "32cfac331ab0c186",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"goosebumps\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667472669105,
+        "stop" : 1667472671513,
+        "duration" : 2408
+      }
+    } ]
+  },
+  "b5c8ba33b273501bfd19edd31c71fbac" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "46de0b1749ad1054",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667473051018,
+        "stop" : 1667473053713,
+        "duration" : 2695
+      }
+    } ]
+  },
+  "71b2f1c4c284e60723f4cd04a1615e15" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b57cdab29268856",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472456616,
+        "stop" : 1667472477872,
+        "duration" : 21256
+      }
+    } ]
+  },
+  "ffc545699eaf1dbeff0356adb388fe08" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fd380f5e235c3052",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471613545,
+        "stop" : 1667471631565,
+        "duration" : 18020
+      }
+    } ]
+  },
+  "83fccc9019c76a3da31db9ffac62d029" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c41420d77ba2d2bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667473053714,
+        "stop" : 1667473065926,
+        "duration" : 12212
+      }
+    } ]
+  },
+  "5c66a2688e8c6b2bae7b696238d729e5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ab7d9b526976d52c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471462352,
+        "stop" : 1667471485049,
+        "duration" : 22697
+      }
+    } ]
+  },
+  "0649b9c02f4ca70d0c826348254aa502" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f75edbd02ff0b1c1",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"scorsese\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667472879236,
+        "stop" : 1667472879808,
+        "duration" : 572
+      }
+    } ]
+  },
+  "e51e7f90b17ed694b12192539c076a6f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5057ca934c97b010",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471289606,
+        "stop" : 1667471292120,
+        "duration" : 2514
+      }
+    } ]
+  },
+  "a367d16503cf4177b1e7a318d667eb01" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "59f6d30214508119",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471631567,
+        "stop" : 1667471653274,
+        "duration" : 21707
+      }
+    } ]
+  },
+  "9ec797facf1a38ddd1ca4ea94f455b89" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a1c36e99d9fb58c4",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"pop colture\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667472855801,
+        "stop" : 1667472856199,
+        "duration" : 398
+      }
+    } ]
+  },
+  "70a5e915f6df51954b71760f9eb885dd" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6cb88897bddd4a0",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"google\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667471594671,
+        "stop" : 1667471595388,
+        "duration" : 717
+      }
+    } ]
+  },
+  "689f6642cee667a75a81cccfe552db0b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "50a8420eab50b634",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"beyonce\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667471046990,
+        "stop" : 1667471047211,
+        "duration" : 221
+      }
+    } ]
+  },
+  "334ab4c8809027b433858ff13a5b1aba" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b15ec04b75284a5c",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472643953,
+        "stop" : 1667472647513,
+        "duration" : 3560
+      }
+    } ]
+  },
+  "3d41550adce3deffdd195b09ab06c70d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "109daa38420313c8",
+      "status" : "broken",
+      "statusDetails" : "incorrect data check",
+      "time" : {
+        "start" : 1667471933106,
+        "stop" : 1667471950788,
+        "duration" : 17682
+      }
+    } ]
+  },
+  "95371080ca0e388ce0510a634ac23ab8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "469052e9ab64b944",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"stunning view/scenery\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667472983573,
+        "stop" : 1667472984422,
+        "duration" : 849
+      }
+    } ]
+  },
+  "68ed4c42b5b0480820078ee1a23eed39" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9e1e753fb3802704",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472634727,
+        "stop" : 1667472643434,
+        "duration" : 8707
+      }
+    } ]
+  },
+  "e656e5a6cb05ea17d56574b44110ea64" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ac1364d058d25803",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"goofing around  - slang\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667472667911,
+        "stop" : 1667472668423,
+        "duration" : 512
+      }
+    } ]
+  },
+  "1034c22be0a325ace5f8a14b078d4d44" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cfabfb88ca7f8198",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472735036,
+        "stop" : 1667472737878,
+        "duration" : 2842
+      }
+    } ]
+  },
+  "c47337cf90a8d866cbdb17e338c20c0e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1cc2ec1d21839e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472647514,
+        "stop" : 1667472667908,
+        "duration" : 20394
+      }
+    } ]
+  },
+  "4fc2c1a5cdb01a45bcd5ef4f12de923e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aaa4026218ea0847",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472502286,
+        "stop" : 1667472506016,
+        "duration" : 3730
+      }
+    } ]
+  },
+  "a859c0781384e9a455cac1a8350ae01d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8f047e65529b5b6e",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667473014661,
+        "stop" : 1667473017815,
+        "duration" : 3154
+      }
+    } ]
+  },
+  "36f43cc892e369542297766996ba9cdd" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c9d5ec4674f60029",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472521539,
+        "stop" : 1667472522518,
+        "duration" : 979
+      }
+    } ]
+  },
+  "b9a69095a4cdcaf4f064e961ca846657" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f94422a0ff35df63",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472779651,
+        "stop" : 1667472790164,
+        "duration" : 10513
+      }
+    } ]
+  },
+  "9f28ca3fb50503d39ab6f2ff9e52ab3f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "79e716aeff087e49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471122743,
+        "stop" : 1667471140155,
+        "duration" : 17412
+      }
+    } ]
+  },
+  "ea9a17e196c2cfae1d887a03118893b1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3152bd7071f0dd1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472237839,
+        "stop" : 1667472259480,
+        "duration" : 21641
+      }
+    } ]
+  },
+  "465fe6c95f58fabf4423922d8aaee777" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2925009371c29dc3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471398496,
+        "stop" : 1667471410429,
+        "duration" : 11933
+      }
+    } ]
+  },
+  "f5b1fcf67cd42533fba5a5a5e5b51975" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ef11c7e7ac8cc306",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667473019976,
+        "stop" : 1667473024518,
+        "duration" : 4542
+      }
+    } ]
+  },
+  "32fb4f0462deef8201ba83c18dbf7988" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5305ebc4d7f50460",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472898982,
+        "stop" : 1667472916457,
+        "duration" : 17475
+      }
+    } ]
+  },
+  "a837428e6a4519a59c9d54abca787061" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "58858de8ff49dc7",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472615818,
+        "stop" : 1667472618236,
+        "duration" : 2418
+      }
+    } ]
+  },
+  "ebc712efe3e4eccfca3cdbb72f0d72a8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aa6ff61c0965c646",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"fool around  slang\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667472643436,
+        "stop" : 1667472643951,
+        "duration" : 515
+      }
+    } ]
+  },
+  "39e06819a7e762a1626e9f6f75c7c4ca" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "242421f454fc9e7e",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"time\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667473024970,
+        "stop" : 1667473025806,
+        "duration" : 836
+      }
+    } ]
+  },
+  "135754fa13b37d83a56897443549fe44" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "886f9a6a8f560126",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"artgrid\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667471005679,
+        "stop" : 1667471005985,
+        "duration" : 306
+      }
+    } ]
+  },
+  "2f7aebaf5b472c790ca40fcba3f01e0b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a47110b6f919ade6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472622539,
+        "stop" : 1667472634725,
+        "duration" : 12186
+      }
+    } ]
+  },
+  "3ace943efa4f1e81a2b321676c026c10" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4d56c434cdcc614",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472835555,
+        "stop" : 1667472855796,
+        "duration" : 20241
+      }
+    } ]
+  },
+  "3bb4474e8a9be9adcdee2be04685701d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7461e2a59ffe9f4f",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"google\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667472668425,
+        "stop" : 1667472669104,
+        "duration" : 679
+      }
+    } ]
+  },
+  "894c4aa2c67d6135d682715ea1d940b8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "edfd2ac4892eb1e0",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472737878,
+        "stop" : 1667472740957,
+        "duration" : 3079
+      }
+    } ]
+  },
+  "6288e6eed4ae4b9865ea588004773b71" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2050df9962cfeeed",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471292121,
+        "stop" : 1667471293694,
+        "duration" : 1573
+      }
+    } ]
+  },
+  "87d0406027363ef05ca463e295e02486" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a8f8de12105fc792",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472527926,
+        "stop" : 1667472549416,
+        "duration" : 21490
+      }
+    } ]
+  },
+  "5849f569018f193ace3d89f983057228" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7c447f4e835c6065",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"amazing view/scenery\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667472354348,
+        "stop" : 1667472355526,
+        "duration" : 1178
+      }
+    } ]
+  },
+  "85ca7adc17acf8d11c35a70a58c26d28" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7c5a46266a14618a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471975764,
+        "stop" : 1667471995836,
+        "duration" : 20072
+      }
+    } ]
+  },
+  "ffedfb356c2d5d6806b060fb9799f89f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b83506185fc352b5",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472259481,
+        "stop" : 1667472261035,
+        "duration" : 1554
+      }
+    } ]
+  },
+  "53639f9627ca1423062427d0d2888548" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "56162df5f368afb1",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"artgrid\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667472355527,
+        "stop" : 1667472356054,
+        "duration" : 527
+      }
+    } ]
+  },
+  "1ad524bd50dbb7a42a09246cc2faa1f1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b5cb9261fa254b65",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471950789,
+        "stop" : 1667471975762,
+        "duration" : 24973
+      }
+    } ]
+  },
+  "c8b40d7e0e97f1cb08a72f4123c3eb9a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "30eb68d906d1992b",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472146531,
+        "stop" : 1667472167455,
+        "duration" : 20924
+      }
+    } ]
+  },
+  "5afabfcdd4f292e2a5ac106eeefbe85c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c5719697a96153a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471553165,
+        "stop" : 1667471574347,
+        "duration" : 21182
+      }
+    } ]
+  },
+  "565cddfaf595ea83b7b6024122355c9b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d5c80d32f8516934",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471596008,
+        "stop" : 1667471613542,
+        "duration" : 17534
+      }
+    } ]
+  },
+  "297a620fd7385ba7182b358b8770923b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e0d1d3eeee5c5544",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667473070361,
+        "stop" : 1667473076995,
+        "duration" : 6634
+      }
+    } ]
+  },
+  "8e18af42a8d186822a26641e853faf98" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "89b81ae18ab5468f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471410434,
+        "stop" : 1667471429653,
+        "duration" : 19219
+      }
+    } ]
+  },
+  "598d02413854fe02bee17cd08460fa81" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5679bfc1583327a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472387131,
+        "stop" : 1667472398426,
+        "duration" : 11295
+      }
+    } ]
+  },
+  "74509d7ee003154421d2e7e32aec1391" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9bb3a3942eae6a29",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472599918,
+        "stop" : 1667472601427,
+        "duration" : 1509
+      }
+    } ]
+  },
+  "a1050c4bc6ca24e6f2bb767c9120f9f4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "46dbf074b462cf91",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472754287,
+        "stop" : 1667472759564,
+        "duration" : 5277
+      }
+    } ]
+  },
+  "214cb320be6bb4f9a9d3b1edd8dde364" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bece7c33ef134b2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471163878,
+        "stop" : 1667471186067,
+        "duration" : 22189
+      }
+    } ]
+  },
+  "7825d866277877d39b64e969ca3f4280" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6766ce51de0c85be",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667473068649,
+        "stop" : 1667473070360,
+        "duration" : 1711
+      }
+    } ]
+  },
+  "58a21313a9188f7d7d69025c098f68ce" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1c1e95a141d96c0a",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"tecnology\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667472145519,
+        "stop" : 1667472146529,
+        "duration" : 1010
+      }
+    } ]
+  },
+  "2247a7af9da2b4d292f062ede9d9fdb2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d489d5ee2e2e1e24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471876379,
+        "stop" : 1667471905282,
+        "duration" : 28903
+      }
+    } ]
+  },
+  "2d685f5adfbd872a3c2724f37dbf5430" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "86b6f2c1791ce5c4",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"humanity\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667471680882,
+        "stop" : 1667471681572,
+        "duration" : 690
+      }
+    } ]
+  },
+  "514cb4b312ad66aedeea5d2488703d50" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "18ccd0f264cc60fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472760327,
+        "stop" : 1667472779650,
+        "duration" : 19323
+      }
+    } ]
+  },
+  "9b42aa4776450c9549a2a0dd99749433" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "81ff48d67bd5d3b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471140156,
+        "stop" : 1667471162942,
+        "duration" : 22786
+      }
+    } ]
+  },
+  "0eb41f2945b1147db8018835b9a849bd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7b085fdc3ff4f050",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471812576,
+        "stop" : 1667471832159,
+        "duration" : 19583
+      }
+    } ]
+  },
+  "2b9fb6ef3ce40464d8c465bd89cb8151" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1c33df9096bc79f4",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472167456,
+        "stop" : 1667472171212,
+        "duration" : 3756
+      }
+    } ]
+  },
+  "82f601a3e93fe488edb684b505503146" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ffb75b66da99e0a7",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471513960,
+        "stop" : 1667471534454,
+        "duration" : 20494
+      }
+    } ]
+  },
+  "535049cd4a2ef83a5e46aab588d4df4c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ec4f4d5752d74a90",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472759567,
+        "stop" : 1667472760326,
+        "duration" : 759
+      }
+    } ]
+  },
+  "cb236ea4c71b3e960a587a0f71707d31" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9ff320ae938e32cf",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"graphical loop\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667472671514,
+        "stop" : 1667472672198,
+        "duration" : 684
+      }
+    } ]
+  },
+  "711c8769e04f662b3bf7cebf7d8dec8b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "14df725ec84eb4ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472085647,
+        "stop" : 1667472094820,
+        "duration" : 9173
+      }
+    } ]
+  },
+  "e9de59c4c5693231c473c3b794cd1517" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6f54acaebc905aaf",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472139907,
+        "stop" : 1667472145518,
+        "duration" : 5611
+      }
+    } ]
+  },
+  "94517c7054b7dde29bcb16fdbb45bd0b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dde831b1d68edb48",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472879810,
+        "stop" : 1667472898981,
+        "duration" : 19171
+      }
+    } ]
+  },
+  "95915df6a2c75a47c24215fec47dc9e5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "53ba3cf624faf990",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472934082,
+        "stop" : 1667472952607,
+        "duration" : 18525
+      }
+    } ]
+  },
+  "9469df8f5384eed913d8bf9e387da50b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c68307a818793754",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471749888,
+        "stop" : 1667471769462,
+        "duration" : 19574
+      }
+    } ]
+  },
+  "a61c9a396342d7af37184bd6052c1541" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1ee88364f801c124",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472304883,
+        "stop" : 1667472325900,
+        "duration" : 21017
+      }
+    } ]
+  },
+  "249c03f7df44a10395d496c1662b6ba3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "204fa859a4ed726",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472984423,
+        "stop" : 1667472994735,
+        "duration" : 10312
+      }
+    } ]
+  },
+  "a49a88e0aaba5ffbb540b954cd6c1429" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8eb8fb7ac06fa549",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472181570,
+        "stop" : 1667472184049,
+        "duration" : 2479
+      }
+    } ]
+  },
+  "41cce28466c5ffd4313a78622769ada9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "79b160164cc8ad11",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"bussiness\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667471162945,
+        "stop" : 1667471163877,
+        "duration" : 932
+      }
+    } ]
+  },
+  "88418a8ac590937cb350813500c051e8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e596c57092ac805",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472832789,
+        "stop" : 1667472835550,
+        "duration" : 2761
+      }
+    } ]
+  },
+  "eae940c5b5cbb769cc31bb2633ac3fe1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5750cb1906ce9c38",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667473010971,
+        "stop" : 1667473013019,
+        "duration" : 2048
+      }
+    } ]
+  },
+  "ce882bfee432423c35bce8d6cef3be3e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fa40526d5961d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472672199,
+        "stop" : 1667472691991,
+        "duration" : 19792
+      }
+    } ]
+  },
+  "2663216fa4a9334d0e709eb21473ff74" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1c858705b0c6862e",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"tecnology\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667473017821,
+        "stop" : 1667473018736,
+        "duration" : 915
+      }
+    } ]
+  },
+  "4afc761c2120e15c21c70980ba3eac0c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4b3bae0492c99ea8",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471209052,
+        "stop" : 1667471229350,
+        "duration" : 20298
+      }
+    } ]
+  },
+  "6d472e5fe53c9d24ba6705541b6b5c68" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ac49646d2b602677",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471769463,
+        "stop" : 1667471791798,
+        "duration" : 22335
+      }
+    } ]
+  },
+  "6045f98039731ebf62053cb6ad74ee19" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d549c772a3ae0249",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471337959,
+        "stop" : 1667471359797,
+        "duration" : 21838
+      }
+    } ]
+  },
+  "dd3b13dd35371a3b1227eab894b0632d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ae6399c9e9050017",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472506017,
+        "stop" : 1667472509528,
+        "duration" : 3511
+      }
+    } ]
+  },
+  "1cf63c4a8f34eb0211caa8dcbc320d7e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e704c3ffb063c9d6",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471097196,
+        "stop" : 1667471102922,
+        "duration" : 5726
+      }
+    } ]
+  },
+  "db68914e6f7f8da0bc3ed9930381bfee" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d51e161e738d03ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472058233,
+        "stop" : 1667472084597,
+        "duration" : 26364
+      }
+    } ]
+  },
+  "f696a2b4dc306350690a8ca22122f8e6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a5261eb8c47f8fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471653275,
+        "stop" : 1667471672245,
+        "duration" : 18970
+      }
+    } ]
+  },
+  "f533e60b68f22b702f0ebe16e094105b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "619c9a7be0cfcbec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471020984,
+        "stop" : 1667471034287,
+        "duration" : 13303
+      }
+    } ]
+  },
+  "396667ae48e7eb5166c4d9633edeaa98" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "325620d47f3159ad",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472974910,
+        "stop" : 1667472983573,
+        "duration" : 8663
+      }
+    } ]
+  },
+  "9cc5fd45ace92cba3bac979024e470b8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ee057dfcf060f139",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471683408,
+        "stop" : 1667471687088,
+        "duration" : 3680
+      }
+    } ]
+  },
+  "3c8708fcaae9a5c6cd46d23b191b7edb" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5ff2809e987f2401",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472398427,
+        "stop" : 1667472419616,
+        "duration" : 21189
+      }
+    } ]
+  },
+  "a6c12c39b4abf3fb53a3fb480bd61970" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1804ea1c7a8ea2df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471102922,
+        "stop" : 1667471122742,
+        "duration" : 19820
+      }
+    } ]
+  },
+  "fd0dc41802a4a651519611f566f57711" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e4e883843a9e495a",
+      "status" : "failed",
+      "statusDetails" : "Error parsing response to JSON: \nTypeError: Cannot read properties of null (reading 'clipList')\n Response text: \n {\"errors\":[{\"message\":\"Failed to parse query string at line 1, column 32. See https://aka.ms/azure-search-full-query for supported syntax.\",\"locations\":[{\"line\":2,\"column\":3}],\"path\":[\"clipList\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\",\"exception\":{\"name\":\"RestError\",\"code\":\"InvalidRequestParameter\",\"statusCode\":400,\"request\":{\"streamResponseStatusCodes\":{},\"url\":\"https://test-al-footage-v1.search.windows.net/indexes('cms-categories-indexes-v3')/docs/search.post.search?api-version=2020-06-30-Preview\",\"method\":\"POST\",\"headers\":{\"_headersMap\":{\"content-type\":{\"name\":\"Content-Type\",\"value\":\"application/json\"},\"accept\":{\"name\":\"Accept\",\"value\":\"application/json;odata.metadata=none\"},\"user-agent\":{\"name\":\"User-Agent\",\"value\":\"azsdk-js-search-documents/11.3.0 core-http/2.2.7 Node/v16.14.2 OS/(x64-Linux-5.4.0-1089-azure)\"},\"x-ms-client-request-id\":{\"name\":\"x-ms-client-request-id\",\"value\":\"1d66145c-2378-4aaf-8d7d-010e25106c6e\"},\"api-key\":{\"name\":\"api-key\",\"value\":\"09414DD76465B181BF562174F44B81BD\"},\"cookie\":{\"name\":\"Cookie\",\"value\":\"\"}}},\"body\":\"{\\\"count\\\":false,\\\"orderby\\\":\\\"search.score() desc\\\",\\\"queryType\\\":\\\"full\\\",\\\"search\\\":\\\"(name:('amazing view/scenery'))\\\",\\\"searchMode\\\":\\\"all\\\",\\\"skip\\\":null}\",\"withCredentials\":false,\"timeout\":0,\"keepAlive\":true,\"requestId\":\"1d66145c-2378-4aaf-8d7d-010e25106c6e\",\"operationSpec\":{\"path\":\"/docs/search.post.search\",\"httpMethod\":\"POST\",\"responses\":{\"200\":{\"bodyMapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchDocumentsResult\",\"modelProperties\":{\"count\":{\"serializedName\":\"@odata\\\\.count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"facets\":{\"serializedName\":\"@search\\\\.facets\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\"}}}}}},\"nextPageParameters\":{\"serializedName\":\"@search\\\\.nextPageParameters\",\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\"}}}},\"nextLink\":{\"serializedName\":\"@odata\\\\.nextLink\",\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}}},\"default\":{\"bodyMapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\",\"modelProperties\":{\"code\":{\"serializedName\":\"code\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"message\":{\"serializedName\":\"message\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"details\":{\"serializedName\":\"details\",\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\"}}}}}}}}},\"requestBody\":{\"parameterPath\":\"searchRequest\",\"mapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\",\"modelProperties\":{\"includeTotalResultCount\":{\"serializedName\":\"count\",\"type\":{\"name\":\"Boolean\"}},\"facets\":{\"serializedName\":\"facets\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"highlightFields\":{\"serializedName\":\"highlight\",\"type\":{\"name\":\"String\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"queryType\":{\"serializedName\":\"queryType\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"simple\",\"full\"]}},\"scoringStatistics\":{\"serializedName\":\"scoringStatistics\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"local\",\"global\"]}},\"sessionId\":{\"serializedName\":\"sessionId\",\"type\":{\"name\":\"String\"}},\"scoringParameters\":{\"serializedName\":\"scoringParameters\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"scoringProfile\":{\"serializedName\":\"scoringProfile\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"searchMode\":{\"serializedName\":\"searchMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"any\",\"all\"]}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"skip\":{\"serializedName\":\"skip\",\"type\":{\"name\":\"Number\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}}},\"queryParameters\":[{\"parameterPath\":\"apiVersion\",\"mapper\":{\"serializedName\":\"api-version\",\"required\":true,\"type\":{\"name\":\"String\"}}}],\"urlParameters\":[{\"parameterPath\":\"endpoint\",\"mapper\":{\"serializedName\":\"endpoint\",\"required\":true,\"type\":{\"name\":\"String\"}},\"skipEncoding\":true},{\"parameterPath\":\"indexName\",\"mapper\":{\"serializedName\":\"indexName\",\"required\":true,\"type\":{\"name\":\"String\"}}}],\"headerParameters\":[{\"parameterPath\":\"accept\",\"mapper\":{\"defaultValue\":\"application/json\",\"isConstant\":true,\"serializedName\":\"Accept\",\"type\":{\"name\":\"String\"}}},{\"parameterPath\":[\"options\",\"requestOptionsParam\",\"xMsClientRequestId\"],\"mapper\":{\"serializedName\":\"x-ms-client-request-id\",\"type\":{\"name\":\"Uuid\"}}},{\"parameterPath\":[\"options\",\"contentType\"],\"mapper\":{\"defaultValue\":\"application/json\",\"isConstant\":true,\"serializedName\":\"Content-Type\",\"type\":{\"name\":\"String\"}}}],\"mediaType\":\"json\",\"serializer\":{\"modelMappers\":{\"SearchError\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\",\"modelProperties\":{\"code\":{\"serializedName\":\"code\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"message\":{\"serializedName\":\"message\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"details\":{\"serializedName\":\"details\",\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\"}}}}}}},\"SearchDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchDocumentsResult\",\"modelProperties\":{\"count\":{\"serializedName\":\"@odata\\\\.count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"facets\":{\"serializedName\":\"@search\\\\.facets\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\"}}}}}},\"nextPageParameters\":{\"serializedName\":\"@search\\\\.nextPageParameters\",\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\"}}}},\"nextLink\":{\"serializedName\":\"@odata\\\\.nextLink\",\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"FacetResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"count\":{\"serializedName\":\"count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"SearchRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\",\"modelProperties\":{\"includeTotalResultCount\":{\"serializedName\":\"count\",\"type\":{\"name\":\"Boolean\"}},\"facets\":{\"serializedName\":\"facets\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"highlightFields\":{\"serializedName\":\"highlight\",\"type\":{\"name\":\"String\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"queryType\":{\"serializedName\":\"queryType\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"simple\",\"full\"]}},\"scoringStatistics\":{\"serializedName\":\"scoringStatistics\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"local\",\"global\"]}},\"sessionId\":{\"serializedName\":\"sessionId\",\"type\":{\"name\":\"String\"}},\"scoringParameters\":{\"serializedName\":\"scoringParameters\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"scoringProfile\":{\"serializedName\":\"scoringProfile\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"searchMode\":{\"serializedName\":\"searchMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"any\",\"all\"]}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"skip\":{\"serializedName\":\"skip\",\"type\":{\"name\":\"Number\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}},\"SearchResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"_score\":{\"serializedName\":\"@search\\\\.score\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"_highlights\":{\"serializedName\":\"@search\\\\.highlights\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}}}}}}},\"SuggestDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestDocumentsResult\",\"modelProperties\":{\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestResult\"}}}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"SuggestResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"_text\":{\"serializedName\":\"@search\\\\.text\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"SuggestRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestRequest\",\"modelProperties\":{\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"useFuzzyMatching\":{\"serializedName\":\"fuzzy\",\"type\":{\"name\":\"Boolean\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"required\":true,\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"suggesterName\":{\"serializedName\":\"suggesterName\",\"required\":true,\"type\":{\"name\":\"String\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}},\"IndexBatch\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexBatch\",\"modelProperties\":{\"actions\":{\"serializedName\":\"value\",\"required\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexAction\"}}}}}}},\"IndexAction\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexAction\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"__actionType\":{\"serializedName\":\"@search\\\\.action\",\"required\":true,\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"upload\",\"merge\",\"mergeOrUpload\",\"delete\"]}}}}},\"IndexDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexDocumentsResult\",\"modelProperties\":{\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexingResult\"}}}}}}},\"IndexingResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexingResult\",\"modelProperties\":{\"key\":{\"serializedName\":\"key\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"errorMessage\":{\"serializedName\":\"errorMessage\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"succeeded\":{\"serializedName\":\"status\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Boolean\"}},\"statusCode\":{\"serializedName\":\"statusCode\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"AutocompleteResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteResult\",\"modelProperties\":{\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteItem\"}}}}}}},\"AutocompleteItem\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteItem\",\"modelProperties\":{\"text\":{\"serializedName\":\"text\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"queryPlusText\":{\"serializedName\":\"queryPlusText\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"AutocompleteRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteRequest\",\"modelProperties\":{\"searchText\":{\"serializedName\":\"search\",\"required\":true,\"type\":{\"name\":\"String\"}},\"autocompleteMode\":{\"serializedName\":\"autocompleteMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"oneTerm\",\"twoTerms\",\"oneTermWithContext\"]}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"useFuzzyMatching\":{\"serializedName\":\"fuzzy\",\"type\":{\"name\":\"Boolean\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"suggesterName\":{\"serializedName\":\"suggesterName\",\"required\":true,\"type\":{\"name\":\"String\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}}},\"isXML\":false}}},\"response\":{\"headers\":{\"_headersMap\":{\"cache-control\":{\"name\":\"cache-control\",\"value\":\"no-cache\"},\"content-language\":{\"name\":\"content-language\",\"value\":\"en\"},\"content-length\":{\"name\":\"content-length\",\"value\":\"343\"},\"content-type\":{\"name\":\"content-type\",\"value\":\"application/json; charset=utf-8\"},\"date\":{\"name\":\"date\",\"value\":\"Thu, 03 Nov 2022 10:23:23 GMT\"},\"elapsed-time\":{\"name\":\"elapsed-time\",\"value\":\"209\"},\"expires\":{\"name\":\"expires\",\"value\":\"-1\"},\"pragma\":{\"name\":\"pragma\",\"value\":\"no-cache\"},\"preference-applied\":{\"name\":\"preference-applied\",\"value\":\"odata.include-annotations=\\\"*\\\"\"},\"request-id\":{\"name\":\"request-id\",\"value\":\"1d66145c-2378-4aaf-8d7d-010e25106c6e\"},\"strict-transport-security\":{\"name\":\"strict-transport-security\",\"value\":\"max-age=15724800; includeSubDomains\"}}},\"request\":{\"streamResponseStatusCodes\":{},\"url\":\"https://test-al-footage-v1.search.windows.net/indexes('cms-categories-indexes-v3')/docs/search.post.search?api-version=2020-06-30-Preview\",\"method\":\"POST\",\"headers\":{\"_headersMap\":{\"content-type\":{\"name\":\"Content-Type\",\"value\":\"application/json\"},\"accept\":{\"name\":\"Accept\",\"value\":\"application/json;odata.metadata=none\"},\"user-agent\":{\"name\":\"User-Agent\",\"value\":\"azsdk-js-search-documents/11.3.0 core-http/2.2.7 Node/v16.14.2 OS/(x64-Linux-5.4.0-1089-azure)\"},\"x-ms-client-request-id\":{\"name\":\"x-ms-client-request-id\",\"value\":\"1d66145c-2378-4aaf-8d7d-010e25106c6e\"},\"api-key\":{\"name\":\"api-key\",\"value\":\"09414DD76465B181BF562174F44B81BD\"},\"cookie\":{\"name\":\"Cookie\",\"value\":\"\"}}},\"body\":\"{\\\"count\\\":false,\\\"orderby\\\":\\\"search.score() desc\\\",\\\"queryType\\\":\\\"full\\\",\\\"search\\\":\\\"(name:('amazing view/scenery'))\\\",\\\"searchMode\\\":\\\"all\\\",\\\"skip\\\":null}\",\"withCredentials\":false,\"timeout\":0,\"keepAlive\":true,\"requestId\":\"1d66145c-2378-4aaf-8d7d-010e25106c6e\",\"operationSpec\":{\"path\":\"/docs/search.post.search\",\"httpMethod\":\"POST\",\"responses\":{\"200\":{\"bodyMapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchDocumentsResult\",\"modelProperties\":{\"count\":{\"serializedName\":\"@odata\\\\.count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"facets\":{\"serializedName\":\"@search\\\\.facets\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\"}}}}}},\"nextPageParameters\":{\"serializedName\":\"@search\\\\.nextPageParameters\",\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\"}}}},\"nextLink\":{\"serializedName\":\"@odata\\\\.nextLink\",\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}}},\"default\":{\"bodyMapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\",\"modelProperties\":{\"code\":{\"serializedName\":\"code\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"message\":{\"serializedName\":\"message\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"details\":{\"serializedName\":\"details\",\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\"}}}}}}}}},\"requestBody\":{\"parameterPath\":\"searchRequest\",\"mapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\",\"modelProperties\":{\"includeTotalResultCount\":{\"serializedName\":\"count\",\"type\":{\"name\":\"Boolean\"}},\"facets\":{\"serializedName\":\"facets\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"highlightFields\":{\"serializedName\":\"highlight\",\"type\":{\"name\":\"String\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"queryType\":{\"serializedName\":\"queryType\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"simple\",\"full\"]}},\"scoringStatistics\":{\"serializedName\":\"scoringStatistics\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"local\",\"global\"]}},\"sessionId\":{\"serializedName\":\"sessionId\",\"type\":{\"name\":\"String\"}},\"scoringParameters\":{\"serializedName\":\"scoringParameters\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"scoringProfile\":{\"serializedName\":\"scoringProfile\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"searchMode\":{\"serializedName\":\"searchMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"any\",\"all\"]}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"skip\":{\"serializedName\":\"skip\",\"type\":{\"name\":\"Number\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}}},\"queryParameters\":[{\"parameterPath\":\"apiVersion\",\"mapper\":{\"serializedName\":\"api-version\",\"required\":true,\"type\":{\"name\":\"String\"}}}],\"urlParameters\":[{\"parameterPath\":\"endpoint\",\"mapper\":{\"serializedName\":\"endpoint\",\"required\":true,\"type\":{\"name\":\"String\"}},\"skipEncoding\":true},{\"parameterPath\":\"indexName\",\"mapper\":{\"serializedName\":\"indexName\",\"required\":true,\"type\":{\"name\":\"String\"}}}],\"headerParameters\":[{\"parameterPath\":\"accept\",\"mapper\":{\"defaultValue\":\"application/json\",\"isConstant\":true,\"serializedName\":\"Accept\",\"type\":{\"name\":\"String\"}}},{\"parameterPath\":[\"options\",\"requestOptionsParam\",\"xMsClientRequestId\"],\"mapper\":{\"serializedName\":\"x-ms-client-request-id\",\"type\":{\"name\":\"Uuid\"}}},{\"parameterPath\":[\"options\",\"contentType\"],\"mapper\":{\"defaultValue\":\"application/json\",\"isConstant\":true,\"serializedName\":\"Content-Type\",\"type\":{\"name\":\"String\"}}}],\"mediaType\":\"json\",\"serializer\":{\"modelMappers\":{\"SearchError\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\",\"modelProperties\":{\"code\":{\"serializedName\":\"code\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"message\":{\"serializedName\":\"message\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"details\":{\"serializedName\":\"details\",\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\"}}}}}}},\"SearchDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchDocumentsResult\",\"modelProperties\":{\"count\":{\"serializedName\":\"@odata\\\\.count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"facets\":{\"serializedName\":\"@search\\\\.facets\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\"}}}}}},\"nextPageParameters\":{\"serializedName\":\"@search\\\\.nextPageParameters\",\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\"}}}},\"nextLink\":{\"serializedName\":\"@odata\\\\.nextLink\",\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"FacetResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"count\":{\"serializedName\":\"count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"SearchRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\",\"modelProperties\":{\"includeTotalResultCount\":{\"serializedName\":\"count\",\"type\":{\"name\":\"Boolean\"}},\"facets\":{\"serializedName\":\"facets\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"highlightFields\":{\"serializedName\":\"highlight\",\"type\":{\"name\":\"String\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"queryType\":{\"serializedName\":\"queryType\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"simple\",\"full\"]}},\"scoringStatistics\":{\"serializedName\":\"scoringStatistics\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"local\",\"global\"]}},\"sessionId\":{\"serializedName\":\"sessionId\",\"type\":{\"name\":\"String\"}},\"scoringParameters\":{\"serializedName\":\"scoringParameters\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"scoringProfile\":{\"serializedName\":\"scoringProfile\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"searchMode\":{\"serializedName\":\"searchMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"any\",\"all\"]}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"skip\":{\"serializedName\":\"skip\",\"type\":{\"name\":\"Number\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}},\"SearchResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"_score\":{\"serializedName\":\"@search\\\\.score\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"_highlights\":{\"serializedName\":\"@search\\\\.highlights\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}}}}}}},\"SuggestDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestDocumentsResult\",\"modelProperties\":{\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestResult\"}}}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"SuggestResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"_text\":{\"serializedName\":\"@search\\\\.text\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"SuggestRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestRequest\",\"modelProperties\":{\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"useFuzzyMatching\":{\"serializedName\":\"fuzzy\",\"type\":{\"name\":\"Boolean\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"required\":true,\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"suggesterName\":{\"serializedName\":\"suggesterName\",\"required\":true,\"type\":{\"name\":\"String\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}},\"IndexBatch\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexBatch\",\"modelProperties\":{\"actions\":{\"serializedName\":\"value\",\"required\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexAction\"}}}}}}},\"IndexAction\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexAction\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"__actionType\":{\"serializedName\":\"@search\\\\.action\",\"required\":true,\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"upload\",\"merge\",\"mergeOrUpload\",\"delete\"]}}}}},\"IndexDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexDocumentsResult\",\"modelProperties\":{\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexingResult\"}}}}}}},\"IndexingResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexingResult\",\"modelProperties\":{\"key\":{\"serializedName\":\"key\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"errorMessage\":{\"serializedName\":\"errorMessage\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"succeeded\":{\"serializedName\":\"status\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Boolean\"}},\"statusCode\":{\"serializedName\":\"statusCode\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"AutocompleteResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteResult\",\"modelProperties\":{\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteItem\"}}}}}}},\"AutocompleteItem\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteItem\",\"modelProperties\":{\"text\":{\"serializedName\":\"text\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"queryPlusText\":{\"serializedName\":\"queryPlusText\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"AutocompleteRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteRequest\",\"modelProperties\":{\"searchText\":{\"serializedName\":\"search\",\"required\":true,\"type\":{\"name\":\"String\"}},\"autocompleteMode\":{\"serializedName\":\"autocompleteMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"oneTerm\",\"twoTerms\",\"oneTermWithContext\"]}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"useFuzzyMatching\":{\"serializedName\":\"fuzzy\",\"type\":{\"name\":\"Boolean\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"suggesterName\":{\"serializedName\":\"suggesterName\",\"required\":true,\"type\":{\"name\":\"String\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}}},\"isXML\":false}}},\"status\":400,\"bodyAsText\":\"{\\\"error\\\":{\\\"code\\\":\\\"InvalidRequestParameter\\\",\\\"message\\\":\\\"Failed to parse query string at line 1, column 32. See https://aka.ms/azure-search-full-query for supported syntax.\\\",\\\"details\\\":[{\\\"code\\\":\\\"InvalidSearchSyntax\\\",\\\"message\\\":\\\"Failed to parse query string at line 1, column 32. See https://aka.ms/azure-search-full-query for supported syntax.\\\"}]}}\",\"parsedBody\":{\"error\":{\"code\":\"InvalidRequestParameter\",\"message\":\"Failed to parse query string at line 1, column 32. See https://aka.ms/azure-search-full-query for supported syntax.\",\"details\":[{\"code\":\"InvalidSearchSyntax\",\"message\":\"Failed to parse query string at line 1, column 32. See https://aka.ms/azure-search-full-query for supported syntax.\"}]}}},\"details\":{\"error\":{\"code\":\"InvalidRequestParameter\",\"message\":\"Failed to parse query string at line 1, column 32. See https://aka.ms/azure-search-full-query for supported syntax.\",\"details\":[{\"code\":\"InvalidSearchSyntax\",\"message\":\"Failed to parse query string at line 1, column 32. See https://aka.ms/azure-search-full-query for supported syntax.\"}]}},\"stacktrace\":[\"RestError: Failed to parse query string at line 1, column 32. See https://aka.ms/azure-search-full-query for supported syntax.\",\"    at handleErrorResponse (/usr/src/app/node_modules/@azure/core-http/src/policies/deserializationPolicy.ts:274:17)\",\"    at /usr/src/app/node_modules/@azure/core-http/src/policies/deserializationPolicy.ts:179:47\",\"    at processTicksAndRejections (node:internal/process/task_queues:96:5)\",\"    at SearchClient.sendOperationRequest (/usr/src/app/node_modules/@azure/core-http/src/serviceClient.ts:520:23)\",\"    at AzureSearchClient.searchDocuments (/usr/src/app/node_modules/@azure/search-documents/src/searchClient.ts:270:22)\",\"    at AzureSearchClient.search (/usr/src/app/node_modules/@azure/search-documents/src/searchClient.ts:378:26)\",\"    at AzureSearchClient.queryWithTotalCount (/usr/src/app/src/common/providers/searchEngines/azure/azureSearchClient.ts:21:27)\",\"    at AzureSearchService.search (/usr/src/app/src/common/providers/searchEngines/azure/azureSearchService.ts:17:22)\",\"    at CollectionsService.getCategoriesBySearchTerms (/usr/src/app/src/domains/video/services/v1/collectionSearchService.ts:93:23)\",\"    at VideoSearchStaffPicksService.extractIdentifiedSearchTermsToCategoryIds (/usr/src/app/src/domains/video/services/v1/videoSearchStaffPicksService.ts:60:56)\"]}}}],\"data\":null}\n",
+      "time" : {
+        "start" : 1667471002789,
+        "stop" : 1667471005677,
+        "duration" : 2888
+      }
+    } ]
+  },
+  "41a1d23ce7b38d616670f4fb3d130583" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "73382095551a48f7",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"humanity\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667472730936,
+        "stop" : 1667472731634,
+        "duration" : 698
+      }
+    } ]
+  },
+  "646f9fcd66c261c52b0315e10909fc46" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "40a18ef048440ccc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472094822,
+        "stop" : 1667472115893,
+        "duration" : 21071
+      }
+    } ]
+  },
+  "2c829d4ecf5a8b615fde3753e8be4b06" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "47f8c277a7b81824",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471190690,
+        "stop" : 1667471209050,
+        "duration" : 18360
+      }
+    } ]
+  },
+  "202f42a721fc5155ce49197aa8d51b8b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "23875bef42c3f2dd",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667473065930,
+        "stop" : 1667473066827,
+        "duration" : 897
+      }
+    } ]
+  },
+  "749284f3ee3297eb10cf16755ff4e3bc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8c891ff452e6680a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472478288,
+        "stop" : 1667472502284,
+        "duration" : 23996
+      }
+    } ]
+  },
+  "4bcff708d19df7583ca904344894e0ac" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "40af9ea0128b9a2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472601428,
+        "stop" : 1667472615813,
+        "duration" : 14385
+      }
+    } ]
+  },
+  "2e55f4aa21b66680947840cc63fd44ae" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2c3d09b483757ef",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472172712,
+        "stop" : 1667472180724,
+        "duration" : 8012
+      }
+    } ]
+  },
+  "25f5497b0e92a6bf1be89260cd18229a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bd284ace37803778",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667470973409,
+        "stop" : 1667470990402,
+        "duration" : 16993
+      }
+    } ]
+  },
+  "f6d3ca47859fc2e10bc163e5a67488b4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1a16a3b90ea54460",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667470990404,
+        "stop" : 1667471002783,
+        "duration" : 12379
+      }
+    } ]
+  },
+  "d2c9db7438ab0ab7913c6b0fe2ae2c7b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eb2e4fb09d3c8153",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"big empty space\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667472386005,
+        "stop" : 1667472386553,
+        "duration" : 548
+      }
+    } ]
+  },
+  "b0332a9811c71f9d4cdca2ef5da48c46" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "12360d6cd51e174d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472568506,
+        "stop" : 1667472588094,
+        "duration" : 19588
+      }
+    } ]
+  },
+  "8438b85d336c54e4d7698711e61b7851" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "240532edb2e9344f",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471574349,
+        "stop" : 1667471594665,
+        "duration" : 20316
+      }
+    } ]
+  },
+  "90bb0a5cd750cd4992b29dc3876de636" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "31249fa6619a8711",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471229353,
+        "stop" : 1667471249651,
+        "duration" : 20298
+      }
+    } ]
+  },
+  "5bc921e1686627780cc54aff57f3687e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "649f259fcd650e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472740958,
+        "stop" : 1667472754285,
+        "duration" : 13327
+      }
+    } ]
+  },
+  "431e003c7a789035c938cac73c4ab6c7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2106a40bf9e079ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472811701,
+        "stop" : 1667472832787,
+        "duration" : 21086
+      }
+    } ]
+  },
+  "a1a53119d1502460d2c293dfb3555c37" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4745af3ac651ad71",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471534460,
+        "stop" : 1667471553159,
+        "duration" : 18699
+      }
+    } ]
+  },
+  "351fdbab02ca5710cbe24ed4c32670f1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "40df131d95dedded",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472856200,
+        "stop" : 1667472866130,
+        "duration" : 9930
+      }
+    } ]
+  },
+  "4a3012e9edec1a2c39c1f0ae679a32ce" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b20ee81f824409fc",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"bussiness\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667472477875,
+        "stop" : 1667472478286,
+        "duration" : 411
+      }
+    } ]
+  },
+  "7b95320d4caca586ccaa684c99633419" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "593fcba04f4944fc",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471047212,
+        "stop" : 1667471056724,
+        "duration" : 9512
+      }
+    } ]
+  },
+  "12463b2daab5a599cf79527e9b3be47c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "40c056f802328d2a",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471293695,
+        "stop" : 1667471316262,
+        "duration" : 22567
+      }
+    } ]
+  },
+  "6f8613d9172e931eef455cc1bf11a4e0" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "da752ab7f95fdb30",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471249652,
+        "stop" : 1667471270968,
+        "duration" : 21316
+      }
+    } ]
+  },
+  "d5e77feb0209aae96fefbe48754dcc50" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c31f7e705265aaa2",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471731475,
+        "stop" : 1667471749888,
+        "duration" : 18413
+      }
+    } ]
+  },
+  "9c32249c97cf9ba55dea1889cb17a331" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cad8395d52479c05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472954455,
+        "stop" : 1667472974909,
+        "duration" : 20454
+      }
+    } ]
+  },
+  "24064dd4041f2cccc1e64814cbc6f7e6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a62ac240581d417e",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472184049,
+        "stop" : 1667472199378,
+        "duration" : 15329
+      }
+    } ]
+  },
+  "9c29036ab54eee582a44799bd73ca331" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6ac96e6d8b550ab7",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472120023,
+        "stop" : 1667472139905,
+        "duration" : 19882
+      }
+    } ]
+  },
+  "feac1840a11c5d4c1400f3b7b823f4d3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "631878cda8752ef2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472419617,
+        "stop" : 1667472438833,
+        "duration" : 19216
+      }
+    } ]
+  },
+  "f68b03181ed559e7b98890bfca5f2a15" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7dafda66bee7b5aa",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471056725,
+        "stop" : 1667471077611,
+        "duration" : 20886
+      }
+    } ]
+  },
+  "7742cedb58fddaa4885bd6e9b2e62f7d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7f48988f851c1a7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471077613,
+        "stop" : 1667471097193,
+        "duration" : 19580
+      }
+    } ]
+  },
+  "15f5c5d282c25eb5f2738413b1519dcb" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "74c5661126069331",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471316263,
+        "stop" : 1667471337958,
+        "duration" : 21695
+      }
+    } ]
+  },
+  "23dc8729357955d7ed60ffdfa44c3975" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "75b4d6262821db1b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472357928,
+        "stop" : 1667472371018,
+        "duration" : 13090
+      }
+    } ]
+  },
+  "e5d62b1ad013e0ae1a11cecc577b7983" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4e8dfde0e19305",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471791799,
+        "stop" : 1667471812574,
+        "duration" : 20775
+      }
+    } ]
+  },
+  "1c8e2b06b11b4057ba8ad89553670caa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4f930002a9ab51b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471034292,
+        "stop" : 1667471046989,
+        "duration" : 12697
+      }
+    } ]
+  },
+  "d175cc270d9448ed783be1ced4bdbb3e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ecc299e6653ba3d4",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472873922,
+        "stop" : 1667472879231,
+        "duration" : 5309
+      }
+    } ]
+  },
+  "19db814e6100b2e8cb3a1a0fbd4e2632" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3857cef1ba05cc3c",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472344832,
+        "stop" : 1667472352260,
+        "duration" : 7428
+      }
+    } ]
+  },
+  "e4b3bb55841b62a11569d9fa778e56b5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "92a523ca8d6e61a7",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667473067746,
+        "stop" : 1667473068648,
+        "duration" : 902
+      }
+    } ]
+  },
+  "79ca872a38a8001c4ff17065439e87b5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9cf3acd1226ac216",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472511154,
+        "stop" : 1667472521538,
+        "duration" : 10384
+      }
+    } ]
+  },
+  "27e836371fe4b97da823d53149692bd4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1df6ff5a631164bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472027903,
+        "stop" : 1667472058231,
+        "duration" : 30328
+      }
+    } ]
+  },
+  "ca1676e9f3c141a0c3db64f402c8927a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "885f7a3a06a3d843",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471836182,
+        "stop" : 1667471856425,
+        "duration" : 20243
+      }
+    } ]
+  },
+  "42c3b839a0cd579b56c41b353a2f6e51" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bc7809d8facfc6c5",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471681573,
+        "stop" : 1667471683407,
+        "duration" : 1834
+      }
+    } ]
+  },
+  "6178f33fa5e8579a73fea3d4305ebdce" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b9fadc32cca7baf4",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"valetines\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667472180725,
+        "stop" : 1667472181570,
+        "duration" : 845
+      }
+    } ]
+  },
+  "003ca6032738de0bfcb94171d65e2ca3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "20edf1302f8531a6",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"valetines\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667473032011,
+        "stop" : 1667473032447,
+        "duration" : 436
+      }
+    } ]
+  },
+  "331f090ce2ea53adef677f4bf2dd9822" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1df8c5a8b5fd291a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472916461,
+        "stop" : 1667472934080,
+        "duration" : 17619
+      }
+    } ]
+  },
+  "175702c8f4d9dcd1970bbd1de5b1813a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aec62cbf31337c85",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472790165,
+        "stop" : 1667472811698,
+        "duration" : 21533
+      }
+    } ]
+  },
+  "693ae22e2f6e14de64606608f348faf5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "65d15d4671cb532b",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"commercial vibe\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667472522522,
+        "stop" : 1667472523036,
+        "duration" : 514
+      }
+    } ]
+  },
+  "2a3c4195443f540398ee95b81f1c9d7a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "830d00962b08a4fe",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472325904,
+        "stop" : 1667472344831,
+        "duration" : 18927
+      }
+    } ]
+  },
+  "d1d6d81461f1877218e9de92693c567b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "920565c39b6b6010",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"reverb\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667472866132,
+        "stop" : 1667472866615,
+        "duration" : 483
+      }
+    } ]
+  },
+  "0c90cad48810cc0e7b9a18303e42e907" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "438c6746cf4b3e3b",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472731636,
+        "stop" : 1667472735035,
+        "duration" : 3399
+      }
+    } ]
+  },
+  "ed6b21c74ba127eec40fceea3e473827" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4b67369174720d73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471441889,
+        "stop" : 1667471462352,
+        "duration" : 20463
+      }
+    } ]
+  },
+  "e6243654181318cd8336eea4a134b7dc" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1bf3c33df3abe189",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471724860,
+        "stop" : 1667471731474,
+        "duration" : 6614
+      }
+    } ]
+  },
+  "b8d11268111b95a90fdee92f109fc366" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5b2274ab3bd09df3",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471359801,
+        "stop" : 1667471378166,
+        "duration" : 18365
+      }
+    } ]
+  },
+  "82975fdb183ff2082e1e33f5ddc2b6e7" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ae69d90d5aca1ce5",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472691992,
+        "stop" : 1667472700038,
+        "duration" : 8046
+      }
+    } ]
+  },
+  "c17e2908a308d426c268aa0f22d9cb9b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f45657c25a98a03",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471905284,
+        "stop" : 1667471931687,
+        "duration" : 26403
+      }
+    } ]
+  },
+  "f53bfc45fcb39546d65833433edc857a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8561a7827f8137fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472700039,
+        "stop" : 1667472721922,
+        "duration" : 21883
+      }
+    } ]
+  },
+  "28bb5d6cd5c6ca25dc87b90ee44d30c0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "11287f0d1bcd12ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471864878,
+        "stop" : 1667471875708,
+        "duration" : 10830
+      }
+    } ]
+  },
+  "51caafdb32892a3de9f5bc2ccf5b15b3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "182cd3d49902b2c8",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"woman in a dreamy scene\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667473067254,
+        "stop" : 1667473067744,
+        "duration" : 490
+      }
+    } ]
+  },
+  "077d9a9ac33d3e1e2e547d3e206cfe26" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a0f27fd2255f8d9d",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472525361,
+        "stop" : 1667472526158,
+        "duration" : 797
+      }
+    } ]
+  },
+  "1c6057caac2b81c3e654887d31b8c306" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b9be191178902f6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472588096,
+        "stop" : 1667472599917,
+        "duration" : 11821
+      }
+    } ]
+  },
+  "018282ffe44c709af985de61cc47a8c4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "942fd84879afecd6",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"big size model\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667472386555,
+        "stop" : 1667472387125,
+        "duration" : 570
+      }
+    } ]
+  },
+  "5993cf2b25f1795778fe506d9991481f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "50c0982a5df94fd6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472721923,
+        "stop" : 1667472730934,
+        "duration" : 9011
+      }
+    } ]
+  },
+  "088fccf9021d7e5d6fb5a2e8a291a9d2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "45504566e5541198",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471672252,
+        "stop" : 1667471680875,
+        "duration" : 8623
+      }
+    } ]
+  },
+  "d2c38ffeb421d464120d9da650ab63e8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9bd396d6964792f",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"beyonce\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667472385264,
+        "stop" : 1667472386004,
+        "duration" : 740
+      }
+    } ]
+  },
+  "0b4eca827ac203ff9854e5033c3c6fdc" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a00ca189bc40d586",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"time\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667472172009,
+        "stop" : 1667472172711,
+        "duration" : 702
+      }
+    } ]
+  },
+  "4f8be8ea8247277e607cba7e06b132aa" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2beebccfa673bb5f",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667473032875,
+        "stop" : 1667473048968,
+        "duration" : 16093
+      }
+    } ]
+  },
+  "8a37ffd124decac19f3f2817bdfefec6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8e47d310d6d9d1b6",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"goosebumps\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667471595390,
+        "stop" : 1667471596006,
+        "duration" : 616
+      }
+    } ]
+  },
+  "e24b7cce8c3b9eb7ae89f87f208a9d97" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1b392352ae6b2fed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472994741,
+        "stop" : 1667473010969,
+        "duration" : 16228
+      }
+    } ]
+  },
+  "ac8dbbb63739b7b5280fe933ec801e85" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d128d62d9a18c60b",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472280400,
+        "stop" : 1667472304883,
+        "duration" : 24483
+      }
+    } ]
+  },
+  "22d04ae2c77e574782bfffa55ffb8f08" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "188720263551fd2c",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472618236,
+        "stop" : 1667472622539,
+        "duration" : 4303
+      }
+    } ]
+  },
+  "7a35ad13a1bcfdbee20d6bd8f82753c1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6a26f6a4dfe8b14f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472371020,
+        "stop" : 1667472385263,
+        "duration" : 14243
+      }
+    } ]
+  },
+  "d8a2878fac0c1037a13be19c82ff50fb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2f928d95fffcc9bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472438834,
+        "stop" : 1667472456616,
+        "duration" : 17782
+      }
+    } ]
+  },
+  "67d433f6c2027009dcea22ebeea1f5ea" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "32e2b941be6d7e4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471186069,
+        "stop" : 1667471190688,
+        "duration" : 4619
+      }
+    } ]
+  },
+  "ea77a191299bbe7cc348a38e9fac4434" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "57521135dd14a446",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472526752,
+        "stop" : 1667472527925,
+        "duration" : 1173
+      }
+    } ]
+  },
+  "f7ccb21b857189eedac30e9b49c5b07a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7dd16e6a87fbdadc",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472220401,
+        "stop" : 1667472237839,
+        "duration" : 17438
+      }
+    } ]
+  },
+  "4a0dd643a179fdeeb350d319d3d7eae4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2aea8a704bc14bed",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"vibing - slang\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667473032448,
+        "stop" : 1667473032873,
+        "duration" : 425
+      }
+    } ]
+  },
+  "12499eca1e81bb3b0a7e50a5deef25d3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f15003c0ee5742bb",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"scorsese\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667471931688,
+        "stop" : 1667471933104,
+        "duration" : 1416
+      }
+    } ]
+  },
+  "1c5d5dbb2781550286ec6f515e2787de" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cb34569f451d7b80",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472353469,
+        "stop" : 1667472354347,
+        "duration" : 878
+      }
+    } ]
+  },
+  "58d6d64dda3eacfd79c7fcb20b1c9c5e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eddc818c1bd4e24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472024459,
+        "stop" : 1667472027902,
+        "duration" : 3443
+      }
+    } ]
+  },
+  "fb8840d646bfadae4dcd4363a79c8b02" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7d91289f935a1c7d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471378167,
+        "stop" : 1667471398495,
+        "duration" : 20328
+      }
+    } ]
+  },
+  "969de6af71ce0fbfba7a5f28b154ff47" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b13517daa46133b8",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472549418,
+        "stop" : 1667472568505,
+        "duration" : 19087
+      }
+    } ]
+  },
+  "9aa8dfa9968e840d5a94f76dd4f9502e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9d971714d8086ab4",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472523038,
+        "stop" : 1667472525360,
+        "duration" : 2322
+      }
+    } ]
+  },
+  "5b744b77e71234c70d1511d9d3e71866" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5fa4bfd5d7a34c87",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667473025807,
+        "stop" : 1667473032010,
+        "duration" : 6203
+      }
+    } ]
+  },
+  "4e1c7a994324a414b60a534e283c9839" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "49e930863950b57d",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471832160,
+        "stop" : 1667471836176,
+        "duration" : 4016
+      }
+    } ]
+  },
+  "0286c1f86e76edb3064b73468df264c4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6330be7d04b8c83d",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472356055,
+        "stop" : 1667472357928,
+        "duration" : 1873
+      }
+    } ]
+  },
+  "5b78dacaf868b7056ab99492517ad1f8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5f41078ef9b6f7f8",
+      "status" : "failed",
+      "statusDetails" : "Error parsing response to JSON: \nTypeError: Cannot read properties of null (reading 'clipList')\n Response text: \n {\"errors\":[{\"message\":\"Failed to parse query string at line 1, column 33. See https://aka.ms/azure-search-full-query for supported syntax.\",\"locations\":[{\"line\":2,\"column\":3}],\"path\":[\"clipList\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\",\"exception\":{\"name\":\"RestError\",\"code\":\"InvalidRequestParameter\",\"statusCode\":400,\"request\":{\"streamResponseStatusCodes\":{},\"url\":\"https://test-al-footage-v1.search.windows.net/indexes('cms-categories-indexes-v3')/docs/search.post.search?api-version=2020-06-30-Preview\",\"method\":\"POST\",\"headers\":{\"_headersMap\":{\"content-type\":{\"name\":\"Content-Type\",\"value\":\"application/json\"},\"accept\":{\"name\":\"Accept\",\"value\":\"application/json;odata.metadata=none\"},\"user-agent\":{\"name\":\"User-Agent\",\"value\":\"azsdk-js-search-documents/11.3.0 core-http/2.2.7 Node/v16.14.2 OS/(x64-Linux-5.4.0-1089-azure)\"},\"x-ms-client-request-id\":{\"name\":\"x-ms-client-request-id\",\"value\":\"4e753028-29c5-4ebe-9806-43760fb4ce61\"},\"api-key\":{\"name\":\"api-key\",\"value\":\"09414DD76465B181BF562174F44B81BD\"},\"cookie\":{\"name\":\"Cookie\",\"value\":\"\"}}},\"body\":\"{\\\"count\\\":false,\\\"orderby\\\":\\\"search.score() desc\\\",\\\"queryType\\\":\\\"full\\\",\\\"search\\\":\\\"(name:('stunning view/scenery'))\\\",\\\"searchMode\\\":\\\"all\\\",\\\"skip\\\":null}\",\"withCredentials\":false,\"timeout\":0,\"keepAlive\":true,\"requestId\":\"4e753028-29c5-4ebe-9806-43760fb4ce61\",\"operationSpec\":{\"path\":\"/docs/search.post.search\",\"httpMethod\":\"POST\",\"responses\":{\"200\":{\"bodyMapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchDocumentsResult\",\"modelProperties\":{\"count\":{\"serializedName\":\"@odata\\\\.count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"facets\":{\"serializedName\":\"@search\\\\.facets\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\"}}}}}},\"nextPageParameters\":{\"serializedName\":\"@search\\\\.nextPageParameters\",\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\"}}}},\"nextLink\":{\"serializedName\":\"@odata\\\\.nextLink\",\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}}},\"default\":{\"bodyMapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\",\"modelProperties\":{\"code\":{\"serializedName\":\"code\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"message\":{\"serializedName\":\"message\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"details\":{\"serializedName\":\"details\",\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\"}}}}}}}}},\"requestBody\":{\"parameterPath\":\"searchRequest\",\"mapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\",\"modelProperties\":{\"includeTotalResultCount\":{\"serializedName\":\"count\",\"type\":{\"name\":\"Boolean\"}},\"facets\":{\"serializedName\":\"facets\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"highlightFields\":{\"serializedName\":\"highlight\",\"type\":{\"name\":\"String\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"queryType\":{\"serializedName\":\"queryType\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"simple\",\"full\"]}},\"scoringStatistics\":{\"serializedName\":\"scoringStatistics\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"local\",\"global\"]}},\"sessionId\":{\"serializedName\":\"sessionId\",\"type\":{\"name\":\"String\"}},\"scoringParameters\":{\"serializedName\":\"scoringParameters\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"scoringProfile\":{\"serializedName\":\"scoringProfile\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"searchMode\":{\"serializedName\":\"searchMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"any\",\"all\"]}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"skip\":{\"serializedName\":\"skip\",\"type\":{\"name\":\"Number\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}}},\"queryParameters\":[{\"parameterPath\":\"apiVersion\",\"mapper\":{\"serializedName\":\"api-version\",\"required\":true,\"type\":{\"name\":\"String\"}}}],\"urlParameters\":[{\"parameterPath\":\"endpoint\",\"mapper\":{\"serializedName\":\"endpoint\",\"required\":true,\"type\":{\"name\":\"String\"}},\"skipEncoding\":true},{\"parameterPath\":\"indexName\",\"mapper\":{\"serializedName\":\"indexName\",\"required\":true,\"type\":{\"name\":\"String\"}}}],\"headerParameters\":[{\"parameterPath\":\"accept\",\"mapper\":{\"defaultValue\":\"application/json\",\"isConstant\":true,\"serializedName\":\"Accept\",\"type\":{\"name\":\"String\"}}},{\"parameterPath\":[\"options\",\"requestOptionsParam\",\"xMsClientRequestId\"],\"mapper\":{\"serializedName\":\"x-ms-client-request-id\",\"type\":{\"name\":\"Uuid\"}}},{\"parameterPath\":[\"options\",\"contentType\"],\"mapper\":{\"defaultValue\":\"application/json\",\"isConstant\":true,\"serializedName\":\"Content-Type\",\"type\":{\"name\":\"String\"}}}],\"mediaType\":\"json\",\"serializer\":{\"modelMappers\":{\"SearchError\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\",\"modelProperties\":{\"code\":{\"serializedName\":\"code\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"message\":{\"serializedName\":\"message\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"details\":{\"serializedName\":\"details\",\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\"}}}}}}},\"SearchDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchDocumentsResult\",\"modelProperties\":{\"count\":{\"serializedName\":\"@odata\\\\.count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"facets\":{\"serializedName\":\"@search\\\\.facets\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\"}}}}}},\"nextPageParameters\":{\"serializedName\":\"@search\\\\.nextPageParameters\",\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\"}}}},\"nextLink\":{\"serializedName\":\"@odata\\\\.nextLink\",\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"FacetResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"count\":{\"serializedName\":\"count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"SearchRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\",\"modelProperties\":{\"includeTotalResultCount\":{\"serializedName\":\"count\",\"type\":{\"name\":\"Boolean\"}},\"facets\":{\"serializedName\":\"facets\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"highlightFields\":{\"serializedName\":\"highlight\",\"type\":{\"name\":\"String\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"queryType\":{\"serializedName\":\"queryType\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"simple\",\"full\"]}},\"scoringStatistics\":{\"serializedName\":\"scoringStatistics\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"local\",\"global\"]}},\"sessionId\":{\"serializedName\":\"sessionId\",\"type\":{\"name\":\"String\"}},\"scoringParameters\":{\"serializedName\":\"scoringParameters\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"scoringProfile\":{\"serializedName\":\"scoringProfile\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"searchMode\":{\"serializedName\":\"searchMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"any\",\"all\"]}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"skip\":{\"serializedName\":\"skip\",\"type\":{\"name\":\"Number\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}},\"SearchResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"_score\":{\"serializedName\":\"@search\\\\.score\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"_highlights\":{\"serializedName\":\"@search\\\\.highlights\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}}}}}}},\"SuggestDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestDocumentsResult\",\"modelProperties\":{\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestResult\"}}}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"SuggestResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"_text\":{\"serializedName\":\"@search\\\\.text\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"SuggestRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestRequest\",\"modelProperties\":{\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"useFuzzyMatching\":{\"serializedName\":\"fuzzy\",\"type\":{\"name\":\"Boolean\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"required\":true,\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"suggesterName\":{\"serializedName\":\"suggesterName\",\"required\":true,\"type\":{\"name\":\"String\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}},\"IndexBatch\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexBatch\",\"modelProperties\":{\"actions\":{\"serializedName\":\"value\",\"required\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexAction\"}}}}}}},\"IndexAction\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexAction\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"__actionType\":{\"serializedName\":\"@search\\\\.action\",\"required\":true,\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"upload\",\"merge\",\"mergeOrUpload\",\"delete\"]}}}}},\"IndexDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexDocumentsResult\",\"modelProperties\":{\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexingResult\"}}}}}}},\"IndexingResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexingResult\",\"modelProperties\":{\"key\":{\"serializedName\":\"key\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"errorMessage\":{\"serializedName\":\"errorMessage\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"succeeded\":{\"serializedName\":\"status\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Boolean\"}},\"statusCode\":{\"serializedName\":\"statusCode\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"AutocompleteResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteResult\",\"modelProperties\":{\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteItem\"}}}}}}},\"AutocompleteItem\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteItem\",\"modelProperties\":{\"text\":{\"serializedName\":\"text\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"queryPlusText\":{\"serializedName\":\"queryPlusText\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"AutocompleteRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteRequest\",\"modelProperties\":{\"searchText\":{\"serializedName\":\"search\",\"required\":true,\"type\":{\"name\":\"String\"}},\"autocompleteMode\":{\"serializedName\":\"autocompleteMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"oneTerm\",\"twoTerms\",\"oneTermWithContext\"]}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"useFuzzyMatching\":{\"serializedName\":\"fuzzy\",\"type\":{\"name\":\"Boolean\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"suggesterName\":{\"serializedName\":\"suggesterName\",\"required\":true,\"type\":{\"name\":\"String\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}}},\"isXML\":false}}},\"response\":{\"headers\":{\"_headersMap\":{\"cache-control\":{\"name\":\"cache-control\",\"value\":\"no-cache\"},\"content-language\":{\"name\":\"content-language\",\"value\":\"en\"},\"content-length\":{\"name\":\"content-length\",\"value\":\"343\"},\"content-type\":{\"name\":\"content-type\",\"value\":\"application/json; charset=utf-8\"},\"date\":{\"name\":\"date\",\"value\":\"Thu, 03 Nov 2022 10:41:25 GMT\"},\"elapsed-time\":{\"name\":\"elapsed-time\",\"value\":\"144\"},\"expires\":{\"name\":\"expires\",\"value\":\"-1\"},\"pragma\":{\"name\":\"pragma\",\"value\":\"no-cache\"},\"preference-applied\":{\"name\":\"preference-applied\",\"value\":\"odata.include-annotations=\\\"*\\\"\"},\"request-id\":{\"name\":\"request-id\",\"value\":\"4e753028-29c5-4ebe-9806-43760fb4ce61\"},\"strict-transport-security\":{\"name\":\"strict-transport-security\",\"value\":\"max-age=15724800; includeSubDomains\"}}},\"request\":{\"streamResponseStatusCodes\":{},\"url\":\"https://test-al-footage-v1.search.windows.net/indexes('cms-categories-indexes-v3')/docs/search.post.search?api-version=2020-06-30-Preview\",\"method\":\"POST\",\"headers\":{\"_headersMap\":{\"content-type\":{\"name\":\"Content-Type\",\"value\":\"application/json\"},\"accept\":{\"name\":\"Accept\",\"value\":\"application/json;odata.metadata=none\"},\"user-agent\":{\"name\":\"User-Agent\",\"value\":\"azsdk-js-search-documents/11.3.0 core-http/2.2.7 Node/v16.14.2 OS/(x64-Linux-5.4.0-1089-azure)\"},\"x-ms-client-request-id\":{\"name\":\"x-ms-client-request-id\",\"value\":\"4e753028-29c5-4ebe-9806-43760fb4ce61\"},\"api-key\":{\"name\":\"api-key\",\"value\":\"09414DD76465B181BF562174F44B81BD\"},\"cookie\":{\"name\":\"Cookie\",\"value\":\"\"}}},\"body\":\"{\\\"count\\\":false,\\\"orderby\\\":\\\"search.score() desc\\\",\\\"queryType\\\":\\\"full\\\",\\\"search\\\":\\\"(name:('stunning view/scenery'))\\\",\\\"searchMode\\\":\\\"all\\\",\\\"skip\\\":null}\",\"withCredentials\":false,\"timeout\":0,\"keepAlive\":true,\"requestId\":\"4e753028-29c5-4ebe-9806-43760fb4ce61\",\"operationSpec\":{\"path\":\"/docs/search.post.search\",\"httpMethod\":\"POST\",\"responses\":{\"200\":{\"bodyMapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchDocumentsResult\",\"modelProperties\":{\"count\":{\"serializedName\":\"@odata\\\\.count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"facets\":{\"serializedName\":\"@search\\\\.facets\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\"}}}}}},\"nextPageParameters\":{\"serializedName\":\"@search\\\\.nextPageParameters\",\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\"}}}},\"nextLink\":{\"serializedName\":\"@odata\\\\.nextLink\",\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}}},\"default\":{\"bodyMapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\",\"modelProperties\":{\"code\":{\"serializedName\":\"code\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"message\":{\"serializedName\":\"message\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"details\":{\"serializedName\":\"details\",\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\"}}}}}}}}},\"requestBody\":{\"parameterPath\":\"searchRequest\",\"mapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\",\"modelProperties\":{\"includeTotalResultCount\":{\"serializedName\":\"count\",\"type\":{\"name\":\"Boolean\"}},\"facets\":{\"serializedName\":\"facets\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"highlightFields\":{\"serializedName\":\"highlight\",\"type\":{\"name\":\"String\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"queryType\":{\"serializedName\":\"queryType\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"simple\",\"full\"]}},\"scoringStatistics\":{\"serializedName\":\"scoringStatistics\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"local\",\"global\"]}},\"sessionId\":{\"serializedName\":\"sessionId\",\"type\":{\"name\":\"String\"}},\"scoringParameters\":{\"serializedName\":\"scoringParameters\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"scoringProfile\":{\"serializedName\":\"scoringProfile\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"searchMode\":{\"serializedName\":\"searchMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"any\",\"all\"]}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"skip\":{\"serializedName\":\"skip\",\"type\":{\"name\":\"Number\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}}},\"queryParameters\":[{\"parameterPath\":\"apiVersion\",\"mapper\":{\"serializedName\":\"api-version\",\"required\":true,\"type\":{\"name\":\"String\"}}}],\"urlParameters\":[{\"parameterPath\":\"endpoint\",\"mapper\":{\"serializedName\":\"endpoint\",\"required\":true,\"type\":{\"name\":\"String\"}},\"skipEncoding\":true},{\"parameterPath\":\"indexName\",\"mapper\":{\"serializedName\":\"indexName\",\"required\":true,\"type\":{\"name\":\"String\"}}}],\"headerParameters\":[{\"parameterPath\":\"accept\",\"mapper\":{\"defaultValue\":\"application/json\",\"isConstant\":true,\"serializedName\":\"Accept\",\"type\":{\"name\":\"String\"}}},{\"parameterPath\":[\"options\",\"requestOptionsParam\",\"xMsClientRequestId\"],\"mapper\":{\"serializedName\":\"x-ms-client-request-id\",\"type\":{\"name\":\"Uuid\"}}},{\"parameterPath\":[\"options\",\"contentType\"],\"mapper\":{\"defaultValue\":\"application/json\",\"isConstant\":true,\"serializedName\":\"Content-Type\",\"type\":{\"name\":\"String\"}}}],\"mediaType\":\"json\",\"serializer\":{\"modelMappers\":{\"SearchError\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\",\"modelProperties\":{\"code\":{\"serializedName\":\"code\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"message\":{\"serializedName\":\"message\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"details\":{\"serializedName\":\"details\",\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\"}}}}}}},\"SearchDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchDocumentsResult\",\"modelProperties\":{\"count\":{\"serializedName\":\"@odata\\\\.count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"facets\":{\"serializedName\":\"@search\\\\.facets\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\"}}}}}},\"nextPageParameters\":{\"serializedName\":\"@search\\\\.nextPageParameters\",\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\"}}}},\"nextLink\":{\"serializedName\":\"@odata\\\\.nextLink\",\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"FacetResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"count\":{\"serializedName\":\"count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"SearchRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\",\"modelProperties\":{\"includeTotalResultCount\":{\"serializedName\":\"count\",\"type\":{\"name\":\"Boolean\"}},\"facets\":{\"serializedName\":\"facets\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"highlightFields\":{\"serializedName\":\"highlight\",\"type\":{\"name\":\"String\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"queryType\":{\"serializedName\":\"queryType\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"simple\",\"full\"]}},\"scoringStatistics\":{\"serializedName\":\"scoringStatistics\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"local\",\"global\"]}},\"sessionId\":{\"serializedName\":\"sessionId\",\"type\":{\"name\":\"String\"}},\"scoringParameters\":{\"serializedName\":\"scoringParameters\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"scoringProfile\":{\"serializedName\":\"scoringProfile\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"searchMode\":{\"serializedName\":\"searchMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"any\",\"all\"]}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"skip\":{\"serializedName\":\"skip\",\"type\":{\"name\":\"Number\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}},\"SearchResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"_score\":{\"serializedName\":\"@search\\\\.score\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"_highlights\":{\"serializedName\":\"@search\\\\.highlights\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}}}}}}},\"SuggestDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestDocumentsResult\",\"modelProperties\":{\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestResult\"}}}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"SuggestResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"_text\":{\"serializedName\":\"@search\\\\.text\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"SuggestRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestRequest\",\"modelProperties\":{\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"useFuzzyMatching\":{\"serializedName\":\"fuzzy\",\"type\":{\"name\":\"Boolean\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"required\":true,\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"suggesterName\":{\"serializedName\":\"suggesterName\",\"required\":true,\"type\":{\"name\":\"String\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}},\"IndexBatch\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexBatch\",\"modelProperties\":{\"actions\":{\"serializedName\":\"value\",\"required\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexAction\"}}}}}}},\"IndexAction\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexAction\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"__actionType\":{\"serializedName\":\"@search\\\\.action\",\"required\":true,\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"upload\",\"merge\",\"mergeOrUpload\",\"delete\"]}}}}},\"IndexDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexDocumentsResult\",\"modelProperties\":{\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexingResult\"}}}}}}},\"IndexingResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexingResult\",\"modelProperties\":{\"key\":{\"serializedName\":\"key\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"errorMessage\":{\"serializedName\":\"errorMessage\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"succeeded\":{\"serializedName\":\"status\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Boolean\"}},\"statusCode\":{\"serializedName\":\"statusCode\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"AutocompleteResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteResult\",\"modelProperties\":{\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteItem\"}}}}}}},\"AutocompleteItem\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteItem\",\"modelProperties\":{\"text\":{\"serializedName\":\"text\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"queryPlusText\":{\"serializedName\":\"queryPlusText\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"AutocompleteRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteRequest\",\"modelProperties\":{\"searchText\":{\"serializedName\":\"search\",\"required\":true,\"type\":{\"name\":\"String\"}},\"autocompleteMode\":{\"serializedName\":\"autocompleteMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"oneTerm\",\"twoTerms\",\"oneTermWithContext\"]}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"useFuzzyMatching\":{\"serializedName\":\"fuzzy\",\"type\":{\"name\":\"Boolean\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"suggesterName\":{\"serializedName\":\"suggesterName\",\"required\":true,\"type\":{\"name\":\"String\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}}},\"isXML\":false}}},\"status\":400,\"bodyAsText\":\"{\\\"error\\\":{\\\"code\\\":\\\"InvalidRequestParameter\\\",\\\"message\\\":\\\"Failed to parse query string at line 1, column 33. See https://aka.ms/azure-search-full-query for supported syntax.\\\",\\\"details\\\":[{\\\"code\\\":\\\"InvalidSearchSyntax\\\",\\\"message\\\":\\\"Failed to parse query string at line 1, column 33. See https://aka.ms/azure-search-full-query for supported syntax.\\\"}]}}\",\"parsedBody\":{\"error\":{\"code\":\"InvalidRequestParameter\",\"message\":\"Failed to parse query string at line 1, column 33. See https://aka.ms/azure-search-full-query for supported syntax.\",\"details\":[{\"code\":\"InvalidSearchSyntax\",\"message\":\"Failed to parse query string at line 1, column 33. See https://aka.ms/azure-search-full-query for supported syntax.\"}]}}},\"details\":{\"error\":{\"code\":\"InvalidRequestParameter\",\"message\":\"Failed to parse query string at line 1, column 33. See https://aka.ms/azure-search-full-query for supported syntax.\",\"details\":[{\"code\":\"InvalidSearchSyntax\",\"message\":\"Failed to parse query string at line 1, column 33. See https://aka.ms/azure-search-full-query for supported syntax.\"}]}},\"stacktrace\":[\"RestError: Failed to parse query string at line 1, column 33. See https://aka.ms/azure-search-full-query for supported syntax.\",\"    at handleErrorResponse (/usr/src/app/node_modules/@azure/core-http/src/policies/deserializationPolicy.ts:274:17)\",\"    at /usr/src/app/node_modules/@azure/core-http/src/policies/deserializationPolicy.ts:179:47\",\"    at runMicrotasks (<anonymous>)\",\"    at processTicksAndRejections (node:internal/process/task_queues:96:5)\",\"    at SearchClient.sendOperationRequest (/usr/src/app/node_modules/@azure/core-http/src/serviceClient.ts:520:23)\",\"    at AzureSearchClient.searchDocuments (/usr/src/app/node_modules/@azure/search-documents/src/searchClient.ts:270:22)\",\"    at AzureSearchClient.search (/usr/src/app/node_modules/@azure/search-documents/src/searchClient.ts:378:26)\",\"    at AzureSearchClient.queryWithTotalCount (/usr/src/app/src/common/providers/searchEngines/azure/azureSearchClient.ts:21:27)\",\"    at AzureSearchService.search (/usr/src/app/src/common/providers/searchEngines/azure/azureSearchService.ts:17:22)\",\"    at CollectionsService.getCategoriesBySearchTerms (/usr/src/app/src/domains/video/services/v1/collectionSearchService.ts:93:23)\"]}}}],\"data\":null}\n",
+      "time" : {
+        "start" : 1667472084598,
+        "stop" : 1667472085645,
+        "duration" : 1047
+      }
+    } ]
+  },
+  "b33b821a6906fe7a8b2343b4b03e2875" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "923caa0ae48c4a3b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471687089,
+        "stop" : 1667471706481,
+        "duration" : 19392
+      }
+    } ]
+  },
+  "7fe713f2bb622d30a62c3c0062f47622" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5bf1c1c341cf8552",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667471856426,
+        "stop" : 1667471864877,
+        "duration" : 8451
+      }
+    } ]
+  },
+  "226ef86a1ac06ffd1fb68503947e378b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "26a27ef72084b305",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"tim burton\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667473024519,
+        "stop" : 1667473024969,
+        "duration" : 450
+      }
+    } ]
+  },
+  "a224a1d638a00fce2cf6072865bfc344" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "226786b9265e5e67",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472199380,
+        "stop" : 1667472220396,
+        "duration" : 21016
+      }
+    } ]
+  },
+  "e3b863891af31560043739196fbb1aac" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8444a12809438cd1",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667473018737,
+        "stop" : 1667473019975,
+        "duration" : 1238
+      }
+    } ]
+  },
+  "763aa4c4787d0b579a27e53869fcf20e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "96bd8150658574d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667472952611,
+        "stop" : 1667472954453,
+        "duration" : 1842
+      }
+    } ]
+  },
+  "b3b077f0829d107bd5faf32247d4db35" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7d0693a6c105041e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471706481,
+        "stop" : 1667471724858,
+        "duration" : 18377
+      }
+    } ]
+  },
+  "195be8f8b072183a9ffb50472cad0f72" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "84269432bd0632c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471429658,
+        "stop" : 1667471441887,
+        "duration" : 12229
+      }
+    } ]
+  },
+  "d57c7ed9d644a82545e3c4cc74746336" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3ed827a6b531d1b2",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472115896,
+        "stop" : 1667472120022,
+        "duration" : 4126
+      }
+    } ]
+  },
+  "ac108385dbfeee052f759f5ad4af98b4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c16f12b737fc82ad",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"woman falling with colorful light\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667473066828,
+        "stop" : 1667473067252,
+        "duration" : 424
+      }
+    } ]
+  },
+  "2b14bcbaec33f2a3a633bb925ed7a411" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a3b146879bf0d13a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471494577,
+        "stop" : 1667471513958,
+        "duration" : 19381
+      }
+    } ]
+  },
+  "4244677fe43d0852bd2b8ecb667b1216" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3c529ad0085cec0a",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472261036,
+        "stop" : 1667472280399,
+        "duration" : 19363
+      }
+    } ]
+  },
+  "111546c1a412ffee4806aa23af14610e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1c609ef105810a5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667471995842,
+        "stop" : 1667472024458,
+        "duration" : 28616
+      }
+    } ]
+  },
+  "359fb8d2c801b7bad83e1f648831833b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "321395aba012116e",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"documentary of domestic animals\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667472526159,
+        "stop" : 1667472526750,
+        "duration" : 591
+      }
+    } ]
+  },
+  "b41b3efeaa4f5db3b923e1c79da9c8fe" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "69e76f655eec52a4",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667472509529,
+        "stop" : 1667472511152,
+        "duration" : 1623
+      }
+    } ]
+  },
+  "d93684e86ebf8813bd6855d524c34212" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "60f43953829c2a1c",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"reverb\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667471875709,
+        "stop" : 1667471876378,
+        "duration" : 669
+      }
+    } ]
+  },
+  "97ba994b0e66a6e2afd0551f704b0bf9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c9a07a80b5a65ce",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "time" : {
+        "start" : 1667473013020,
+        "stop" : 1667473014660,
+        "duration" : 1640
+      }
+    } ]
+  }
+}

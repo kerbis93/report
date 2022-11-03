@@ -1,0 +1,50 @@
+[
+  {
+    "query": "big size model",
+    "clip_id": "196439",
+    "story_id": "18284",
+    "autoRank": "0.3061779517777648"
+  },
+  {
+    "query": "big size model",
+    "clip_id": "247922",
+    "story_id": "20114",
+    "autoRank": "0.30517202735334814"
+  },
+  {
+    "query": "big size model",
+    "clip_id": "361558",
+    "story_id": "23643",
+    "autoRank": "0.30380868144109868"
+  },
+  {
+    "query": "big size model",
+    "clip_id": "196332",
+    "story_id": "18278",
+    "autoRank": "0.3036062842072878"
+  },
+  {
+    "query": "big size model",
+    "clip_id": "54926",
+    "story_id": "12398",
+    "autoRank": "0.3035363919160276"
+  },
+  {
+    "query": "big size model",
+    "clip_id": "199135",
+    "story_id": "17607",
+    "autoRank": "0.303470635648587"
+  },
+  {
+    "query": "big size model",
+    "clip_id": "298470",
+    "story_id": "21697",
+    "autoRank": "0.30345334117271811"
+  },
+  {
+    "query": "big size model",
+    "clip_id": "199206",
+    "story_id": "18359",
+    "autoRank": "0.30246548885697233"
+  }
+]

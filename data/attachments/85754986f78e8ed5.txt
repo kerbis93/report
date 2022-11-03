@@ -1,0 +1,5702 @@
+[
+  {
+    "storyId": 19334,
+    "name": "Munich Night, City Lights, Cinematic, Marienplatz",
+    "clip_id": "226949",
+    "order": 0
+  },
+  {
+    "storyId": 19835,
+    "name": "Cinematic, Lighting, Stage, Dark",
+    "clip_id": "240691",
+    "order": 1
+  },
+  {
+    "storyId": 19835,
+    "name": "Cinematic, Lighting, Stage, Dark",
+    "clip_id": "240672",
+    "order": 2
+  },
+  {
+    "storyId": 19835,
+    "name": "Cinematic, Lighting, Stage, Dark",
+    "clip_id": "240659",
+    "order": 3
+  },
+  {
+    "storyId": 19835,
+    "name": "Cinematic, Lighting, Stage, Dark",
+    "clip_id": "240695",
+    "order": 4
+  },
+  {
+    "storyId": 16325,
+    "name": "woman holding a camera and looking at the screen ",
+    "clip_id": "137596",
+    "order": 5
+  },
+  {
+    "storyId": 19835,
+    "name": "Cinematic, Lighting, Stage, Dark",
+    "clip_id": "240690",
+    "order": 6
+  },
+  {
+    "storyId": 19835,
+    "name": "Cinematic, Lighting, Particles, Dust",
+    "clip_id": "240662",
+    "order": 7
+  },
+  {
+    "storyId": 19835,
+    "name": "Cinematic, Lighting, Stage, Dark",
+    "clip_id": "240692",
+    "order": 8
+  },
+  {
+    "storyId": 16325,
+    "name": "woman zooming in and out on a camera ",
+    "clip_id": "137615",
+    "order": 9
+  },
+  {
+    "storyId": 16325,
+    "name": "woman connecting the lens to the camera",
+    "clip_id": "137612",
+    "order": 10
+  },
+  {
+    "storyId": 16325,
+    "name": "woman filming in the city ",
+    "clip_id": "137603",
+    "order": 11
+  },
+  {
+    "storyId": 19209,
+    "name": "3 People, 3D Model, African Descent, Aircraft",
+    "clip_id": "224093",
+    "order": 12
+  },
+  {
+    "storyId": 19835,
+    "name": "Cinematic, Lighting, Man, Worker",
+    "clip_id": "240680",
+    "order": 13
+  },
+  {
+    "storyId": 19835,
+    "name": "Cinematic, Lighting, Man, Worker",
+    "clip_id": "240679",
+    "order": 14
+  },
+  {
+    "storyId": 19835,
+    "name": "Cinematic, Lighting, Stage, Dark",
+    "clip_id": "240660",
+    "order": 15
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Black, Dress",
+    "clip_id": "239908",
+    "order": 16
+  },
+  {
+    "storyId": 16325,
+    "name": "filmmaker with a professional camera ",
+    "clip_id": "137601",
+    "order": 17
+  },
+  {
+    "storyId": 16325,
+    "name": "woman assembling a camera ",
+    "clip_id": "137613",
+    "order": 18
+  },
+  {
+    "storyId": 16325,
+    "name": "woman filming a building in the city ",
+    "clip_id": "137614",
+    "order": 19
+  },
+  {
+    "storyId": 27617,
+    "name": "Biker, Helmet, Riding, Motorcycle",
+    "clip_id": "482853",
+    "order": 20
+  },
+  {
+    "storyId": 19835,
+    "name": "Technician, Lighting, Cinematic, Man",
+    "clip_id": "240693",
+    "order": 21
+  },
+  {
+    "storyId": 26730,
+    "name": "Sajama, Bolivia, Andes, Mountain Range",
+    "clip_id": "456138",
+    "order": 22
+  },
+  {
+    "storyId": 16325,
+    "name": "woman looking at the screen while holding a camera ",
+    "clip_id": "137597",
+    "order": 23
+  },
+  {
+    "storyId": 25100,
+    "name": "Man, Knife, Spring Assisted Knife, Agitated",
+    "clip_id": "405165",
+    "order": 24
+  },
+  {
+    "storyId": 11686,
+    "name": "bridge crossing the sea with mountains in background",
+    "clip_id": "41435",
+    "order": 25
+  },
+  {
+    "storyId": 26967,
+    "name": "Man, Eye, Light Ray, Color Lighting",
+    "clip_id": "464030",
+    "order": 26
+  },
+  {
+    "storyId": 11686,
+    "name": "car driving in road in a mountain with rocks",
+    "clip_id": "41491",
+    "order": 27
+  },
+  {
+    "storyId": 16325,
+    "name": "woman filming with a professional camera ",
+    "clip_id": "137600",
+    "order": 28
+  },
+  {
+    "storyId": 16325,
+    "name": "woman using a camera in the city ",
+    "clip_id": "137609",
+    "order": 29
+  },
+  {
+    "storyId": 11686,
+    "name": "large brown field with small lakes in late day",
+    "clip_id": "41481",
+    "order": 30
+  },
+  {
+    "storyId": 11686,
+    "name": "car driving on bridge above the ocean in bright day",
+    "clip_id": "41436",
+    "order": 31
+  },
+  {
+    "storyId": 11686,
+    "name": "road crossing the sea on small hills with mountains in background",
+    "clip_id": "41434",
+    "order": 32
+  },
+  {
+    "storyId": 16325,
+    "name": "woman filming with a professional camera in the city",
+    "clip_id": "137605",
+    "order": 33
+  },
+  {
+    "storyId": 16325,
+    "name": "woman using a professional camera ",
+    "clip_id": "137599",
+    "order": 34
+  },
+  {
+    "storyId": 16325,
+    "name": "woman using a professional camera in the city ",
+    "clip_id": "137610",
+    "order": 35
+  },
+  {
+    "storyId": 27975,
+    "name": "Dinner, Mother, Father, Kids",
+    "clip_id": "277893",
+    "order": 36
+  },
+  {
+    "storyId": 19832,
+    "name": "Cinematic, Beautiful, Woman, Blue",
+    "clip_id": "240610",
+    "order": 37
+  },
+  {
+    "storyId": 16325,
+    "name": "woman connecting the lens to a camera ",
+    "clip_id": "137608",
+    "order": 38
+  },
+  {
+    "storyId": 16325,
+    "name": "woman walking in the city with a professional filmmaker camera ",
+    "clip_id": "137604",
+    "order": 39
+  },
+  {
+    "storyId": 16325,
+    "name": "woman filming in an urban environment ",
+    "clip_id": "137607",
+    "order": 40
+  },
+  {
+    "storyId": 26526,
+    "name": "Woman, Color Lighting, Cyan Tint, Pink Neon",
+    "clip_id": "450592",
+    "order": 41
+  },
+  {
+    "storyId": 27928,
+    "name": "Psycho, Horror, Killer, Cinematic",
+    "clip_id": "493653",
+    "order": 42
+  },
+  {
+    "storyId": 11522,
+    "name": "sunlight on top of boulder",
+    "clip_id": "37802",
+    "order": 43
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Black, Dress",
+    "clip_id": "239926",
+    "order": 44
+  },
+  {
+    "storyId": 26129,
+    "name": "Detective Desk, Investigation, Docu Crime, Top Shot",
+    "clip_id": "437212",
+    "order": 45
+  },
+  {
+    "storyId": 25100,
+    "name": "Jewelry, Gold, Chain, Necklace",
+    "clip_id": "405163",
+    "order": 46
+  },
+  {
+    "storyId": 16325,
+    "name": "woman standing under a tree and looking at a screen ",
+    "clip_id": "137602",
+    "order": 47
+  },
+  {
+    "storyId": 26526,
+    "name": "Woman, Sitting, Dancing, Plants",
+    "clip_id": "450589",
+    "order": 48
+  },
+  {
+    "storyId": 26526,
+    "name": "Woman, Sitting, Dancing, Plants",
+    "clip_id": "450588",
+    "order": 49
+  },
+  {
+    "storyId": 26967,
+    "name": "Man, Eyes, Laser Beam, Color Lighting",
+    "clip_id": "463995",
+    "order": 50
+  },
+  {
+    "storyId": 26129,
+    "name": "Detective Desk, Investigation, Gun, Docu Crime",
+    "clip_id": "437224",
+    "order": 51
+  },
+  {
+    "storyId": 27928,
+    "name": "Psycho, Horror, Newspapers, Man",
+    "clip_id": "493659",
+    "order": 52
+  },
+  {
+    "storyId": 25100,
+    "name": "Man, Gold Chain, Gold Necklace, Jewelry",
+    "clip_id": "405180",
+    "order": 53
+  },
+  {
+    "storyId": 27077,
+    "name": "Woman, Gym, Studio, Practice",
+    "clip_id": "466964",
+    "order": 54
+  },
+  {
+    "storyId": 28064,
+    "name": "Director, Theater, Little Person, Wheelchair",
+    "clip_id": "497632",
+    "order": 55
+  },
+  {
+    "storyId": 26526,
+    "name": "Woman, Sitting, Dancing, Plants",
+    "clip_id": "450587",
+    "order": 56
+  },
+  {
+    "storyId": 19835,
+    "name": "Technician, Lighting, Cinematic, Man",
+    "clip_id": "240694",
+    "order": 57
+  },
+  {
+    "storyId": 26967,
+    "name": "Man, Laser Beam, Color Lighting, Red Tint",
+    "clip_id": "463983",
+    "order": 58
+  },
+  {
+    "storyId": 27928,
+    "name": "Psycho, Horror, Lying, Room",
+    "clip_id": "493652",
+    "order": 59
+  },
+  {
+    "storyId": 26129,
+    "name": "Detective Desk, Investigation, Docu Crime, Top Shot",
+    "clip_id": "437215",
+    "order": 60
+  },
+  {
+    "storyId": 28064,
+    "name": "Director, Clapping, Theater, Cinematic",
+    "clip_id": "497674",
+    "order": 61
+  },
+  {
+    "storyId": 26129,
+    "name": "Detective Desk, Investigation, Docu Crime, Top Shot",
+    "clip_id": "437214",
+    "order": 62
+  },
+  {
+    "storyId": 25100,
+    "name": "Drawer Cabinet, Clothes, Searching, Man",
+    "clip_id": "405162",
+    "order": 63
+  },
+  {
+    "storyId": 26129,
+    "name": "Detective Desk, Investigation, Blood Drops, Docu Crime",
+    "clip_id": "437221",
+    "order": 64
+  },
+  {
+    "storyId": 26129,
+    "name": "Detective Desk, Investigation, Docu Crime, Top Shot",
+    "clip_id": "437220",
+    "order": 65
+  },
+  {
+    "storyId": 26129,
+    "name": "Detective Desk, Investigation, Shadow, Docu Crime",
+    "clip_id": "437219",
+    "order": 66
+  },
+  {
+    "storyId": 25100,
+    "name": "Man, Agitated, Sad, Low Angle",
+    "clip_id": "405193",
+    "order": 67
+  },
+  {
+    "storyId": 26129,
+    "name": "Detective Desk, Investigation, Gun, Docu Crime",
+    "clip_id": "437213",
+    "order": 68
+  },
+  {
+    "storyId": 26129,
+    "name": "Detective Desk, Investigation, Docu Crime, Top Shot",
+    "clip_id": "437216",
+    "order": 69
+  },
+  {
+    "storyId": 19209,
+    "name": "3 People, Augmented Reality, Cinematic, Framestockfootage",
+    "clip_id": "224116",
+    "order": 70
+  },
+  {
+    "storyId": 27497,
+    "name": "Man, Smoke, Concrete, Spotlight",
+    "clip_id": "479226",
+    "order": 71
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Black, Dress",
+    "clip_id": "239917",
+    "order": 72
+  },
+  {
+    "storyId": 25100,
+    "name": "Man, Sad, Agitated, Room",
+    "clip_id": "405179",
+    "order": 73
+  },
+  {
+    "storyId": 26129,
+    "name": "Detective Desk, Hand, Gun, Docu Crime",
+    "clip_id": "437227",
+    "order": 74
+  },
+  {
+    "storyId": 19209,
+    "name": "3 People, 3D Model, African Descent, Aircraft",
+    "clip_id": "224094",
+    "order": 75
+  },
+  {
+    "storyId": 19209,
+    "name": "3 People, 3D Model, Cinematic, Framestockfootage",
+    "clip_id": "224110",
+    "order": 76
+  },
+  {
+    "storyId": 19209,
+    "name": "Cinematic, Framestockfootage, Career, Computer",
+    "clip_id": "224117",
+    "order": 77
+  },
+  {
+    "storyId": 25100,
+    "name": "Man, Sad, Agitated, Bedroom",
+    "clip_id": "405178",
+    "order": 78
+  },
+  {
+    "storyId": 26129,
+    "name": "Detective Desk, Investigation, Gun, Docu Crime",
+    "clip_id": "437223",
+    "order": 79
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Black, Dress",
+    "clip_id": "239915",
+    "order": 80
+  },
+  {
+    "storyId": 19209,
+    "name": "Cinematic, Framestockfootage, Career, Computer",
+    "clip_id": "224113",
+    "order": 81
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Black, Dress",
+    "clip_id": "239924",
+    "order": 82
+  },
+  {
+    "storyId": 25100,
+    "name": "Jewelry, Hand, Gold, Chain",
+    "clip_id": "405164",
+    "order": 83
+  },
+  {
+    "storyId": 19209,
+    "name": "4 People, Cinematic, Framestockfootage, Career",
+    "clip_id": "224100",
+    "order": 84
+  },
+  {
+    "storyId": 19209,
+    "name": "4 People, Cinematic, Framestockfootage, Career",
+    "clip_id": "224115",
+    "order": 85
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Black, Dress",
+    "clip_id": "239927",
+    "order": 86
+  },
+  {
+    "storyId": 19209,
+    "name": "Augmented Reality, Cinematic, Framestockfootage, Career",
+    "clip_id": "224102",
+    "order": 87
+  },
+  {
+    "storyId": 19209,
+    "name": "4 People, African Descent, Cinematic, Framestockfootage",
+    "clip_id": "224097",
+    "order": 88
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Black, Dress",
+    "clip_id": "239916",
+    "order": 89
+  },
+  {
+    "storyId": 26129,
+    "name": "Hand, Gun, Detective Desk, Docu Crime",
+    "clip_id": "437229",
+    "order": 90
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Black, Dress",
+    "clip_id": "239918",
+    "order": 91
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Black, Dress",
+    "clip_id": "239925",
+    "order": 92
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Black, Dress",
+    "clip_id": "239923",
+    "order": 93
+  },
+  {
+    "storyId": 19209,
+    "name": "3 People, African Descent, Beta Tester, Cinematic",
+    "clip_id": "224095",
+    "order": 94
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Black, Dress",
+    "clip_id": "239928",
+    "order": 95
+  },
+  {
+    "storyId": 19209,
+    "name": "3 People, Beta Tester, Cinematic, Framestockfootage",
+    "clip_id": "224105",
+    "order": 96
+  },
+  {
+    "storyId": 19209,
+    "name": "Cinematic, Framestockfootage, Career, Collaboration",
+    "clip_id": "224103",
+    "order": 97
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Black, Dress",
+    "clip_id": "239919",
+    "order": 98
+  },
+  {
+    "storyId": 19209,
+    "name": "3 People, 3D Model, Cinematic, Framestockfootage",
+    "clip_id": "224112",
+    "order": 99
+  },
+  {
+    "storyId": 19209,
+    "name": "Concentration, Concept Art, Creativity, Drawing",
+    "clip_id": "224132",
+    "order": 100
+  },
+  {
+    "storyId": 19209,
+    "name": "Cinematic, Framestockfootage, Career, Computer",
+    "clip_id": "224121",
+    "order": 101
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Black, Dress",
+    "clip_id": "239922",
+    "order": 102
+  },
+  {
+    "storyId": 27077,
+    "name": "Woman, Gym, Studio, Practice",
+    "clip_id": "466965",
+    "order": 103
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Black, Dress",
+    "clip_id": "239931",
+    "order": 104
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Black, Dress",
+    "clip_id": "239920",
+    "order": 105
+  },
+  {
+    "storyId": 19209,
+    "name": "4 People, Cinematic, Framestockfootage, Career",
+    "clip_id": "224106",
+    "order": 106
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Black, Dress",
+    "clip_id": "239921",
+    "order": 107
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Black, Dress",
+    "clip_id": "239933",
+    "order": 108
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Black, Dress",
+    "clip_id": "239930",
+    "order": 109
+  },
+  {
+    "storyId": 27077,
+    "name": "Woman, Walking, Gym, Studio",
+    "clip_id": "466953",
+    "order": 110
+  },
+  {
+    "storyId": 19209,
+    "name": "3 People, African Descent, Cinematic, Framestockfootage",
+    "clip_id": "224101",
+    "order": 111
+  },
+  {
+    "storyId": 19209,
+    "name": "Cinematic, Framestockfootage, Career, Computer",
+    "clip_id": "224123",
+    "order": 112
+  },
+  {
+    "storyId": 19209,
+    "name": "African Descent, Cinematic, Framestockfootage, Career",
+    "clip_id": "224130",
+    "order": 113
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Black, Dress",
+    "clip_id": "239932",
+    "order": 114
+  },
+  {
+    "storyId": 19209,
+    "name": "3 People, 3D Model, African Descent, Aircraft",
+    "clip_id": "224133",
+    "order": 115
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Desert, Salt",
+    "clip_id": "239935",
+    "order": 116
+  },
+  {
+    "storyId": 19209,
+    "name": "Concentration, Concept Art, Creativity, Drawing",
+    "clip_id": "224107",
+    "order": 117
+  },
+  {
+    "storyId": 19209,
+    "name": "Artwork, Cinematic, Framestockfootage, Career",
+    "clip_id": "224108",
+    "order": 118
+  },
+  {
+    "storyId": 27077,
+    "name": "Woman, Gym, Practice, Studio",
+    "clip_id": "466963",
+    "order": 119
+  },
+  {
+    "storyId": 19209,
+    "name": "3 People, African Descent, Cinematic, Framestockfootage",
+    "clip_id": "224120",
+    "order": 120
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Desert, Salt",
+    "clip_id": "239934",
+    "order": 121
+  },
+  {
+    "storyId": 19209,
+    "name": "Concentration, Concept Art, Creativity, Drawing",
+    "clip_id": "224127",
+    "order": 122
+  },
+  {
+    "storyId": 27497,
+    "name": "Man, Walking, Spotlight, Smoke",
+    "clip_id": "479227",
+    "order": 123
+  },
+  {
+    "storyId": 19209,
+    "name": "Cinematic, Framestockfootage, Career, Computer",
+    "clip_id": "224134",
+    "order": 124
+  },
+  {
+    "storyId": 19209,
+    "name": "Cinematic, Framestockfootage, Career, Computer",
+    "clip_id": "224136",
+    "order": 125
+  },
+  {
+    "storyId": 25100,
+    "name": "Man, Agitated, Hoodie, Bed Room",
+    "clip_id": "405176",
+    "order": 126
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Black, Dress",
+    "clip_id": "239910",
+    "order": 127
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Black, Dress",
+    "clip_id": "239912",
+    "order": 128
+  },
+  {
+    "storyId": 19209,
+    "name": "Artwork, Cinematic, Framestockfootage, Career",
+    "clip_id": "224118",
+    "order": 129
+  },
+  {
+    "storyId": 19810,
+    "name": "Cinematic, Sunrise, Black, Dress",
+    "clip_id": "239909",
+    "order": 130
+  },
+  {
+    "storyId": 27077,
+    "name": "Woman, Walking, Gym, Practice",
+    "clip_id": "466967",
+    "order": 131
+  },
+  {
+    "storyId": 19209,
+    "name": "3 People, African Descent, Cinematic, Framestockfootage",
+    "clip_id": "224124",
+    "order": 132
+  },
+  {
+    "storyId": 19209,
+    "name": "African Descent, Cinematic, Framestockfootage, Career",
+    "clip_id": "224135",
+    "order": 133
+  },
+  {
+    "storyId": 19810,
+    "name": "Flats, Middle, Ethiopian, Road Trip",
+    "clip_id": "239914",
+    "order": 134
+  },
+  {
+    "storyId": 19209,
+    "name": "African Descent, Cinematic, Framestockfootage, Career",
+    "clip_id": "224122",
+    "order": 135
+  },
+  {
+    "storyId": 19832,
+    "name": "Cinematic, Beautiful, Woman, Blue",
+    "clip_id": "240626",
+    "order": 136
+  },
+  {
+    "storyId": 19832,
+    "name": "Cinematic, Beautiful, Woman, Blue",
+    "clip_id": "240625",
+    "order": 137
+  },
+  {
+    "storyId": 19832,
+    "name": "Barefoot, Cinematic, White, Sunshine",
+    "clip_id": "240622",
+    "order": 138
+  },
+  {
+    "storyId": 25100,
+    "name": "Fist, Hands, Hand Gesture, Cinematic Narrative",
+    "clip_id": "405177",
+    "order": 139
+  },
+  {
+    "storyId": 19832,
+    "name": "Cinematic, Beautiful, Woman, Blue",
+    "clip_id": "240616",
+    "order": 140
+  },
+  {
+    "storyId": 19832,
+    "name": "Cinematic, Beautiful, Woman, Blue",
+    "clip_id": "240619",
+    "order": 141
+  },
+  {
+    "storyId": 28064,
+    "name": "Man, Actor, Smiling, Talking",
+    "clip_id": "497641",
+    "order": 142
+  },
+  {
+    "storyId": 28064,
+    "name": "Director, Theatre, Script Reading, Theater",
+    "clip_id": "497646",
+    "order": 143
+  },
+  {
+    "storyId": 19832,
+    "name": "Cinematic, Beautiful, Woman, Blue",
+    "clip_id": "240624",
+    "order": 144
+  },
+  {
+    "storyId": 19832,
+    "name": "Barefoot, Cinematic, White, Sunshine",
+    "clip_id": "240617",
+    "order": 145
+  },
+  {
+    "storyId": 19832,
+    "name": "Cinematic, Beautiful, Woman, Blue",
+    "clip_id": "240628",
+    "order": 146
+  },
+  {
+    "storyId": 19832,
+    "name": "Cinematic, Beautiful, Woman, Blue",
+    "clip_id": "240615",
+    "order": 147
+  },
+  {
+    "storyId": 19832,
+    "name": "Cinematic, Beautiful, Woman, Blue",
+    "clip_id": "240611",
+    "order": 148
+  },
+  {
+    "storyId": 19325,
+    "name": "Pizza, Dough, Onion, Spread",
+    "clip_id": "226769",
+    "order": 149
+  },
+  {
+    "storyId": 19832,
+    "name": "Cinematic, Beautiful, Woman, Blue",
+    "clip_id": "240623",
+    "order": 150
+  },
+  {
+    "storyId": 19832,
+    "name": "Cinematic, Beautiful, Woman, Blue",
+    "clip_id": "240614",
+    "order": 151
+  },
+  {
+    "storyId": 19832,
+    "name": "Cinematic, Beautiful, Woman, Blue",
+    "clip_id": "240612",
+    "order": 152
+  },
+  {
+    "storyId": 19832,
+    "name": "Cinematic, Beautiful, Woman, Blue",
+    "clip_id": "240621",
+    "order": 153
+  },
+  {
+    "storyId": 19832,
+    "name": "Cinematic, Beautiful, Woman, Blue",
+    "clip_id": "240620",
+    "order": 154
+  },
+  {
+    "storyId": 19851,
+    "name": "Concrete, Shady, Evening, Cinematic",
+    "clip_id": "241010",
+    "order": 155
+  },
+  {
+    "storyId": 23344,
+    "name": "Desert, Top Shot, Drone, Motorcycle",
+    "clip_id": "347929",
+    "order": 156
+  },
+  {
+    "storyId": 21563,
+    "name": "Chocolate, Cocoa, Powder, Dessert",
+    "clip_id": "294775",
+    "order": 157
+  },
+  {
+    "storyId": 19749,
+    "name": "Soccer, Shots On Goal, Footie, Goals",
+    "clip_id": "238676",
+    "order": 158
+  },
+  {
+    "storyId": 21852,
+    "name": "Businessman, Businesswoman, Colleagues, Office",
+    "clip_id": "304699",
+    "order": 159
+  },
+  {
+    "storyId": 22393,
+    "name": "Flying, Beauty Shot, Red Pepper, Mortar And Pestle",
+    "clip_id": "323216",
+    "order": 160
+  },
+  {
+    "storyId": 22392,
+    "name": "Coffee Beans, Coffee Grinder, Top Shot, Spinning",
+    "clip_id": "323201",
+    "order": 161
+  },
+  {
+    "storyId": 28255,
+    "name": "Corsica, Beach, Waves, Sand",
+    "clip_id": "503154",
+    "order": 162
+  },
+  {
+    "storyId": 23141,
+    "name": "Woman, Books, Studying, Writing",
+    "clip_id": "345903",
+    "order": 163
+  },
+  {
+    "storyId": 22392,
+    "name": "Coffee, Coffee Machine, Espresso, Steam",
+    "clip_id": "323205",
+    "order": 164
+  },
+  {
+    "storyId": 22392,
+    "name": "Milk, Pouring, Splash, Dairy",
+    "clip_id": "323209",
+    "order": 165
+  },
+  {
+    "storyId": 21852,
+    "name": "Woman, Architect, Office, Working",
+    "clip_id": "304738",
+    "order": 166
+  },
+  {
+    "storyId": 23141,
+    "name": "Books, Library, Reading, Librarian",
+    "clip_id": "345904",
+    "order": 167
+  },
+  {
+    "storyId": 22322,
+    "name": "Tomato, Water Drops, Splashing, Beauty Shot",
+    "clip_id": "320826",
+    "order": 168
+  },
+  {
+    "storyId": 22322,
+    "name": "Lettuce, Water Drops, Splashing, Green",
+    "clip_id": "320825",
+    "order": 169
+  },
+  {
+    "storyId": 27360,
+    "name": "Cheese, Grater, Beauty Shot, Inside",
+    "clip_id": "475284",
+    "order": 170
+  },
+  {
+    "storyId": 23544,
+    "name": "Farmer, Pitchfork, Back Shot, Farm",
+    "clip_id": "355896",
+    "order": 171
+  },
+  {
+    "storyId": 23479,
+    "name": "Street, Cityscape, Rooftops, Top Shot",
+    "clip_id": "358046",
+    "order": 172
+  },
+  {
+    "storyId": 28021,
+    "name": "Satellite Map, Top Shot, Traffic, Streets",
+    "clip_id": "496548",
+    "order": 173
+  },
+  {
+    "storyId": 21355,
+    "name": "Green Screen, Laptop, Top Shot, Above",
+    "clip_id": "288287",
+    "order": 174
+  },
+  {
+    "storyId": 19986,
+    "name": "Vaccine, Injection, Coronavirus, Paramedic",
+    "clip_id": "244892",
+    "order": 175
+  },
+  {
+    "storyId": 21563,
+    "name": "Rubber Bears, Sweet, Colorful, Falling",
+    "clip_id": "294801",
+    "order": 176
+  },
+  {
+    "storyId": 25466,
+    "name": "Sea, Waves, Cliff, Top Shot",
+    "clip_id": "414801",
+    "order": 177
+  },
+  {
+    "storyId": 22392,
+    "name": "Milk, Splash, Smooth, Cream",
+    "clip_id": "323210",
+    "order": 178
+  },
+  {
+    "storyId": 19749,
+    "name": "Soccer, Shots On Goal, Footie, Goals",
+    "clip_id": "238671",
+    "order": 179
+  },
+  {
+    "storyId": 25854,
+    "name": "Woman, Bathtub, Soap Bubbles, Standing",
+    "clip_id": "428227",
+    "order": 180
+  },
+  {
+    "storyId": 23444,
+    "name": "Man, Top Shot, Laptop, Office",
+    "clip_id": "357129",
+    "order": 181
+  },
+  {
+    "storyId": 23842,
+    "name": "Man, Walking, Workplace, Co Workers",
+    "clip_id": "367660",
+    "order": 182
+  },
+  {
+    "storyId": 28021,
+    "name": "Traffic, Top Shot, City, Junction",
+    "clip_id": "496518",
+    "order": 183
+  },
+  {
+    "storyId": 27565,
+    "name": "Bowling, Ball, Rolling, Lane",
+    "clip_id": "480716",
+    "order": 184
+  },
+  {
+    "storyId": 25854,
+    "name": "Woman, Standing, Bathtub, Soap Bubbles",
+    "clip_id": "428222",
+    "order": 185
+  },
+  {
+    "storyId": 22856,
+    "name": "Lemon, Beauty Shot, Splashing, Water",
+    "clip_id": "336825",
+    "order": 186
+  },
+  {
+    "storyId": 11002,
+    "name": "Soldiers Searching Building",
+    "clip_id": "21972",
+    "order": 187
+  },
+  {
+    "storyId": 22856,
+    "name": "Honey, Liquid, Beauty Shot",
+    "clip_id": "336843",
+    "order": 188
+  },
+  {
+    "storyId": 10993,
+    "name": "Man and woman drinking shots one after another at a bar ",
+    "clip_id": "21739",
+    "order": 189
+  },
+  {
+    "storyId": 21768,
+    "name": "Fire, Hamburger, Meat, Fast Food",
+    "clip_id": "300738",
+    "order": 190
+  },
+  {
+    "storyId": 29278,
+    "name": "Orange, Slice, Falling, Orange Background",
+    "clip_id": "434962",
+    "order": 191
+  },
+  {
+    "storyId": 21600,
+    "name": "Sheep, Pasture, Field, Top Shot",
+    "clip_id": "296228",
+    "order": 192
+  },
+  {
+    "storyId": 25854,
+    "name": "Woman, Standing, Bathtub, Bath Foam",
+    "clip_id": "428213",
+    "order": 193
+  },
+  {
+    "storyId": 19749,
+    "name": "Soccer, Shots On Goal, Footie, Goals",
+    "clip_id": "238674",
+    "order": 194
+  },
+  {
+    "storyId": 22388,
+    "name": "Cereals, Breakfast, Falling, Loops",
+    "clip_id": "323156",
+    "order": 195
+  },
+  {
+    "storyId": 27859,
+    "name": "Cooking, Food, Serving, Dish",
+    "clip_id": "490846",
+    "order": 196
+  },
+  {
+    "storyId": 21711,
+    "name": "Drone, Forest, Green, Trees",
+    "clip_id": "299074",
+    "order": 197
+  },
+  {
+    "storyId": 25378,
+    "name": "Conference Room, Colleagues, Top Shot, Office",
+    "clip_id": "413368",
+    "order": 198
+  },
+  {
+    "storyId": 21563,
+    "name": "Chocolate, Bonbonniere, Drink, Dessert",
+    "clip_id": "294911",
+    "order": 199
+  },
+  {
+    "storyId": 21563,
+    "name": "Chocolate, Bonbonniere, Orange, Sweet",
+    "clip_id": "294907",
+    "order": 200
+  },
+  {
+    "storyId": 22390,
+    "name": "Coffee, Coffee Beans, Brown, Caffeine",
+    "clip_id": "323177",
+    "order": 201
+  },
+  {
+    "storyId": 22388,
+    "name": "Cereals, Chocolate, Falling, Breakfast",
+    "clip_id": "323162",
+    "order": 202
+  },
+  {
+    "storyId": 24053,
+    "name": "Woman, Walking, Pedestrians Bridge, Tracking Shot",
+    "clip_id": "374510",
+    "order": 203
+  },
+  {
+    "storyId": 25466,
+    "name": "Sea, Waves, Top Shot, Ocean",
+    "clip_id": "414787",
+    "order": 204
+  },
+  {
+    "storyId": 24767,
+    "name": "Sea, Rocks, Waves, Drone",
+    "clip_id": "395069",
+    "order": 205
+  },
+  {
+    "storyId": 19749,
+    "name": "Soccer, Shots On Goal, Footie, Goals",
+    "clip_id": "238673",
+    "order": 206
+  },
+  {
+    "storyId": 10919,
+    "name": "Woman Sitting Outside Next To Her Cat",
+    "clip_id": "19741",
+    "order": 207
+  },
+  {
+    "storyId": 27693,
+    "name": "Woman, Laptop, Typing, Documents",
+    "clip_id": "485302",
+    "order": 208
+  },
+  {
+    "storyId": 22856,
+    "name": "Chocolate, Flakes, Sprinkling, Liquid",
+    "clip_id": "336832",
+    "order": 209
+  },
+  {
+    "storyId": 28255,
+    "name": "Turquoise, Waves, Ocean, Rocks",
+    "clip_id": "503142",
+    "order": 210
+  },
+  {
+    "storyId": 21852,
+    "name": "Businesswoman, Office, Working, Typing",
+    "clip_id": "304684",
+    "order": 211
+  },
+  {
+    "storyId": 22931,
+    "name": "Rooftops, Tram, Train, Street",
+    "clip_id": "339488",
+    "order": 212
+  },
+  {
+    "storyId": 27565,
+    "name": "Bowling, Ball, Rolling, Lane",
+    "clip_id": "480714",
+    "order": 213
+  },
+  {
+    "storyId": 21711,
+    "name": "Forest, Drone, Green, Top Shot",
+    "clip_id": "299076",
+    "order": 214
+  },
+  {
+    "storyId": 23638,
+    "name": "Almonds, Pile, Healthy, Rotating",
+    "clip_id": "361453",
+    "order": 215
+  },
+  {
+    "storyId": 21563,
+    "name": "Chocolate, Drink, Glass, Sweet",
+    "clip_id": "295044",
+    "order": 216
+  },
+  {
+    "storyId": 21563,
+    "name": "Macaroons, Colorful, Falling, Sweet",
+    "clip_id": "294792",
+    "order": 217
+  },
+  {
+    "storyId": 22856,
+    "name": "Honey, Beauty Shot, Liquid",
+    "clip_id": "336847",
+    "order": 218
+  },
+  {
+    "storyId": 26751,
+    "name": "Ocean, Waves, Top Shot, Ericeira",
+    "clip_id": "456954",
+    "order": 219
+  },
+  {
+    "storyId": 24405,
+    "name": "Containers, Ship, Container, Sea",
+    "clip_id": "384214",
+    "order": 220
+  },
+  {
+    "storyId": 26168,
+    "name": "Cycling, Bicycle, Road, Trees",
+    "clip_id": "438276",
+    "order": 221
+  },
+  {
+    "storyId": 25580,
+    "name": "New York, Streets, Buildings, Top Shot",
+    "clip_id": "418892",
+    "order": 222
+  },
+  {
+    "storyId": 28255,
+    "name": "Ocean, Corsica, Waves, Top Shot",
+    "clip_id": "503152",
+    "order": 223
+  },
+  {
+    "storyId": 26348,
+    "name": "Woman, Standing, Eating, Croissant",
+    "clip_id": "444406",
+    "order": 224
+  },
+  {
+    "storyId": 23409,
+    "name": "Girl, Dress, Walking, Meadow",
+    "clip_id": "355652",
+    "order": 225
+  },
+  {
+    "storyId": 25585,
+    "name": "Brooklyn Bridge, Cars, Top Shot, New York",
+    "clip_id": "419208",
+    "order": 226
+  },
+  {
+    "storyId": 28254,
+    "name": "Lake, Quay, Turquoise, Serenity",
+    "clip_id": "503108",
+    "order": 227
+  },
+  {
+    "storyId": 26923,
+    "name": "Popcorn, Focus Change, Bouncing, Falling",
+    "clip_id": "462541",
+    "order": 228
+  },
+  {
+    "storyId": 25854,
+    "name": "Woman, Bathtub, Soaking, Bath Foam",
+    "clip_id": "428236",
+    "order": 229
+  },
+  {
+    "storyId": 28270,
+    "name": "Italy, Tuscany, Car, Road",
+    "clip_id": "503865",
+    "order": 230
+  },
+  {
+    "storyId": 23081,
+    "name": "Rocks, Mountain, Grey, Drone",
+    "clip_id": "343906",
+    "order": 231
+  },
+  {
+    "storyId": 27472,
+    "name": "New York, City, Drone, Scenery",
+    "clip_id": "478596",
+    "order": 232
+  },
+  {
+    "storyId": 22234,
+    "name": "Railway, Bridge, River, Drone",
+    "clip_id": "318332",
+    "order": 233
+  },
+  {
+    "storyId": 22003,
+    "name": "Stop-Motion, Stop Motion, Topshot, Top-Shot",
+    "clip_id": "310988",
+    "order": 234
+  },
+  {
+    "storyId": 21597,
+    "name": "Town, Houses, Village, Top Shot",
+    "clip_id": "296179",
+    "order": 235
+  },
+  {
+    "storyId": 25573,
+    "name": "Containers, Cargo, Trucks, Top Shot",
+    "clip_id": "418656",
+    "order": 236
+  },
+  {
+    "storyId": 25575,
+    "name": "Frankfurt, City, Metropolis, Skyscrapers",
+    "clip_id": "418730",
+    "order": 237
+  },
+  {
+    "storyId": 21852,
+    "name": "Businesswoman, Office, Morning, Arriving",
+    "clip_id": "304679",
+    "order": 238
+  },
+  {
+    "storyId": 24983,
+    "name": "Man, Spreading Arms, Bottle Beach View Point, Rock",
+    "clip_id": "401453",
+    "order": 239
+  },
+  {
+    "storyId": 25791,
+    "name": "Sea, Rocks, Waves, Terceira Island",
+    "clip_id": "425880",
+    "order": 240
+  },
+  {
+    "storyId": 25117,
+    "name": "Stream, Forest, Trees, River",
+    "clip_id": "389062",
+    "order": 241
+  },
+  {
+    "storyId": 26674,
+    "name": "Man, Sea, Headphones, Haze",
+    "clip_id": "454814",
+    "order": 242
+  },
+  {
+    "storyId": 28193,
+    "name": "Teamwork, Office, Desk, Top Shot",
+    "clip_id": "501610",
+    "order": 243
+  },
+  {
+    "storyId": 25401,
+    "name": "Solar Panels, Green Energy, Electricity, Sunlight",
+    "clip_id": "413822",
+    "order": 244
+  },
+  {
+    "storyId": 23655,
+    "name": "Top Shot, Rails, Train, Cargo",
+    "clip_id": "361869",
+    "order": 245
+  },
+  {
+    "storyId": 25575,
+    "name": "Frankfurt, City, Park, Construction Site",
+    "clip_id": "418736",
+    "order": 246
+  },
+  {
+    "storyId": 21815,
+    "name": "Seafood, Lobster, Water, Splashing",
+    "clip_id": "303298",
+    "order": 247
+  },
+  {
+    "storyId": 25787,
+    "name": "Volcanic Rocks, Waves, Crushing, Atlantic Ocean",
+    "clip_id": "425743",
+    "order": 248
+  },
+  {
+    "storyId": 28255,
+    "name": "Corsica, Beach, Waves, Bay",
+    "clip_id": "503189",
+    "order": 249
+  },
+  {
+    "storyId": 27859,
+    "name": "Cooking, Food, Preparations, Kitchen",
+    "clip_id": "490837",
+    "order": 250
+  },
+  {
+    "storyId": 10958,
+    "name": "Woman Doing Yoga Shoulder Stretch",
+    "clip_id": "20842",
+    "order": 251
+  },
+  {
+    "storyId": 25747,
+    "name": "Hazelnuts, Nuts, Black Background, Flying",
+    "clip_id": "423853",
+    "order": 252
+  },
+  {
+    "storyId": 27535,
+    "name": "Man, Head, Neck, Back Shot",
+    "clip_id": "480480",
+    "order": 253
+  },
+  {
+    "storyId": 24291,
+    "name": "Woman, Workout, Top Shot, Dog",
+    "clip_id": "381372",
+    "order": 254
+  },
+  {
+    "storyId": 10999,
+    "name": "masseuse putting face mask on womans cheeks",
+    "clip_id": "21875",
+    "order": 255
+  },
+  {
+    "storyId": 27693,
+    "name": "Woman, Documents, Laptop, Working",
+    "clip_id": "485320",
+    "order": 256
+  },
+  {
+    "storyId": 23459,
+    "name": "Girl, Running, Field, Tracking Shot",
+    "clip_id": "357632",
+    "order": 257
+  },
+  {
+    "storyId": 26364,
+    "name": "Hikers, Hiking, Back Shot, Look Out",
+    "clip_id": "444717",
+    "order": 258
+  },
+  {
+    "storyId": 21852,
+    "name": "Man, Businessman, Office, Working",
+    "clip_id": "304672",
+    "order": 259
+  },
+  {
+    "storyId": 21852,
+    "name": "Man, Businessman, Office, Working",
+    "clip_id": "304665",
+    "order": 260
+  },
+  {
+    "storyId": 25791,
+    "name": "Sea, Waves, Water, Rocks",
+    "clip_id": "425922",
+    "order": 261
+  },
+  {
+    "storyId": 28380,
+    "name": "Tribe, Huaorani, Hut, Forest",
+    "clip_id": "506556",
+    "order": 262
+  },
+  {
+    "storyId": 25349,
+    "name": "Dj Setup, Top Shot, Dj Set, Woman",
+    "clip_id": "412404",
+    "order": 263
+  },
+  {
+    "storyId": 22003,
+    "name": "Stop-Motion, Stop Motion, Topshot, Top-Shot",
+    "clip_id": "310979",
+    "order": 264
+  },
+  {
+    "storyId": 24291,
+    "name": "Man, Couch, Top Shot, Living Room",
+    "clip_id": "381344",
+    "order": 265
+  },
+  {
+    "storyId": 23127,
+    "name": "Ocean, Waves, Shore, Foam",
+    "clip_id": "345265",
+    "order": 266
+  },
+  {
+    "storyId": 25575,
+    "name": "Frankfurt, City, Park, Buildings",
+    "clip_id": "418737",
+    "order": 267
+  },
+  {
+    "storyId": 26905,
+    "name": "Spaghetti Noodles, Cooking, Boiling, Falling Into",
+    "clip_id": "461948",
+    "order": 268
+  },
+  {
+    "storyId": 29278,
+    "name": "Orange, Slices, Commercial, Beauty Shot",
+    "clip_id": "434951",
+    "order": 269
+  },
+  {
+    "storyId": 26233,
+    "name": "Strawberry, Fruit, Beauty Shot, Falling",
+    "clip_id": "440387",
+    "order": 270
+  },
+  {
+    "storyId": 25430,
+    "name": "Cotton, Field, Combine Harvester, Top Shot",
+    "clip_id": "414389",
+    "order": 271
+  },
+  {
+    "storyId": 27565,
+    "name": "Bowling, Ball, Rolling, Lane",
+    "clip_id": "480713",
+    "order": 272
+  },
+  {
+    "storyId": 25573,
+    "name": "Containers, Cargo, Gantry Crane, Trucks",
+    "clip_id": "418663",
+    "order": 273
+  },
+  {
+    "storyId": 24291,
+    "name": "Man, Living Room, Top Shot, Phone",
+    "clip_id": "381341",
+    "order": 274
+  },
+  {
+    "storyId": 26416,
+    "name": "Boston, City, Rooftops, Top Shot",
+    "clip_id": "447408",
+    "order": 275
+  },
+  {
+    "storyId": 25787,
+    "name": "Volcanic Rocks, Waves, Crushing, Atlantic Ocean",
+    "clip_id": "425724",
+    "order": 276
+  },
+  {
+    "storyId": 23365,
+    "name": "Cotton, Field, Crops, Bolls",
+    "clip_id": "353747",
+    "order": 277
+  },
+  {
+    "storyId": 25378,
+    "name": "Job Interview, Office, Waiting Room, Queue",
+    "clip_id": "413369",
+    "order": 278
+  },
+  {
+    "storyId": 29242,
+    "name": "Water, Rocks, Trees, Cliffs",
+    "clip_id": "531132",
+    "order": 279
+  },
+  {
+    "storyId": 25430,
+    "name": "Cotton, Field, Combine Harvester, Top Shot",
+    "clip_id": "414402",
+    "order": 280
+  },
+  {
+    "storyId": 28255,
+    "name": "Wild Nature, Corsica, Rocks, Ocean",
+    "clip_id": "503177",
+    "order": 281
+  },
+  {
+    "storyId": 21852,
+    "name": "Man, Businessman, Office, Working",
+    "clip_id": "304671",
+    "order": 282
+  },
+  {
+    "storyId": 25427,
+    "name": "Dead Sea, Israel, Salt Lake, Jordan",
+    "clip_id": "414342",
+    "order": 283
+  },
+  {
+    "storyId": 19382,
+    "name": "Cliff, Coast, Ocean, Plants",
+    "clip_id": "227999",
+    "order": 284
+  },
+  {
+    "storyId": 29278,
+    "name": "Orange, Slice, Fluid, Liquid",
+    "clip_id": "434957",
+    "order": 285
+  },
+  {
+    "storyId": 25773,
+    "name": "Harbor, Boats, Parking Lot, Cars",
+    "clip_id": "425074",
+    "order": 286
+  },
+  {
+    "storyId": 23959,
+    "name": "New York, Traffic, Junction, Top Shot",
+    "clip_id": "371331",
+    "order": 287
+  },
+  {
+    "storyId": 27693,
+    "name": "Woman, Documents, Working, Floor",
+    "clip_id": "485303",
+    "order": 288
+  },
+  {
+    "storyId": 24428,
+    "name": "Parking Lot, Cars, Parking, Drone",
+    "clip_id": "384479",
+    "order": 289
+  },
+  {
+    "storyId": 27693,
+    "name": "Woman, Laptop, Office, Working",
+    "clip_id": "485316",
+    "order": 290
+  },
+  {
+    "storyId": 28348,
+    "name": "Frankfurt, City, Driving Shot, Buildings",
+    "clip_id": "506207",
+    "order": 291
+  },
+  {
+    "storyId": 26233,
+    "name": "Milk, Falling, White, Spilled",
+    "clip_id": "440384",
+    "order": 292
+  },
+  {
+    "storyId": 29278,
+    "name": "Orange, Slices, Commercial, Beauty Shot",
+    "clip_id": "434952",
+    "order": 293
+  },
+  {
+    "storyId": 29278,
+    "name": "Orange, Slices, Orange Juice, Commercial",
+    "clip_id": "434960",
+    "order": 294
+  },
+  {
+    "storyId": 28380,
+    "name": "Forest, Ecuador, River, Canoe",
+    "clip_id": "506569",
+    "order": 295
+  },
+  {
+    "storyId": 28255,
+    "name": "Corsica, Bay, Vacation, Beach",
+    "clip_id": "503190",
+    "order": 296
+  },
+  {
+    "storyId": 26168,
+    "name": "Man, Woman, Hiking, Nature",
+    "clip_id": "438245",
+    "order": 297
+  },
+  {
+    "storyId": 21852,
+    "name": "Man, Businessman, Office, Stretching",
+    "clip_id": "304686",
+    "order": 298
+  },
+  {
+    "storyId": 20349,
+    "name": "Mountains, Nature, Beautiful, Blue Sky",
+    "clip_id": "254974",
+    "order": 299
+  },
+  {
+    "storyId": 28255,
+    "name": "Ocean, Corsica, Beach, Azure",
+    "clip_id": "503132",
+    "order": 300
+  },
+  {
+    "storyId": 26903,
+    "name": "Candies, Topping, Beauty Shot, Colorful",
+    "clip_id": "461911",
+    "order": 301
+  },
+  {
+    "storyId": 27309,
+    "name": "Burger Bun, Vegetable, Sauce, Pork",
+    "clip_id": "421156",
+    "order": 302
+  },
+  {
+    "storyId": 29242,
+    "name": "Water, Rocks, Trees, Cliffs",
+    "clip_id": "531130",
+    "order": 303
+  },
+  {
+    "storyId": 26233,
+    "name": "Blueberry, Kiwi, Fruit, Milk",
+    "clip_id": "440380",
+    "order": 304
+  },
+  {
+    "storyId": 22089,
+    "name": "Highway, Traffic, Trees, Road",
+    "clip_id": "313404",
+    "order": 305
+  },
+  {
+    "storyId": 25096,
+    "name": "Olive, Trees, Plantation, Drone",
+    "clip_id": "405117",
+    "order": 306
+  },
+  {
+    "storyId": 24277,
+    "name": "Lake, Green, Fields, Land",
+    "clip_id": "380936",
+    "order": 307
+  },
+  {
+    "storyId": 29278,
+    "name": "Orange, Slices, Commercial, Beauty Shot",
+    "clip_id": "434955",
+    "order": 308
+  },
+  {
+    "storyId": 24291,
+    "name": "Man, Couch, Living Room, Top Shot",
+    "clip_id": "381345",
+    "order": 309
+  },
+  {
+    "storyId": 22089,
+    "name": "Highway, Forest, Road, Drone",
+    "clip_id": "313425",
+    "order": 310
+  },
+  {
+    "storyId": 21852,
+    "name": "Woman, Music, Dancing, Office",
+    "clip_id": "304763",
+    "order": 311
+  },
+  {
+    "storyId": 25401,
+    "name": "Solar Panels, Green Energy, Electricity, Sunlight",
+    "clip_id": "413818",
+    "order": 312
+  },
+  {
+    "storyId": 25378,
+    "name": "Job Interview, Waiting Room, Office, Top Shot",
+    "clip_id": "413371",
+    "order": 313
+  },
+  {
+    "storyId": 25378,
+    "name": "Fashion Designers, Conference Room, Meeting, Fabric Samples",
+    "clip_id": "413366",
+    "order": 314
+  },
+  {
+    "storyId": 25430,
+    "name": "Cotton, Field, Combine Harvester, Top Shot",
+    "clip_id": "414388",
+    "order": 315
+  },
+  {
+    "storyId": 25350,
+    "name": "Dj Set, Music, Nightclub, Nightlife",
+    "clip_id": "412421",
+    "order": 316
+  },
+  {
+    "storyId": 29310,
+    "name": "Man, Woman, Table, Top Shot",
+    "clip_id": "532369",
+    "order": 317
+  },
+  {
+    "storyId": 22489,
+    "name": "Bridge, Cars, Road, River",
+    "clip_id": "326250",
+    "order": 318
+  },
+  {
+    "storyId": 25493,
+    "name": "Man, Back Shot, Peeking, Blinds",
+    "clip_id": "415723",
+    "order": 319
+  },
+  {
+    "storyId": 23215,
+    "name": "Icebergs, Man, Walking, Top Shot",
+    "clip_id": "348631",
+    "order": 320
+  },
+  {
+    "storyId": 24177,
+    "name": "Takeaway, Plastic Box, Lunchbox, Top Shot",
+    "clip_id": "378602",
+    "order": 321
+  },
+  {
+    "storyId": 25427,
+    "name": "Dead Sea, Israel, Salt Lake, Jordan",
+    "clip_id": "414328",
+    "order": 322
+  },
+  {
+    "storyId": 29667,
+    "name": "Dolomites, Italy, Drone, Italian Alps",
+    "clip_id": "542752",
+    "order": 323
+  },
+  {
+    "storyId": 13178,
+    "name": "rocks at the ocean spinning ",
+    "clip_id": "66414",
+    "order": 324
+  },
+  {
+    "storyId": 25787,
+    "name": "Forest, Trees, Vegetation, Top Shot",
+    "clip_id": "425740",
+    "order": 325
+  },
+  {
+    "storyId": 21852,
+    "name": "Man, Office, Music, Dancing",
+    "clip_id": "304772",
+    "order": 326
+  },
+  {
+    "storyId": 23654,
+    "name": "Tractor, Field, Spray, Drone",
+    "clip_id": "361861",
+    "order": 327
+  },
+  {
+    "storyId": 24795,
+    "name": "Winter, Road, Buildings, Street",
+    "clip_id": "395903",
+    "order": 328
+  },
+  {
+    "storyId": 24109,
+    "name": "Desert, Top Shot, Rocky, Texture",
+    "clip_id": "349281",
+    "order": 329
+  },
+  {
+    "storyId": 25117,
+    "name": "Forest, Trees, Stream, River",
+    "clip_id": "389063",
+    "order": 330
+  },
+  {
+    "storyId": 22760,
+    "name": "Rooftop Parking, Empty, Street, Dark",
+    "clip_id": "334980",
+    "order": 331
+  },
+  {
+    "storyId": 24109,
+    "name": "Burnt, Trees, Forest, Top Shot",
+    "clip_id": "349390",
+    "order": 332
+  },
+  {
+    "storyId": 26200,
+    "name": "Woman, Church, Headscarf, Holy",
+    "clip_id": "439379",
+    "order": 333
+  },
+  {
+    "storyId": 24428,
+    "name": "Parking Lot, Cars, Parking, Drone",
+    "clip_id": "384473",
+    "order": 334
+  },
+  {
+    "storyId": 24541,
+    "name": "Engineer, Corridor, Power Plant, Motor Control Center",
+    "clip_id": "386580",
+    "order": 335
+  },
+  {
+    "storyId": 23228,
+    "name": "Farmland, Fields, Paths, Trees",
+    "clip_id": "349274",
+    "order": 336
+  },
+  {
+    "storyId": 24159,
+    "name": "Top Shot, Beer, Cheers, Czech",
+    "clip_id": "377736",
+    "order": 337
+  },
+  {
+    "storyId": 25436,
+    "name": "Cows, Canal, Nature, Cattle",
+    "clip_id": "414470",
+    "order": 338
+  },
+  {
+    "storyId": 25184,
+    "name": "Top Shot, Fields, Clouds, Wind",
+    "clip_id": "408123",
+    "order": 339
+  },
+  {
+    "storyId": 26233,
+    "name": "Strawberry, Fruit, Milk, Beauty Shot",
+    "clip_id": "440386",
+    "order": 340
+  },
+  {
+    "storyId": 26064,
+    "name": "Orange, Falling, Water, Beauty Shot",
+    "clip_id": "434938",
+    "order": 341
+  },
+  {
+    "storyId": 24092,
+    "name": "Shade Balls, Water Reservoir, Drone, Water",
+    "clip_id": "375827",
+    "order": 342
+  },
+  {
+    "storyId": 24458,
+    "name": "Boat, Top Shot, River, Forest",
+    "clip_id": "382520",
+    "order": 343
+  },
+  {
+    "storyId": 29758,
+    "name": "River, Canoe, Wilderness, Rowing",
+    "clip_id": "545994",
+    "order": 344
+  },
+  {
+    "storyId": 24071,
+    "name": "Torrent, Stream, Rocks, Falling",
+    "clip_id": "375186",
+    "order": 345
+  },
+  {
+    "storyId": 27325,
+    "name": "Whale, Sea, Ocean, Waves",
+    "clip_id": "474724",
+    "order": 346
+  },
+  {
+    "storyId": 25459,
+    "name": "Village, Countryside, Slovenia, Houses",
+    "clip_id": "414655",
+    "order": 347
+  },
+  {
+    "storyId": 24109,
+    "name": "Fields, Land, Agriculture, Drone",
+    "clip_id": "349354",
+    "order": 348
+  },
+  {
+    "storyId": 25855,
+    "name": "Brides, Wedding, Celebration, Ceremony",
+    "clip_id": "426424",
+    "order": 349
+  },
+  {
+    "storyId": 27099,
+    "name": "Woman, View, Scenic, Looking",
+    "clip_id": "467852",
+    "order": 350
+  },
+  {
+    "storyId": 23079,
+    "name": "Storage, Abandoned, Drone, Top Shot",
+    "clip_id": "343885",
+    "order": 351
+  },
+  {
+    "storyId": 25573,
+    "name": "Containers, Cargo, Gantry Crane, Trucks",
+    "clip_id": "418643",
+    "order": 352
+  },
+  {
+    "storyId": 25479,
+    "name": "Woods, Road, Winding, Top Shot",
+    "clip_id": "415142",
+    "order": 353
+  },
+  {
+    "storyId": 24291,
+    "name": "Woman, Workout, Top Shot, Carpet",
+    "clip_id": "381373",
+    "order": 354
+  },
+  {
+    "storyId": 24291,
+    "name": "Woman, Carpet, Laptop, Top Shot",
+    "clip_id": "381384",
+    "order": 355
+  },
+  {
+    "storyId": 29171,
+    "name": "Vehicles, Interjection, Trafic, Lights",
+    "clip_id": "528689",
+    "order": 356
+  },
+  {
+    "storyId": 24291,
+    "name": "Man, Couch, Resting, Sofa",
+    "clip_id": "381366",
+    "order": 357
+  },
+  {
+    "storyId": 22921,
+    "name": "Farmer, Field, Green, Top Shot",
+    "clip_id": "339236",
+    "order": 358
+  },
+  {
+    "storyId": 24604,
+    "name": "River, Mountain, Cliffs, Road",
+    "clip_id": "388923",
+    "order": 359
+  },
+  {
+    "storyId": 28018,
+    "name": "Parking Lot, Cars, Round About, Urban",
+    "clip_id": "496443",
+    "order": 360
+  },
+  {
+    "storyId": 23215,
+    "name": "Snow, Water, Arctic, Ice",
+    "clip_id": "348614",
+    "order": 361
+  },
+  {
+    "storyId": 24109,
+    "name": "Trees, Deforestation, Wood Logs, Valley",
+    "clip_id": "349397",
+    "order": 362
+  },
+  {
+    "storyId": 27099,
+    "name": "Woman, Looking, View, Mountains",
+    "clip_id": "467850",
+    "order": 363
+  },
+  {
+    "storyId": 28018,
+    "name": "Parking Lot, Cars, Urban, Top Shot",
+    "clip_id": "496439",
+    "order": 364
+  },
+  {
+    "storyId": 26120,
+    "name": "Beach, Mediterranean Sea, Croatia, Top Shot",
+    "clip_id": "436949",
+    "order": 365
+  },
+  {
+    "storyId": 25184,
+    "name": "Railway, Alaska, Tree Tops, Top Shot",
+    "clip_id": "408141",
+    "order": 366
+  },
+  {
+    "storyId": 24458,
+    "name": "River, Forest, Autumn, Trees",
+    "clip_id": "382534",
+    "order": 367
+  },
+  {
+    "storyId": 26815,
+    "name": "Greece, Peninsula, Tigani, Top Shot",
+    "clip_id": "458983",
+    "order": 368
+  },
+  {
+    "storyId": 24177,
+    "name": "Takeaway, Placing, Plastic Box, Top Shot",
+    "clip_id": "378599",
+    "order": 369
+  },
+  {
+    "storyId": 29608,
+    "name": "Snowcat, Snow, Winter, Slope",
+    "clip_id": "540848",
+    "order": 370
+  },
+  {
+    "storyId": 28703,
+    "name": "Ocean, Waves, Tide, Cliff",
+    "clip_id": "517086",
+    "order": 371
+  },
+  {
+    "storyId": 24411,
+    "name": "Palm Tree, Arecaceae, Trees, Field",
+    "clip_id": "384274",
+    "order": 372
+  },
+  {
+    "storyId": 25445,
+    "name": "Jerusalem, Light Rail, City, Buildings",
+    "clip_id": "414554",
+    "order": 373
+  },
+  {
+    "storyId": 29605,
+    "name": "Comic, Artist, Drawing, Illustrator",
+    "clip_id": "540726",
+    "order": 374
+  },
+  {
+    "storyId": 24966,
+    "name": "Forest, Trees, Evergreen, Conifers",
+    "clip_id": "400877",
+    "order": 375
+  },
+  {
+    "storyId": 24639,
+    "name": "Island, Sikelianos, Ionian Sea, Ocean",
+    "clip_id": "390124",
+    "order": 376
+  },
+  {
+    "storyId": 25495,
+    "name": "Woman, Model, Walking, Flowers",
+    "clip_id": "415795",
+    "order": 377
+  },
+  {
+    "storyId": 24291,
+    "name": "Woman, Laptop, Couch, Top Shot",
+    "clip_id": "381359",
+    "order": 378
+  },
+  {
+    "storyId": 26191,
+    "name": "Woman, Old Woman, Mature, Back Shot",
+    "clip_id": "438133",
+    "order": 379
+  },
+  {
+    "storyId": 27497,
+    "name": "Man, Back Shot, Concrete, Smoke",
+    "clip_id": "479228",
+    "order": 380
+  },
+  {
+    "storyId": 27430,
+    "name": "Galicia, Beach, Coast, Sea",
+    "clip_id": "477146",
+    "order": 381
+  },
+  {
+    "storyId": 28261,
+    "name": "Water Desalination, Port Elizabeth, South Africa, Drone",
+    "clip_id": "503598",
+    "order": 382
+  },
+  {
+    "storyId": 25658,
+    "name": "Woman, Waking Up, Red Hair, Spleeping",
+    "clip_id": "416367",
+    "order": 383
+  },
+  {
+    "storyId": 24158,
+    "name": "Takeaway, Meal, Cardboard Boxes, Take Out",
+    "clip_id": "377702",
+    "order": 384
+  },
+  {
+    "storyId": 26064,
+    "name": "Oranges, Beauty Shot, Commercial, Falling",
+    "clip_id": "434940",
+    "order": 385
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206293",
+    "order": 386
+  },
+  {
+    "storyId": 25582,
+    "name": "New York, Top Shot, Roads, Manhattan",
+    "clip_id": "418985",
+    "order": 387
+  },
+  {
+    "storyId": 25582,
+    "name": "New York, City, Manhattan, Top Shot",
+    "clip_id": "418987",
+    "order": 388
+  },
+  {
+    "storyId": 26011,
+    "name": "Cargo Ship, Top Shot, Sea, Above",
+    "clip_id": "432854",
+    "order": 389
+  },
+  {
+    "storyId": 27156,
+    "name": "Miami, City Lighting, Top Shot, Building",
+    "clip_id": "469753",
+    "order": 390
+  },
+  {
+    "storyId": 25425,
+    "name": "Truck, Railroad, Repairing, Drone",
+    "clip_id": "414311",
+    "order": 391
+  },
+  {
+    "storyId": 26064,
+    "name": "Orange, Slices, Commercial, Beauty Shot",
+    "clip_id": "434941",
+    "order": 392
+  },
+  {
+    "storyId": 24064,
+    "name": "Mobile, Phone, Shot, New York",
+    "clip_id": "375067",
+    "order": 393
+  },
+  {
+    "storyId": 25607,
+    "name": "Fields, Tractor, Plowing, Cotton Plantation",
+    "clip_id": "419784",
+    "order": 394
+  },
+  {
+    "storyId": 28665,
+    "name": "Swamp, Lake, Top Shot, Mountains",
+    "clip_id": "516240",
+    "order": 395
+  },
+  {
+    "storyId": 24412,
+    "name": "Trees, Forest, Green, Dense",
+    "clip_id": "384286",
+    "order": 396
+  },
+  {
+    "storyId": 28348,
+    "name": "Frankfurt, City, Driving Shot, Buildings",
+    "clip_id": "506218",
+    "order": 397
+  },
+  {
+    "storyId": 22222,
+    "name": "River, Bridge, Dam, Drone",
+    "clip_id": "317911",
+    "order": 398
+  },
+  {
+    "storyId": 25787,
+    "name": "Forest, Trees, Vegetation, Top Shot",
+    "clip_id": "425698",
+    "order": 399
+  },
+  {
+    "storyId": 27816,
+    "name": "Windmill, Mill, Rotor, Fuerteventura",
+    "clip_id": "489278",
+    "order": 400
+  },
+  {
+    "storyId": 28243,
+    "name": "Woman, Driving, Van, Back Shot",
+    "clip_id": "502820",
+    "order": 401
+  },
+  {
+    "storyId": 25241,
+    "name": "Beach, Sea, Coast, Sand",
+    "clip_id": "409510",
+    "order": 402
+  },
+  {
+    "storyId": 28665,
+    "name": "Lake, Mountains, Top Shot, Trees",
+    "clip_id": "516242",
+    "order": 403
+  },
+  {
+    "storyId": 29327,
+    "name": "Rome, Italy, City, Buildings",
+    "clip_id": "532779",
+    "order": 404
+  },
+  {
+    "storyId": 28762,
+    "name": "Trucks, Parking, Symmetrical, Top Shot",
+    "clip_id": "518123",
+    "order": 405
+  },
+  {
+    "storyId": 28018,
+    "name": "Parking Lot, Cars, Urban, Top Shot",
+    "clip_id": "496453",
+    "order": 406
+  },
+  {
+    "storyId": 29279,
+    "name": "Oranges, Rinsing, Water, Commercial",
+    "clip_id": "434991",
+    "order": 407
+  },
+  {
+    "storyId": 24790,
+    "name": "Porto Katsiki, Beach, Sea, Top Shot",
+    "clip_id": "395726",
+    "order": 408
+  },
+  {
+    "storyId": 24791,
+    "name": "Coast, Sea, Rocks, Cliffs",
+    "clip_id": "395730",
+    "order": 409
+  },
+  {
+    "storyId": 25430,
+    "name": "Cotton, Field, Combine Harvester, Top Shot",
+    "clip_id": "414400",
+    "order": 410
+  },
+  {
+    "storyId": 28773,
+    "name": "Forest, Frozen, Snow, Trees",
+    "clip_id": "518567",
+    "order": 411
+  },
+  {
+    "storyId": 25378,
+    "name": "Studio, Desk, Designer, Laptop",
+    "clip_id": "413361",
+    "order": 412
+  },
+  {
+    "storyId": 29171,
+    "name": "Vehicles, Interjection, Trafic, Lights",
+    "clip_id": "528688",
+    "order": 413
+  },
+  {
+    "storyId": 25787,
+    "name": "Forest, Trees, Vegetation, Top Shot",
+    "clip_id": "425697",
+    "order": 414
+  },
+  {
+    "storyId": 27071,
+    "name": "Buildings, Miami, Rooftops, Top Shot",
+    "clip_id": "466750",
+    "order": 415
+  },
+  {
+    "storyId": 24291,
+    "name": "Man, Top Shot, Carpet, Yoga Mat",
+    "clip_id": "381386",
+    "order": 416
+  },
+  {
+    "storyId": 28872,
+    "name": "Digital Nomad, Woman, Pool, Top Shot",
+    "clip_id": "521309",
+    "order": 417
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206258",
+    "order": 418
+  },
+  {
+    "storyId": 29277,
+    "name": "Orange, Slice, Splash, Glass",
+    "clip_id": "434974",
+    "order": 419
+  },
+  {
+    "storyId": 25385,
+    "name": "Coffee Shop, Woman, Mobile Phone, Typing",
+    "clip_id": "413643",
+    "order": 420
+  },
+  {
+    "storyId": 27644,
+    "name": "Vineyard Terraces, Lavaux, Switzerland, Road",
+    "clip_id": "483881",
+    "order": 421
+  },
+  {
+    "storyId": 24795,
+    "name": "Site, Top Shot, Railway, River",
+    "clip_id": "395858",
+    "order": 422
+  },
+  {
+    "storyId": 24291,
+    "name": "Man, Lying, Carpet, Top Shot",
+    "clip_id": "381352",
+    "order": 423
+  },
+  {
+    "storyId": 28349,
+    "name": "Frankfurt, City, Driving Shot, Buildings",
+    "clip_id": "506283",
+    "order": 424
+  },
+  {
+    "storyId": 24411,
+    "name": "Palm Tree, Arecaceae, Trees, Field",
+    "clip_id": "384281",
+    "order": 425
+  },
+  {
+    "storyId": 18027,
+    "name": "Overhead Birds View of Amsterdam, Netherlands Neighbourhood with Green Trees and Red Rooftops",
+    "clip_id": "185705",
+    "order": 426
+  },
+  {
+    "storyId": 18027,
+    "name": "Aerial Wide View of Amsterdam, Netherlands on cloudy Day",
+    "clip_id": "185710",
+    "order": 427
+  },
+  {
+    "storyId": 29327,
+    "name": "Rome, Italy, City, Buildings",
+    "clip_id": "532778",
+    "order": 428
+  },
+  {
+    "storyId": 26923,
+    "name": "Popcorn, Pile, Bouncing, Beauty Shot",
+    "clip_id": "462535",
+    "order": 429
+  },
+  {
+    "storyId": 28349,
+    "name": "Frankfurt, City, Driving Shot, Buildings",
+    "clip_id": "506271",
+    "order": 430
+  },
+  {
+    "storyId": 27274,
+    "name": "South Africa, Beach, Top Shot, Sea",
+    "clip_id": "473169",
+    "order": 431
+  },
+  {
+    "storyId": 22234,
+    "name": "Railroad, Railway, Altitude, Drone",
+    "clip_id": "318315",
+    "order": 432
+  },
+  {
+    "storyId": 25378,
+    "name": "Studio, Desk, Designer, Laptop",
+    "clip_id": "413359",
+    "order": 433
+  },
+  {
+    "storyId": 22489,
+    "name": "Bridge, Cars, River, Cityscape",
+    "clip_id": "326270",
+    "order": 434
+  },
+  {
+    "storyId": 28869,
+    "name": "Construction Site, Truck, Tubes, Top Shot",
+    "clip_id": "521238",
+    "order": 435
+  },
+  {
+    "storyId": 22003,
+    "name": "Mask, Stop-Motion, Stop Motion, Topshot",
+    "clip_id": "311002",
+    "order": 436
+  },
+  {
+    "storyId": 25479,
+    "name": "Trees, Woods, Road, Winding",
+    "clip_id": "415143",
+    "order": 437
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206300",
+    "order": 438
+  },
+  {
+    "storyId": 26923,
+    "name": "Popcorn, Salting, Salt, Pile",
+    "clip_id": "462556",
+    "order": 439
+  },
+  {
+    "storyId": 23979,
+    "name": "Pottery, Clay, Handmade, Bowl",
+    "clip_id": "345192",
+    "order": 440
+  },
+  {
+    "storyId": 25144,
+    "name": "Models, Dancing, Rooftop, Top Shot",
+    "clip_id": "407036",
+    "order": 441
+  },
+  {
+    "storyId": 24158,
+    "name": "Takeaway, Meal, Cardboard Boxes, Take Out",
+    "clip_id": "377712",
+    "order": 442
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206281",
+    "order": 443
+  },
+  {
+    "storyId": 24726,
+    "name": "Roof Tops, Town, Houses, Ireland",
+    "clip_id": "393555",
+    "order": 444
+  },
+  {
+    "storyId": 24291,
+    "name": "Woman, Laptop, Carpet, Top Shot",
+    "clip_id": "381382",
+    "order": 445
+  },
+  {
+    "storyId": 24791,
+    "name": "Coast, Sea, Rocks, Cliffs",
+    "clip_id": "395733",
+    "order": 446
+  },
+  {
+    "storyId": 25378,
+    "name": "Renovation, Lying Down, Man, Woman",
+    "clip_id": "413400",
+    "order": 447
+  },
+  {
+    "storyId": 27978,
+    "name": "Iceland, River, River Bank, Snow",
+    "clip_id": "495343",
+    "order": 448
+  },
+  {
+    "storyId": 26903,
+    "name": "Candies, Colorful, Falling, Phantom",
+    "clip_id": "461896",
+    "order": 449
+  },
+  {
+    "storyId": 26903,
+    "name": "Salt, Black Salt, Falling, Crystals",
+    "clip_id": "461913",
+    "order": 450
+  },
+  {
+    "storyId": 24415,
+    "name": "Orchard, Citrus Fruits, Worker, Drone",
+    "clip_id": "384311",
+    "order": 451
+  },
+  {
+    "storyId": 27099,
+    "name": "Woman, Neck, Stretching, Hands",
+    "clip_id": "467862",
+    "order": 452
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206282",
+    "order": 453
+  },
+  {
+    "storyId": 28641,
+    "name": "Boy, Looking, Cityscape, Window",
+    "clip_id": "514192",
+    "order": 454
+  },
+  {
+    "storyId": 25400,
+    "name": "Roads, Highway, Top Shot, Above",
+    "clip_id": "413808",
+    "order": 455
+  },
+  {
+    "storyId": 23654,
+    "name": "Tractor, Field, Spray, Drone",
+    "clip_id": "361852",
+    "order": 456
+  },
+  {
+    "storyId": 25737,
+    "name": "Kerala, Fort Kochi, Ocean, Fishing",
+    "clip_id": "423658",
+    "order": 457
+  },
+  {
+    "storyId": 28348,
+    "name": "Frankfurt, City, Driving Shot, Buildings",
+    "clip_id": "506216",
+    "order": 458
+  },
+  {
+    "storyId": 25582,
+    "name": "New York, City, Top Shot, Rooftops",
+    "clip_id": "418963",
+    "order": 459
+  },
+  {
+    "storyId": 25430,
+    "name": "Cotton, Field, Combine Harvester, Top Shot",
+    "clip_id": "414393",
+    "order": 460
+  },
+  {
+    "storyId": 23547,
+    "name": "Chef, Kimono, Man, Top Shot",
+    "clip_id": "357523",
+    "order": 461
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206280",
+    "order": 462
+  },
+  {
+    "storyId": 25588,
+    "name": "Nyc, Cityscape, Buildings, Top Shot",
+    "clip_id": "419384",
+    "order": 463
+  },
+  {
+    "storyId": 27424,
+    "name": "Sand, Top Shot, Sea, Waves",
+    "clip_id": "477064",
+    "order": 464
+  },
+  {
+    "storyId": 26923,
+    "name": "Popcorn, Herbs, Seasoning, Falling",
+    "clip_id": "462562",
+    "order": 465
+  },
+  {
+    "storyId": 25611,
+    "name": "Crowded, Houses, Mexico City, Top Shot",
+    "clip_id": "419858",
+    "order": 466
+  },
+  {
+    "storyId": 24064,
+    "name": "Woman, Mobile, Phone, Shot",
+    "clip_id": "375051",
+    "order": 467
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206257",
+    "order": 468
+  },
+  {
+    "storyId": 22234,
+    "name": "Railway, Railroad, Carriages, Suburbs",
+    "clip_id": "318341",
+    "order": 469
+  },
+  {
+    "storyId": 26564,
+    "name": "Artichoke, Field, Farmer, Picking",
+    "clip_id": "451889",
+    "order": 470
+  },
+  {
+    "storyId": 28348,
+    "name": "Frankfurt, City, Driving Shot, Buildings",
+    "clip_id": "506245",
+    "order": 471
+  },
+  {
+    "storyId": 26569,
+    "name": "Construction Site, Concrete, Iron, Crane",
+    "clip_id": "452095",
+    "order": 472
+  },
+  {
+    "storyId": 25417,
+    "name": "Tomato Field, Rows, Crops, Top Shot",
+    "clip_id": "414234",
+    "order": 473
+  },
+  {
+    "storyId": 25144,
+    "name": "Models, Dancing, Rooftop, Woman",
+    "clip_id": "407030",
+    "order": 474
+  },
+  {
+    "storyId": 24158,
+    "name": "Takeaway, Meal, Cardboard Boxes, Take Out",
+    "clip_id": "377714",
+    "order": 475
+  },
+  {
+    "storyId": 18027,
+    "name": "Amsterdam Cityscape above City Rooftops on a Cloudy Day, Aerial Forward Tilt Down",
+    "clip_id": "185679",
+    "order": 476
+  },
+  {
+    "storyId": 25378,
+    "name": "Studio, Desk, Designer, Laptop",
+    "clip_id": "413353",
+    "order": 477
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206262",
+    "order": 478
+  },
+  {
+    "storyId": 28594,
+    "name": "Top Shot, Man, Woman, Apartment",
+    "clip_id": "511913",
+    "order": 479
+  },
+  {
+    "storyId": 28349,
+    "name": "Frankfurt, City, Driving Shot, Clouds",
+    "clip_id": "506276",
+    "order": 480
+  },
+  {
+    "storyId": 26564,
+    "name": "Artichoke, Field, Farmer, Picking",
+    "clip_id": "451890",
+    "order": 481
+  },
+  {
+    "storyId": 28348,
+    "name": "Frankfurt, City, Driving Shot, Buildings",
+    "clip_id": "506232",
+    "order": 482
+  },
+  {
+    "storyId": 27684,
+    "name": "Women, Lgbt, Hugging, Romantic",
+    "clip_id": "484955",
+    "order": 483
+  },
+  {
+    "storyId": 25430,
+    "name": "Cotton, Field, Combine Harvester, Top Shot",
+    "clip_id": "414406",
+    "order": 484
+  },
+  {
+    "storyId": 28135,
+    "name": "Social Media, Cellphone, Boy, Girl",
+    "clip_id": "499640",
+    "order": 485
+  },
+  {
+    "storyId": 18027,
+    "name": "Nieuwmarkt Square in Amsterdam and The Waag Castle Building",
+    "clip_id": "185721",
+    "order": 486
+  },
+  {
+    "storyId": 28268,
+    "name": "Saturnia, Italy, Thermal Water, Spa",
+    "clip_id": "503829",
+    "order": 487
+  },
+  {
+    "storyId": 27787,
+    "name": "Street, Cleaner, Top Shot, Cleaning Car",
+    "clip_id": "488258",
+    "order": 488
+  },
+  {
+    "storyId": 28349,
+    "name": "Frankfurt, City, Driving Shot, Buildings",
+    "clip_id": "506287",
+    "order": 489
+  },
+  {
+    "storyId": 28348,
+    "name": "Frankfurt, City, Driving Shot, Buildings",
+    "clip_id": "506234",
+    "order": 490
+  },
+  {
+    "storyId": 28514,
+    "name": "Apartment, Top Shot, Living Room, Couch",
+    "clip_id": "511964",
+    "order": 491
+  },
+  {
+    "storyId": 28594,
+    "name": "Woman, Working, Laptop, Top Shot",
+    "clip_id": "512029",
+    "order": 492
+  },
+  {
+    "storyId": 28349,
+    "name": "Frankfurt, City, Driving Shot, Buildings",
+    "clip_id": "506285",
+    "order": 493
+  },
+  {
+    "storyId": 23654,
+    "name": "Tractor, Field, Spray, Drone",
+    "clip_id": "361864",
+    "order": 494
+  },
+  {
+    "storyId": 25425,
+    "name": "Tractor, Railroad, Repairing, Top Shot",
+    "clip_id": "414313",
+    "order": 495
+  },
+  {
+    "storyId": 25430,
+    "name": "Cotton, Field, Combine Harvester, Top Shot",
+    "clip_id": "414404",
+    "order": 496
+  },
+  {
+    "storyId": 24286,
+    "name": "Barber, Customer, Men, Haircut",
+    "clip_id": "381247",
+    "order": 497
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206252",
+    "order": 498
+  },
+  {
+    "storyId": 19535,
+    "name": "Europe, Thingvallavatn, Tingvellir, Aerial",
+    "clip_id": "234186",
+    "order": 499
+  },
+  {
+    "storyId": 22489,
+    "name": "Bridge, Cars, River, Drone",
+    "clip_id": "326252",
+    "order": 500
+  },
+  {
+    "storyId": 27071,
+    "name": "Miami, Buildings, District, Roads",
+    "clip_id": "466751",
+    "order": 501
+  },
+  {
+    "storyId": 28845,
+    "name": "Railroad, Tracks, Trains, Railway",
+    "clip_id": "520643",
+    "order": 502
+  },
+  {
+    "storyId": 26903,
+    "name": "Beans, Falling, Pile, Beauty Shot",
+    "clip_id": "461898",
+    "order": 503
+  },
+  {
+    "storyId": 25388,
+    "name": "Quarry, Construction Site, Excavator, Drone",
+    "clip_id": "413688",
+    "order": 504
+  },
+  {
+    "storyId": 25378,
+    "name": "Studio, Desk, Designer, Laptop",
+    "clip_id": "413357",
+    "order": 505
+  },
+  {
+    "storyId": 25430,
+    "name": "Cotton, Field, Combine Harvester, Top Shot",
+    "clip_id": "414407",
+    "order": 506
+  },
+  {
+    "storyId": 25773,
+    "name": "Cars, Parking Lot, Harbor, Vehicle",
+    "clip_id": "425065",
+    "order": 507
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206260",
+    "order": 508
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206276",
+    "order": 509
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206259",
+    "order": 510
+  },
+  {
+    "storyId": 27250,
+    "name": "Cars, Road, Top Shot, New York",
+    "clip_id": "472426",
+    "order": 511
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206254",
+    "order": 512
+  },
+  {
+    "storyId": 28775,
+    "name": "Sky, Snow, Freezing, Top Shot",
+    "clip_id": "518579",
+    "order": 513
+  },
+  {
+    "storyId": 28348,
+    "name": "Frankfurt, City, Driving Shot, Buildings",
+    "clip_id": "506198",
+    "order": 514
+  },
+  {
+    "storyId": 27180,
+    "name": "Cargo Ship, Sailing, Sea, Top Shot",
+    "clip_id": "470288",
+    "order": 515
+  },
+  {
+    "storyId": 27099,
+    "name": "Woman, Looking, View, Mountains",
+    "clip_id": "467849",
+    "order": 516
+  },
+  {
+    "storyId": 26768,
+    "name": "Bridge, Servia Neraida, Greece, Lake",
+    "clip_id": "457495",
+    "order": 517
+  },
+  {
+    "storyId": 25452,
+    "name": "Cargo Ship, Sea, Red, Waves",
+    "clip_id": "414606",
+    "order": 518
+  },
+  {
+    "storyId": 18354,
+    "name": "Master Shot, Sunset, People, Coastline",
+    "clip_id": "198790",
+    "order": 519
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206255",
+    "order": 520
+  },
+  {
+    "storyId": 26880,
+    "name": "Woman, Stretching, Coast, Sea",
+    "clip_id": "461054",
+    "order": 521
+  },
+  {
+    "storyId": 24471,
+    "name": "Ocean, Rocks, Woman, Phone",
+    "clip_id": "385148",
+    "order": 522
+  },
+  {
+    "storyId": 28514,
+    "name": "Top Shot, Living Room, Couch, Laptop",
+    "clip_id": "511965",
+    "order": 523
+  },
+  {
+    "storyId": 27186,
+    "name": "Ship, Sailing, Top Shot, Passengers",
+    "clip_id": "470384",
+    "order": 524
+  },
+  {
+    "storyId": 19501,
+    "name": "Drone, Drone Point Of View, Aerial Shot, Airplane",
+    "clip_id": "231714",
+    "order": 525
+  },
+  {
+    "storyId": 26307,
+    "name": "Digital, Text, Typing, Animation",
+    "clip_id": "442969",
+    "order": 526
+  },
+  {
+    "storyId": 19501,
+    "name": "Drone, Drone Point Of View, Aerial Shot, Airplane",
+    "clip_id": "231705",
+    "order": 527
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206256",
+    "order": 528
+  },
+  {
+    "storyId": 25378,
+    "name": "Studio, Desk, Designer, Laptop",
+    "clip_id": "413363",
+    "order": 529
+  },
+  {
+    "storyId": 27495,
+    "name": "Man, Walking, Abandoned Building, Concrete",
+    "clip_id": "479144",
+    "order": 530
+  },
+  {
+    "storyId": 26424,
+    "name": "Plastic Sheet, Top Shot, Texture, Black",
+    "clip_id": "447737",
+    "order": 531
+  },
+  {
+    "storyId": 26649,
+    "name": "Cars, Bridges, Roads, Lanes",
+    "clip_id": "454195",
+    "order": 532
+  },
+  {
+    "storyId": 22234,
+    "name": "Railway, Railroad, Carriages, Suburbs",
+    "clip_id": "318340",
+    "order": 533
+  },
+  {
+    "storyId": 28762,
+    "name": "Crossroads, Traffic, Highway, Vehicles",
+    "clip_id": "518146",
+    "order": 534
+  },
+  {
+    "storyId": 27489,
+    "name": "Woman, Standing, Watching, Window",
+    "clip_id": "475877",
+    "order": 535
+  },
+  {
+    "storyId": 27641,
+    "name": "Vineyard Terraces, Vines, Top Shot, Switzerland",
+    "clip_id": "483741",
+    "order": 536
+  },
+  {
+    "storyId": 28815,
+    "name": "Woman, Stretching, Gym, Sunlight",
+    "clip_id": "519597",
+    "order": 537
+  },
+  {
+    "storyId": 26923,
+    "name": "Popcorn, Falling, Pile, Beauty Shot",
+    "clip_id": "462561",
+    "order": 538
+  },
+  {
+    "storyId": 19535,
+    "name": "Europe, Thingvallavatn, Tingvellir, Aerial",
+    "clip_id": "234188",
+    "order": 539
+  },
+  {
+    "storyId": 27283,
+    "name": "City, Junction, Roads, Cars",
+    "clip_id": "473491",
+    "order": 540
+  },
+  {
+    "storyId": 24158,
+    "name": "Takeaway, Tablet, Meal, Green Screen",
+    "clip_id": "377719",
+    "order": 541
+  },
+  {
+    "storyId": 26168,
+    "name": "Cycling, Bicycle, Road, Trees",
+    "clip_id": "438274",
+    "order": 542
+  },
+  {
+    "storyId": 28041,
+    "name": "Rowing, Teamwork, Kayak, River",
+    "clip_id": "497210",
+    "order": 543
+  },
+  {
+    "storyId": 28349,
+    "name": "Frankfurt, City, Driving Shot, Buildings",
+    "clip_id": "506274",
+    "order": 544
+  },
+  {
+    "storyId": 27180,
+    "name": "Cargo Ship, Bow, Sailing, Sea",
+    "clip_id": "470296",
+    "order": 545
+  },
+  {
+    "storyId": 27641,
+    "name": "Vineyard Terraces, Vines, Top Shot, Switzerland",
+    "clip_id": "483744",
+    "order": 546
+  },
+  {
+    "storyId": 27186,
+    "name": "Ship, Sailing, Parking, Passengers",
+    "clip_id": "470379",
+    "order": 547
+  },
+  {
+    "storyId": 28762,
+    "name": "Traffic, Highway, Vehicles, Driving",
+    "clip_id": "518139",
+    "order": 548
+  },
+  {
+    "storyId": 24092,
+    "name": "Shade Balls, Water Reservoir, Drone, Water",
+    "clip_id": "375821",
+    "order": 549
+  },
+  {
+    "storyId": 29007,
+    "name": "Keyboard, Keys, Typing, Hands",
+    "clip_id": "524385",
+    "order": 550
+  },
+  {
+    "storyId": 28703,
+    "name": "Ocean, Cliff, Drone, Scenic",
+    "clip_id": "517072",
+    "order": 551
+  },
+  {
+    "storyId": 27806,
+    "name": "Iceland, Top Shot, Land, Terrain",
+    "clip_id": "488976",
+    "order": 552
+  },
+  {
+    "storyId": 19501,
+    "name": "Drone, Drone Point Of View, Aerial Shot, Airplane",
+    "clip_id": "231717",
+    "order": 553
+  },
+  {
+    "storyId": 24314,
+    "name": "Trees, Forest, Autumn, Fall",
+    "clip_id": "382550",
+    "order": 554
+  },
+  {
+    "storyId": 28594,
+    "name": "Woman, Working, Laptop, Top Shot",
+    "clip_id": "512040",
+    "order": 555
+  },
+  {
+    "storyId": 27138,
+    "name": "Rooftops, Buildings, Miami, Top Shot",
+    "clip_id": "469478",
+    "order": 556
+  },
+  {
+    "storyId": 28514,
+    "name": "Top Shot, Man, Woman, Living Room",
+    "clip_id": "511962",
+    "order": 557
+  },
+  {
+    "storyId": 27163,
+    "name": "Model, Black Hair, Running, Pier",
+    "clip_id": "469947",
+    "order": 558
+  },
+  {
+    "storyId": 24857,
+    "name": "Studio, Yellow, Still Shot, Backdrop",
+    "clip_id": "398091",
+    "order": 559
+  },
+  {
+    "storyId": 19501,
+    "name": "Drone, Drone Point Of View, Aerial Shot, Airplane",
+    "clip_id": "231725",
+    "order": 560
+  },
+  {
+    "storyId": 19501,
+    "name": "Drone, Drone Point Of View, Aerial Shot, Iceland",
+    "clip_id": "231710",
+    "order": 561
+  },
+  {
+    "storyId": 19501,
+    "name": "Drone, Drone Point Of View, Aerial Shot, Airplane",
+    "clip_id": "231703",
+    "order": 562
+  },
+  {
+    "storyId": 27180,
+    "name": "Cargo Ship, Sailing, Sea, Top Shot",
+    "clip_id": "470287",
+    "order": 563
+  },
+  {
+    "storyId": 28349,
+    "name": "Frankfurt, City, Driving Shot, Buildings",
+    "clip_id": "506253",
+    "order": 564
+  },
+  {
+    "storyId": 26681,
+    "name": "Woman, Posing, Curly, Sunbeams",
+    "clip_id": "455018",
+    "order": 565
+  },
+  {
+    "storyId": 25389,
+    "name": "Motorcycle, Riding Lesson, Marked Court, Drone",
+    "clip_id": "413710",
+    "order": 566
+  },
+  {
+    "storyId": 28594,
+    "name": "Apartment, Top Shot, Living Room, Couch",
+    "clip_id": "511982",
+    "order": 567
+  },
+  {
+    "storyId": 28514,
+    "name": "Top Shot, Living Room, Man, Woman",
+    "clip_id": "511958",
+    "order": 568
+  },
+  {
+    "storyId": 28514,
+    "name": "Top Shot, Man, Woman, Apartment",
+    "clip_id": "511934",
+    "order": 569
+  },
+  {
+    "storyId": 28594,
+    "name": "Man, Woman, Living Room, Top Shot",
+    "clip_id": "511981",
+    "order": 570
+  },
+  {
+    "storyId": 24314,
+    "name": "Trees, Forest, Autumn, Fall",
+    "clip_id": "382551",
+    "order": 571
+  },
+  {
+    "storyId": 25378,
+    "name": "Studio, Desk, Designer, Laptop",
+    "clip_id": "413356",
+    "order": 572
+  },
+  {
+    "storyId": 26923,
+    "name": "Popcorn, Endless, Pile, Beauty Shot",
+    "clip_id": "462537",
+    "order": 573
+  },
+  {
+    "storyId": 28348,
+    "name": "Frankfurt, City, Driving Shot, Buildings",
+    "clip_id": "506243",
+    "order": 574
+  },
+  {
+    "storyId": 28349,
+    "name": "Frankfurt, City, Driving Shot, Buildings",
+    "clip_id": "506247",
+    "order": 575
+  },
+  {
+    "storyId": 28532,
+    "name": "Swings, Man, Woman, Swinging",
+    "clip_id": "512485",
+    "order": 576
+  },
+  {
+    "storyId": 25425,
+    "name": "Workers, Repairing, Railroad, Drone",
+    "clip_id": "414307",
+    "order": 577
+  },
+  {
+    "storyId": 28348,
+    "name": "Frankfurt, City, Driving Shot, Buildings",
+    "clip_id": "506227",
+    "order": 578
+  },
+  {
+    "storyId": 27180,
+    "name": "Cargo Ship, Sailing, Sea, Top Shot",
+    "clip_id": "470291",
+    "order": 579
+  },
+  {
+    "storyId": 27787,
+    "name": "Street, Top Shot, Cleaning Car, Cleaner",
+    "clip_id": "488254",
+    "order": 580
+  },
+  {
+    "storyId": 27036,
+    "name": "Tomato, Lettuce, Falling, Vegetable",
+    "clip_id": "465474",
+    "order": 581
+  },
+  {
+    "storyId": 29190,
+    "name": "Skiing, Snow, Ski, Winter",
+    "clip_id": "529454",
+    "order": 582
+  },
+  {
+    "storyId": 27501,
+    "name": "Man, Old, White Hair, New York",
+    "clip_id": "479457",
+    "order": 583
+  },
+  {
+    "storyId": 28594,
+    "name": "Man, Workout, Living Room, Top Shot",
+    "clip_id": "511997",
+    "order": 584
+  },
+  {
+    "storyId": 28514,
+    "name": "Woman, Working, Laptop, Top Shot",
+    "clip_id": "512031",
+    "order": 585
+  },
+  {
+    "storyId": 24663,
+    "name": "Purple, Starfish, Rocks, Top Shot",
+    "clip_id": "387565",
+    "order": 586
+  },
+  {
+    "storyId": 28762,
+    "name": "Crossroads, Traffic, Highway, Vehicles",
+    "clip_id": "518138",
+    "order": 587
+  },
+  {
+    "storyId": 25392,
+    "name": "Traffic, Roads, Cars, Drainage",
+    "clip_id": "413730",
+    "order": 588
+  },
+  {
+    "storyId": 23653,
+    "name": "Top Shot, Ocean, People, Swimming",
+    "clip_id": "361844",
+    "order": 589
+  },
+  {
+    "storyId": 28349,
+    "name": "Frankfurt, City, Driving Shot, Buildings",
+    "clip_id": "506264",
+    "order": 590
+  },
+  {
+    "storyId": 24857,
+    "name": "Blurred, Studio, Backdrop, Background",
+    "clip_id": "398090",
+    "order": 591
+  },
+  {
+    "storyId": 19731,
+    "name": "Above, Aerial, Aerial Shot, Aerial View",
+    "clip_id": "238140",
+    "order": 592
+  },
+  {
+    "storyId": 25378,
+    "name": "Colleagues, Office, Business Meeting, Top Shot",
+    "clip_id": "413385",
+    "order": 593
+  },
+  {
+    "storyId": 28514,
+    "name": "Top Shot, Man, Woman, Apartment",
+    "clip_id": "511916",
+    "order": 594
+  },
+  {
+    "storyId": 28594,
+    "name": "Top Shot, Man, Workout, Mat",
+    "clip_id": "511991",
+    "order": 595
+  },
+  {
+    "storyId": 28594,
+    "name": "Man, Working, Desk, Top Shot",
+    "clip_id": "512012",
+    "order": 596
+  },
+  {
+    "storyId": 26564,
+    "name": "Artichoke, Field, Farmer, Picking",
+    "clip_id": "451897",
+    "order": 597
+  },
+  {
+    "storyId": 28514,
+    "name": "Man, Working, Desk, Top Shot",
+    "clip_id": "512016",
+    "order": 598
+  },
+  {
+    "storyId": 18110,
+    "name": "group of women drinking shots together indoors",
+    "clip_id": "189461",
+    "order": 599
+  },
+  {
+    "storyId": 25538,
+    "name": "Back Shot, Head, Afro Hair, Subway",
+    "clip_id": "417526",
+    "order": 600
+  },
+  {
+    "storyId": 19886,
+    "name": "Above, Aerial, Aerial Shot, Aerial View",
+    "clip_id": "241784",
+    "order": 601
+  },
+  {
+    "storyId": 28514,
+    "name": "Top Shot, Man, Living Room, Couch",
+    "clip_id": "511941",
+    "order": 602
+  },
+  {
+    "storyId": 28646,
+    "name": "Kids, Walking, Brooklyn Bridge, Tracking Shot",
+    "clip_id": "515615",
+    "order": 603
+  },
+  {
+    "storyId": 29611,
+    "name": "Hills, Valley, Trees, Hilltop",
+    "clip_id": "540955",
+    "order": 604
+  },
+  {
+    "storyId": 28594,
+    "name": "Man, Workout, Living Room, Top Shot",
+    "clip_id": "511999",
+    "order": 605
+  },
+  {
+    "storyId": 28594,
+    "name": "Apartment, Top Shot, Man, Workout",
+    "clip_id": "512003",
+    "order": 606
+  },
+  {
+    "storyId": 26665,
+    "name": "Cargo, Ship, Pink, Top Shot",
+    "clip_id": "454696",
+    "order": 607
+  },
+  {
+    "storyId": 28348,
+    "name": "Frankfurt, City, Driving Shot, Buildings",
+    "clip_id": "506202",
+    "order": 608
+  },
+  {
+    "storyId": 27846,
+    "name": "Man, Woman, Running, Park",
+    "clip_id": "490224",
+    "order": 609
+  },
+  {
+    "storyId": 28514,
+    "name": "Man, Working, Desk, Top Shot",
+    "clip_id": "512021",
+    "order": 610
+  },
+  {
+    "storyId": 28181,
+    "name": "Jellyfish, Sea, Drone, Rhopilema Nomadica",
+    "clip_id": "501192",
+    "order": 611
+  },
+  {
+    "storyId": 28348,
+    "name": "Frankfurt, City, Driving Shot, Buildings",
+    "clip_id": "506226",
+    "order": 612
+  },
+  {
+    "storyId": 28514,
+    "name": "Top Shot, Man, Desk, Laptop",
+    "clip_id": "512013",
+    "order": 613
+  },
+  {
+    "storyId": 28181,
+    "name": "Jellyfish, Sea, Drone, Rhopilema Nomadica",
+    "clip_id": "501201",
+    "order": 614
+  },
+  {
+    "storyId": 28041,
+    "name": "Rowing, Teamwork, Kayak, River",
+    "clip_id": "497222",
+    "order": 615
+  },
+  {
+    "storyId": 23653,
+    "name": "Top Shot, Ocean, People, Swimming",
+    "clip_id": "361849",
+    "order": 616
+  },
+  {
+    "storyId": 28869,
+    "name": "Drone, Truck, Ground, Cocrete",
+    "clip_id": "521239",
+    "order": 617
+  },
+  {
+    "storyId": 24604,
+    "name": "Mountain, Hill, Grass, Top Shot",
+    "clip_id": "388943",
+    "order": 618
+  },
+  {
+    "storyId": 28514,
+    "name": "Top Shot, Woman, Working, Desk",
+    "clip_id": "512027",
+    "order": 619
+  },
+  {
+    "storyId": 27180,
+    "name": "Cargo Ship, Sailing, Sea, Top Shot",
+    "clip_id": "470292",
+    "order": 620
+  },
+  {
+    "storyId": 26033,
+    "name": "Coffee Beans, Roasted, Pile, Falling",
+    "clip_id": "433553",
+    "order": 621
+  },
+  {
+    "storyId": 29007,
+    "name": "Keyboard, Keys, Typing, Hands",
+    "clip_id": "524387",
+    "order": 622
+  },
+  {
+    "storyId": 27180,
+    "name": "Cargo Ship, Sailing, Sea, Top Shot",
+    "clip_id": "470293",
+    "order": 623
+  },
+  {
+    "storyId": 28557,
+    "name": "Woman, Man, Hiking, Backpack",
+    "clip_id": "513023",
+    "order": 624
+  },
+  {
+    "storyId": 28594,
+    "name": "Man, Workout, Living Room, Top Shot",
+    "clip_id": "512002",
+    "order": 625
+  },
+  {
+    "storyId": 28594,
+    "name": "Man, Workout, Living Room, Top Shot",
+    "clip_id": "511993",
+    "order": 626
+  },
+  {
+    "storyId": 28594,
+    "name": "Apartment, Man, Top Shot, Living Room",
+    "clip_id": "511971",
+    "order": 627
+  },
+  {
+    "storyId": 26766,
+    "name": "Sunflowers, Field, Drone, Flowers",
+    "clip_id": "457437",
+    "order": 628
+  },
+  {
+    "storyId": 25389,
+    "name": "Motorcycle, Riding Lesson, Marked Court, Drone",
+    "clip_id": "413708",
+    "order": 629
+  },
+  {
+    "storyId": 28594,
+    "name": "Man, Woman, Living Room, Top Shot",
+    "clip_id": "511977",
+    "order": 630
+  },
+  {
+    "storyId": 28514,
+    "name": "Top Shot, Woman, Man, Living Room",
+    "clip_id": "511957",
+    "order": 631
+  },
+  {
+    "storyId": 28514,
+    "name": "Top Shot, Man, Living Room, Couch",
+    "clip_id": "511947",
+    "order": 632
+  },
+  {
+    "storyId": 28514,
+    "name": "Top Shot, Man, Living Room, Couch",
+    "clip_id": "511949",
+    "order": 633
+  },
+  {
+    "storyId": 28040,
+    "name": "Rowing, Teamwork, River, Kayak",
+    "clip_id": "497199",
+    "order": 634
+  },
+  {
+    "storyId": 26665,
+    "name": "Cargo, Ship, Pink, Top Shot",
+    "clip_id": "454698",
+    "order": 635
+  },
+  {
+    "storyId": 28041,
+    "name": "Rowing, Teamwork, Kayak, River",
+    "clip_id": "497224",
+    "order": 636
+  },
+  {
+    "storyId": 28526,
+    "name": "Man, Woman, Lying, Upside Down",
+    "clip_id": "512297",
+    "order": 637
+  },
+  {
+    "storyId": 25461,
+    "name": "Junkyard, Scrap, Cars, Forklift",
+    "clip_id": "414700",
+    "order": 638
+  },
+  {
+    "storyId": 27355,
+    "name": "Woman, Subway, Station, Waiting",
+    "clip_id": "475180",
+    "order": 639
+  },
+  {
+    "storyId": 27355,
+    "name": "Woman, Subway, Station, Waiting",
+    "clip_id": "475179",
+    "order": 640
+  },
+  {
+    "storyId": 26129,
+    "name": "Detective Desk, Investigation, Docu Crime, Blood Drops",
+    "clip_id": "437222",
+    "order": 641
+  },
+  {
+    "storyId": 26129,
+    "name": "Detective Desk, Investigation, Fingerprints, Docu Crime",
+    "clip_id": "437218",
+    "order": 642
+  },
+  {
+    "storyId": 26129,
+    "name": "Hand, Placing Down, Gun, Detective Desk",
+    "clip_id": "437228",
+    "order": 643
+  },
+  {
+    "storyId": 26129,
+    "name": "Detective Desk, Investigation, Fingerprints, Docu Crime",
+    "clip_id": "437217",
+    "order": 644
+  },
+  {
+    "storyId": 19334,
+    "name": "Munich Skyline, Munich, Frauenkirche Cathedral, Frauenkirche",
+    "clip_id": "226944",
+    "order": 645
+  },
+  {
+    "storyId": 27928,
+    "name": "Psycho, Corpse, Horror, Looking At Camera",
+    "clip_id": "493713",
+    "order": 646
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "241006",
+    "order": 647
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "240978",
+    "order": 648
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "241007",
+    "order": 649
+  },
+  {
+    "storyId": 19795,
+    "name": "Headphones, Head, Guitar, Electric Guitar",
+    "clip_id": "239424",
+    "order": 650
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "241012",
+    "order": 651
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "241014",
+    "order": 652
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "240980",
+    "order": 653
+  },
+  {
+    "storyId": 19325,
+    "name": "Pizza, Oven, Pepperoni, Dough",
+    "clip_id": "226819",
+    "order": 654
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "241009",
+    "order": 655
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "240997",
+    "order": 656
+  },
+  {
+    "storyId": 19325,
+    "name": "Chef, Man, Oven, Cafe",
+    "clip_id": "226820",
+    "order": 657
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "240981",
+    "order": 658
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "240982",
+    "order": 659
+  },
+  {
+    "storyId": 19795,
+    "name": "Headphones, Head, Face, Short Hair",
+    "clip_id": "239425",
+    "order": 660
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "240983",
+    "order": 661
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "241016",
+    "order": 662
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "240986",
+    "order": 663
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "240984",
+    "order": 664
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "240999",
+    "order": 665
+  },
+  {
+    "storyId": 19325,
+    "name": "Chef, Man, Oven, Cafe",
+    "clip_id": "226818",
+    "order": 666
+  },
+  {
+    "storyId": 19325,
+    "name": "Man, Chef, Pizza, Pizzeria",
+    "clip_id": "226794",
+    "order": 667
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Picking Up Bike, Bmx Rider, Street",
+    "clip_id": "240979",
+    "order": 668
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Picking Up Bike, Street",
+    "clip_id": "241003",
+    "order": 669
+  },
+  {
+    "storyId": 19325,
+    "name": "Man, Chef, Pizza, Pizzeria",
+    "clip_id": "226774",
+    "order": 670
+  },
+  {
+    "storyId": 19325,
+    "name": "Man, Chef, Pizza, Pizzeria",
+    "clip_id": "226745",
+    "order": 671
+  },
+  {
+    "storyId": 19325,
+    "name": "Pizza, Oven, Sauce, Dough",
+    "clip_id": "226744",
+    "order": 672
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "241013",
+    "order": 673
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "240989",
+    "order": 674
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "240985",
+    "order": 675
+  },
+  {
+    "storyId": 11500,
+    "name": "woman in red robe standing on sand dune in desert at sunset",
+    "clip_id": "37594",
+    "order": 676
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268955",
+    "order": 677
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268957",
+    "order": 678
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268949",
+    "order": 679
+  },
+  {
+    "storyId": 18990,
+    "name": "Accountant, Actor, Advertising, Actuary",
+    "clip_id": "216829",
+    "order": 680
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268967",
+    "order": 681
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268958",
+    "order": 682
+  },
+  {
+    "storyId": 11500,
+    "name": "woman in red robe walking over dunes in desert aerial",
+    "clip_id": "37593",
+    "order": 683
+  },
+  {
+    "storyId": 27463,
+    "name": "Man, Trekking, Mountains, Italy",
+    "clip_id": "478268",
+    "order": 684
+  },
+  {
+    "storyId": 11500,
+    "name": "woman wearing red robe walking on desert dunes aerial",
+    "clip_id": "37590",
+    "order": 685
+  },
+  {
+    "storyId": 11346,
+    "name": "man turns with a camera in a room",
+    "clip_id": "34742",
+    "order": 686
+  },
+  {
+    "storyId": 11500,
+    "name": "woman in red robe walking on desert dunes at sunset",
+    "clip_id": "37592",
+    "order": 687
+  },
+  {
+    "storyId": 11938,
+    "name": "cars driving on highway on green mountain in bright day",
+    "clip_id": "47094",
+    "order": 688
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Warriors, Battlefield, Battle",
+    "clip_id": "344458",
+    "order": 689
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "274989",
+    "order": 690
+  },
+  {
+    "storyId": 18420,
+    "name": "Woman, Blonde, Beautiful, Headphones",
+    "clip_id": "200604",
+    "order": 691
+  },
+  {
+    "storyId": 11418,
+    "name": "chef frying vegetables and meat in a frying pan",
+    "clip_id": "36416",
+    "order": 692
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268917",
+    "order": 693
+  },
+  {
+    "storyId": 11346,
+    "name": "man recording with a camera in a room",
+    "clip_id": "34741",
+    "order": 694
+  },
+  {
+    "storyId": 11346,
+    "name": "attaching a camera together",
+    "clip_id": "34745",
+    "order": 695
+  },
+  {
+    "storyId": 11346,
+    "name": "attaching a camera together",
+    "clip_id": "34743",
+    "order": 696
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275060",
+    "order": 697
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "274974",
+    "order": 698
+  },
+  {
+    "storyId": 18990,
+    "name": "Movie-Set, Monitor, Filming, Director",
+    "clip_id": "216831",
+    "order": 699
+  },
+  {
+    "storyId": 11346,
+    "name": "cameraman putting battery into camera",
+    "clip_id": "34746",
+    "order": 700
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Battle, Infantry, Warriors",
+    "clip_id": "344454",
+    "order": 701
+  },
+  {
+    "storyId": 23104,
+    "name": "Battle, Knights, Medieval, War",
+    "clip_id": "344440",
+    "order": 702
+  },
+  {
+    "storyId": 23104,
+    "name": "Horsemen, Knights, Cavalry, Battle",
+    "clip_id": "344471",
+    "order": 703
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275043",
+    "order": 704
+  },
+  {
+    "storyId": 11346,
+    "name": "camera filming camera in a room",
+    "clip_id": "34744",
+    "order": 705
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268920",
+    "order": 706
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268942",
+    "order": 707
+  },
+  {
+    "storyId": 23104,
+    "name": "Cavalry, Knights, Warriors, Galloping",
+    "clip_id": "344469",
+    "order": 708
+  },
+  {
+    "storyId": 23104,
+    "name": "Battle, Knights, Swords, Monochrome",
+    "clip_id": "344441",
+    "order": 709
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268925",
+    "order": 710
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "274975",
+    "order": 711
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275112",
+    "order": 712
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268951",
+    "order": 713
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268940",
+    "order": 714
+  },
+  {
+    "storyId": 23104,
+    "name": "Knight, Battlefield, Cavalry, Galloping",
+    "clip_id": "344461",
+    "order": 715
+  },
+  {
+    "storyId": 11650,
+    "name": "woman dancing at the sea during sundown silhouette",
+    "clip_id": "40374",
+    "order": 716
+  },
+  {
+    "storyId": 23104,
+    "name": "Knight, Battle, Warrior, Violence",
+    "clip_id": "344447",
+    "order": 717
+  },
+  {
+    "storyId": 23104,
+    "name": "Battlefield, Dead, Knights, Warriors",
+    "clip_id": "344504",
+    "order": 718
+  },
+  {
+    "storyId": 11346,
+    "name": "man looking through viewfinder",
+    "clip_id": "34739",
+    "order": 719
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268932",
+    "order": 720
+  },
+  {
+    "storyId": 11346,
+    "name": "cameraman sliding his camera on rails in a small room",
+    "clip_id": "34765",
+    "order": 721
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275095",
+    "order": 722
+  },
+  {
+    "storyId": 23104,
+    "name": "Horsemen, Cavalry, Galloping, Warriors",
+    "clip_id": "344473",
+    "order": 723
+  },
+  {
+    "storyId": 11346,
+    "name": "man putting SD card in a camera",
+    "clip_id": "34749",
+    "order": 724
+  },
+  {
+    "storyId": 23104,
+    "name": "Battlefield, Knights, Warriors, Medieval",
+    "clip_id": "344444",
+    "order": 725
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268970",
+    "order": 726
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Stabbing, Battlefield, Battle",
+    "clip_id": "344450",
+    "order": 727
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268941",
+    "order": 728
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268956",
+    "order": 729
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268964",
+    "order": 730
+  },
+  {
+    "storyId": 11346,
+    "name": "man with camera recording from his shoulder",
+    "clip_id": "34761",
+    "order": 731
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268962",
+    "order": 732
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268959",
+    "order": 733
+  },
+  {
+    "storyId": 23104,
+    "name": "Knight, Galloping, Horse, Battle",
+    "clip_id": "344468",
+    "order": 734
+  },
+  {
+    "storyId": 16817,
+    "name": "bright lens flare and moving light leak ",
+    "clip_id": "152275",
+    "order": 735
+  },
+  {
+    "storyId": 23104,
+    "name": "Knight, Armor, Battlefield, Battle",
+    "clip_id": "344446",
+    "order": 736
+  },
+  {
+    "storyId": 16817,
+    "name": "bright white light forming a lens flare ",
+    "clip_id": "152258",
+    "order": 737
+  },
+  {
+    "storyId": 23104,
+    "name": "Battlefield, Warriors, Knights, Battle",
+    "clip_id": "344442",
+    "order": 738
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268950",
+    "order": 739
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268969",
+    "order": 740
+  },
+  {
+    "storyId": 18822,
+    "name": "Vintage, TV, Backyard, Television",
+    "clip_id": "211710",
+    "order": 741
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275011",
+    "order": 742
+  },
+  {
+    "storyId": 23104,
+    "name": "Battle, War, Cavalry, Medieval",
+    "clip_id": "344472",
+    "order": 743
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268965",
+    "order": 744
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275045",
+    "order": 745
+  },
+  {
+    "storyId": 18822,
+    "name": "Abstract, Creation, TV, Color",
+    "clip_id": "211712",
+    "order": 746
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268971",
+    "order": 747
+  },
+  {
+    "storyId": 23104,
+    "name": "Knight, Battlefield, Fight, Battle",
+    "clip_id": "344453",
+    "order": 748
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268972",
+    "order": 749
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268973",
+    "order": 750
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "274978",
+    "order": 751
+  },
+  {
+    "storyId": 17863,
+    "name": "colorful streaks of light ",
+    "clip_id": "179764",
+    "order": 752
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Stabbing, Battle, Falling",
+    "clip_id": "344452",
+    "order": 753
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275003",
+    "order": 754
+  },
+  {
+    "storyId": 18822,
+    "name": "Vintage, TV, Backyard, Television",
+    "clip_id": "211714",
+    "order": 755
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275015",
+    "order": 756
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "274977",
+    "order": 757
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275000",
+    "order": 758
+  },
+  {
+    "storyId": 27463,
+    "name": "Men, Trekking, Mountains, Italy",
+    "clip_id": "478270",
+    "order": 759
+  },
+  {
+    "storyId": 11346,
+    "name": "cameraman truning off his camera",
+    "clip_id": "34747",
+    "order": 760
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268966",
+    "order": 761
+  },
+  {
+    "storyId": 16817,
+    "name": "flashing polygonal lens flare",
+    "clip_id": "152316",
+    "order": 762
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268939",
+    "order": 763
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Warriors, Infantry, Battle",
+    "clip_id": "344455",
+    "order": 764
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275122",
+    "order": 765
+  },
+  {
+    "storyId": 18990,
+    "name": "Movie-Set, Monitor, Filming, Director",
+    "clip_id": "216830",
+    "order": 766
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268927",
+    "order": 767
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268922",
+    "order": 768
+  },
+  {
+    "storyId": 18822,
+    "name": "Vintage, TV, Backyard, Television",
+    "clip_id": "211709",
+    "order": 769
+  },
+  {
+    "storyId": 23104,
+    "name": "Knight, Infantry, Battle, War",
+    "clip_id": "344460",
+    "order": 770
+  },
+  {
+    "storyId": 18822,
+    "name": "Vintage, TV, Backyard, Television",
+    "clip_id": "211711",
+    "order": 771
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268918",
+    "order": 772
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268924",
+    "order": 773
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275109",
+    "order": 774
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268926",
+    "order": 775
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "274993",
+    "order": 776
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "274979",
+    "order": 777
+  },
+  {
+    "storyId": 20207,
+    "name": "Man, Punching-Bag, Boxing, Motivation",
+    "clip_id": "250874",
+    "order": 778
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268931",
+    "order": 779
+  },
+  {
+    "storyId": 17863,
+    "name": "light overlays ",
+    "clip_id": "179784",
+    "order": 780
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275039",
+    "order": 781
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268946",
+    "order": 782
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268921",
+    "order": 783
+  },
+  {
+    "storyId": 11346,
+    "name": "filmmaker recording from a low angle",
+    "clip_id": "34758",
+    "order": 784
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275054",
+    "order": 785
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275005",
+    "order": 786
+  },
+  {
+    "storyId": 17863,
+    "name": "silver and gold foil overlay ",
+    "clip_id": "179804",
+    "order": 787
+  },
+  {
+    "storyId": 16817,
+    "name": "lights forming lens flare and a light leak ",
+    "clip_id": "152260",
+    "order": 788
+  },
+  {
+    "storyId": 16817,
+    "name": "wide and moving lens flare",
+    "clip_id": "152288",
+    "order": 789
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268919",
+    "order": 790
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268954",
+    "order": 791
+  },
+  {
+    "storyId": 23104,
+    "name": "Knight, Battle, War, Fight",
+    "clip_id": "344445",
+    "order": 792
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268948",
+    "order": 793
+  },
+  {
+    "storyId": 16817,
+    "name": "polygonal moving lens flare",
+    "clip_id": "152268",
+    "order": 794
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268923",
+    "order": 795
+  },
+  {
+    "storyId": 16817,
+    "name": "bright lens flare and a moving light leak",
+    "clip_id": "152266",
+    "order": 796
+  },
+  {
+    "storyId": 27463,
+    "name": "Men, Hiking, Mountains, Fog",
+    "clip_id": "478271",
+    "order": 797
+  },
+  {
+    "storyId": 17863,
+    "name": "low light shining on a black background",
+    "clip_id": "179780",
+    "order": 798
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "274985",
+    "order": 799
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275108",
+    "order": 800
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275101",
+    "order": 801
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "274999",
+    "order": 802
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268936",
+    "order": 803
+  },
+  {
+    "storyId": 17863,
+    "name": "yellow light overlays ",
+    "clip_id": "179775",
+    "order": 804
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Horses, Cavalry, Battle",
+    "clip_id": "344464",
+    "order": 805
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "274998",
+    "order": 806
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Battle, War, Fight",
+    "clip_id": "344457",
+    "order": 807
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Armor, Warriors, Battlefield",
+    "clip_id": "344456",
+    "order": 808
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275086",
+    "order": 809
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268944",
+    "order": 810
+  },
+  {
+    "storyId": 17863,
+    "name": "soft light overlay ",
+    "clip_id": "179789",
+    "order": 811
+  },
+  {
+    "storyId": 15388,
+    "name": "take up reel advancing and rewinding with movie film",
+    "clip_id": "114758",
+    "order": 812
+  },
+  {
+    "storyId": 16817,
+    "name": "bright purple lens flare scattering light into a lens flare",
+    "clip_id": "152290",
+    "order": 813
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268938",
+    "order": 814
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275077",
+    "order": 815
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275012",
+    "order": 816
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "274983",
+    "order": 817
+  },
+  {
+    "storyId": 17863,
+    "name": "soft white light overlay",
+    "clip_id": "179790",
+    "order": 818
+  },
+  {
+    "storyId": 29081,
+    "name": "Men, Fighting, Kick, Punch",
+    "clip_id": "526445",
+    "order": 819
+  },
+  {
+    "storyId": 20409,
+    "name": "Hacker, Crime, Software, Computer",
+    "clip_id": "257613",
+    "order": 820
+  },
+  {
+    "storyId": 11650,
+    "name": "woman dancing on the seashore at sunset silhouette",
+    "clip_id": "40379",
+    "order": 821
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275001",
+    "order": 822
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268943",
+    "order": 823
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275093",
+    "order": 824
+  },
+  {
+    "storyId": 11650,
+    "name": "woman dancing like a ballerina near the sea at sunset silhouette",
+    "clip_id": "40375",
+    "order": 825
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268933",
+    "order": 826
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268945",
+    "order": 827
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268947",
+    "order": 828
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275119",
+    "order": 829
+  },
+  {
+    "storyId": 11346,
+    "name": "cameraman putting a battery into camera",
+    "clip_id": "34781",
+    "order": 830
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275041",
+    "order": 831
+  },
+  {
+    "storyId": 16817,
+    "name": "bright and colorful moving light leak ",
+    "clip_id": "152286",
+    "order": 832
+  },
+  {
+    "storyId": 17863,
+    "name": "pink and white overlay ",
+    "clip_id": "179801",
+    "order": 833
+  },
+  {
+    "storyId": 17863,
+    "name": "red light overlay ",
+    "clip_id": "179768",
+    "order": 834
+  },
+  {
+    "storyId": 16817,
+    "name": "bright orange lens flare ",
+    "clip_id": "152370",
+    "order": 835
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268934",
+    "order": 836
+  },
+  {
+    "storyId": 11346,
+    "name": "man putting SD card in a camera",
+    "clip_id": "34748",
+    "order": 837
+  },
+  {
+    "storyId": 16817,
+    "name": "bright white light scattering a blue and green lens flare",
+    "clip_id": "152294",
+    "order": 838
+  },
+  {
+    "storyId": 17863,
+    "name": "low light in the dark ",
+    "clip_id": "179782",
+    "order": 839
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275016",
+    "order": 840
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "274995",
+    "order": 841
+  },
+  {
+    "storyId": 16817,
+    "name": "moving red lens flare",
+    "clip_id": "152280",
+    "order": 842
+  },
+  {
+    "storyId": 18822,
+    "name": "Vintage, TV, Backyard, Television",
+    "clip_id": "211713",
+    "order": 843
+  },
+  {
+    "storyId": 26129,
+    "name": "Detective Board, Map, Red Thread, Docu Crime",
+    "clip_id": "437209",
+    "order": 844
+  },
+  {
+    "storyId": 16817,
+    "name": "colorful light leak and moving  lens flare",
+    "clip_id": "152285",
+    "order": 845
+  },
+  {
+    "storyId": 16817,
+    "name": "moving lens flare and light leak",
+    "clip_id": "152265",
+    "order": 846
+  },
+  {
+    "storyId": 16817,
+    "name": "polygonal lens flare and white moving light leak",
+    "clip_id": "152303",
+    "order": 847
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275058",
+    "order": 848
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268952",
+    "order": 849
+  },
+  {
+    "storyId": 16817,
+    "name": "colorful lens flare and moving light leaks",
+    "clip_id": "152405",
+    "order": 850
+  },
+  {
+    "storyId": 29081,
+    "name": "Men, Fight, Scene, Kick",
+    "clip_id": "526444",
+    "order": 851
+  },
+  {
+    "storyId": 11346,
+    "name": "cameraman turning on the light from a stand",
+    "clip_id": "34769",
+    "order": 852
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "274976",
+    "order": 853
+  },
+  {
+    "storyId": 17863,
+    "name": "subtle white overlay ",
+    "clip_id": "179795",
+    "order": 854
+  },
+  {
+    "storyId": 11346,
+    "name": "cameraman recording from a low place",
+    "clip_id": "34757",
+    "order": 855
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "274980",
+    "order": 856
+  },
+  {
+    "storyId": 11346,
+    "name": "cameraman lifting his camera bag and leave the place",
+    "clip_id": "34784",
+    "order": 857
+  },
+  {
+    "storyId": 16817,
+    "name": "bright light leaking and causing lens flare",
+    "clip_id": "152341",
+    "order": 858
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275076",
+    "order": 859
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275087",
+    "order": 860
+  },
+  {
+    "storyId": 11346,
+    "name": "cameraman pressing recording button",
+    "clip_id": "34756",
+    "order": 861
+  },
+  {
+    "storyId": 20207,
+    "name": "Man, Punching-Bag, Boxing, Motivation",
+    "clip_id": "250870",
+    "order": 862
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275014",
+    "order": 863
+  },
+  {
+    "storyId": 17863,
+    "name": "light on black background ",
+    "clip_id": "179756",
+    "order": 864
+  },
+  {
+    "storyId": 11346,
+    "name": "cameraman tighten up a stand",
+    "clip_id": "34775",
+    "order": 865
+  },
+  {
+    "storyId": 26730,
+    "name": "Alpaca, Herd, Sajama, Bolivia",
+    "clip_id": "456149",
+    "order": 866
+  },
+  {
+    "storyId": 27674,
+    "name": "Blue Eyes, Beauty, Facial, Modelling",
+    "clip_id": "483657",
+    "order": 867
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "274987",
+    "order": 868
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275049",
+    "order": 869
+  },
+  {
+    "storyId": 15388,
+    "name": "movie projector reel turning in front of a lens",
+    "clip_id": "114761",
+    "order": 870
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275047",
+    "order": 871
+  },
+  {
+    "storyId": 17863,
+    "name": "soft light overlay ",
+    "clip_id": "179766",
+    "order": 872
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268974",
+    "order": 873
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268935",
+    "order": 874
+  },
+  {
+    "storyId": 16817,
+    "name": "bright white lens flare scattering light into a lens flare",
+    "clip_id": "152289",
+    "order": 875
+  },
+  {
+    "storyId": 16817,
+    "name": "flashing polygonal lens flare",
+    "clip_id": "152348",
+    "order": 876
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275006",
+    "order": 877
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "274996",
+    "order": 878
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275090",
+    "order": 879
+  },
+  {
+    "storyId": 19071,
+    "name": "Gangster, Man, Street, Criminal",
+    "clip_id": "218411",
+    "order": 880
+  },
+  {
+    "storyId": 16817,
+    "name": "purple lights forming a lens flare and light leak ",
+    "clip_id": "152262",
+    "order": 881
+  },
+  {
+    "storyId": 26730,
+    "name": "Shepherd, Woman, Alpaca, Sajama",
+    "clip_id": "456172",
+    "order": 882
+  },
+  {
+    "storyId": 15388,
+    "name": "film projector reel turning in front of a lens",
+    "clip_id": "114762",
+    "order": 883
+  },
+  {
+    "storyId": 16817,
+    "name": "glowing lens flare and moving light leak ",
+    "clip_id": "152273",
+    "order": 884
+  },
+  {
+    "storyId": 26730,
+    "name": "Indigenous, Alpaca, Shepherd, Sajama",
+    "clip_id": "456171",
+    "order": 885
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275062",
+    "order": 886
+  },
+  {
+    "storyId": 17863,
+    "name": "white overlay",
+    "clip_id": "179760",
+    "order": 887
+  },
+  {
+    "storyId": 16817,
+    "name": "lens flare moving left to right ",
+    "clip_id": "152277",
+    "order": 888
+  },
+  {
+    "storyId": 11418,
+    "name": "chef adding parsley to hot pan",
+    "clip_id": "36417",
+    "order": 889
+  },
+  {
+    "storyId": 26129,
+    "name": "Detective Board, Map, Suspect, Docu Crime",
+    "clip_id": "437236",
+    "order": 890
+  },
+  {
+    "storyId": 16817,
+    "name": "bright light dispersing into a lens flare",
+    "clip_id": "152376",
+    "order": 891
+  },
+  {
+    "storyId": 11346,
+    "name": "cameraman putting camera on his shoulder",
+    "clip_id": "34759",
+    "order": 892
+  },
+  {
+    "storyId": 26730,
+    "name": "Alpaca, Looking At Camera, Sajama, Bolivia",
+    "clip_id": "456202",
+    "order": 893
+  },
+  {
+    "storyId": 18919,
+    "name": "Angry, Cool, Dramatic, Macho",
+    "clip_id": "215064",
+    "order": 894
+  },
+  {
+    "storyId": 11938,
+    "name": "cars driving on highway near pine forest",
+    "clip_id": "47095",
+    "order": 895
+  },
+  {
+    "storyId": 16817,
+    "name": "bright light causing a moving lens flare",
+    "clip_id": "152291",
+    "order": 896
+  },
+  {
+    "storyId": 18420,
+    "name": "Woman, Pregnant, Blonde, Model",
+    "clip_id": "200599",
+    "order": 897
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275007",
+    "order": 898
+  },
+  {
+    "storyId": 16817,
+    "name": "colorful light leak moving and shining bright",
+    "clip_id": "152436",
+    "order": 899
+  },
+  {
+    "storyId": 11346,
+    "name": "man holding camera in a room",
+    "clip_id": "34736",
+    "order": 900
+  },
+  {
+    "storyId": 20409,
+    "name": "Hacker, Face, Woman, Computer",
+    "clip_id": "257610",
+    "order": 901
+  },
+  {
+    "storyId": 16817,
+    "name": "lens flare twinkling bright",
+    "clip_id": "152324",
+    "order": 902
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275124",
+    "order": 903
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275116",
+    "order": 904
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "274984",
+    "order": 905
+  },
+  {
+    "storyId": 17863,
+    "name": "light shining ",
+    "clip_id": "179752",
+    "order": 906
+  },
+  {
+    "storyId": 16817,
+    "name": "light scattering into a head-on lens flare",
+    "clip_id": "152444",
+    "order": 907
+  },
+  {
+    "storyId": 11938,
+    "name": "cars driving on highway on a green mountain in bright day",
+    "clip_id": "47093",
+    "order": 908
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "274994",
+    "order": 909
+  },
+  {
+    "storyId": 18822,
+    "name": "Vintage, TV, Backyard, Television",
+    "clip_id": "211721",
+    "order": 910
+  },
+  {
+    "storyId": 16817,
+    "name": "beam of light scattering into a light leak",
+    "clip_id": "152272",
+    "order": 911
+  },
+  {
+    "storyId": 20409,
+    "name": "Hacker, Room, Hacking, Crime",
+    "clip_id": "257622",
+    "order": 912
+  },
+  {
+    "storyId": 16817,
+    "name": "lens flare and a light leak scattering light",
+    "clip_id": "152269",
+    "order": 913
+  },
+  {
+    "storyId": 16817,
+    "name": "bright white light leaks and lens flare",
+    "clip_id": "152397",
+    "order": 914
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268953",
+    "order": 915
+  },
+  {
+    "storyId": 20409,
+    "name": "Hacker, Underworld, Hackers, Virtual",
+    "clip_id": "257623",
+    "order": 916
+  },
+  {
+    "storyId": 17863,
+    "name": "subtle white light",
+    "clip_id": "179797",
+    "order": 917
+  },
+  {
+    "storyId": 17863,
+    "name": "yellow light streaks",
+    "clip_id": "179774",
+    "order": 918
+  },
+  {
+    "storyId": 17863,
+    "name": "light overlay ",
+    "clip_id": "179759",
+    "order": 919
+  },
+  {
+    "storyId": 27463,
+    "name": "Mountains, Fog, Fpv, Italy",
+    "clip_id": "478273",
+    "order": 920
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275085",
+    "order": 921
+  },
+  {
+    "storyId": 20207,
+    "name": "Man, Punching-Bag, Boxing, Motivation",
+    "clip_id": "250869",
+    "order": 922
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "274991",
+    "order": 923
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275004",
+    "order": 924
+  },
+  {
+    "storyId": 17863,
+    "name": "soft white light overlays ",
+    "clip_id": "179791",
+    "order": 925
+  },
+  {
+    "storyId": 11346,
+    "name": "cameraman rising a c-stand in a small room",
+    "clip_id": "34768",
+    "order": 926
+  },
+  {
+    "storyId": 16817,
+    "name": "turquoise lens flare",
+    "clip_id": "152322",
+    "order": 927
+  },
+  {
+    "storyId": 16817,
+    "name": "bright light leak and a moving polygonal lens flare",
+    "clip_id": "152305",
+    "order": 928
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268961",
+    "order": 929
+  },
+  {
+    "storyId": 16817,
+    "name": "polygonal lens flare moving right to left",
+    "clip_id": "152276",
+    "order": 930
+  },
+  {
+    "storyId": 16817,
+    "name": "pale purple lens flare ",
+    "clip_id": "152422",
+    "order": 931
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268929",
+    "order": 932
+  },
+  {
+    "storyId": 16817,
+    "name": "large colorful lens flare",
+    "clip_id": "152398",
+    "order": 933
+  },
+  {
+    "storyId": 26129,
+    "name": "Detective Board, Map, Shadow, Docu Crime",
+    "clip_id": "437234",
+    "order": 934
+  },
+  {
+    "storyId": 22157,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275088",
+    "order": 935
+  },
+  {
+    "storyId": 27463,
+    "name": "Mountains, Fog, Fpv, Italy",
+    "clip_id": "478272",
+    "order": 936
+  },
+  {
+    "storyId": 16817,
+    "name": "bright light causing a moving large light leak",
+    "clip_id": "152331",
+    "order": 937
+  },
+  {
+    "storyId": 20749,
+    "name": "Police, 1970S, Car, Law",
+    "clip_id": "268930",
+    "order": 938
+  },
+  {
+    "storyId": 20207,
+    "name": "Man, Punching-Bag, Boxing, Motivation",
+    "clip_id": "250871",
+    "order": 939
+  },
+  {
+    "storyId": 16817,
+    "name": "fast moving multiple lens flare",
+    "clip_id": "152394",
+    "order": 940
+  },
+  {
+    "storyId": 26730,
+    "name": "Indigenous, Shepherd, Alpaca, Sajama",
+    "clip_id": "456170",
+    "order": 941
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "274992",
+    "order": 942
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "274990",
+    "order": 943
+  },
+  {
+    "storyId": 16817,
+    "name": "fast moving purple light leak",
+    "clip_id": "152408",
+    "order": 944
+  },
+  {
+    "storyId": 16817,
+    "name": "moving leans flare and light leak",
+    "clip_id": "152381",
+    "order": 945
+  },
+  {
+    "storyId": 20207,
+    "name": "Man, Punching-Bag, Boxing, Motivation",
+    "clip_id": "250872",
+    "order": 946
+  },
+  {
+    "storyId": 16817,
+    "name": "multiple bright lens flare",
+    "clip_id": "152363",
+    "order": 947
+  },
+  {
+    "storyId": 16817,
+    "name": "bright light causing an orange lens flare",
+    "clip_id": "152360",
+    "order": 948
+  },
+  {
+    "storyId": 20996,
+    "name": "Flare, Lens Flare, Light Leak, Overlay",
+    "clip_id": "275002",
+    "order": 949
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "query": "sustainability",
+    "clip_id": "317994",
+    "story_id": "22223",
+    "autoRank": "0.31595234935414368"
+  },
+  {
+    "query": "sustainability",
+    "clip_id": "109281",
+    "story_id": "15134",
+    "autoRank": "0.31440568236415256"
+  }
+]

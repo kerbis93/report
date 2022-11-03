@@ -1,0 +1,5702 @@
+[
+  {
+    "storyId": 27982,
+    "name": "Picking, Harvesting, Coffee Beans, Berries",
+    "clip_id": "495566",
+    "order": 0
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Coffee Berries, Farmer, Harvesting",
+    "clip_id": "495564",
+    "order": 1
+  },
+  {
+    "storyId": 27982,
+    "name": "Plantation, Coffee Plants, Farmers, Workers",
+    "clip_id": "495594",
+    "order": 2
+  },
+  {
+    "storyId": 27982,
+    "name": "Coffee Berries, Berries, Crop Basket, Produce",
+    "clip_id": "495592",
+    "order": 3
+  },
+  {
+    "storyId": 27982,
+    "name": "Farmer, Picking, Coffee Beans, Berries",
+    "clip_id": "495577",
+    "order": 4
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Plant, Crop, Coffee Beans",
+    "clip_id": "495570",
+    "order": 5
+  },
+  {
+    "storyId": 27982,
+    "name": "Berries, Coffee Beans, Colombia, Plant",
+    "clip_id": "495571",
+    "order": 6
+  },
+  {
+    "storyId": 27982,
+    "name": "Plantation, Coffee Plants, Farmer, Picking",
+    "clip_id": "495597",
+    "order": 7
+  },
+  {
+    "storyId": 27982,
+    "name": "Farmer, Plantation, Picking, Berries",
+    "clip_id": "495586",
+    "order": 8
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Berries, Plant, Harvesting",
+    "clip_id": "495579",
+    "order": 9
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Harvesting, Coffee Beans, Berries",
+    "clip_id": "495572",
+    "order": 10
+  },
+  {
+    "storyId": 21324,
+    "name": "Coffee, Makineta, Cup, Berries",
+    "clip_id": "286676",
+    "order": 11
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Plant, Coffee Beans, Berries",
+    "clip_id": "495569",
+    "order": 12
+  },
+  {
+    "storyId": 27982,
+    "name": "Plantation, Farmer, Picking, Coffee Plants",
+    "clip_id": "495587",
+    "order": 13
+  },
+  {
+    "storyId": 27982,
+    "name": "Coffee Beans, Ripe, Crop, Berries",
+    "clip_id": "495595",
+    "order": 14
+  },
+  {
+    "storyId": 27982,
+    "name": "Coffee Berries, Picking, Colombia, Coffee Beans",
+    "clip_id": "495563",
+    "order": 15
+  },
+  {
+    "storyId": 27982,
+    "name": "Coffee Bean, Holding, Farmer, Plant",
+    "clip_id": "495614",
+    "order": 16
+  },
+  {
+    "storyId": 27982,
+    "name": "Farmer, Plantation, Coffee Plants, Picking",
+    "clip_id": "495589",
+    "order": 17
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Coffee Beans, Berries, Plantation",
+    "clip_id": "495578",
+    "order": 18
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Coffee Beans, Berries, Farmer",
+    "clip_id": "495576",
+    "order": 19
+  },
+  {
+    "storyId": 27982,
+    "name": "Plantation, Coffee Plants, Picking, Berries",
+    "clip_id": "495588",
+    "order": 20
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Farmer, Berries, Plantation",
+    "clip_id": "495568",
+    "order": 21
+  },
+  {
+    "storyId": 27982,
+    "name": "Harvesting, Picking, Crop, Coffee Beans",
+    "clip_id": "495562",
+    "order": 22
+  },
+  {
+    "storyId": 27982,
+    "name": "Plantation, Coffee Plants, Farmers, Workers",
+    "clip_id": "495593",
+    "order": 23
+  },
+  {
+    "storyId": 18706,
+    "name": "Cinemagraph, Croissant, Pastry, Coffee",
+    "clip_id": "208671",
+    "order": 24
+  },
+  {
+    "storyId": 27982,
+    "name": "Plantation, Farmer, Coffee Plants, Picking",
+    "clip_id": "495585",
+    "order": 25
+  },
+  {
+    "storyId": 27982,
+    "name": "Coffee Plants, Plantation, Picking, Farmer",
+    "clip_id": "495590",
+    "order": 26
+  },
+  {
+    "storyId": 27982,
+    "name": "Plantation, Coffee Plants, Farmer, Picking",
+    "clip_id": "495596",
+    "order": 27
+  },
+  {
+    "storyId": 27982,
+    "name": "Peel, Coffee Bean, Hands, Ripe",
+    "clip_id": "495591",
+    "order": 28
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Coffee Beans, Plantation, Harvesting",
+    "clip_id": "495575",
+    "order": 29
+  },
+  {
+    "storyId": 27982,
+    "name": "Farmer, Picking, Harvesting, Coffee Beans",
+    "clip_id": "495574",
+    "order": 30
+  },
+  {
+    "storyId": 12496,
+    "name": "berries dropped into a cup filled with yogurt",
+    "clip_id": "56506",
+    "order": 31
+  },
+  {
+    "storyId": 27982,
+    "name": "Farmer, Plantation, Coffee Beans, Picking",
+    "clip_id": "495573",
+    "order": 32
+  },
+  {
+    "storyId": 12514,
+    "name": "close up of raspberries in a pile",
+    "clip_id": "56816",
+    "order": 33
+  },
+  {
+    "storyId": 15539,
+    "name": "Berries, Strawberries, Drops, Water",
+    "clip_id": "118000",
+    "order": 34
+  },
+  {
+    "storyId": 18706,
+    "name": "Cinemagraph, Breakfast, Coffee, Croissant",
+    "clip_id": "208682",
+    "order": 35
+  },
+  {
+    "storyId": 21558,
+    "name": "Pancakes, Chocolate, Whipped Cream, Berries",
+    "clip_id": "294484",
+    "order": 36
+  },
+  {
+    "storyId": 13907,
+    "name": "berries splashing into cream ",
+    "clip_id": "81136",
+    "order": 37
+  },
+  {
+    "storyId": 11607,
+    "name": "dried red berries in a chinese market stall ",
+    "clip_id": "39694",
+    "order": 38
+  },
+  {
+    "storyId": 23362,
+    "name": "Blackberry, Yogurt, Fruit, Milk",
+    "clip_id": "353653",
+    "order": 39
+  },
+  {
+    "storyId": 13469,
+    "name": "topping decorated on a cake ",
+    "clip_id": "71052",
+    "order": 40
+  },
+  {
+    "storyId": 13285,
+    "name": "strawberry with stem attached ",
+    "clip_id": "68278",
+    "order": 41
+  },
+  {
+    "storyId": 14651,
+    "name": "raspberries falling into a bowl ",
+    "clip_id": "97506",
+    "order": 42
+  },
+  {
+    "storyId": 12438,
+    "name": "Berries in cardboard boxes laid out for display",
+    "clip_id": "55772",
+    "order": 43
+  },
+  {
+    "storyId": 21022,
+    "name": "Summer Fruits, Strawberry, Fruit, Blackberry",
+    "clip_id": "275716",
+    "order": 44
+  },
+  {
+    "storyId": 13990,
+    "name": "berries and red powder exploding in the air",
+    "clip_id": "82603",
+    "order": 45
+  },
+  {
+    "storyId": 13285,
+    "name": "strawberry on display",
+    "clip_id": "68277",
+    "order": 46
+  },
+  {
+    "storyId": 23346,
+    "name": "Kid, Picking, Berries, Raspberries",
+    "clip_id": "352810",
+    "order": 47
+  },
+  {
+    "storyId": 11719,
+    "name": "red berries in the red petaled flower in the summer",
+    "clip_id": "42601",
+    "order": 48
+  },
+  {
+    "storyId": 21586,
+    "name": "Raspberries, Fruit, Pink Background, Falling",
+    "clip_id": "295759",
+    "order": 49
+  },
+  {
+    "storyId": 13285,
+    "name": "strawberry with stem attached on display",
+    "clip_id": "68279",
+    "order": 50
+  },
+  {
+    "storyId": 21586,
+    "name": "Strawberries, Fruit, Fresh, Ingredient",
+    "clip_id": "295790",
+    "order": 51
+  },
+  {
+    "storyId": 13907,
+    "name": "berries splashing into cream being poured",
+    "clip_id": "81135",
+    "order": 52
+  },
+  {
+    "storyId": 21558,
+    "name": "Pancakes, Whipped Cream, Berries, Nuts",
+    "clip_id": "294483",
+    "order": 53
+  },
+  {
+    "storyId": 12180,
+    "name": "Red berries on tree with sun shinning",
+    "clip_id": "49939",
+    "order": 54
+  },
+  {
+    "storyId": 11719,
+    "name": "red berries in a red flower with a blurred background",
+    "clip_id": "42600",
+    "order": 55
+  },
+  {
+    "storyId": 21586,
+    "name": "Raspberries, Brown Chocolate, Fresh, Fruit",
+    "clip_id": "295760",
+    "order": 56
+  },
+  {
+    "storyId": 19975,
+    "name": "Raspberry, Fruit, Berry, Squashing",
+    "clip_id": "244579",
+    "order": 57
+  },
+  {
+    "storyId": 21586,
+    "name": "Raspberries, Fruit, Berries, Fresh",
+    "clip_id": "295758",
+    "order": 58
+  },
+  {
+    "storyId": 13574,
+    "name": "castle remains aerial",
+    "clip_id": "73547",
+    "order": 59
+  },
+  {
+    "storyId": 21558,
+    "name": "Pancakes, Syrup, Maple, Whipped Cream",
+    "clip_id": "294485",
+    "order": 60
+  },
+  {
+    "storyId": 25744,
+    "name": "Blueberries, Splash, Falling, Cutting Board",
+    "clip_id": "423827",
+    "order": 61
+  },
+  {
+    "storyId": 12438,
+    "name": "Berries displayed in cardboard boxes",
+    "clip_id": "55770",
+    "order": 62
+  },
+  {
+    "storyId": 13309,
+    "name": "ripe strawberries rack-focus",
+    "clip_id": "68621",
+    "order": 63
+  },
+  {
+    "storyId": 25744,
+    "name": "Blueberries, Splash, Falling, Fruit",
+    "clip_id": "423828",
+    "order": 64
+  },
+  {
+    "storyId": 21022,
+    "name": "Pancake, Dessert, Fruit, Icing Sugar",
+    "clip_id": "275780",
+    "order": 65
+  },
+  {
+    "storyId": 11719,
+    "name": "small purple and pink berries hanging from plants",
+    "clip_id": "42624",
+    "order": 66
+  },
+  {
+    "storyId": 14961,
+    "name": "woman picking berries from a bush in nature ",
+    "clip_id": "105377",
+    "order": 67
+  },
+  {
+    "storyId": 24586,
+    "name": "Holly, Berries, Wet, Red",
+    "clip_id": "387699",
+    "order": 68
+  },
+  {
+    "storyId": 21022,
+    "name": "Fruit, Strawberry, Berries, Raspberries",
+    "clip_id": "275772",
+    "order": 69
+  },
+  {
+    "storyId": 23346,
+    "name": "Girl, Picking, Berries, Raspberries",
+    "clip_id": "352818",
+    "order": 70
+  },
+  {
+    "storyId": 13309,
+    "name": "strawberries growing rack-focus",
+    "clip_id": "68622",
+    "order": 71
+  },
+  {
+    "storyId": 23994,
+    "name": "Berries, Cranberries, Leaves, Berry",
+    "clip_id": "373142",
+    "order": 72
+  },
+  {
+    "storyId": 24495,
+    "name": "Blueberries, Purple, Berries, Bowl",
+    "clip_id": "385699",
+    "order": 73
+  },
+  {
+    "storyId": 24495,
+    "name": "Strawberries, Berries, Red, Pile",
+    "clip_id": "385690",
+    "order": 74
+  },
+  {
+    "storyId": 16569,
+    "name": "two children decorating a cake with blueberries indoors",
+    "clip_id": "144250",
+    "order": 75
+  },
+  {
+    "storyId": 17111,
+    "name": "person spooning raspberries into a jug of cream ",
+    "clip_id": "160570",
+    "order": 76
+  },
+  {
+    "storyId": 12438,
+    "name": "Raspberries and blueberries in cartons",
+    "clip_id": "55769",
+    "order": 77
+  },
+  {
+    "storyId": 23346,
+    "name": "Girl, Picking, Berries, Raspberries",
+    "clip_id": "352814",
+    "order": 78
+  },
+  {
+    "storyId": 13574,
+    "name": "castle ruins aerial ",
+    "clip_id": "73549",
+    "order": 79
+  },
+  {
+    "storyId": 15306,
+    "name": "strawberry falling onto a pile of powdered sugar ",
+    "clip_id": "112961",
+    "order": 80
+  },
+  {
+    "storyId": 24495,
+    "name": "Strawberries, Berries, Red, Pile",
+    "clip_id": "385691",
+    "order": 81
+  },
+  {
+    "storyId": 13907,
+    "name": "strawberry going through a stream of melted chocolate",
+    "clip_id": "81139",
+    "order": 82
+  },
+  {
+    "storyId": 18569,
+    "name": "Woman, Picking, Berries, Wild",
+    "clip_id": "204660",
+    "order": 83
+  },
+  {
+    "storyId": 24495,
+    "name": "Strawberries, Berries, Red, Pile",
+    "clip_id": "385689",
+    "order": 84
+  },
+  {
+    "storyId": 13574,
+    "name": "ruins of a castle aerial",
+    "clip_id": "73548",
+    "order": 85
+  },
+  {
+    "storyId": 24495,
+    "name": "Strawberries, Red, Berries, Pile",
+    "clip_id": "385686",
+    "order": 86
+  },
+  {
+    "storyId": 21022,
+    "name": "Berries, Strawberries, Blackberries, Peaches",
+    "clip_id": "275769",
+    "order": 87
+  },
+  {
+    "storyId": 28890,
+    "name": "Autumn, Leaves, Fall, Golden",
+    "clip_id": "521559",
+    "order": 88
+  },
+  {
+    "storyId": 13574,
+    "name": "windows in castle ruins aerial",
+    "clip_id": "73551",
+    "order": 89
+  },
+  {
+    "storyId": 24495,
+    "name": "Strawberries, Dewberries, Blueberries, Raspberries",
+    "clip_id": "385695",
+    "order": 90
+  },
+  {
+    "storyId": 23346,
+    "name": "Girl, Picking, Berries, Raspberries",
+    "clip_id": "352817",
+    "order": 91
+  },
+  {
+    "storyId": 24618,
+    "name": "Street Market, Berries, Stand, Fresh",
+    "clip_id": "389421",
+    "order": 92
+  },
+  {
+    "storyId": 24586,
+    "name": "Berries, Growing, Twig, Branch",
+    "clip_id": "387675",
+    "order": 93
+  },
+  {
+    "storyId": 23346,
+    "name": "Girl, Picking, Berries, Raspberries",
+    "clip_id": "352813",
+    "order": 94
+  },
+  {
+    "storyId": 13574,
+    "name": "remains of a castle by trees aerial",
+    "clip_id": "73552",
+    "order": 95
+  },
+  {
+    "storyId": 24586,
+    "name": "Berries, Growing, Twig, Branch",
+    "clip_id": "387676",
+    "order": 96
+  },
+  {
+    "storyId": 23994,
+    "name": "Berries, Twig, Berry, Leaves",
+    "clip_id": "373141",
+    "order": 97
+  },
+  {
+    "storyId": 24495,
+    "name": "Strawberries, Dewberries, Blueberries, Raspberries",
+    "clip_id": "385693",
+    "order": 98
+  },
+  {
+    "storyId": 21022,
+    "name": "Fruit, Berries, Strawberries, Blackberries",
+    "clip_id": "275771",
+    "order": 99
+  },
+  {
+    "storyId": 13574,
+    "name": "trees and grass by castle ruins aerial",
+    "clip_id": "73553",
+    "order": 100
+  },
+  {
+    "storyId": 17403,
+    "name": "Cake-Frosting, Fruit, Berries, Cherries",
+    "clip_id": "167446",
+    "order": 101
+  },
+  {
+    "storyId": 24495,
+    "name": "Strawberries, Red, Berries, Pile",
+    "clip_id": "385685",
+    "order": 102
+  },
+  {
+    "storyId": 23994,
+    "name": "Berry, Berries, Leaf, Leaves",
+    "clip_id": "373131",
+    "order": 103
+  },
+  {
+    "storyId": 23346,
+    "name": "Kid, Hand, Picking, Raspberries",
+    "clip_id": "352811",
+    "order": 104
+  },
+  {
+    "storyId": 21022,
+    "name": "Pancake, Fruit, Dessert, Berries",
+    "clip_id": "275748",
+    "order": 105
+  },
+  {
+    "storyId": 17403,
+    "name": "Cake, Layers, Frosting, Fruit",
+    "clip_id": "167448",
+    "order": 106
+  },
+  {
+    "storyId": 23934,
+    "name": "Pie, Preparation, Tart, Dessert",
+    "clip_id": "370364",
+    "order": 107
+  },
+  {
+    "storyId": 21022,
+    "name": "Raspberries, Fruit, Berries, Fresh",
+    "clip_id": "275754",
+    "order": 108
+  },
+  {
+    "storyId": 21022,
+    "name": "Honey, Pancake, Fruit, Dessert",
+    "clip_id": "275737",
+    "order": 109
+  },
+  {
+    "storyId": 13574,
+    "name": "sun shining on castle ruins aerial",
+    "clip_id": "73550",
+    "order": 110
+  },
+  {
+    "storyId": 24618,
+    "name": "Street Market, Berries, Stand, Fresh",
+    "clip_id": "389422",
+    "order": 111
+  },
+  {
+    "storyId": 24495,
+    "name": "Blueberries, Berries, Pile, Purple",
+    "clip_id": "385700",
+    "order": 112
+  },
+  {
+    "storyId": 21925,
+    "name": "Deer Mouse, Gerbil, Nature, Eating",
+    "clip_id": "308128",
+    "order": 113
+  },
+  {
+    "storyId": 24495,
+    "name": "Strawberries, Berries, Red, Pile",
+    "clip_id": "385687",
+    "order": 114
+  },
+  {
+    "storyId": 25073,
+    "name": "Berry, Flowers, Fruits, Nature",
+    "clip_id": "404279",
+    "order": 115
+  },
+  {
+    "storyId": 24495,
+    "name": "Blueberries, Berries, Pile, Purple",
+    "clip_id": "385701",
+    "order": 116
+  },
+  {
+    "storyId": 23934,
+    "name": "Pie, Tart, Preparation, Baste",
+    "clip_id": "370366",
+    "order": 117
+  },
+  {
+    "storyId": 24495,
+    "name": "Strawberries, Dewberries, Blueberries, Raspberries",
+    "clip_id": "385696",
+    "order": 118
+  },
+  {
+    "storyId": 17403,
+    "name": "Cake-Frosting, Fruit, Berries, Cherries",
+    "clip_id": "167447",
+    "order": 119
+  },
+  {
+    "storyId": 23994,
+    "name": "Berry, Berries, Plant, Cranberry",
+    "clip_id": "373170",
+    "order": 120
+  },
+  {
+    "storyId": 15306,
+    "name": "strawberries falling onto a black table ",
+    "clip_id": "112956",
+    "order": 121
+  },
+  {
+    "storyId": 23994,
+    "name": "Berry, Berries, Leaves, Foliage",
+    "clip_id": "373140",
+    "order": 122
+  },
+  {
+    "storyId": 24495,
+    "name": "Strawberries, Dewberries, Blueberries, Raspberries",
+    "clip_id": "385698",
+    "order": 123
+  },
+  {
+    "storyId": 24495,
+    "name": "Strawberries, Dewberries, Blueberries, Raspberries",
+    "clip_id": "385697",
+    "order": 124
+  },
+  {
+    "storyId": 24618,
+    "name": "Market, Berries, Stand, Fresh",
+    "clip_id": "389420",
+    "order": 125
+  },
+  {
+    "storyId": 24495,
+    "name": "Strawberries, Berries, Red, Pile",
+    "clip_id": "385688",
+    "order": 126
+  },
+  {
+    "storyId": 24586,
+    "name": "Berries, Growing, Twig, Branch",
+    "clip_id": "387677",
+    "order": 127
+  },
+  {
+    "storyId": 24495,
+    "name": "Strawberries, Dewberries, Blueberries, Raspberries",
+    "clip_id": "385692",
+    "order": 128
+  },
+  {
+    "storyId": 24495,
+    "name": "Strawberries, Dewberries, Blueberries, Raspberries",
+    "clip_id": "385694",
+    "order": 129
+  },
+  {
+    "storyId": 26909,
+    "name": "Berries, Falling, Milk, Phantom",
+    "clip_id": "462072",
+    "order": 130
+  },
+  {
+    "storyId": 14764,
+    "name": "berry fruits falling and submerging in water extreme slow motion",
+    "clip_id": "100498",
+    "order": 131
+  },
+  {
+    "storyId": 24838,
+    "name": "Leaves, Berries, Red, Fruits",
+    "clip_id": "397756",
+    "order": 132
+  },
+  {
+    "storyId": 23346,
+    "name": "Girl, Picking, Berries, Raspberries",
+    "clip_id": "352828",
+    "order": 133
+  },
+  {
+    "storyId": 26909,
+    "name": "Berries, Falling, Milk, Phantom",
+    "clip_id": "462074",
+    "order": 134
+  },
+  {
+    "storyId": 14764,
+    "name": "blueberries dropping and submerging in water extreme slow motion",
+    "clip_id": "100496",
+    "order": 135
+  },
+  {
+    "storyId": 23346,
+    "name": "Kid, Picking, Berries, Blackcurrant",
+    "clip_id": "352822",
+    "order": 136
+  },
+  {
+    "storyId": 16982,
+    "name": "making mini berries pies together",
+    "clip_id": "157669",
+    "order": 137
+  },
+  {
+    "storyId": 23346,
+    "name": "Boy, Picking, Berries, Blackcurrant",
+    "clip_id": "352823",
+    "order": 138
+  },
+  {
+    "storyId": 24838,
+    "name": "Hands, Pruning, Scissors, Leaves",
+    "clip_id": "397769",
+    "order": 139
+  },
+  {
+    "storyId": 20906,
+    "name": "Berry, Berry, Blue, Blue",
+    "clip_id": "273727",
+    "order": 140
+  },
+  {
+    "storyId": 14764,
+    "name": "red berries dropping and submerging in water extreme slow motion",
+    "clip_id": "100490",
+    "order": 141
+  },
+  {
+    "storyId": 14764,
+    "name": "red berries falling and submerging in water extreme slow motion",
+    "clip_id": "100491",
+    "order": 142
+  },
+  {
+    "storyId": 16982,
+    "name": "making mini berries pies together",
+    "clip_id": "157668",
+    "order": 143
+  },
+  {
+    "storyId": 23346,
+    "name": "Girl, Picking, Berries, Raspberries",
+    "clip_id": "352820",
+    "order": 144
+  },
+  {
+    "storyId": 15306,
+    "name": "strawberry falling onto a pile of powdered sugar over a dark background ",
+    "clip_id": "112962",
+    "order": 145
+  },
+  {
+    "storyId": 24838,
+    "name": "Hands, Berries, Leaves, Evergreen",
+    "clip_id": "397781",
+    "order": 146
+  },
+  {
+    "storyId": 23346,
+    "name": "Boy, Picking, Berries, Blackcurrant",
+    "clip_id": "352827",
+    "order": 147
+  },
+  {
+    "storyId": 23346,
+    "name": "Girl, Picking, Berries, Grove",
+    "clip_id": "352819",
+    "order": 148
+  },
+  {
+    "storyId": 16982,
+    "name": "girl putting fruits in mini pies ",
+    "clip_id": "157666",
+    "order": 149
+  },
+  {
+    "storyId": 23346,
+    "name": "Girl, Picking, Berries, Raspberries",
+    "clip_id": "352821",
+    "order": 150
+  },
+  {
+    "storyId": 15306,
+    "name": "strawberries falling onto a pile of powdered sugar ",
+    "clip_id": "112964",
+    "order": 151
+  },
+  {
+    "storyId": 15306,
+    "name": "blackberries falling onto a black table ",
+    "clip_id": "112958",
+    "order": 152
+  },
+  {
+    "storyId": 23346,
+    "name": "Girl, Picking, Berries, Blackcurrant",
+    "clip_id": "352809",
+    "order": 153
+  },
+  {
+    "storyId": 15306,
+    "name": "berries falling onto powdered sugar ",
+    "clip_id": "112966",
+    "order": 154
+  },
+  {
+    "storyId": 16569,
+    "name": "a woman and two girls decorating cakes with fruit indoors",
+    "clip_id": "144245",
+    "order": 155
+  },
+  {
+    "storyId": 15306,
+    "name": "blackberries falling onto the black table ",
+    "clip_id": "112959",
+    "order": 156
+  },
+  {
+    "storyId": 15306,
+    "name": "powdered sugar and berries falling onto the table ",
+    "clip_id": "112970",
+    "order": 157
+  },
+  {
+    "storyId": 16982,
+    "name": "girl eating fruits while making mini pies ",
+    "clip_id": "157667",
+    "order": 158
+  },
+  {
+    "storyId": 15306,
+    "name": "strawberries falling onto the black table rack-focus ",
+    "clip_id": "112960",
+    "order": 159
+  },
+  {
+    "storyId": 23346,
+    "name": "Boy, Picking, Berries, Raspberries",
+    "clip_id": "352826",
+    "order": 160
+  },
+  {
+    "storyId": 16982,
+    "name": "sisters placing blueberries on a pie ",
+    "clip_id": "157673",
+    "order": 161
+  },
+  {
+    "storyId": 23346,
+    "name": "Girl, Eating, Berries, Grove",
+    "clip_id": "352816",
+    "order": 162
+  },
+  {
+    "storyId": 16982,
+    "name": "sisters playing with fruits in the kitchen",
+    "clip_id": "157671",
+    "order": 163
+  },
+  {
+    "storyId": 16982,
+    "name": "girls placing berries on a pie ",
+    "clip_id": "157675",
+    "order": 164
+  },
+  {
+    "storyId": 15306,
+    "name": "strawberry falling onto a pile of berries and powdered sugar ",
+    "clip_id": "112974",
+    "order": 165
+  },
+  {
+    "storyId": 15306,
+    "name": "strawberries falling onto the black table ",
+    "clip_id": "112957",
+    "order": 166
+  },
+  {
+    "storyId": 23346,
+    "name": "Boy, Picking, Blackcurrant, Berries",
+    "clip_id": "352824",
+    "order": 167
+  },
+  {
+    "storyId": 24838,
+    "name": "Leaves, Berries, Fruits, Flowers",
+    "clip_id": "397758",
+    "order": 168
+  },
+  {
+    "storyId": 23346,
+    "name": "Girl, Picking, Berries, Raspberries",
+    "clip_id": "352829",
+    "order": 169
+  },
+  {
+    "storyId": 15306,
+    "name": "berries falling onto a pile of powdered sugar ",
+    "clip_id": "112965",
+    "order": 170
+  },
+  {
+    "storyId": 23346,
+    "name": "Boy, Picking, Berries, Grove",
+    "clip_id": "352825",
+    "order": 171
+  },
+  {
+    "storyId": 15306,
+    "name": "berries and powdered sugar falling onto a table ",
+    "clip_id": "112972",
+    "order": 172
+  },
+  {
+    "storyId": 15306,
+    "name": "berries falling into a pile of powdered sugar ",
+    "clip_id": "112969",
+    "order": 173
+  },
+  {
+    "storyId": 15306,
+    "name": "blackberries falling into a pile of powdered sugar ",
+    "clip_id": "112968",
+    "order": 174
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Drinking, Coffee, Standing",
+    "clip_id": "287386",
+    "order": 175
+  },
+  {
+    "storyId": 15306,
+    "name": "berries and powdered sugar falling onto the table ",
+    "clip_id": "112971",
+    "order": 176
+  },
+  {
+    "storyId": 17582,
+    "name": "Coffee-Beans, Roasted, Flying, Tossed",
+    "clip_id": "173348",
+    "order": 177
+  },
+  {
+    "storyId": 22891,
+    "name": "Waitress, Diner, Staring, Holding",
+    "clip_id": "338006",
+    "order": 178
+  },
+  {
+    "storyId": 12463,
+    "name": "drop of fresh coffee in slow motion",
+    "clip_id": "56073",
+    "order": 179
+  },
+  {
+    "storyId": 22392,
+    "name": "Coffee Beans, Roasted, Coffee, Flying",
+    "clip_id": "323200",
+    "order": 180
+  },
+  {
+    "storyId": 13052,
+    "name": "coffee beans in coffee roasting machine",
+    "clip_id": "64071",
+    "order": 181
+  },
+  {
+    "storyId": 22390,
+    "name": "Coffee, Coffee Beans, Smoke, Brown",
+    "clip_id": "323184",
+    "order": 182
+  },
+  {
+    "storyId": 22392,
+    "name": "Latte, Coffee, Splash, Foam",
+    "clip_id": "323208",
+    "order": 183
+  },
+  {
+    "storyId": 18298,
+    "name": "Woman, Walking, Paperwork, Pavement",
+    "clip_id": "196658",
+    "order": 184
+  },
+  {
+    "storyId": 22392,
+    "name": "Coffee Beans, Coffee, Flying, Brown",
+    "clip_id": "323199",
+    "order": 185
+  },
+  {
+    "storyId": 22390,
+    "name": "Coffee, Coffee Beans, Smoke, Brown",
+    "clip_id": "323183",
+    "order": 186
+  },
+  {
+    "storyId": 16758,
+    "name": "Milky, Coffee, Ice Coffee, Milk",
+    "clip_id": "149887",
+    "order": 187
+  },
+  {
+    "storyId": 12852,
+    "name": "brunette woman looking down and writing ",
+    "clip_id": "60823",
+    "order": 188
+  },
+  {
+    "storyId": 12198,
+    "name": "dark roasted coffee beans poured into a pile",
+    "clip_id": "50379",
+    "order": 189
+  },
+  {
+    "storyId": 12198,
+    "name": "fresh coffee beans being sprinkled into a pile ",
+    "clip_id": "50404",
+    "order": 190
+  },
+  {
+    "storyId": 12198,
+    "name": "macro shot of fresh coffee beans being sprinkled into a pile",
+    "clip_id": "50403",
+    "order": 191
+  },
+  {
+    "storyId": 21355,
+    "name": "Green Screen, Smartphone, Woman, Morning",
+    "clip_id": "288291",
+    "order": 192
+  },
+  {
+    "storyId": 20749,
+    "name": "Cops, 1970S, Ambush, Coffee",
+    "clip_id": "269137",
+    "order": 193
+  },
+  {
+    "storyId": 21337,
+    "name": "Business, Woman, Walking, City",
+    "clip_id": "287372",
+    "order": 194
+  },
+  {
+    "storyId": 21337,
+    "name": "Business, Woman, Walking, City",
+    "clip_id": "287369",
+    "order": 195
+  },
+  {
+    "storyId": 27468,
+    "name": "Coffee, Ground Coffee, Portafilter, Coffee Machine",
+    "clip_id": "478484",
+    "order": 196
+  },
+  {
+    "storyId": 20749,
+    "name": "Cops, 1970S, Ambush, Coffee",
+    "clip_id": "269139",
+    "order": 197
+  },
+  {
+    "storyId": 21858,
+    "name": "Man, Laptop, Coffee, Typing",
+    "clip_id": "305107",
+    "order": 198
+  },
+  {
+    "storyId": 15306,
+    "name": "strawberry falling onto a pile of powdered sugar and berries ",
+    "clip_id": "112973",
+    "order": 199
+  },
+  {
+    "storyId": 21588,
+    "name": "Coffee, Coffee Beans, Falling, Wood",
+    "clip_id": "295858",
+    "order": 200
+  },
+  {
+    "storyId": 11058,
+    "name": "cup of coffee on surface with scattered coffee beans ",
+    "clip_id": "23750",
+    "order": 201
+  },
+  {
+    "storyId": 23444,
+    "name": "Coffee, Espresso, Coffee Machine, Cups",
+    "clip_id": "357131",
+    "order": 202
+  },
+  {
+    "storyId": 11391,
+    "name": "woman stirring cappuccinos  while in cafe",
+    "clip_id": "35951",
+    "order": 203
+  },
+  {
+    "storyId": 12463,
+    "name": "close up of ground coffee being poured into a paper filter",
+    "clip_id": "56060",
+    "order": 204
+  },
+  {
+    "storyId": 13052,
+    "name": "coffee beans in roasting machine",
+    "clip_id": "64069",
+    "order": 205
+  },
+  {
+    "storyId": 22891,
+    "name": "Waitress, Diner, Staring, Holding",
+    "clip_id": "338007",
+    "order": 206
+  },
+  {
+    "storyId": 22392,
+    "name": "Coffee, Americano, Espresso, Splash",
+    "clip_id": "323206",
+    "order": 207
+  },
+  {
+    "storyId": 20749,
+    "name": "Cops, 1970S, Ambush, Coffee",
+    "clip_id": "269136",
+    "order": 208
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Cafe, Working, Drinking",
+    "clip_id": "287332",
+    "order": 209
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Home, Making, Coffee",
+    "clip_id": "287480",
+    "order": 210
+  },
+  {
+    "storyId": 15872,
+    "name": "Coffee, Cold, Ice, Straw",
+    "clip_id": "125767",
+    "order": 211
+  },
+  {
+    "storyId": 22392,
+    "name": "Coffee, Drops, Espresso, Coffee Machine",
+    "clip_id": "323204",
+    "order": 212
+  },
+  {
+    "storyId": 20749,
+    "name": "Cops, 1970S, Ambush, Coffee",
+    "clip_id": "269138",
+    "order": 213
+  },
+  {
+    "storyId": 16758,
+    "name": "Milky, Milk, Ice Coffee, Infusing",
+    "clip_id": "149889",
+    "order": 214
+  },
+  {
+    "storyId": 12198,
+    "name": "fresh coffee beans dropped into a pile",
+    "clip_id": "50385",
+    "order": 215
+  },
+  {
+    "storyId": 22390,
+    "name": "Coffee, Coffee Beans, Smoke, Brown",
+    "clip_id": "323185",
+    "order": 216
+  },
+  {
+    "storyId": 22392,
+    "name": "Coffee Beans, Coffee Grinder, Top Shot, Spinning",
+    "clip_id": "323201",
+    "order": 217
+  },
+  {
+    "storyId": 17560,
+    "name": "man in a suit sitting at a table and using a laptop computer while a woman is sitting down next to him",
+    "clip_id": "172387",
+    "order": 218
+  },
+  {
+    "storyId": 13052,
+    "name": "fresh roasted coffee beans in processing machine in factory",
+    "clip_id": "64070",
+    "order": 219
+  },
+  {
+    "storyId": 27468,
+    "name": "Espresso, Portafilter, Coffee, Coffee Machine",
+    "clip_id": "478485",
+    "order": 220
+  },
+  {
+    "storyId": 23444,
+    "name": "Man, Walking, Headphones, Cafe",
+    "clip_id": "357083",
+    "order": 221
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Home, Making, Coffee",
+    "clip_id": "287484",
+    "order": 222
+  },
+  {
+    "storyId": 18442,
+    "name": "Coffee, Fresh, Cup, Pouring",
+    "clip_id": "201060",
+    "order": 223
+  },
+  {
+    "storyId": 23444,
+    "name": "Coffee, Milk, Pouring, Cafe",
+    "clip_id": "357100",
+    "order": 224
+  },
+  {
+    "storyId": 12331,
+    "name": "Man wearing glasses sitting at table in shop writing in notebook ",
+    "clip_id": "53527",
+    "order": 225
+  },
+  {
+    "storyId": 27468,
+    "name": "Coffee, Portafilter, Espresso, Coffee Machine",
+    "clip_id": "478486",
+    "order": 226
+  },
+  {
+    "storyId": 12463,
+    "name": "close up of hot water being poured on freshly ground coffee",
+    "clip_id": "56062",
+    "order": 227
+  },
+  {
+    "storyId": 18298,
+    "name": "Woman, Walking, Stressed, Paperwork",
+    "clip_id": "196659",
+    "order": 228
+  },
+  {
+    "storyId": 18442,
+    "name": "Man, Drinking, Coffee, Relaxing",
+    "clip_id": "201061",
+    "order": 229
+  },
+  {
+    "storyId": 12198,
+    "name": "fresh coffee beans sprinkled onto a metallic plate",
+    "clip_id": "50392",
+    "order": 230
+  },
+  {
+    "storyId": 13052,
+    "name": "man cutting open hessian bag with raw coffee beans falling out",
+    "clip_id": "64095",
+    "order": 231
+  },
+  {
+    "storyId": 22392,
+    "name": "Coffee, Coffee Machine, Espresso, Steam",
+    "clip_id": "323205",
+    "order": 232
+  },
+  {
+    "storyId": 18442,
+    "name": "Man, Coffee, Cooker, Stove",
+    "clip_id": "201051",
+    "order": 233
+  },
+  {
+    "storyId": 12463,
+    "name": "hot water being poured on freshly ground coffee in a filter",
+    "clip_id": "56064",
+    "order": 234
+  },
+  {
+    "storyId": 11058,
+    "name": "coffee grounds ",
+    "clip_id": "23765",
+    "order": 235
+  },
+  {
+    "storyId": 18442,
+    "name": "Man, Preparing, Coffee, Device",
+    "clip_id": "201049",
+    "order": 236
+  },
+  {
+    "storyId": 11058,
+    "name": "barista creates coffee art ",
+    "clip_id": "23747",
+    "order": 237
+  },
+  {
+    "storyId": 19142,
+    "name": "Kitchen, Breakfast, Family, Coffee",
+    "clip_id": "221606",
+    "order": 238
+  },
+  {
+    "storyId": 12198,
+    "name": "dark roasted coffee beans fall into pile ",
+    "clip_id": "50378",
+    "order": 239
+  },
+  {
+    "storyId": 21337,
+    "name": "Business, Woman, Walking, City",
+    "clip_id": "287374",
+    "order": 240
+  },
+  {
+    "storyId": 17447,
+    "name": "Businessman, Cafeteria, Occupation, Coffee-Shop",
+    "clip_id": "168596",
+    "order": 241
+  },
+  {
+    "storyId": 18991,
+    "name": "Girl, Young, Diner, Coffee",
+    "clip_id": "216870",
+    "order": 242
+  },
+  {
+    "storyId": 11020,
+    "name": "man kissing woman and sitting down with coffee in home",
+    "clip_id": "22479",
+    "order": 243
+  },
+  {
+    "storyId": 19814,
+    "name": "Cup, Coffee, Barista, Gourmet",
+    "clip_id": "240139",
+    "order": 244
+  },
+  {
+    "storyId": 21558,
+    "name": "Coffee, Drops, Pour, Drink",
+    "clip_id": "294479",
+    "order": 245
+  },
+  {
+    "storyId": 23842,
+    "name": "Woman, Man, Talking, Smoking",
+    "clip_id": "367664",
+    "order": 246
+  },
+  {
+    "storyId": 22392,
+    "name": "Coffee, Milk, Foam, Latte",
+    "clip_id": "323207",
+    "order": 247
+  },
+  {
+    "storyId": 11330,
+    "name": "woman drinking coffee through a window",
+    "clip_id": "34414",
+    "order": 248
+  },
+  {
+    "storyId": 22392,
+    "name": "Ground Coffee, Brewing, Droplets, Falling",
+    "clip_id": "323203",
+    "order": 249
+  },
+  {
+    "storyId": 12046,
+    "name": "Woman smiling at the camera in coffee shop",
+    "clip_id": "48141",
+    "order": 250
+  },
+  {
+    "storyId": 22392,
+    "name": "Coffee, Drops, Water, Coffee Powder",
+    "clip_id": "323202",
+    "order": 251
+  },
+  {
+    "storyId": 12297,
+    "name": "shirtless man drinking coffee in the dinning room",
+    "clip_id": "52572",
+    "order": 252
+  },
+  {
+    "storyId": 13052,
+    "name": "roast coffee beans in coffee roasting machine",
+    "clip_id": "64072",
+    "order": 253
+  },
+  {
+    "storyId": 23842,
+    "name": "Cool Girls, Co Workers, Talking, Drinking",
+    "clip_id": "367637",
+    "order": 254
+  },
+  {
+    "storyId": 18442,
+    "name": "Kitchen, Coffee, Man, Fresh",
+    "clip_id": "201050",
+    "order": 255
+  },
+  {
+    "storyId": 14541,
+    "name": "two men sitting and looking at a laptop in a city street",
+    "clip_id": "93868",
+    "order": 256
+  },
+  {
+    "storyId": 23140,
+    "name": "Smiling, Customer, Cafe, Coffee Bar",
+    "clip_id": "345845",
+    "order": 257
+  },
+  {
+    "storyId": 22968,
+    "name": "Woman, Coffee, Horizon, Porch",
+    "clip_id": "340888",
+    "order": 258
+  },
+  {
+    "storyId": 18000,
+    "name": "Coffee, Coffee-Machine, Cappuccino, Maker",
+    "clip_id": "184896",
+    "order": 259
+  },
+  {
+    "storyId": 12463,
+    "name": "man carefully pouring ground coffee into paper filter",
+    "clip_id": "56059",
+    "order": 260
+  },
+  {
+    "storyId": 12198,
+    "name": "large coffee grinder moving around coffee beans",
+    "clip_id": "50371",
+    "order": 261
+  },
+  {
+    "storyId": 18000,
+    "name": "Coffee, Coffee-Machine, Cappuccino, Maker",
+    "clip_id": "184895",
+    "order": 262
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans falling into a pile",
+    "clip_id": "50397",
+    "order": 263
+  },
+  {
+    "storyId": 17447,
+    "name": "Businesswoman, Cafeteria, Occupation, Coffee-Shop",
+    "clip_id": "168584",
+    "order": 264
+  },
+  {
+    "storyId": 12331,
+    "name": "man sitting in coffee shop going through email inbox on phone",
+    "clip_id": "53518",
+    "order": 265
+  },
+  {
+    "storyId": 10789,
+    "name": "Barista holds mug for coffee from machine",
+    "clip_id": "16660",
+    "order": 266
+  },
+  {
+    "storyId": 12115,
+    "name": "person manually turns vintage coffee grinder handle",
+    "clip_id": "49179",
+    "order": 267
+  },
+  {
+    "storyId": 23140,
+    "name": "Looking, Phone, Coffee Bar, Window",
+    "clip_id": "345865",
+    "order": 268
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans poured into a large grinder",
+    "clip_id": "50363",
+    "order": 269
+  },
+  {
+    "storyId": 11058,
+    "name": "brewed coffee pours out of espresso machine ",
+    "clip_id": "23734",
+    "order": 270
+  },
+  {
+    "storyId": 22968,
+    "name": "Woman, Coffee, View, Fog",
+    "clip_id": "340889",
+    "order": 271
+  },
+  {
+    "storyId": 22891,
+    "name": "Waiter, Coffee, Jug, Pouring",
+    "clip_id": "337972",
+    "order": 272
+  },
+  {
+    "storyId": 23140,
+    "name": "Coffee, Art, Throff, Cup",
+    "clip_id": "345838",
+    "order": 273
+  },
+  {
+    "storyId": 11058,
+    "name": "coffee grinds fall into portafilter ",
+    "clip_id": "23728",
+    "order": 274
+  },
+  {
+    "storyId": 12198,
+    "name": "brown coffee beans fall onto a pile",
+    "clip_id": "50387",
+    "order": 275
+  },
+  {
+    "storyId": 15872,
+    "name": "Woman, Tourist, Airport, Cafe",
+    "clip_id": "125766",
+    "order": 276
+  },
+  {
+    "storyId": 13908,
+    "name": "coffee beans exploding in the air rack-focus",
+    "clip_id": "81142",
+    "order": 277
+  },
+  {
+    "storyId": 21858,
+    "name": "Woman, Phone, Talking, Walking",
+    "clip_id": "305262",
+    "order": 278
+  },
+  {
+    "storyId": 22968,
+    "name": "Coffee, Drink, Team, Woman",
+    "clip_id": "340881",
+    "order": 279
+  },
+  {
+    "storyId": 12198,
+    "name": "fresh coffee beans displayed on brass plate ",
+    "clip_id": "50390",
+    "order": 280
+  },
+  {
+    "storyId": 12297,
+    "name": "shirtless man drinking coffee while looking outside",
+    "clip_id": "52570",
+    "order": 281
+  },
+  {
+    "storyId": 23140,
+    "name": "Coffee Machine, Bistro, Granules, Fresh",
+    "clip_id": "345834",
+    "order": 282
+  },
+  {
+    "storyId": 12331,
+    "name": "man with glasses takes a sip of coffee while sitting in coffee shop",
+    "clip_id": "53513",
+    "order": 283
+  },
+  {
+    "storyId": 22390,
+    "name": "Coffee, Coffee Beans, Smoke, Brown",
+    "clip_id": "323182",
+    "order": 284
+  },
+  {
+    "storyId": 11058,
+    "name": "coffee grounds fall into portafilter ",
+    "clip_id": "23730",
+    "order": 285
+  },
+  {
+    "storyId": 22968,
+    "name": "Woman, Coffee, Horizon, Fog",
+    "clip_id": "340890",
+    "order": 286
+  },
+  {
+    "storyId": 12198,
+    "name": "industrial grinder turning around coffee beans inside",
+    "clip_id": "50372",
+    "order": 287
+  },
+  {
+    "storyId": 23444,
+    "name": "Office, Coffee, Colleagues, Reading",
+    "clip_id": "357061",
+    "order": 288
+  },
+  {
+    "storyId": 11058,
+    "name": "coffee pours into cup out of espresso spout ",
+    "clip_id": "23733",
+    "order": 289
+  },
+  {
+    "storyId": 13052,
+    "name": "coffee beans spinning in front of furnace in dim room",
+    "clip_id": "64092",
+    "order": 290
+  },
+  {
+    "storyId": 19142,
+    "name": "Coffee, Family, Kitchen, Home",
+    "clip_id": "221601",
+    "order": 291
+  },
+  {
+    "storyId": 21326,
+    "name": "Money, Payment, Credit Card, Cash",
+    "clip_id": "286715",
+    "order": 292
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans being poured onto a pile",
+    "clip_id": "50396",
+    "order": 293
+  },
+  {
+    "storyId": 23842,
+    "name": "Cool Girls, Co Workers, Talking, Drinking",
+    "clip_id": "367636",
+    "order": 294
+  },
+  {
+    "storyId": 12331,
+    "name": "man with glasses sits alone at coffee shop browsing phone",
+    "clip_id": "53521",
+    "order": 295
+  },
+  {
+    "storyId": 10850,
+    "name": "Couple holding hands with a cup of coffee ",
+    "clip_id": "17849",
+    "order": 296
+  },
+  {
+    "storyId": 21576,
+    "name": "Coffee, Milk, Drop, Glass",
+    "clip_id": "295414",
+    "order": 297
+  },
+  {
+    "storyId": 11391,
+    "name": "Women talking and drinking coffee at restaurant",
+    "clip_id": "35933",
+    "order": 298
+  },
+  {
+    "storyId": 23140,
+    "name": "Cafe, Coffee, Stirring, Table",
+    "clip_id": "345811",
+    "order": 299
+  },
+  {
+    "storyId": 12331,
+    "name": "person sitting at table with coffee mug browsing their phone ",
+    "clip_id": "53522",
+    "order": 300
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans dropped onto decorated brass plate",
+    "clip_id": "50394",
+    "order": 301
+  },
+  {
+    "storyId": 10789,
+    "name": "Man places coffee cup on a saucer",
+    "clip_id": "16662",
+    "order": 302
+  },
+  {
+    "storyId": 17744,
+    "name": "Business, Coffee, Bar, Owner",
+    "clip_id": "176881",
+    "order": 303
+  },
+  {
+    "storyId": 21858,
+    "name": "Man, Phone, Talking, Walking",
+    "clip_id": "305268",
+    "order": 304
+  },
+  {
+    "storyId": 18395,
+    "name": "Man, Smartphone, City, Coffee",
+    "clip_id": "200100",
+    "order": 305
+  },
+  {
+    "storyId": 22390,
+    "name": "Coffee, Coffee Beans, Brown, Caffeine",
+    "clip_id": "323181",
+    "order": 306
+  },
+  {
+    "storyId": 10789,
+    "name": "Barista brews espresso with espresso machine",
+    "clip_id": "16659",
+    "order": 307
+  },
+  {
+    "storyId": 12463,
+    "name": "hot cup of coffee sitting on a wooden table",
+    "clip_id": "56075",
+    "order": 308
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Working, Home, Latop",
+    "clip_id": "287507",
+    "order": 309
+  },
+  {
+    "storyId": 27468,
+    "name": "Coffee, Americano, Espresso, Drop",
+    "clip_id": "478494",
+    "order": 310
+  },
+  {
+    "storyId": 17174,
+    "name": "old woman talking on a phone indoors",
+    "clip_id": "162050",
+    "order": 311
+  },
+  {
+    "storyId": 10850,
+    "name": "Couple sitting together in a cabin cuddling ",
+    "clip_id": "17848",
+    "order": 312
+  },
+  {
+    "storyId": 21858,
+    "name": "Women, Coffee Shop, Laptop, Working",
+    "clip_id": "305079",
+    "order": 313
+  },
+  {
+    "storyId": 16589,
+    "name": "steam rising from a cup indoors timelapse",
+    "clip_id": "144789",
+    "order": 314
+  },
+  {
+    "storyId": 13052,
+    "name": "roast coffee beans in roasting machine in factory",
+    "clip_id": "64073",
+    "order": 315
+  },
+  {
+    "storyId": 27468,
+    "name": "Coffee, Espresso, Caffeine, Coffee Making",
+    "clip_id": "478492",
+    "order": 316
+  },
+  {
+    "storyId": 18000,
+    "name": "Coffee, Coffee-Machine, Cappuccino, Maker",
+    "clip_id": "184894",
+    "order": 317
+  },
+  {
+    "storyId": 21337,
+    "name": "Business, Woman, Walking, City",
+    "clip_id": "287363",
+    "order": 318
+  },
+  {
+    "storyId": 23842,
+    "name": "Man, Drinking, Coffee, Smoking",
+    "clip_id": "367666",
+    "order": 319
+  },
+  {
+    "storyId": 21858,
+    "name": "Woman, Texting, Phone, Coffee Shop",
+    "clip_id": "305014",
+    "order": 320
+  },
+  {
+    "storyId": 13810,
+    "name": "woman drinking coffee in bed and looking at city through window",
+    "clip_id": "78878",
+    "order": 321
+  },
+  {
+    "storyId": 21576,
+    "name": "Coffee, Milk, Ice-Cube, Glass",
+    "clip_id": "295415",
+    "order": 322
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Home, Latop, Coffee",
+    "clip_id": "287519",
+    "order": 323
+  },
+  {
+    "storyId": 23842,
+    "name": "Cool Girls, Co Workers, Talking, Drinking",
+    "clip_id": "367638",
+    "order": 324
+  },
+  {
+    "storyId": 10979,
+    "name": "old man pouring turkish coffee into cup",
+    "clip_id": "21397",
+    "order": 325
+  },
+  {
+    "storyId": 14541,
+    "name": "man and a woman drinking from disposable cups near street buildings outdoors",
+    "clip_id": "93871",
+    "order": 326
+  },
+  {
+    "storyId": 22891,
+    "name": "Restaurant, Counter, Coffee Mug, Breakfast",
+    "clip_id": "337970",
+    "order": 327
+  },
+  {
+    "storyId": 18000,
+    "name": "Coffee, Coffee-Machine, Cappuccino, Maker",
+    "clip_id": "184887",
+    "order": 328
+  },
+  {
+    "storyId": 12463,
+    "name": "hot water pouring into a paper filter liner",
+    "clip_id": "56057",
+    "order": 329
+  },
+  {
+    "storyId": 12046,
+    "name": "Woman smiling and drinking in a coffee shop",
+    "clip_id": "48131",
+    "order": 330
+  },
+  {
+    "storyId": 21576,
+    "name": "Liquid, Refill, Fill, Milk",
+    "clip_id": "295412",
+    "order": 331
+  },
+  {
+    "storyId": 23444,
+    "name": "Coffee Machine, Espresso, Hand, Water",
+    "clip_id": "357105",
+    "order": 332
+  },
+  {
+    "storyId": 26313,
+    "name": "Woman, Hands, Writing, Notebook",
+    "clip_id": "443137",
+    "order": 333
+  },
+  {
+    "storyId": 12485,
+    "name": "pouring frothy milk into black coffee",
+    "clip_id": "56348",
+    "order": 334
+  },
+  {
+    "storyId": 23136,
+    "name": "Coffee, Hot, Coffee Shop, Cup",
+    "clip_id": "345602",
+    "order": 335
+  },
+  {
+    "storyId": 12523,
+    "name": "Muslim Woman drinking coffee and looking into camera",
+    "clip_id": "56932",
+    "order": 336
+  },
+  {
+    "storyId": 11391,
+    "name": "women drinking coffee and talking sitting at coffee table",
+    "clip_id": "35936",
+    "order": 337
+  },
+  {
+    "storyId": 12331,
+    "name": "man with glasses sitting in coffee shop alone browsing phone ",
+    "clip_id": "53520",
+    "order": 338
+  },
+  {
+    "storyId": 23444,
+    "name": "Man, Buildings, Street, Phone",
+    "clip_id": "357088",
+    "order": 339
+  },
+  {
+    "storyId": 15872,
+    "name": "Woman, Tourist, Cafe, Iced-Coffee",
+    "clip_id": "125764",
+    "order": 340
+  },
+  {
+    "storyId": 23140,
+    "name": "Cafe, Customer, Cashier, Coffee Bar",
+    "clip_id": "345841",
+    "order": 341
+  },
+  {
+    "storyId": 23842,
+    "name": "Cool Girls, Co Workers, Talking, Drinking",
+    "clip_id": "367641",
+    "order": 342
+  },
+  {
+    "storyId": 21326,
+    "name": "Money, Payment, Credit Card, Code",
+    "clip_id": "286721",
+    "order": 343
+  },
+  {
+    "storyId": 11391,
+    "name": "women talking and drinking coffee in cafe",
+    "clip_id": "35953",
+    "order": 344
+  },
+  {
+    "storyId": 12198,
+    "name": "fresh coffee beans poured into a container ",
+    "clip_id": "50348",
+    "order": 345
+  },
+  {
+    "storyId": 13908,
+    "name": "coffee beans thrown into the air rack-focus",
+    "clip_id": "81145",
+    "order": 346
+  },
+  {
+    "storyId": 10830,
+    "name": "Woman drinks from a tea mug in front of an easel medium",
+    "clip_id": "17436",
+    "order": 347
+  },
+  {
+    "storyId": 26313,
+    "name": "Woman, Working, Laptop, Coffee Shop",
+    "clip_id": "443125",
+    "order": 348
+  },
+  {
+    "storyId": 11391,
+    "name": "women taking selfie while sitting in cafe",
+    "clip_id": "35944",
+    "order": 349
+  },
+  {
+    "storyId": 19814,
+    "name": "Cup, Coffee, Barista, Gourmet",
+    "clip_id": "240137",
+    "order": 350
+  },
+  {
+    "storyId": 11391,
+    "name": "women stirring and drinking coffee in cafe",
+    "clip_id": "35952",
+    "order": 351
+  },
+  {
+    "storyId": 26129,
+    "name": "Tape Recorder, Coffee Cup, Steam, Ashtray",
+    "clip_id": "437183",
+    "order": 352
+  },
+  {
+    "storyId": 27468,
+    "name": "Coffee Beans, Grinding, Machine, Coffee",
+    "clip_id": "478483",
+    "order": 353
+  },
+  {
+    "storyId": 22968,
+    "name": "Woman, Coffee, Horizon, Drinking",
+    "clip_id": "340876",
+    "order": 354
+  },
+  {
+    "storyId": 11391,
+    "name": "women sitting at restaurant talking and drinking coffee",
+    "clip_id": "35934",
+    "order": 355
+  },
+  {
+    "storyId": 23842,
+    "name": "Cool Girls, Co Workers, Talking, Drinking",
+    "clip_id": "367640",
+    "order": 356
+  },
+  {
+    "storyId": 13052,
+    "name": "coffee roasting drum machine spinning coffee beans",
+    "clip_id": "64066",
+    "order": 357
+  },
+  {
+    "storyId": 21576,
+    "name": "Drop, Coffee, Milk, Glass",
+    "clip_id": "295411",
+    "order": 358
+  },
+  {
+    "storyId": 22891,
+    "name": "Restaurant, Counter, Breakfast, Served",
+    "clip_id": "337969",
+    "order": 359
+  },
+  {
+    "storyId": 26313,
+    "name": "Woman, Texting, Smartphone, Coffee Shop",
+    "clip_id": "443121",
+    "order": 360
+  },
+  {
+    "storyId": 10979,
+    "name": "old man drinking coffee out of glass",
+    "clip_id": "21406",
+    "order": 361
+  },
+  {
+    "storyId": 23842,
+    "name": "Cool Guy, Making, Coffee, Machine",
+    "clip_id": "367613",
+    "order": 362
+  },
+  {
+    "storyId": 12113,
+    "name": "hot coffee dripped into coffee machine pot",
+    "clip_id": "49166",
+    "order": 363
+  },
+  {
+    "storyId": 27468,
+    "name": "Coffee, Espresso, Coffee Machine, Cup",
+    "clip_id": "478487",
+    "order": 364
+  },
+  {
+    "storyId": 12046,
+    "name": "Woman writing on her notepad in a coffee shop",
+    "clip_id": "48139",
+    "order": 365
+  },
+  {
+    "storyId": 10979,
+    "name": "old man lifting Turkish coffee pot from fire",
+    "clip_id": "21396",
+    "order": 366
+  },
+  {
+    "storyId": 12331,
+    "name": "Man with glasses writing in notebook at table with plant wall in background",
+    "clip_id": "53526",
+    "order": 367
+  },
+  {
+    "storyId": 12198,
+    "name": "macro shot of coffee beans being sprinkled into a pile",
+    "clip_id": "50402",
+    "order": 368
+  },
+  {
+    "storyId": 23444,
+    "name": "Man, Woman, Meeting, Glasses",
+    "clip_id": "357102",
+    "order": 369
+  },
+  {
+    "storyId": 18395,
+    "name": "Black, Man, Walking, City",
+    "clip_id": "200108",
+    "order": 370
+  },
+  {
+    "storyId": 17104,
+    "name": "Man, Office, Finance, City",
+    "clip_id": "160292",
+    "order": 371
+  },
+  {
+    "storyId": 23842,
+    "name": "Cool Girl, Making, Coffee, Machine",
+    "clip_id": "367611",
+    "order": 372
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans poured into large coffee roaster ",
+    "clip_id": "50362",
+    "order": 373
+  },
+  {
+    "storyId": 20423,
+    "name": "Man, Musician, Coffee, Red-Light",
+    "clip_id": "257888",
+    "order": 374
+  },
+  {
+    "storyId": 12297,
+    "name": "shirtless man drinking coffee next to windows",
+    "clip_id": "52571",
+    "order": 375
+  },
+  {
+    "storyId": 23444,
+    "name": "Man, Laptop, Cafe, Waitress",
+    "clip_id": "357063",
+    "order": 376
+  },
+  {
+    "storyId": 17447,
+    "name": "Workforce, Occupation, Workplace, Waiter",
+    "clip_id": "168592",
+    "order": 377
+  },
+  {
+    "storyId": 17744,
+    "name": "Coffee-Machine, Coffee, Machine, Americano",
+    "clip_id": "176964",
+    "order": 378
+  },
+  {
+    "storyId": 12463,
+    "name": "hot water being poured into a paper filter with coffee",
+    "clip_id": "56065",
+    "order": 379
+  },
+  {
+    "storyId": 11058,
+    "name": "coffee pours out of spout into mug",
+    "clip_id": "23737",
+    "order": 380
+  },
+  {
+    "storyId": 11058,
+    "name": "milk poured into glass",
+    "clip_id": "23723",
+    "order": 381
+  },
+  {
+    "storyId": 12485,
+    "name": "fresh coffee beans macro",
+    "clip_id": "56349",
+    "order": 382
+  },
+  {
+    "storyId": 12672,
+    "name": "Woman standing at door looking outside holding a cup of coffee vignette ",
+    "clip_id": "58780",
+    "order": 383
+  },
+  {
+    "storyId": 11391,
+    "name": "women looking at cellphone while talking in cafe",
+    "clip_id": "35939",
+    "order": 384
+  },
+  {
+    "storyId": 21563,
+    "name": "Cocoa, Cocoa Bean, Cacao, Chocolate",
+    "clip_id": "294781",
+    "order": 385
+  },
+  {
+    "storyId": 12046,
+    "name": "Woman writing on a notebook in a coffee shop",
+    "clip_id": "48137",
+    "order": 386
+  },
+  {
+    "storyId": 12463,
+    "name": "hot water being poured into a paper liner ",
+    "clip_id": "56063",
+    "order": 387
+  },
+  {
+    "storyId": 12198,
+    "name": "Brown coffee beans dropped onto brass plate",
+    "clip_id": "50384",
+    "order": 388
+  },
+  {
+    "storyId": 23136,
+    "name": "Coffee, Mug, Cup, Top Shot",
+    "clip_id": "345606",
+    "order": 389
+  },
+  {
+    "storyId": 11115,
+    "name": "co-workers seeing each others work projects during a break",
+    "clip_id": "26319",
+    "order": 390
+  },
+  {
+    "storyId": 12297,
+    "name": "shirtless man standing by the window drinking coffee ",
+    "clip_id": "52568",
+    "order": 391
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans moved around",
+    "clip_id": "50373",
+    "order": 392
+  },
+  {
+    "storyId": 23805,
+    "name": "Coffee, Phone, Hands, Woman",
+    "clip_id": "367090",
+    "order": 393
+  },
+  {
+    "storyId": 17104,
+    "name": "Man, Office, Finance, City",
+    "clip_id": "160291",
+    "order": 394
+  },
+  {
+    "storyId": 13810,
+    "name": "woman sitting in bed and drinking coffee while looking at city through window",
+    "clip_id": "78874",
+    "order": 395
+  },
+  {
+    "storyId": 17104,
+    "name": "Man, Office, Finance, City",
+    "clip_id": "160289",
+    "order": 396
+  },
+  {
+    "storyId": 27468,
+    "name": "Coffee, Cup, Espresso, Drop",
+    "clip_id": "478493",
+    "order": 397
+  },
+  {
+    "storyId": 19814,
+    "name": "Beans, Coffee, Barista, Gourmet",
+    "clip_id": "240141",
+    "order": 398
+  },
+  {
+    "storyId": 11391,
+    "name": "women sitting in coffee shop and talking",
+    "clip_id": "35942",
+    "order": 399
+  },
+  {
+    "storyId": 12672,
+    "name": "woman standing and holding coffee mug looking out window ",
+    "clip_id": "58781",
+    "order": 400
+  },
+  {
+    "storyId": 11020,
+    "name": "man and woman drinking coffee at home",
+    "clip_id": "22482",
+    "order": 401
+  },
+  {
+    "storyId": 23140,
+    "name": "Customer, Portrait, Coffee Bar, Smiling",
+    "clip_id": "345866",
+    "order": 402
+  },
+  {
+    "storyId": 23842,
+    "name": "Cool Girls, Co Workers, Talking, Drinking",
+    "clip_id": "367639",
+    "order": 403
+  },
+  {
+    "storyId": 22649,
+    "name": "Man, Sitting, Robot, Pouring",
+    "clip_id": "331088",
+    "order": 404
+  },
+  {
+    "storyId": 11059,
+    "name": "Mature man walking to his porch swing in backyard ",
+    "clip_id": "23732",
+    "order": 405
+  },
+  {
+    "storyId": 12463,
+    "name": "fresh coffee dripping through filter",
+    "clip_id": "56067",
+    "order": 406
+  },
+  {
+    "storyId": 21858,
+    "name": "Man, Coffee Shop, Phone, Drinking",
+    "clip_id": "304991",
+    "order": 407
+  },
+  {
+    "storyId": 26313,
+    "name": "Woman, Working, Laptop, Coffee Shop",
+    "clip_id": "443132",
+    "order": 408
+  },
+  {
+    "storyId": 15872,
+    "name": "Woman, Tourist, Airport, Cafe",
+    "clip_id": "125762",
+    "order": 409
+  },
+  {
+    "storyId": 11020,
+    "name": "man pouring milk into glass with coffee",
+    "clip_id": "22476",
+    "order": 410
+  },
+  {
+    "storyId": 23444,
+    "name": "Coffee, Office, Laptop, Colleagues",
+    "clip_id": "357121",
+    "order": 411
+  },
+  {
+    "storyId": 23444,
+    "name": "Coffee, Man, Paying, Credit Card",
+    "clip_id": "357099",
+    "order": 412
+  },
+  {
+    "storyId": 11020,
+    "name": "woman stirring coffee while sitting next to man at home",
+    "clip_id": "22481",
+    "order": 413
+  },
+  {
+    "storyId": 11391,
+    "name": "women sitting and talking in cafe",
+    "clip_id": "35941",
+    "order": 414
+  },
+  {
+    "storyId": 17744,
+    "name": "Shop, Lady, Business, Entrepeneur",
+    "clip_id": "176884",
+    "order": 415
+  },
+  {
+    "storyId": 12046,
+    "name": "Woman in coffee shop typing on her tablet",
+    "clip_id": "48122",
+    "order": 416
+  },
+  {
+    "storyId": 22390,
+    "name": "Coffee, Coffee Beans, Smoke, Brown",
+    "clip_id": "323186",
+    "order": 417
+  },
+  {
+    "storyId": 14151,
+    "name": "woman swallowing her hot beverage",
+    "clip_id": "85753",
+    "order": 418
+  },
+  {
+    "storyId": 19424,
+    "name": "Man, Woman, Business Woman, Talking",
+    "clip_id": "229317",
+    "order": 419
+  },
+  {
+    "storyId": 12463,
+    "name": "fresh coffee being poured into a cup",
+    "clip_id": "56066",
+    "order": 420
+  },
+  {
+    "storyId": 11058,
+    "name": "coffee pours out of espresso machine spout ",
+    "clip_id": "23724",
+    "order": 421
+  },
+  {
+    "storyId": 17104,
+    "name": "Man, Office, Finance, City",
+    "clip_id": "160288",
+    "order": 422
+  },
+  {
+    "storyId": 12198,
+    "name": "Dark roasted coffee beans ",
+    "clip_id": "50380",
+    "order": 423
+  },
+  {
+    "storyId": 23444,
+    "name": "Pitcher, Filter Coffee, Typing, Man",
+    "clip_id": "357062",
+    "order": 424
+  },
+  {
+    "storyId": 12485,
+    "name": "fresh coffee from a machine poured into a mug",
+    "clip_id": "56347",
+    "order": 425
+  },
+  {
+    "storyId": 23444,
+    "name": "Man, Steam, Cafe, Waiting",
+    "clip_id": "357130",
+    "order": 426
+  },
+  {
+    "storyId": 11059,
+    "name": "Mature man drinking coffee on his porch swing outside",
+    "clip_id": "23736",
+    "order": 427
+  },
+  {
+    "storyId": 23140,
+    "name": "Pouring, Coffee, Milk, Cup",
+    "clip_id": "345837",
+    "order": 428
+  },
+  {
+    "storyId": 11058,
+    "name": "foam dollop spooned onto coffee",
+    "clip_id": "23735",
+    "order": 429
+  },
+  {
+    "storyId": 18000,
+    "name": "Coffee, Coffee-Machine, Cappuccino, Maker",
+    "clip_id": "184892",
+    "order": 430
+  },
+  {
+    "storyId": 17104,
+    "name": "Man, Office, Finance, City",
+    "clip_id": "160290",
+    "order": 431
+  },
+  {
+    "storyId": 23141,
+    "name": "Woman, Studying, Writing, Coffee",
+    "clip_id": "345901",
+    "order": 432
+  },
+  {
+    "storyId": 12463,
+    "name": "fresh coffee being poured into a mug",
+    "clip_id": "56074",
+    "order": 433
+  },
+  {
+    "storyId": 20507,
+    "name": "Coffee, Beach, Sea, Ocean",
+    "clip_id": "261337",
+    "order": 434
+  },
+  {
+    "storyId": 11058,
+    "name": "coffee grounds in portafilter ",
+    "clip_id": "23760",
+    "order": 435
+  },
+  {
+    "storyId": 13052,
+    "name": "coffee mixing with milk in glass mug",
+    "clip_id": "64099",
+    "order": 436
+  },
+  {
+    "storyId": 18000,
+    "name": "Coffee, Coffee-Machine, Cappuccino, Maker",
+    "clip_id": "184888",
+    "order": 437
+  },
+  {
+    "storyId": 17744,
+    "name": "Phone, Business, Coffee, Bar",
+    "clip_id": "176882",
+    "order": 438
+  },
+  {
+    "storyId": 23444,
+    "name": "Man, Briefcase, Cafe, Headphones",
+    "clip_id": "357089",
+    "order": 439
+  },
+  {
+    "storyId": 21588,
+    "name": "Coffee, Coffee Beans, Falling, Wood",
+    "clip_id": "295860",
+    "order": 440
+  },
+  {
+    "storyId": 21324,
+    "name": "Coffee, Steam, Moka Pot, Makineta",
+    "clip_id": "286675",
+    "order": 441
+  },
+  {
+    "storyId": 21588,
+    "name": "Coffee, Coffee Beans, Falling, Wood",
+    "clip_id": "295864",
+    "order": 442
+  },
+  {
+    "storyId": 25175,
+    "name": "Coffee Maker, Dripping, Glass, Man",
+    "clip_id": "407846",
+    "order": 443
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans scooped out of container",
+    "clip_id": "50345",
+    "order": 444
+  },
+  {
+    "storyId": 17447,
+    "name": "Workforce, Occupation, Workplace, Waiter",
+    "clip_id": "168591",
+    "order": 445
+  },
+  {
+    "storyId": 10902,
+    "name": "writer lighting up another cigarette and having coffee",
+    "clip_id": "19340",
+    "order": 446
+  },
+  {
+    "storyId": 19814,
+    "name": "Beans, Coffee, Barista, Gourmet",
+    "clip_id": "240143",
+    "order": 447
+  },
+  {
+    "storyId": 17448,
+    "name": "Woman, Workplace, Phone Call, Phone",
+    "clip_id": "168614",
+    "order": 448
+  },
+  {
+    "storyId": 18099,
+    "name": "Business, Networking, Meeting, Conference",
+    "clip_id": "188870",
+    "order": 449
+  },
+  {
+    "storyId": 10820,
+    "name": "Man puts coffee into glass high-angle",
+    "clip_id": "17242",
+    "order": 450
+  },
+  {
+    "storyId": 23805,
+    "name": "Hands, Laptop, Keyboard, Typing",
+    "clip_id": "367093",
+    "order": 451
+  },
+  {
+    "storyId": 16449,
+    "name": "woman smiling while reading a book at the breakfast table ",
+    "clip_id": "140393",
+    "order": 452
+  },
+  {
+    "storyId": 19814,
+    "name": "Cup, Coffee, Barista, Gourmet",
+    "clip_id": "240134",
+    "order": 453
+  },
+  {
+    "storyId": 23140,
+    "name": "Coffee Shop, Sitting, Customer, Workplace",
+    "clip_id": "345871",
+    "order": 454
+  },
+  {
+    "storyId": 12198,
+    "name": "brown coffee beans mixed around in a grinder ",
+    "clip_id": "50375",
+    "order": 455
+  },
+  {
+    "storyId": 16575,
+    "name": "coffee beans with smoke rising roasting",
+    "clip_id": "144474",
+    "order": 456
+  },
+  {
+    "storyId": 12046,
+    "name": "Woman writing on notepad then looking up in coffee shop",
+    "clip_id": "48138",
+    "order": 457
+  },
+  {
+    "storyId": 12257,
+    "name": "The coffee is mixed with a spoon in a glass mug",
+    "clip_id": "51700",
+    "order": 458
+  },
+  {
+    "storyId": 10820,
+    "name": "Man smells coffee and drinks it in kitchen",
+    "clip_id": "17235",
+    "order": 459
+  },
+  {
+    "storyId": 11059,
+    "name": "A man walks in his backyard and looks at the view ",
+    "clip_id": "23726",
+    "order": 460
+  },
+  {
+    "storyId": 13052,
+    "name": "coffee beans in roasting machine in factory",
+    "clip_id": "64068",
+    "order": 461
+  },
+  {
+    "storyId": 27468,
+    "name": "Coffee, Latte, Macchiato, Foam",
+    "clip_id": "478489",
+    "order": 462
+  },
+  {
+    "storyId": 17447,
+    "name": "Businesswoman, Cafeteria, Coffee-Shop, Occupation",
+    "clip_id": "168589",
+    "order": 463
+  },
+  {
+    "storyId": 18158,
+    "name": "Group, People, Indoors, Laughing",
+    "clip_id": "191488",
+    "order": 464
+  },
+  {
+    "storyId": 14698,
+    "name": "person pouring steamed milk in a latte to complete making a rosetta",
+    "clip_id": "98824",
+    "order": 465
+  },
+  {
+    "storyId": 23140,
+    "name": "Pouring, Coffee Art, Milk, Froth",
+    "clip_id": "345835",
+    "order": 466
+  },
+  {
+    "storyId": 17104,
+    "name": "Man, Office, Finance, City",
+    "clip_id": "160287",
+    "order": 467
+  },
+  {
+    "storyId": 11541,
+    "name": "drop of brown coffee falls in yellow cup of coffee",
+    "clip_id": "38356",
+    "order": 468
+  },
+  {
+    "storyId": 11058,
+    "name": "milk poured into coffee cup",
+    "clip_id": "23758",
+    "order": 469
+  },
+  {
+    "storyId": 23444,
+    "name": "Man, Laptop, Coffee, Afro",
+    "clip_id": "357104",
+    "order": 470
+  },
+  {
+    "storyId": 21858,
+    "name": "Woman, Laptop, Coffee Shop, Typing",
+    "clip_id": "305001",
+    "order": 471
+  },
+  {
+    "storyId": 13289,
+    "name": "woman typing on cellphone while drinking coffee",
+    "clip_id": "68351",
+    "order": 472
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans sprinkled onto a heap in container",
+    "clip_id": "50383",
+    "order": 473
+  },
+  {
+    "storyId": 22390,
+    "name": "Coffee, Coffee Beans, Brown, Caffeine",
+    "clip_id": "323178",
+    "order": 474
+  },
+  {
+    "storyId": 11541,
+    "name": "coffee poured from metal piece",
+    "clip_id": "38339",
+    "order": 475
+  },
+  {
+    "storyId": 11058,
+    "name": "barista heats up milk in jug with steamer ",
+    "clip_id": "23752",
+    "order": 476
+  },
+  {
+    "storyId": 23842,
+    "name": "Cool Girl, Making, Coffee, Machine",
+    "clip_id": "367610",
+    "order": 477
+  },
+  {
+    "storyId": 17744,
+    "name": "Bar, Business, Coffee, Happy",
+    "clip_id": "176883",
+    "order": 478
+  },
+  {
+    "storyId": 11058,
+    "name": "barista compresses coffee grounds with tamper",
+    "clip_id": "23761",
+    "order": 479
+  },
+  {
+    "storyId": 22968,
+    "name": "Coffee, Steam, Cup, Hands",
+    "clip_id": "340866",
+    "order": 480
+  },
+  {
+    "storyId": 23136,
+    "name": "Coffee, Cup, Mug, Smoke",
+    "clip_id": "345603",
+    "order": 481
+  },
+  {
+    "storyId": 21329,
+    "name": "Coffee Beans, Coffee, Roasting Machine, Coffee Roaster",
+    "clip_id": "286855",
+    "order": 482
+  },
+  {
+    "storyId": 11391,
+    "name": "women talking at looking at cellphone while sitting at table in restaurant",
+    "clip_id": "35938",
+    "order": 483
+  },
+  {
+    "storyId": 26313,
+    "name": "Woman, Drinking, Cold Coffee, Sitting",
+    "clip_id": "443133",
+    "order": 484
+  },
+  {
+    "storyId": 12198,
+    "name": "fresh coffee beans sprinkled onto a metal plate",
+    "clip_id": "50391",
+    "order": 485
+  },
+  {
+    "storyId": 18000,
+    "name": "Coffee, Coffee-Machine, Cappuccino, Maker",
+    "clip_id": "184890",
+    "order": 486
+  },
+  {
+    "storyId": 23444,
+    "name": "Coffee Shop, Customers, Table, Women",
+    "clip_id": "357092",
+    "order": 487
+  },
+  {
+    "storyId": 13052,
+    "name": "roast beans on cooling tray of roasting machine in factory",
+    "clip_id": "64074",
+    "order": 488
+  },
+  {
+    "storyId": 11115,
+    "name": "person writing down notes in a notebook",
+    "clip_id": "26313",
+    "order": 489
+  },
+  {
+    "storyId": 19814,
+    "name": "Coffee, Cafe, Barista, Aromatic",
+    "clip_id": "240136",
+    "order": 490
+  },
+  {
+    "storyId": 13052,
+    "name": "roasted coffee beans dropping into hessian bag white background",
+    "clip_id": "64107",
+    "order": 491
+  },
+  {
+    "storyId": 17174,
+    "name": "old woman drinking from a cup indoors",
+    "clip_id": "162066",
+    "order": 492
+  },
+  {
+    "storyId": 10820,
+    "name": "Man texting on phone and drinking coffee in kitchen",
+    "clip_id": "17234",
+    "order": 493
+  },
+  {
+    "storyId": 17744,
+    "name": "Woman, Coffee, Shop, Counter",
+    "clip_id": "176986",
+    "order": 494
+  },
+  {
+    "storyId": 18000,
+    "name": "Coffee, Coffee-Machine, Cappuccino, Maker",
+    "clip_id": "184889",
+    "order": 495
+  },
+  {
+    "storyId": 10952,
+    "name": "Smoking man drinks a beverage next to his packed boxes",
+    "clip_id": "20629",
+    "order": 496
+  },
+  {
+    "storyId": 18000,
+    "name": "Coffee, Coffee-Machine, Cappuccino, Maker",
+    "clip_id": "184891",
+    "order": 497
+  },
+  {
+    "storyId": 11541,
+    "name": "drop of coffee falls in a cup of coffee",
+    "clip_id": "38352",
+    "order": 498
+  },
+  {
+    "storyId": 10824,
+    "name": "Man drinks his coffee at a bar working on a laptop",
+    "clip_id": "17267",
+    "order": 499
+  },
+  {
+    "storyId": 23335,
+    "name": "Ground Coffee, Pressing, Hands, Espresso",
+    "clip_id": "352344",
+    "order": 500
+  },
+  {
+    "storyId": 11067,
+    "name": "women wearing vintage dresses walk together",
+    "clip_id": "24139",
+    "order": 501
+  },
+  {
+    "storyId": 16965,
+    "name": "Typing, Computer, Office, Technology",
+    "clip_id": "157089",
+    "order": 502
+  },
+  {
+    "storyId": 12523,
+    "name": "Muslim Woman drinking coffee in a cafe ",
+    "clip_id": "56931",
+    "order": 503
+  },
+  {
+    "storyId": 23140,
+    "name": "Friends, Cafe, Coffee Shop, Sitting",
+    "clip_id": "345869",
+    "order": 504
+  },
+  {
+    "storyId": 12463,
+    "name": "hot water slowly sifting through ground coffee",
+    "clip_id": "56071",
+    "order": 505
+  },
+  {
+    "storyId": 13052,
+    "name": "coffee beans in roasting drum machine in factory",
+    "clip_id": "64067",
+    "order": 506
+  },
+  {
+    "storyId": 25175,
+    "name": "Man, Drinking, Coffee Maker, Computer",
+    "clip_id": "407853",
+    "order": 507
+  },
+  {
+    "storyId": 12198,
+    "name": "fresh coffee beans poured into a display box",
+    "clip_id": "50351",
+    "order": 508
+  },
+  {
+    "storyId": 17744,
+    "name": "Coffee, Shop, Business, Customer",
+    "clip_id": "176919",
+    "order": 509
+  },
+  {
+    "storyId": 12198,
+    "name": "large coffee grinder slowly moving fresh coffee beans inside",
+    "clip_id": "50368",
+    "order": 510
+  },
+  {
+    "storyId": 13908,
+    "name": "coffee beans thrown in the air rack-focus",
+    "clip_id": "81143",
+    "order": 511
+  },
+  {
+    "storyId": 21326,
+    "name": "Money, Payment, Credit Card, Wallet",
+    "clip_id": "286728",
+    "order": 512
+  },
+  {
+    "storyId": 10979,
+    "name": "vintage coffee on fire",
+    "clip_id": "21384",
+    "order": 513
+  },
+  {
+    "storyId": 12463,
+    "name": "glass pitcher slowly collecting freshly brewed coffee",
+    "clip_id": "56072",
+    "order": 514
+  },
+  {
+    "storyId": 18991,
+    "name": "Girl, Young, Diner, Pour",
+    "clip_id": "216869",
+    "order": 515
+  },
+  {
+    "storyId": 21563,
+    "name": "Chocolate, Bonbonniere, Coffee Beans, Falling",
+    "clip_id": "294877",
+    "order": 516
+  },
+  {
+    "storyId": 12463,
+    "name": "fresh coffee sifting into a glass container",
+    "clip_id": "56069",
+    "order": 517
+  },
+  {
+    "storyId": 11541,
+    "name": "drop of milk falls on coffee",
+    "clip_id": "38348",
+    "order": 518
+  },
+  {
+    "storyId": 16075,
+    "name": "person pouring hot water over coffee in a filter",
+    "clip_id": "130351",
+    "order": 519
+  },
+  {
+    "storyId": 12331,
+    "name": "man with glasses sits in coffee shop scrolling on phone ",
+    "clip_id": "53519",
+    "order": 520
+  },
+  {
+    "storyId": 12046,
+    "name": "Woman drinking out of mug in coffee shop",
+    "clip_id": "48130",
+    "order": 521
+  },
+  {
+    "storyId": 26128,
+    "name": "Coffee, Cup, Phone, Mobile",
+    "clip_id": "437163",
+    "order": 522
+  },
+  {
+    "storyId": 23140,
+    "name": "Cup, Coffee, Cafe, Preparing",
+    "clip_id": "345847",
+    "order": 523
+  },
+  {
+    "storyId": 12198,
+    "name": "fresh coffee beans displayed on decorated brass plate",
+    "clip_id": "50388",
+    "order": 524
+  },
+  {
+    "storyId": 10789,
+    "name": "Barista heating milk at coffee machine",
+    "clip_id": "16658",
+    "order": 525
+  },
+  {
+    "storyId": 18000,
+    "name": "Coffee, Coffee-Machine, Cappuccino, Maker",
+    "clip_id": "184893",
+    "order": 526
+  },
+  {
+    "storyId": 21586,
+    "name": "Coffee Beans, Brown Chocolate, Dropping, Ingredient",
+    "clip_id": "295813",
+    "order": 527
+  },
+  {
+    "storyId": 10870,
+    "name": "Man enters office with coffee in his hand ",
+    "clip_id": "18221",
+    "order": 528
+  },
+  {
+    "storyId": 28034,
+    "name": "Coffee, Beans, Harvesting, Picking",
+    "clip_id": "495609",
+    "order": 529
+  },
+  {
+    "storyId": 23842,
+    "name": "Cool Girl, Making, Coffee, Machine",
+    "clip_id": "367609",
+    "order": 530
+  },
+  {
+    "storyId": 23140,
+    "name": "Customer, Cafe, Serving, Coffee Bar",
+    "clip_id": "345844",
+    "order": 531
+  },
+  {
+    "storyId": 13052,
+    "name": "coffee beans falling into hessian bag white background",
+    "clip_id": "64064",
+    "order": 532
+  },
+  {
+    "storyId": 12463,
+    "name": "close up of fresh coffee filtering into a glass container",
+    "clip_id": "56070",
+    "order": 533
+  },
+  {
+    "storyId": 17174,
+    "name": "old woman drinking from a cup indoors",
+    "clip_id": "162070",
+    "order": 534
+  },
+  {
+    "storyId": 26654,
+    "name": "Coffee, Granules, Pouring, Coffee Machine",
+    "clip_id": "454300",
+    "order": 535
+  },
+  {
+    "storyId": 11058,
+    "name": "water poured onto coffee grinds ",
+    "clip_id": "23767",
+    "order": 536
+  },
+  {
+    "storyId": 17744,
+    "name": "Shop, Lady, Business, Entrepeneur",
+    "clip_id": "176889",
+    "order": 537
+  },
+  {
+    "storyId": 10820,
+    "name": "Man talking on phone and drinking coffee in kitchen",
+    "clip_id": "17238",
+    "order": 538
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Walking, City, Coffee",
+    "clip_id": "287344",
+    "order": 539
+  },
+  {
+    "storyId": 10789,
+    "name": "Barista pours milk into coffee mug making cappuccino",
+    "clip_id": "16661",
+    "order": 540
+  },
+  {
+    "storyId": 18000,
+    "name": "Coffee, Coffee-Machine, Cappuccino, Maker",
+    "clip_id": "184897",
+    "order": 541
+  },
+  {
+    "storyId": 16028,
+    "name": "coffee filling a carafe in a coffeemaker",
+    "clip_id": "129136",
+    "order": 542
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans sprinkled and dropped into a pile on brass plate",
+    "clip_id": "50386",
+    "order": 543
+  },
+  {
+    "storyId": 24706,
+    "name": "Coworkers, Laptop, Coffee Shop, Smiling",
+    "clip_id": "392512",
+    "order": 544
+  },
+  {
+    "storyId": 17901,
+    "name": "Barista serving take away coffee",
+    "clip_id": "181261",
+    "order": 545
+  },
+  {
+    "storyId": 22968,
+    "name": "Coffee, Cup, Steam, Woman",
+    "clip_id": "340880",
+    "order": 546
+  },
+  {
+    "storyId": 10979,
+    "name": "old man with kneels and adds twigs to fire ",
+    "clip_id": "21405",
+    "order": 547
+  },
+  {
+    "storyId": 12046,
+    "name": "Woman focusing on typing in coffee shop",
+    "clip_id": "48124",
+    "order": 548
+  },
+  {
+    "storyId": 12257,
+    "name": "Boiling water poured into glass cup with coffee",
+    "clip_id": "51697",
+    "order": 549
+  },
+  {
+    "storyId": 14813,
+    "name": "Coffee, Ingredients, Background, Full",
+    "clip_id": "101892",
+    "order": 550
+  },
+  {
+    "storyId": 28034,
+    "name": "Coffee, Beans, Harvesting, Picking",
+    "clip_id": "495608",
+    "order": 551
+  },
+  {
+    "storyId": 25463,
+    "name": "Coffee Beans, Fruit, Picking, Hands",
+    "clip_id": "414742",
+    "order": 552
+  },
+  {
+    "storyId": 22984,
+    "name": "Coffee, Coffee Beans, Beans, Burlap Sack",
+    "clip_id": "341166",
+    "order": 553
+  },
+  {
+    "storyId": 10870,
+    "name": "Man sits by his desk on the computer at the office ",
+    "clip_id": "18222",
+    "order": 554
+  },
+  {
+    "storyId": 23140,
+    "name": "Coffee Shop, Bistro, Diner, Furniture",
+    "clip_id": "345868",
+    "order": 555
+  },
+  {
+    "storyId": 21858,
+    "name": "Woman, Phone, Walking, Glasses",
+    "clip_id": "305254",
+    "order": 556
+  },
+  {
+    "storyId": 10830,
+    "name": "Artistic woman looks at the easel and thinks creatively",
+    "clip_id": "17391",
+    "order": 557
+  },
+  {
+    "storyId": 10820,
+    "name": "Man leaning on kitchen counter and talking on phone",
+    "clip_id": "17237",
+    "order": 558
+  },
+  {
+    "storyId": 12046,
+    "name": "Woman writing on her notebook in a coffee shop",
+    "clip_id": "48136",
+    "order": 559
+  },
+  {
+    "storyId": 13052,
+    "name": "man cutting open hessian bag filled with raw coffee beans inside",
+    "clip_id": "64096",
+    "order": 560
+  },
+  {
+    "storyId": 21036,
+    "name": "Man, Glasses, Wool Hat, Beard",
+    "clip_id": "276160",
+    "order": 561
+  },
+  {
+    "storyId": 14698,
+    "name": "person designing espresso art in a latte",
+    "clip_id": "98822",
+    "order": 562
+  },
+  {
+    "storyId": 23140,
+    "name": "Empty, Coffee Shop, Bistro, Cafe",
+    "clip_id": "345872",
+    "order": 563
+  },
+  {
+    "storyId": 17744,
+    "name": "Phone, Business, Coffee, Bar",
+    "clip_id": "176885",
+    "order": 564
+  },
+  {
+    "storyId": 12198,
+    "name": "fresh coffee beans scooped out of container",
+    "clip_id": "50347",
+    "order": 565
+  },
+  {
+    "storyId": 20988,
+    "name": "Woman, Business Woman, Office, Window",
+    "clip_id": "274495",
+    "order": 566
+  },
+  {
+    "storyId": 20988,
+    "name": "Woman, Business Woman, Office, Window",
+    "clip_id": "274485",
+    "order": 567
+  },
+  {
+    "storyId": 10820,
+    "name": "Man drinking coffee in kitchen",
+    "clip_id": "17236",
+    "order": 568
+  },
+  {
+    "storyId": 11020,
+    "name": "coffee filling glass from coffee machine",
+    "clip_id": "22470",
+    "order": 569
+  },
+  {
+    "storyId": 22905,
+    "name": "Customer, Phone, Paying, Tea",
+    "clip_id": "338598",
+    "order": 570
+  },
+  {
+    "storyId": 18220,
+    "name": "businesswoman, working, café, digital tablet, coffee",
+    "clip_id": "194086",
+    "order": 571
+  },
+  {
+    "storyId": 10820,
+    "name": "Man puts sugar in coffee in kitchen",
+    "clip_id": "17233",
+    "order": 572
+  },
+  {
+    "storyId": 11541,
+    "name": "drop of milk falls in coffee",
+    "clip_id": "38349",
+    "order": 573
+  },
+  {
+    "storyId": 22390,
+    "name": "Coffee, Coffee Beans, Brown, Caffeine",
+    "clip_id": "323179",
+    "order": 574
+  },
+  {
+    "storyId": 13052,
+    "name": "coffee pouring into cups from machine",
+    "clip_id": "64097",
+    "order": 575
+  },
+  {
+    "storyId": 13052,
+    "name": "roast coffee beans spinning in front of furnace",
+    "clip_id": "64089",
+    "order": 576
+  },
+  {
+    "storyId": 11020,
+    "name": "woman pouring sugar in mans coffee at home",
+    "clip_id": "22480",
+    "order": 577
+  },
+  {
+    "storyId": 19814,
+    "name": "Beans, Coffee, Barista, Gourmet",
+    "clip_id": "240135",
+    "order": 578
+  },
+  {
+    "storyId": 10979,
+    "name": "vintage coffee pot on hot coals",
+    "clip_id": "21383",
+    "order": 579
+  },
+  {
+    "storyId": 14762,
+    "name": "coffee beans flying up and falling back down ",
+    "clip_id": "100424",
+    "order": 580
+  },
+  {
+    "storyId": 10820,
+    "name": "person stirring coffee in kitchen counter",
+    "clip_id": "17241",
+    "order": 581
+  },
+  {
+    "storyId": 11020,
+    "name": "man putting coffee capsule in coffee machine",
+    "clip_id": "22467",
+    "order": 582
+  },
+  {
+    "storyId": 24061,
+    "name": "Coffee, Woman, Coat, Wooly Hat",
+    "clip_id": "374861",
+    "order": 583
+  },
+  {
+    "storyId": 17744,
+    "name": "Phone, Business, Coffee, Bar",
+    "clip_id": "176918",
+    "order": 584
+  },
+  {
+    "storyId": 22732,
+    "name": "Woman, Pouring, Coffee, Macchinetta",
+    "clip_id": "334135",
+    "order": 585
+  },
+  {
+    "storyId": 17744,
+    "name": "Coffee, Coffeebar, Espresso, Cafeine",
+    "clip_id": "176901",
+    "order": 586
+  },
+  {
+    "storyId": 23140,
+    "name": "Hand, Coffee Art, Taking, Drink",
+    "clip_id": "345840",
+    "order": 587
+  },
+  {
+    "storyId": 11058,
+    "name": "milk steamed in jug ",
+    "clip_id": "23739",
+    "order": 588
+  },
+  {
+    "storyId": 20507,
+    "name": "Beach, Sea, Ocean, View",
+    "clip_id": "261340",
+    "order": 589
+  },
+  {
+    "storyId": 23140,
+    "name": "Coffee Machine, Bar, Bistro, Preparing",
+    "clip_id": "345833",
+    "order": 590
+  },
+  {
+    "storyId": 12198,
+    "name": "Brown roasted coffee beans ",
+    "clip_id": "50381",
+    "order": 591
+  },
+  {
+    "storyId": 23140,
+    "name": "Coffee Shop, Customers, Relaxing, Sitting",
+    "clip_id": "345870",
+    "order": 592
+  },
+  {
+    "storyId": 23335,
+    "name": "Coffee, Espresso, Caffeine, Dripping",
+    "clip_id": "352350",
+    "order": 593
+  },
+  {
+    "storyId": 16965,
+    "name": "Typing, Computer, Office, Technology",
+    "clip_id": "157090",
+    "order": 594
+  },
+  {
+    "storyId": 23335,
+    "name": "Coffee, Espresso, Cup, Dripping",
+    "clip_id": "352348",
+    "order": 595
+  },
+  {
+    "storyId": 11115,
+    "name": "woman drinking coffee during work break",
+    "clip_id": "26315",
+    "order": 596
+  },
+  {
+    "storyId": 23140,
+    "name": "Phone, Coffee Shop, Looking, Cafe",
+    "clip_id": "345864",
+    "order": 597
+  },
+  {
+    "storyId": 22390,
+    "name": "Coffee, Coffee Beans, Brown, Caffeine",
+    "clip_id": "323177",
+    "order": 598
+  },
+  {
+    "storyId": 11369,
+    "name": "person flips nuts in frying pan over hot coal",
+    "clip_id": "35399",
+    "order": 599
+  },
+  {
+    "storyId": 12046,
+    "name": "Women in coffee shop typing on her tablet",
+    "clip_id": "48123",
+    "order": 600
+  },
+  {
+    "storyId": 22390,
+    "name": "Coffee, Coffee Beans, Brown, Caffeine",
+    "clip_id": "323180",
+    "order": 601
+  },
+  {
+    "storyId": 26256,
+    "name": "Businesspeople, Private Jet, Airplane, Talking",
+    "clip_id": "440829",
+    "order": 602
+  },
+  {
+    "storyId": 11058,
+    "name": "coffee swirls in white mug",
+    "clip_id": "23742",
+    "order": 603
+  },
+  {
+    "storyId": 12198,
+    "name": "macro shot of coffee beans ",
+    "clip_id": "50401",
+    "order": 604
+  },
+  {
+    "storyId": 27468,
+    "name": "Latte, Macchiato, Coffee, Milk",
+    "clip_id": "478488",
+    "order": 605
+  },
+  {
+    "storyId": 12046,
+    "name": "Woman picking up and drinking from mug in coffee shop",
+    "clip_id": "48132",
+    "order": 606
+  },
+  {
+    "storyId": 13052,
+    "name": "bags dropped onto conveyor belt in factory",
+    "clip_id": "64075",
+    "order": 607
+  },
+  {
+    "storyId": 25463,
+    "name": "Coffee Tour, Woman, Picking, Coffee Beans",
+    "clip_id": "414739",
+    "order": 608
+  },
+  {
+    "storyId": 10820,
+    "name": "Man pours hot water into coffee glass on kitchen counter",
+    "clip_id": "17239",
+    "order": 609
+  },
+  {
+    "storyId": 21858,
+    "name": "Woman, Portrait, Smiling, Coffee Shop",
+    "clip_id": "305258",
+    "order": 610
+  },
+  {
+    "storyId": 21080,
+    "name": "Woman, Coffee, Laptop, Video Call",
+    "clip_id": "278216",
+    "order": 611
+  },
+  {
+    "storyId": 23140,
+    "name": "Preparing, Coffee Machine, Steamer, Jug",
+    "clip_id": "345836",
+    "order": 612
+  },
+  {
+    "storyId": 14272,
+    "name": "men having a conversation in a coffee shop ",
+    "clip_id": "88845",
+    "order": 613
+  },
+  {
+    "storyId": 11330,
+    "name": "woman drinking tea in cafe looking straight at camera",
+    "clip_id": "34409",
+    "order": 614
+  },
+  {
+    "storyId": 19424,
+    "name": "Man, Woman, Business Woman, Talking",
+    "clip_id": "229316",
+    "order": 615
+  },
+  {
+    "storyId": 11020,
+    "name": "coffee maker filling glass with coffee closeup",
+    "clip_id": "22469",
+    "order": 616
+  },
+  {
+    "storyId": 13052,
+    "name": "man filling bags with roast coffee beans",
+    "clip_id": "64084",
+    "order": 617
+  },
+  {
+    "storyId": 11058,
+    "name": "hot milk poured into cup of coffee",
+    "clip_id": "23753",
+    "order": 618
+  },
+  {
+    "storyId": 13052,
+    "name": "man picking up coffee cup with saucer",
+    "clip_id": "64103",
+    "order": 619
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans mixed around in a grinder",
+    "clip_id": "50374",
+    "order": 620
+  },
+  {
+    "storyId": 21858,
+    "name": "Man, Laptop, Coffee Shop, Typing",
+    "clip_id": "304995",
+    "order": 621
+  },
+  {
+    "storyId": 20036,
+    "name": "Coffee, Beans, Roasted, Espresso",
+    "clip_id": "246216",
+    "order": 622
+  },
+  {
+    "storyId": 22378,
+    "name": "Laughing, Drinking, Coffee, Friends",
+    "clip_id": "322852",
+    "order": 623
+  },
+  {
+    "storyId": 12485,
+    "name": "grinding fresh coffee beans",
+    "clip_id": "56345",
+    "order": 624
+  },
+  {
+    "storyId": 14529,
+    "name": "two woman exiting a building and walking down steps outdoors",
+    "clip_id": "93448",
+    "order": 625
+  },
+  {
+    "storyId": 17557,
+    "name": "man walking into a coffee shop ",
+    "clip_id": "172353",
+    "order": 626
+  },
+  {
+    "storyId": 27982,
+    "name": "Farmer, Colombia, Produce, Traditional",
+    "clip_id": "495559",
+    "order": 627
+  },
+  {
+    "storyId": 26654,
+    "name": "Coffee, Preparing, Granules, Pouring",
+    "clip_id": "454265",
+    "order": 628
+  },
+  {
+    "storyId": 14272,
+    "name": "friends drinking hot chocolate in a coffee shop ",
+    "clip_id": "88847",
+    "order": 629
+  },
+  {
+    "storyId": 24706,
+    "name": "Restaurant, Friends, Talking, Smiling",
+    "clip_id": "392485",
+    "order": 630
+  },
+  {
+    "storyId": 12113,
+    "name": "Man picking up coffee pot and pouring into black mug",
+    "clip_id": "49165",
+    "order": 631
+  },
+  {
+    "storyId": 23842,
+    "name": "Cool Girl, Making, Coffee, Machine",
+    "clip_id": "367612",
+    "order": 632
+  },
+  {
+    "storyId": 27468,
+    "name": "Coffee, Espresso, Drop, Cup",
+    "clip_id": "478490",
+    "order": 633
+  },
+  {
+    "storyId": 10820,
+    "name": "man puts sugar in glass of coffee",
+    "clip_id": "17240",
+    "order": 634
+  },
+  {
+    "storyId": 13838,
+    "name": "coffee beans in a grinder",
+    "clip_id": "79526",
+    "order": 635
+  },
+  {
+    "storyId": 13052,
+    "name": "coffee beans dropping into coffee roasting drum machine",
+    "clip_id": "64065",
+    "order": 636
+  },
+  {
+    "storyId": 12198,
+    "name": "large grinder moving coffee beans around",
+    "clip_id": "50370",
+    "order": 637
+  },
+  {
+    "storyId": 13212,
+    "name": "black board stand for cafe menu outside entrance",
+    "clip_id": "67054",
+    "order": 638
+  },
+  {
+    "storyId": 11058,
+    "name": "coffee and milk mixing ",
+    "clip_id": "23727",
+    "order": 639
+  },
+  {
+    "storyId": 26654,
+    "name": "Coffee, Pouring, Coffee Maker, Percolator",
+    "clip_id": "454272",
+    "order": 640
+  },
+  {
+    "storyId": 10824,
+    "name": "Man working on laptop at a bar drinks his coffee",
+    "clip_id": "17271",
+    "order": 641
+  },
+  {
+    "storyId": 12198,
+    "name": "dark roasted coffee beans being sprinkled next to regular beans",
+    "clip_id": "50405",
+    "order": 642
+  },
+  {
+    "storyId": 11541,
+    "name": "drops of coffee falls in a cup of coffee",
+    "clip_id": "38353",
+    "order": 643
+  },
+  {
+    "storyId": 14642,
+    "name": "Coffee, Kitchen, Beans, Chef",
+    "clip_id": "97273",
+    "order": 644
+  },
+  {
+    "storyId": 21858,
+    "name": "Woman, Portrait, Glasses, Smiling",
+    "clip_id": "305020",
+    "order": 645
+  },
+  {
+    "storyId": 20988,
+    "name": "Woman, Business Woman, Office, Drinking",
+    "clip_id": "274470",
+    "order": 646
+  },
+  {
+    "storyId": 11541,
+    "name": "man grabbing coffee beans from a bag with his hands",
+    "clip_id": "38313",
+    "order": 647
+  },
+  {
+    "storyId": 12380,
+    "name": "Mugs and pencil supplies on a cluttered desk",
+    "clip_id": "54557",
+    "order": 648
+  },
+  {
+    "storyId": 27468,
+    "name": "Coffee, Espresso, Drop, Cup",
+    "clip_id": "478491",
+    "order": 649
+  },
+  {
+    "storyId": 13052,
+    "name": "furnace behind spinning roast coffee beans rack-focus",
+    "clip_id": "64090",
+    "order": 650
+  },
+  {
+    "storyId": 17744,
+    "name": "Coffee, Cheesecake, Hands, Break",
+    "clip_id": "176940",
+    "order": 651
+  },
+  {
+    "storyId": 26099,
+    "name": "Man, Sitting, Coffee Shop, Smartphone",
+    "clip_id": "436328",
+    "order": 652
+  },
+  {
+    "storyId": 13908,
+    "name": "coffee beans twirling in the air rack-focus",
+    "clip_id": "81144",
+    "order": 653
+  },
+  {
+    "storyId": 26654,
+    "name": "Hands, Pouring, Preparing, Coffee",
+    "clip_id": "454266",
+    "order": 654
+  },
+  {
+    "storyId": 11267,
+    "name": "water gets whirled together in blender ",
+    "clip_id": "32733",
+    "order": 655
+  },
+  {
+    "storyId": 26654,
+    "name": "Hands, Preparing, Coffee, Granules",
+    "clip_id": "454286",
+    "order": 656
+  },
+  {
+    "storyId": 11058,
+    "name": "coffee topped with latter art",
+    "clip_id": "23755",
+    "order": 657
+  },
+  {
+    "storyId": 11020,
+    "name": "bearded man standing in kitchen",
+    "clip_id": "22475",
+    "order": 658
+  },
+  {
+    "storyId": 12198,
+    "name": "fresh coffee beans poured into a container for sale ",
+    "clip_id": "50346",
+    "order": 659
+  },
+  {
+    "storyId": 21324,
+    "name": "Moka Pot, Makineta, Steam, Coffee Maker",
+    "clip_id": "286674",
+    "order": 660
+  },
+  {
+    "storyId": 12113,
+    "name": "Pressing button on coffee machine",
+    "clip_id": "49167",
+    "order": 661
+  },
+  {
+    "storyId": 12463,
+    "name": "coffee mug shaking and spilling coffee on counter",
+    "clip_id": "56485",
+    "order": 662
+  },
+  {
+    "storyId": 11020,
+    "name": "coffee maker pouring coffee in glass closeup",
+    "clip_id": "22471",
+    "order": 663
+  },
+  {
+    "storyId": 17174,
+    "name": "old woman sipping a drink at a table indoors",
+    "clip_id": "162063",
+    "order": 664
+  },
+  {
+    "storyId": 23140,
+    "name": "Coffee Art, Taking, Hand, Tray",
+    "clip_id": "345839",
+    "order": 665
+  },
+  {
+    "storyId": 16967,
+    "name": "woman stirring a hot drink outdoors",
+    "clip_id": "157217",
+    "order": 666
+  },
+  {
+    "storyId": 23805,
+    "name": "Coffee Shop, Coffee, Take Away, Table",
+    "clip_id": "367099",
+    "order": 667
+  },
+  {
+    "storyId": 12115,
+    "name": "pouring beans into a copper coffee grinder with a copper scoop",
+    "clip_id": "49181",
+    "order": 668
+  },
+  {
+    "storyId": 15907,
+    "name": "small pitcher being filled with espresso from a machine",
+    "clip_id": "126505",
+    "order": 669
+  },
+  {
+    "storyId": 12198,
+    "name": "large roaster turning coffee beans around",
+    "clip_id": "50364",
+    "order": 670
+  },
+  {
+    "storyId": 11058,
+    "name": "milk poured into coffee ",
+    "clip_id": "23744",
+    "order": 671
+  },
+  {
+    "storyId": 17744,
+    "name": "Steam, Cappuccino, Milk, Steamer",
+    "clip_id": "176915",
+    "order": 672
+  },
+  {
+    "storyId": 26313,
+    "name": "Woman, Working, Laptop, Coffee Shop",
+    "clip_id": "443126",
+    "order": 673
+  },
+  {
+    "storyId": 21558,
+    "name": "Coffee, Milk, Blend, Mix",
+    "clip_id": "294478",
+    "order": 674
+  },
+  {
+    "storyId": 23347,
+    "name": "Senior, Woman, Drinking, Coffee",
+    "clip_id": "327476",
+    "order": 675
+  },
+  {
+    "storyId": 14607,
+    "name": "woman sitting on a bench and drinking coffee ",
+    "clip_id": "96050",
+    "order": 676
+  },
+  {
+    "storyId": 24716,
+    "name": "Woman, Window, Coffee, Drinking",
+    "clip_id": "393040",
+    "order": 677
+  },
+  {
+    "storyId": 22968,
+    "name": "Woman, Coffee, Drink, Morning",
+    "clip_id": "340879",
+    "order": 678
+  },
+  {
+    "storyId": 11020,
+    "name": "man standing in front of coffee machine pouring coffee in glass",
+    "clip_id": "22474",
+    "order": 679
+  },
+  {
+    "storyId": 21586,
+    "name": "Caramel, Coffee, Candy, Sweet",
+    "clip_id": "295829",
+    "order": 680
+  },
+  {
+    "storyId": 13922,
+    "name": "man sitting on couch with laptop and coffee ",
+    "clip_id": "81412",
+    "order": 681
+  },
+  {
+    "storyId": 15872,
+    "name": "Coffee, Cold, Ice, Straw",
+    "clip_id": "125763",
+    "order": 682
+  },
+  {
+    "storyId": 21858,
+    "name": "Woman, Laptop, Coffee Shop, Typing",
+    "clip_id": "305003",
+    "order": 683
+  },
+  {
+    "storyId": 10820,
+    "name": "Man stirs coffee with spoon high-angle",
+    "clip_id": "17244",
+    "order": 684
+  },
+  {
+    "storyId": 26032,
+    "name": "Coffee, Tea, Pouring, Cup",
+    "clip_id": "433509",
+    "order": 685
+  },
+  {
+    "storyId": 17744,
+    "name": "Coffee, Happy, Smiling, Window",
+    "clip_id": "176933",
+    "order": 686
+  },
+  {
+    "storyId": 23140,
+    "name": "Drinking, Coffee, Bar, Bacon Burger",
+    "clip_id": "345876",
+    "order": 687
+  },
+  {
+    "storyId": 17744,
+    "name": "Coffee, Customer, Shop, Business",
+    "clip_id": "176925",
+    "order": 688
+  },
+  {
+    "storyId": 26032,
+    "name": "Cup, Drink, Splashing, Pouring",
+    "clip_id": "433531",
+    "order": 689
+  },
+  {
+    "storyId": 22968,
+    "name": "Woman, Coffee, Mountains, Drink",
+    "clip_id": "340878",
+    "order": 690
+  },
+  {
+    "storyId": 21326,
+    "name": "Money, Payment, Credit Card, Coffee Shop",
+    "clip_id": "286722",
+    "order": 691
+  },
+  {
+    "storyId": 25331,
+    "name": "Phone, Stock Market, Mobile, Stock",
+    "clip_id": "412097",
+    "order": 692
+  },
+  {
+    "storyId": 12485,
+    "name": "filtered coffee in a pot",
+    "clip_id": "56346",
+    "order": 693
+  },
+  {
+    "storyId": 11541,
+    "name": "coffee falling off hessian material",
+    "clip_id": "38359",
+    "order": 694
+  },
+  {
+    "storyId": 24529,
+    "name": "Coffee Beans, Coffee, Grinder, Spilling",
+    "clip_id": "386340",
+    "order": 695
+  },
+  {
+    "storyId": 21255,
+    "name": "Coffee, Coffee Beans, Brown, Caffeine",
+    "clip_id": "284920",
+    "order": 696
+  },
+  {
+    "storyId": 26032,
+    "name": "Tea, Splashing, Coffee, Drink",
+    "clip_id": "433529",
+    "order": 697
+  },
+  {
+    "storyId": 12198,
+    "name": "single coffee beans sprinkled onto a brass plate with pile of beans",
+    "clip_id": "50389",
+    "order": 698
+  },
+  {
+    "storyId": 17174,
+    "name": "old woman sitting and looking from a window",
+    "clip_id": "162055",
+    "order": 699
+  },
+  {
+    "storyId": 13052,
+    "name": "coffee beans spinning and stop in front of furnace",
+    "clip_id": "64091",
+    "order": 700
+  },
+  {
+    "storyId": 23136,
+    "name": "Coffee, Mug, Cup, Top Shot",
+    "clip_id": "345608",
+    "order": 701
+  },
+  {
+    "storyId": 21866,
+    "name": "Woman, Bed, Coffee, Laptop",
+    "clip_id": "305667",
+    "order": 702
+  },
+  {
+    "storyId": 11541,
+    "name": "cream falling in a cup with ice and coffee in a red background",
+    "clip_id": "38337",
+    "order": 703
+  },
+  {
+    "storyId": 17744,
+    "name": "Coffee, Cappuccino, Coffeeshop, Bar",
+    "clip_id": "176897",
+    "order": 704
+  },
+  {
+    "storyId": 22905,
+    "name": "Customer, Smartwatch, Paying, Tea",
+    "clip_id": "338610",
+    "order": 705
+  },
+  {
+    "storyId": 22685,
+    "name": "Friends, Drinking, Coffee, Christmas Present",
+    "clip_id": "332389",
+    "order": 706
+  },
+  {
+    "storyId": 11541,
+    "name": "drop of coffee falls in cup of coffee",
+    "clip_id": "38351",
+    "order": 707
+  },
+  {
+    "storyId": 12198,
+    "name": "freshly roasted coffee beans",
+    "clip_id": "50350",
+    "order": 708
+  },
+  {
+    "storyId": 11020,
+    "name": "man pressing button on machine",
+    "clip_id": "22468",
+    "order": 709
+  },
+  {
+    "storyId": 14272,
+    "name": "friends sitting in a coffee shop and having a conversation ",
+    "clip_id": "88841",
+    "order": 710
+  },
+  {
+    "storyId": 22732,
+    "name": "Blonde, Woman, Drinking, Coffee",
+    "clip_id": "334142",
+    "order": 711
+  },
+  {
+    "storyId": 26654,
+    "name": "Coffee Maker, Preparing, Pouring, Coffee",
+    "clip_id": "454275",
+    "order": 712
+  },
+  {
+    "storyId": 23239,
+    "name": "Laptop, Drink, Coffee Cup, Giving",
+    "clip_id": "327416",
+    "order": 713
+  },
+  {
+    "storyId": 24529,
+    "name": "Coffee Beans, Coffee, Spilling, Burlap Sack",
+    "clip_id": "386343",
+    "order": 714
+  },
+  {
+    "storyId": 21586,
+    "name": "Coffee Beans, Caffeine, Ingredient, Falling",
+    "clip_id": "295817",
+    "order": 715
+  },
+  {
+    "storyId": 14151,
+    "name": "Woman sipping her coffee",
+    "clip_id": "85750",
+    "order": 716
+  },
+  {
+    "storyId": 23335,
+    "name": "Coffee, Espresso, Cup, Caffeine",
+    "clip_id": "352351",
+    "order": 717
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans fall on brass plate with pile of coffee beans ",
+    "clip_id": "50393",
+    "order": 718
+  },
+  {
+    "storyId": 29250,
+    "name": "Old, Man, Reading Glasses, Newspaper",
+    "clip_id": "529989",
+    "order": 719
+  },
+  {
+    "storyId": 23140,
+    "name": "Avocado, Sandwich, Eating, Cafe",
+    "clip_id": "345877",
+    "order": 720
+  },
+  {
+    "storyId": 23805,
+    "name": "Hands, Laptop, Typing, Cafe",
+    "clip_id": "367092",
+    "order": 721
+  },
+  {
+    "storyId": 11541,
+    "name": "cream mixing with ice and coffee in a glass in a red background",
+    "clip_id": "38336",
+    "order": 722
+  },
+  {
+    "storyId": 17744,
+    "name": "Menu, Blackboard, Business, Coffee",
+    "clip_id": "176974",
+    "order": 723
+  },
+  {
+    "storyId": 22479,
+    "name": "Sitting, Coffee, Apartment, Blinds",
+    "clip_id": "325918",
+    "order": 724
+  },
+  {
+    "storyId": 17744,
+    "name": "Coffee, Cake, Order, Shop",
+    "clip_id": "176944",
+    "order": 725
+  },
+  {
+    "storyId": 11020,
+    "name": "man putting cream on glass with coffee",
+    "clip_id": "22477",
+    "order": 726
+  },
+  {
+    "storyId": 22905,
+    "name": "Coffee Shop, Sign, Door, Restaurant",
+    "clip_id": "338599",
+    "order": 727
+  },
+  {
+    "storyId": 17174,
+    "name": "woman pouring coffee into a mug indoors",
+    "clip_id": "162073",
+    "order": 728
+  },
+  {
+    "storyId": 11541,
+    "name": "Drawing a picture on coffee with whipped milk on it",
+    "clip_id": "38343",
+    "order": 729
+  },
+  {
+    "storyId": 21586,
+    "name": "Coffee Beans, Hazelnut, Falling, Caffeine",
+    "clip_id": "295823",
+    "order": 730
+  },
+  {
+    "storyId": 22968,
+    "name": "Woman, Coffee, Horizon, Drinking",
+    "clip_id": "340877",
+    "order": 731
+  },
+  {
+    "storyId": 23140,
+    "name": "Coffee, Milk, Preparing, Machine",
+    "clip_id": "345832",
+    "order": 732
+  },
+  {
+    "storyId": 10824,
+    "name": "Man picks up his coffee mug to take a drink",
+    "clip_id": "17269",
+    "order": 733
+  },
+  {
+    "storyId": 18784,
+    "name": "Woman, Drink, Coffee, Balcony",
+    "clip_id": "210820",
+    "order": 734
+  },
+  {
+    "storyId": 21324,
+    "name": "Coffee, Makineta, Cup, Steam",
+    "clip_id": "286679",
+    "order": 735
+  },
+  {
+    "storyId": 23140,
+    "name": "Cashier, Cafe, Coffee Bar, Workplace",
+    "clip_id": "345843",
+    "order": 736
+  },
+  {
+    "storyId": 27982,
+    "name": "Crop Bag, Horse, Coffee Bean Sack, Horseback",
+    "clip_id": "495555",
+    "order": 737
+  },
+  {
+    "storyId": 13052,
+    "name": "processed bags on conveyor belt in factory",
+    "clip_id": "64076",
+    "order": 738
+  },
+  {
+    "storyId": 20988,
+    "name": "Woman, Business Woman, Office, Window",
+    "clip_id": "274484",
+    "order": 739
+  },
+  {
+    "storyId": 13289,
+    "name": "woman looking straight at camera then drinking coffee",
+    "clip_id": "68353",
+    "order": 740
+  },
+  {
+    "storyId": 19623,
+    "name": "Woman, Sitting, Home, Laptop",
+    "clip_id": "235978",
+    "order": 741
+  },
+  {
+    "storyId": 12257,
+    "name": "The inside of the glass mug fills up as boiling water is added to the coffee close up",
+    "clip_id": "51698",
+    "order": 742
+  },
+  {
+    "storyId": 17447,
+    "name": "Meeting, Occupation, Cafe, Coffee-Shop",
+    "clip_id": "168593",
+    "order": 743
+  },
+  {
+    "storyId": 14151,
+    "name": "woman drinking her hot coffee",
+    "clip_id": "85751",
+    "order": 744
+  },
+  {
+    "storyId": 16348,
+    "name": "man raising a mug and drinking",
+    "clip_id": "138038",
+    "order": 745
+  },
+  {
+    "storyId": 22984,
+    "name": "Coffee, Coffee Beans, Beans, Burlap Sack",
+    "clip_id": "341167",
+    "order": 746
+  },
+  {
+    "storyId": 11267,
+    "name": "mixer blends water at high speed",
+    "clip_id": "32732",
+    "order": 747
+  },
+  {
+    "storyId": 14272,
+    "name": "men sitting in a coffee shop and having a conversation ",
+    "clip_id": "88844",
+    "order": 748
+  },
+  {
+    "storyId": 12198,
+    "name": "close up of dark roasted coffee beans",
+    "clip_id": "50382",
+    "order": 749
+  },
+  {
+    "storyId": 19814,
+    "name": "Cafe, Coffee-Beans, Fresh, Barista",
+    "clip_id": "240140",
+    "order": 750
+  },
+  {
+    "storyId": 17744,
+    "name": "Business, Coffee, Women, Customers",
+    "clip_id": "176920",
+    "order": 751
+  },
+  {
+    "storyId": 24747,
+    "name": "Pouring, Drink, Flask, Cup",
+    "clip_id": "394180",
+    "order": 752
+  },
+  {
+    "storyId": 14507,
+    "name": "milk and sugar cubes being added to a mug of coffee and splashing",
+    "clip_id": "92496",
+    "order": 753
+  },
+  {
+    "storyId": 23842,
+    "name": "Cool Girl, Making, Coffee, Machine",
+    "clip_id": "367608",
+    "order": 754
+  },
+  {
+    "storyId": 17744,
+    "name": "Plant, Environment, Coffee, Bar",
+    "clip_id": "176930",
+    "order": 755
+  },
+  {
+    "storyId": 14391,
+    "name": "woman looking over her diet plan and eating salad in a restaurant ",
+    "clip_id": "90887",
+    "order": 756
+  },
+  {
+    "storyId": 22732,
+    "name": "Woman, Drinking, Coffee, Mobile",
+    "clip_id": "334137",
+    "order": 757
+  },
+  {
+    "storyId": 20655,
+    "name": "Man, Home, Businessman, Job",
+    "clip_id": "265779",
+    "order": 758
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans poured into a pile",
+    "clip_id": "50352",
+    "order": 759
+  },
+  {
+    "storyId": 26313,
+    "name": "Woman, Working, Laptop, Coffee Shop",
+    "clip_id": "443138",
+    "order": 760
+  },
+  {
+    "storyId": 21858,
+    "name": "Man, Woman, Talking, Laptop",
+    "clip_id": "305052",
+    "order": 761
+  },
+  {
+    "storyId": 26654,
+    "name": "Hands, Preparing, Coffee, Granules",
+    "clip_id": "454274",
+    "order": 762
+  },
+  {
+    "storyId": 21080,
+    "name": "Woman, Puzzle, Coffee, Home",
+    "clip_id": "278218",
+    "order": 763
+  },
+  {
+    "storyId": 20036,
+    "name": "Coffee, Beans, Roasted, Espresso",
+    "clip_id": "246222",
+    "order": 764
+  },
+  {
+    "storyId": 24819,
+    "name": "Woman, Thinking, Laptop, Coffee Cup",
+    "clip_id": "396971",
+    "order": 765
+  },
+  {
+    "storyId": 26654,
+    "name": "Preparing, Pouring, Milk, Coffee",
+    "clip_id": "454281",
+    "order": 766
+  },
+  {
+    "storyId": 26032,
+    "name": "Coffee, Cup, Pouring, Coffee Beans",
+    "clip_id": "433532",
+    "order": 767
+  },
+  {
+    "storyId": 18122,
+    "name": "Hand, Saw, Wood, Tools",
+    "clip_id": "189808",
+    "order": 768
+  },
+  {
+    "storyId": 12463,
+    "name": "stream rising from fresh coffee being made",
+    "clip_id": "56068",
+    "order": 769
+  },
+  {
+    "storyId": 11267,
+    "name": "coffee beans flying around in a mixer",
+    "clip_id": "32739",
+    "order": 770
+  },
+  {
+    "storyId": 17174,
+    "name": "woman pouring hot coffee into a mug in a room",
+    "clip_id": "162074",
+    "order": 771
+  },
+  {
+    "storyId": 11058,
+    "name": "coffee poured into hot milk ",
+    "clip_id": "23725",
+    "order": 772
+  },
+  {
+    "storyId": 14151,
+    "name": "woman drinking a hot beverage",
+    "clip_id": "85749",
+    "order": 773
+  },
+  {
+    "storyId": 21329,
+    "name": "Coffee, Coffee Beans, Coffee Roaster, Roasting Machine",
+    "clip_id": "286853",
+    "order": 774
+  },
+  {
+    "storyId": 13052,
+    "name": "man holding bag under funnel dropping coffee beans in factory",
+    "clip_id": "64085",
+    "order": 775
+  },
+  {
+    "storyId": 22732,
+    "name": "Pouring, Coffee, Macchinetta, Mug",
+    "clip_id": "334141",
+    "order": 776
+  },
+  {
+    "storyId": 11533,
+    "name": "close up of cappuccino on wooden table",
+    "clip_id": "38184",
+    "order": 777
+  },
+  {
+    "storyId": 24706,
+    "name": "Coworkers, Laptop, Coffee Shop, Talking",
+    "clip_id": "392511",
+    "order": 778
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans moving around in roaster",
+    "clip_id": "50365",
+    "order": 779
+  },
+  {
+    "storyId": 21558,
+    "name": "Coffee, Donut, Pour, Spilled",
+    "clip_id": "294475",
+    "order": 780
+  },
+  {
+    "storyId": 25463,
+    "name": "Woman, Coffee Tour, Coffee Farm, Leaves",
+    "clip_id": "414740",
+    "order": 781
+  },
+  {
+    "storyId": 17744,
+    "name": "Coffee, Cappuccino, Milk, Coffeeshop",
+    "clip_id": "176900",
+    "order": 782
+  },
+  {
+    "storyId": 13289,
+    "name": "woman drinking coffee",
+    "clip_id": "68354",
+    "order": 783
+  },
+  {
+    "storyId": 14272,
+    "name": "man laughing while talking to a friend in a coffee shop",
+    "clip_id": "88846",
+    "order": 784
+  },
+  {
+    "storyId": 13052,
+    "name": "coffee beans in front of furnace",
+    "clip_id": "64088",
+    "order": 785
+  },
+  {
+    "storyId": 12198,
+    "name": "close up of coffee beans falling onto a display",
+    "clip_id": "50395",
+    "order": 786
+  },
+  {
+    "storyId": 11541,
+    "name": "drawing picture on coffee with whipped milk",
+    "clip_id": "38345",
+    "order": 787
+  },
+  {
+    "storyId": 26128,
+    "name": "Coffee, Black, Napkin, Lipstick Mark",
+    "clip_id": "437184",
+    "order": 788
+  },
+  {
+    "storyId": 26082,
+    "name": "Man, Paying, Cell Phone, Payment Device",
+    "clip_id": "435899",
+    "order": 789
+  },
+  {
+    "storyId": 26313,
+    "name": "Woman, Texting, Smartphone, Coffee Shop",
+    "clip_id": "443118",
+    "order": 790
+  },
+  {
+    "storyId": 18991,
+    "name": "Girl, Young, Diner, Pour",
+    "clip_id": "216838",
+    "order": 791
+  },
+  {
+    "storyId": 27982,
+    "name": "Coffee Beans, Cloth Sack, Crop Bag, Harvest",
+    "clip_id": "495548",
+    "order": 792
+  },
+  {
+    "storyId": 23140,
+    "name": "Cutting, Sandwhich, Eating, Coffee Bar",
+    "clip_id": "345878",
+    "order": 793
+  },
+  {
+    "storyId": 14391,
+    "name": "woman drinking coffee in a coffee shop and smiling while looking out of the window",
+    "clip_id": "90890",
+    "order": 794
+  },
+  {
+    "storyId": 22732,
+    "name": "Woman, Pouring, Coffee, Drinking",
+    "clip_id": "334136",
+    "order": 795
+  },
+  {
+    "storyId": 23842,
+    "name": "Coffee Machine, Pouring, Frothed Milk, Glass",
+    "clip_id": "367614",
+    "order": 796
+  },
+  {
+    "storyId": 21858,
+    "name": "Women, Talking, Coffee Shop, Mask",
+    "clip_id": "305046",
+    "order": 797
+  },
+  {
+    "storyId": 22905,
+    "name": "Coffee Shop, Sign, Door, Closed",
+    "clip_id": "338640",
+    "order": 798
+  },
+  {
+    "storyId": 14849,
+    "name": "woman smiling and drinking from a cup outdoors near the countryside",
+    "clip_id": "102924",
+    "order": 799
+  },
+  {
+    "storyId": 20423,
+    "name": "Man, Coffee, Hat, Cool",
+    "clip_id": "257886",
+    "order": 800
+  },
+  {
+    "storyId": 23805,
+    "name": "Woman, Phone, Sitting, Scrolling",
+    "clip_id": "367091",
+    "order": 801
+  },
+  {
+    "storyId": 10824,
+    "name": "Man at bar with laptop takes a drink of coffee",
+    "clip_id": "17266",
+    "order": 802
+  },
+  {
+    "storyId": 25937,
+    "name": "Businessman, Blue Collar, On The Phone, Sitting",
+    "clip_id": "430851",
+    "order": 803
+  },
+  {
+    "storyId": 20036,
+    "name": "Coffee, Beans, Roasted, Espresso",
+    "clip_id": "246223",
+    "order": 804
+  },
+  {
+    "storyId": 17744,
+    "name": "Business, Welcome, Women, Coffee",
+    "clip_id": "176967",
+    "order": 805
+  },
+  {
+    "storyId": 21858,
+    "name": "Woman, Smiling, Portrait, 4Th Wall",
+    "clip_id": "305007",
+    "order": 806
+  },
+  {
+    "storyId": 22685,
+    "name": "Coffee, Friends, Disposable Cup, Smiling",
+    "clip_id": "332394",
+    "order": 807
+  },
+  {
+    "storyId": 17744,
+    "name": "Milk, Cappuccino, Steam, Steamer",
+    "clip_id": "176905",
+    "order": 808
+  },
+  {
+    "storyId": 17744,
+    "name": "Coffee, Cappuccino, Smiling, Customers",
+    "clip_id": "176932",
+    "order": 809
+  },
+  {
+    "storyId": 21866,
+    "name": "Couple, Bed, Coffee, Laptop",
+    "clip_id": "305676",
+    "order": 810
+  },
+  {
+    "storyId": 10820,
+    "name": "Man puts lid on jar in kitchen",
+    "clip_id": "17232",
+    "order": 811
+  },
+  {
+    "storyId": 21588,
+    "name": "Coffee, Coffee Beans, Falling, Wood",
+    "clip_id": "295851",
+    "order": 812
+  },
+  {
+    "storyId": 13052,
+    "name": "roasted coffee beans falling into hessian bag white background",
+    "clip_id": "64106",
+    "order": 813
+  },
+  {
+    "storyId": 12861,
+    "name": "brown coffee beans on counter",
+    "clip_id": "60909",
+    "order": 814
+  },
+  {
+    "storyId": 20036,
+    "name": "Coffee, Beans, Roasted, Espresso",
+    "clip_id": "246217",
+    "order": 815
+  },
+  {
+    "storyId": 17744,
+    "name": "Cake, Bar, Business, Coffee",
+    "clip_id": "176954",
+    "order": 816
+  },
+  {
+    "storyId": 23136,
+    "name": "Coffee Shop, Coffee, Take Away, Smoke",
+    "clip_id": "345616",
+    "order": 817
+  },
+  {
+    "storyId": 11020,
+    "name": "man putting cream in coffee glass",
+    "clip_id": "22478",
+    "order": 818
+  },
+  {
+    "storyId": 11541,
+    "name": "roasted brown coffee beans being mixed together",
+    "clip_id": "38366",
+    "order": 819
+  },
+  {
+    "storyId": 17174,
+    "name": "old woman putting a cup on a table indoors",
+    "clip_id": "162068",
+    "order": 820
+  },
+  {
+    "storyId": 25463,
+    "name": "Coffee Beans, Branch, Coffee Farm, Fruit",
+    "clip_id": "414710",
+    "order": 821
+  },
+  {
+    "storyId": 19814,
+    "name": "Beans, Coffee, Barista, Gourmet",
+    "clip_id": "240142",
+    "order": 822
+  },
+  {
+    "storyId": 23140,
+    "name": "Drinking, Coffee, Cafe, Sunglasses",
+    "clip_id": "345817",
+    "order": 823
+  },
+  {
+    "storyId": 26928,
+    "name": "Coffee Beans, Powder, Motion, Scattered",
+    "clip_id": "462776",
+    "order": 824
+  },
+  {
+    "storyId": 26654,
+    "name": "Hands, Pouring, Milk, Art",
+    "clip_id": "454277",
+    "order": 825
+  },
+  {
+    "storyId": 14698,
+    "name": "sugar sinking in a cup of coffee",
+    "clip_id": "98820",
+    "order": 826
+  },
+  {
+    "storyId": 21329,
+    "name": "Coffee, Coffee Beans, Coffee Roaster, Roasting Machine",
+    "clip_id": "286852",
+    "order": 827
+  },
+  {
+    "storyId": 18229,
+    "name": "Man, Van, Bench, Drink",
+    "clip_id": "173427",
+    "order": 828
+  },
+  {
+    "storyId": 11541,
+    "name": "drop of coffee falls in yellow cup of coffee",
+    "clip_id": "38355",
+    "order": 829
+  },
+  {
+    "storyId": 13052,
+    "name": "blue bags being dropped onto conveyor belt in factory",
+    "clip_id": "64078",
+    "order": 830
+  },
+  {
+    "storyId": 25245,
+    "name": "Man, Pouring, Coffee, Kitchen",
+    "clip_id": "409675",
+    "order": 831
+  },
+  {
+    "storyId": 24849,
+    "name": "Woman, Coffeeshop, Table, Tablet",
+    "clip_id": "397956",
+    "order": 832
+  },
+  {
+    "storyId": 11541,
+    "name": "cream mixing with ice and coffee in glass",
+    "clip_id": "38338",
+    "order": 833
+  },
+  {
+    "storyId": 11541,
+    "name": "drawing a picture on coffee with whipped milk",
+    "clip_id": "38342",
+    "order": 834
+  },
+  {
+    "storyId": 11541,
+    "name": "cream mixing with ice and coffee in a glass",
+    "clip_id": "38335",
+    "order": 835
+  },
+  {
+    "storyId": 18784,
+    "name": "Woman, Balcony, Black, African",
+    "clip_id": "210817",
+    "order": 836
+  },
+  {
+    "storyId": 20866,
+    "name": "Coffee Machine, Grinder, Coffee, Granules",
+    "clip_id": "272536",
+    "order": 837
+  },
+  {
+    "storyId": 17174,
+    "name": "old woman walking while holding a cup indoors",
+    "clip_id": "162069",
+    "order": 838
+  },
+  {
+    "storyId": 12644,
+    "name": "espresso dripping onto vanilla ice cream ",
+    "clip_id": "58442",
+    "order": 839
+  },
+  {
+    "storyId": 26032,
+    "name": "Coffee, Cup, Splashing, Tea",
+    "clip_id": "433511",
+    "order": 840
+  },
+  {
+    "storyId": 26128,
+    "name": "Cup, Coffee, Rotation, Hand",
+    "clip_id": "437169",
+    "order": 841
+  },
+  {
+    "storyId": 24714,
+    "name": "Sidewalk, Scooter, Laptop, Man",
+    "clip_id": "392924",
+    "order": 842
+  },
+  {
+    "storyId": 21329,
+    "name": "Coffee, Coffee Beans, Caffeine, Beans",
+    "clip_id": "286858",
+    "order": 843
+  },
+  {
+    "storyId": 21858,
+    "name": "Woman, Video, Phone, Talking",
+    "clip_id": "305016",
+    "order": 844
+  },
+  {
+    "storyId": 10979,
+    "name": "fish and vegetables cooking on open fire",
+    "clip_id": "21425",
+    "order": 845
+  },
+  {
+    "storyId": 11541,
+    "name": "roasted coffee beans bumping into each other",
+    "clip_id": "38332",
+    "order": 846
+  },
+  {
+    "storyId": 24052,
+    "name": "Business Man, Coffee, Conversation, Handshake",
+    "clip_id": "374450",
+    "order": 847
+  },
+  {
+    "storyId": 11020,
+    "name": "man putting capsule in coffee machine in kitchen",
+    "clip_id": "22473",
+    "order": 848
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans being scooped into a pile with hands",
+    "clip_id": "50400",
+    "order": 849
+  },
+  {
+    "storyId": 26313,
+    "name": "Woman, Working, Laptop, Coffee Shop",
+    "clip_id": "443128",
+    "order": 850
+  },
+  {
+    "storyId": 22662,
+    "name": "Cup, Relaxing, Sofa, Drink",
+    "clip_id": "331490",
+    "order": 851
+  },
+  {
+    "storyId": 21858,
+    "name": "Woman, Phone, Texting, Coffee Shop",
+    "clip_id": "305013",
+    "order": 852
+  },
+  {
+    "storyId": 12394,
+    "name": "coffee beans being poured into a coffee maker",
+    "clip_id": "54768",
+    "order": 853
+  },
+  {
+    "storyId": 14507,
+    "name": "coffee being poured into a mug next to a doughnut",
+    "clip_id": "92495",
+    "order": 854
+  },
+  {
+    "storyId": 12463,
+    "name": "coffee in mug spilling out on counter",
+    "clip_id": "56484",
+    "order": 855
+  },
+  {
+    "storyId": 11541,
+    "name": "man picking coffee beans from bag with metal tool",
+    "clip_id": "38322",
+    "order": 856
+  },
+  {
+    "storyId": 21324,
+    "name": "Coffee, Makineta, Cup, Barriers",
+    "clip_id": "286680",
+    "order": 857
+  },
+  {
+    "storyId": 17744,
+    "name": "Business, Woman, Coffee, Lady",
+    "clip_id": "176907",
+    "order": 858
+  },
+  {
+    "storyId": 11541,
+    "name": "coffee falling from hessian material",
+    "clip_id": "38358",
+    "order": 859
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans moving around on a table",
+    "clip_id": "50399",
+    "order": 860
+  },
+  {
+    "storyId": 23140,
+    "name": "Worker, Coffee Bar, Bistro, Preparing",
+    "clip_id": "345846",
+    "order": 861
+  },
+  {
+    "storyId": 25175,
+    "name": "Coffee Maker, Laptop, Man, Dripping",
+    "clip_id": "407847",
+    "order": 862
+  },
+  {
+    "storyId": 13861,
+    "name": "coffee poured into cup",
+    "clip_id": "80286",
+    "order": 863
+  },
+  {
+    "storyId": 10824,
+    "name": "Man puts coffee mug down after taking a drink",
+    "clip_id": "17270",
+    "order": 864
+  },
+  {
+    "storyId": 20036,
+    "name": "Coffee, Beans, Roasted, Espresso",
+    "clip_id": "246234",
+    "order": 865
+  },
+  {
+    "storyId": 13212,
+    "name": "man with clear glasses sipping coffee and acting surprised in coffee shop",
+    "clip_id": "67047",
+    "order": 866
+  },
+  {
+    "storyId": 16965,
+    "name": "Typing, Computer, Office, Technology",
+    "clip_id": "157111",
+    "order": 867
+  },
+  {
+    "storyId": 11267,
+    "name": "coffee beans get shredded by mixer",
+    "clip_id": "32738",
+    "order": 868
+  },
+  {
+    "storyId": 18690,
+    "name": "Women, Chatting, Home, Kitchen",
+    "clip_id": "207989",
+    "order": 869
+  },
+  {
+    "storyId": 24149,
+    "name": "Holding Hands, Café, Table, Woman",
+    "clip_id": "377225",
+    "order": 870
+  },
+  {
+    "storyId": 17744,
+    "name": "Coffee, Cafeine, Grinder, Fresh",
+    "clip_id": "176904",
+    "order": 871
+  },
+  {
+    "storyId": 26313,
+    "name": "Woman, Working, Laptop, Coffee Shop",
+    "clip_id": "443112",
+    "order": 872
+  },
+  {
+    "storyId": 11267,
+    "name": "camera zooms out on water being blended in mixer",
+    "clip_id": "32735",
+    "order": 873
+  },
+  {
+    "storyId": 26988,
+    "name": "Bedouin, Man, Roasting, Coffee",
+    "clip_id": "461652",
+    "order": 874
+  },
+  {
+    "storyId": 11020,
+    "name": "man putting glass in coffee machine in kitchen",
+    "clip_id": "22472",
+    "order": 875
+  },
+  {
+    "storyId": 23842,
+    "name": "Woman, Man, Talking, Smoking",
+    "clip_id": "367663",
+    "order": 876
+  },
+  {
+    "storyId": 14827,
+    "name": "roasted coffee beans being poured",
+    "clip_id": "102407",
+    "order": 877
+  },
+  {
+    "storyId": 11267,
+    "name": "water bubble up as it spins in blender",
+    "clip_id": "32734",
+    "order": 878
+  },
+  {
+    "storyId": 22905,
+    "name": "Coffee Shop, Sign, Door, Restaurant",
+    "clip_id": "338600",
+    "order": 879
+  },
+  {
+    "storyId": 27982,
+    "name": "Coffee Beans, Filling, Cloth Sack, Crop Bag",
+    "clip_id": "495539",
+    "order": 880
+  },
+  {
+    "storyId": 11330,
+    "name": "woman sitting at table drinking coffee in cafe",
+    "clip_id": "34410",
+    "order": 881
+  },
+  {
+    "storyId": 23136,
+    "name": "Coffee, Cup, Mug, Coffee Shop",
+    "clip_id": "345613",
+    "order": 882
+  },
+  {
+    "storyId": 23335,
+    "name": "Coffee, Espresso, Pouring, Caffeine",
+    "clip_id": "352339",
+    "order": 883
+  },
+  {
+    "storyId": 17744,
+    "name": "Milk, Cappuccino, Steam, Steamer",
+    "clip_id": "176962",
+    "order": 884
+  },
+  {
+    "storyId": 18784,
+    "name": "Woman, Balcony, Black, African",
+    "clip_id": "210821",
+    "order": 885
+  },
+  {
+    "storyId": 20988,
+    "name": "Woman, Business Woman, Office, Window",
+    "clip_id": "274482",
+    "order": 886
+  },
+  {
+    "storyId": 26654,
+    "name": "Coffee, Beans, Pouring, Caffeine",
+    "clip_id": "454264",
+    "order": 887
+  },
+  {
+    "storyId": 26988,
+    "name": "Bedouin, Man, Pouring, Coffee",
+    "clip_id": "461659",
+    "order": 888
+  },
+  {
+    "storyId": 26313,
+    "name": "Woman, Drinking, Cold Coffee, Coffee Shop",
+    "clip_id": "443135",
+    "order": 889
+  },
+  {
+    "storyId": 17744,
+    "name": "Coffee, Cake, Hands, Delicious",
+    "clip_id": "176934",
+    "order": 890
+  },
+  {
+    "storyId": 23335,
+    "name": "Coffee, Cup, Pouring, Espresso",
+    "clip_id": "352342",
+    "order": 891
+  },
+  {
+    "storyId": 17174,
+    "name": "woman pouring coffee in a kitchen",
+    "clip_id": "162075",
+    "order": 892
+  },
+  {
+    "storyId": 13289,
+    "name": "woman drinking coffee while looking straight at camera",
+    "clip_id": "68352",
+    "order": 893
+  },
+  {
+    "storyId": 26313,
+    "name": "Woman, Texting, Smartphone, Coffee Shop",
+    "clip_id": "443119",
+    "order": 894
+  },
+  {
+    "storyId": 17744,
+    "name": "Coffee, Shop, Customer, Order",
+    "clip_id": "176923",
+    "order": 895
+  },
+  {
+    "storyId": 11059,
+    "name": "Man holding cup of coffee in his backyard ",
+    "clip_id": "23731",
+    "order": 896
+  },
+  {
+    "storyId": 24714,
+    "name": "Sitting, Sidewalk, Laptop, Scooter",
+    "clip_id": "392929",
+    "order": 897
+  },
+  {
+    "storyId": 21324,
+    "name": "Coffee, Makineta, Cup, Barriers",
+    "clip_id": "286677",
+    "order": 898
+  },
+  {
+    "storyId": 12991,
+    "name": "Person pours herself a cup of coffee outside",
+    "clip_id": "62937",
+    "order": 899
+  },
+  {
+    "storyId": 25463,
+    "name": "Coffee Beans, Fruit, Hands, Coffee Farm",
+    "clip_id": "414709",
+    "order": 900
+  },
+  {
+    "storyId": 12198,
+    "name": "fresh coffee beans moved around in a roaster",
+    "clip_id": "50369",
+    "order": 901
+  },
+  {
+    "storyId": 17744,
+    "name": "Coffee, Lady, Business, Coffeeshop",
+    "clip_id": "176902",
+    "order": 902
+  },
+  {
+    "storyId": 11541,
+    "name": "ground coffee comes out from machine",
+    "clip_id": "38340",
+    "order": 903
+  },
+  {
+    "storyId": 24716,
+    "name": "Woman, Coffee, Window, Glass",
+    "clip_id": "393039",
+    "order": 904
+  },
+  {
+    "storyId": 13052,
+    "name": "man holding bag for coffee bean funnel in factory",
+    "clip_id": "64086",
+    "order": 905
+  },
+  {
+    "storyId": 17744,
+    "name": "Shop, Lady, Business, Smile",
+    "clip_id": "176888",
+    "order": 906
+  },
+  {
+    "storyId": 24529,
+    "name": "Coffee Beans, Coffee, Spilling, Brown",
+    "clip_id": "386342",
+    "order": 907
+  },
+  {
+    "storyId": 11541,
+    "name": "brown coffee beans falling off hessian material",
+    "clip_id": "38361",
+    "order": 908
+  },
+  {
+    "storyId": 12198,
+    "name": "various fresh coffee beans displayed in containers in a store",
+    "clip_id": "50349",
+    "order": 909
+  },
+  {
+    "storyId": 11541,
+    "name": "person picking brown coffee beans from bag with a metal tool",
+    "clip_id": "38321",
+    "order": 910
+  },
+  {
+    "storyId": 14827,
+    "name": "coffee beans being poured into a batch",
+    "clip_id": "102412",
+    "order": 911
+  },
+  {
+    "storyId": 26313,
+    "name": "Woman, Hands, Working, Laptop",
+    "clip_id": "443123",
+    "order": 912
+  },
+  {
+    "storyId": 23858,
+    "name": "Pet Dog, Living Room, Bathrobe, Coffee",
+    "clip_id": "368293",
+    "order": 913
+  },
+  {
+    "storyId": 23140,
+    "name": "Laptop, Cafe, Diner, Coffee",
+    "clip_id": "345863",
+    "order": 914
+  },
+  {
+    "storyId": 21080,
+    "name": "Woman, Coffee, Video Call, Ginger",
+    "clip_id": "278229",
+    "order": 915
+  },
+  {
+    "storyId": 22479,
+    "name": "Meeting, Sofa, Talking, Window",
+    "clip_id": "325886",
+    "order": 916
+  },
+  {
+    "storyId": 26313,
+    "name": "Woman, Texting, Smartphone, Coffee Shop",
+    "clip_id": "443117",
+    "order": 917
+  },
+  {
+    "storyId": 21324,
+    "name": "Coffee, Coffee Maker, Moka Pot, Makineta",
+    "clip_id": "286678",
+    "order": 918
+  },
+  {
+    "storyId": 14272,
+    "name": "man putting whip cream into his hot chocolate ",
+    "clip_id": "88848",
+    "order": 919
+  },
+  {
+    "storyId": 11267,
+    "name": "ice gets shredded by blender blade",
+    "clip_id": "32737",
+    "order": 920
+  },
+  {
+    "storyId": 17744,
+    "name": "Bar, Grinder, Coffee, Cup",
+    "clip_id": "176903",
+    "order": 921
+  },
+  {
+    "storyId": 23805,
+    "name": "Woman, Laptop, Sitting, Coffee Shop",
+    "clip_id": "367095",
+    "order": 922
+  },
+  {
+    "storyId": 17897,
+    "name": "Man, Black, Coffee, Smartphone",
+    "clip_id": "181012",
+    "order": 923
+  },
+  {
+    "storyId": 21558,
+    "name": "Coffee, Pour, Drink",
+    "clip_id": "294455",
+    "order": 924
+  },
+  {
+    "storyId": 11369,
+    "name": "person flips beans in pan over hot coals",
+    "clip_id": "35398",
+    "order": 925
+  },
+  {
+    "storyId": 22479,
+    "name": "Coffee, Window, Disposable Cup, Drinking",
+    "clip_id": "325857",
+    "order": 926
+  },
+  {
+    "storyId": 20036,
+    "name": "Coffee, Beans, Roasted, Espresso",
+    "clip_id": "246218",
+    "order": 927
+  },
+  {
+    "storyId": 24982,
+    "name": "Woman, Laptop, Typing, Hands",
+    "clip_id": "401353",
+    "order": 928
+  },
+  {
+    "storyId": 17744,
+    "name": "Coffee, Shop, Lady, Business",
+    "clip_id": "176970",
+    "order": 929
+  },
+  {
+    "storyId": 27982,
+    "name": "Man, Plantation, Walking, Pole",
+    "clip_id": "495599",
+    "order": 930
+  },
+  {
+    "storyId": 17897,
+    "name": "Man, Black, Coffee, Smartphone",
+    "clip_id": "181013",
+    "order": 931
+  },
+  {
+    "storyId": 12198,
+    "name": "dark roasted coffee beans in a pile",
+    "clip_id": "50406",
+    "order": 932
+  },
+  {
+    "storyId": 21255,
+    "name": "Coffee, Coffee Beans, Brown, Caffeine",
+    "clip_id": "284919",
+    "order": 933
+  },
+  {
+    "storyId": 20036,
+    "name": "Coffee, Beans, Roasted, Espresso",
+    "clip_id": "246230",
+    "order": 934
+  },
+  {
+    "storyId": 20507,
+    "name": "Beach, Sea, Ocean, View",
+    "clip_id": "261334",
+    "order": 935
+  },
+  {
+    "storyId": 17744,
+    "name": "Coffee, Machine, Women, Reflection",
+    "clip_id": "176987",
+    "order": 936
+  },
+  {
+    "storyId": 13052,
+    "name": "coffee beans falling into filled hessian bag white background",
+    "clip_id": "64104",
+    "order": 937
+  },
+  {
+    "storyId": 11533,
+    "name": "a cappuccino placed on a wooden surface",
+    "clip_id": "38183",
+    "order": 938
+  },
+  {
+    "storyId": 23136,
+    "name": "Coffee Shop, Window, Computer, Laptop",
+    "clip_id": "345594",
+    "order": 939
+  },
+  {
+    "storyId": 13008,
+    "name": "woman holding a cup of coffee laughs as she talks on her cellphone",
+    "clip_id": "63236",
+    "order": 940
+  },
+  {
+    "storyId": 21842,
+    "name": "Women, Walking, Coffee, Tablet",
+    "clip_id": "304278",
+    "order": 941
+  },
+  {
+    "storyId": 21329,
+    "name": "Coffee, Coffee Beans, Coffee Roaster, Beans",
+    "clip_id": "286851",
+    "order": 942
+  },
+  {
+    "storyId": 17744,
+    "name": "Restaurant, Coffee, Customers, Shop",
+    "clip_id": "176924",
+    "order": 943
+  },
+  {
+    "storyId": 11541,
+    "name": "coffee beans being mixed together",
+    "clip_id": "38363",
+    "order": 944
+  },
+  {
+    "storyId": 21586,
+    "name": "Hazelnut, Coffee Beans, Ingredient, Falling",
+    "clip_id": "295825",
+    "order": 945
+  },
+  {
+    "storyId": 23136,
+    "name": "Coffee Shop, Window, Bread, Spread",
+    "clip_id": "345595",
+    "order": 946
+  },
+  {
+    "storyId": 17744,
+    "name": "Women, Coffee, Shop, Lady",
+    "clip_id": "176969",
+    "order": 947
+  },
+  {
+    "storyId": 21558,
+    "name": "Coffee Beans, Coffee, Falls",
+    "clip_id": "294482",
+    "order": 948
+  },
+  {
+    "storyId": 17897,
+    "name": "Man, Black, Coffee, Smartphone",
+    "clip_id": "181014",
+    "order": 949
+  }
+]

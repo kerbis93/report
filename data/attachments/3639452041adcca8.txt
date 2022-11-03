@@ -1,0 +1,4160 @@
+[
+  {
+    "storyId": 20480,
+    "name": "Keffiyeh, Child, Soldier, Terrorism",
+    "clip_id": "260238",
+    "order": 0
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Hostage, Captive, Militia",
+    "clip_id": "260235",
+    "order": 1
+  },
+  {
+    "storyId": 20480,
+    "name": "War, Soldier, Army, Troops",
+    "clip_id": "260251",
+    "order": 2
+  },
+  {
+    "storyId": 28021,
+    "name": "Satellite Map, Top Shot, Traffic, Streets",
+    "clip_id": "496548",
+    "order": 3
+  },
+  {
+    "storyId": 13712,
+    "name": "Model, Young, Posing, Wire Fence",
+    "clip_id": "76437",
+    "order": 4
+  },
+  {
+    "storyId": 13712,
+    "name": "Woman, Young, Climbing, Wire Fence",
+    "clip_id": "76440",
+    "order": 5
+  },
+  {
+    "storyId": 13712,
+    "name": "Woman, Young, Blond, Pony Tail",
+    "clip_id": "76480",
+    "order": 6
+  },
+  {
+    "storyId": 13712,
+    "name": "Woman, Young, Blond, Pony Tail",
+    "clip_id": "76478",
+    "order": 7
+  },
+  {
+    "storyId": 13712,
+    "name": "Woman, Young, Blond, Looking Around",
+    "clip_id": "76479",
+    "order": 8
+  },
+  {
+    "storyId": 13712,
+    "name": "Woman, Young, Sitting, Rock",
+    "clip_id": "76483",
+    "order": 9
+  },
+  {
+    "storyId": 13712,
+    "name": "Woman, Young, Climbing, Wire Fence",
+    "clip_id": "76436",
+    "order": 10
+  },
+  {
+    "storyId": 23374,
+    "name": "Soldier, Shouting, War, Fight",
+    "clip_id": "344410",
+    "order": 11
+  },
+  {
+    "storyId": 13566,
+    "name": "cable car and pedestrians crossing the street in a city",
+    "clip_id": "73222",
+    "order": 12
+  },
+  {
+    "storyId": 23104,
+    "name": "Horsemen, Knights, Warriors, Medieval",
+    "clip_id": "344479",
+    "order": 13
+  },
+  {
+    "storyId": 23374,
+    "name": "Battle, Knights, Horseback, Medieval",
+    "clip_id": "344430",
+    "order": 14
+  },
+  {
+    "storyId": 20480,
+    "name": "Hostage, Soldier, War, Gun",
+    "clip_id": "260230",
+    "order": 15
+  },
+  {
+    "storyId": 23374,
+    "name": "Knight, Sword, Battle, War",
+    "clip_id": "344405",
+    "order": 16
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Warriors, Battlefield, Battle",
+    "clip_id": "344458",
+    "order": 17
+  },
+  {
+    "storyId": 23374,
+    "name": "Knight, Sword, Battle, Armor",
+    "clip_id": "344409",
+    "order": 18
+  },
+  {
+    "storyId": 20480,
+    "name": "Violence, War, Explosion, Death",
+    "clip_id": "260271",
+    "order": 19
+  },
+  {
+    "storyId": 23374,
+    "name": "Knights, Battle, Horseback, War",
+    "clip_id": "344421",
+    "order": 20
+  },
+  {
+    "storyId": 20480,
+    "name": "Battle, War, Attack, Combat",
+    "clip_id": "260277",
+    "order": 21
+  },
+  {
+    "storyId": 20480,
+    "name": "Explosion, Bomb, War, Soldier",
+    "clip_id": "260326",
+    "order": 22
+  },
+  {
+    "storyId": 22329,
+    "name": "Chimney, Smokestack, Industrial, Aerial",
+    "clip_id": "321041",
+    "order": 23
+  },
+  {
+    "storyId": 22329,
+    "name": "Chimney, Smokestack, Industrial, Aerial",
+    "clip_id": "321039",
+    "order": 24
+  },
+  {
+    "storyId": 23104,
+    "name": "Knight, Battlefield, Cavalry, War",
+    "clip_id": "344463",
+    "order": 25
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Explosion, Bunker, War",
+    "clip_id": "260240",
+    "order": 26
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Wounded, Army, Smoke",
+    "clip_id": "260275",
+    "order": 27
+  },
+  {
+    "storyId": 20480,
+    "name": "War, Comrade, Death, Explosion",
+    "clip_id": "260272",
+    "order": 28
+  },
+  {
+    "storyId": 23374,
+    "name": "Knights, Battle, Horseback, Medieval",
+    "clip_id": "344422",
+    "order": 29
+  },
+  {
+    "storyId": 20480,
+    "name": "Battle, War, Fight, Army",
+    "clip_id": "260278",
+    "order": 30
+  },
+  {
+    "storyId": 23104,
+    "name": "Battle, Knights, Medieval, War",
+    "clip_id": "344440",
+    "order": 31
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Battle, Warriors, Infantry",
+    "clip_id": "344497",
+    "order": 32
+  },
+  {
+    "storyId": 23104,
+    "name": "Battle, Knights, Horses, Swords",
+    "clip_id": "344491",
+    "order": 33
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Gun, War, Fear",
+    "clip_id": "260325",
+    "order": 34
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Stabbing, Battlefield, Battle",
+    "clip_id": "344450",
+    "order": 35
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Gun, Death, War",
+    "clip_id": "260323",
+    "order": 36
+  },
+  {
+    "storyId": 23104,
+    "name": "Battle, War, Cavalry, Medieval",
+    "clip_id": "344472",
+    "order": 37
+  },
+  {
+    "storyId": 23104,
+    "name": "Knight, Victory, Warrior, Sword",
+    "clip_id": "344496",
+    "order": 38
+  },
+  {
+    "storyId": 23104,
+    "name": "Knight, Armor, Battlefield, Battle",
+    "clip_id": "344446",
+    "order": 39
+  },
+  {
+    "storyId": 23104,
+    "name": "Battlefield, Warriors, Knights, Battle",
+    "clip_id": "344442",
+    "order": 40
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Upset, Angry, War",
+    "clip_id": "260292",
+    "order": 41
+  },
+  {
+    "storyId": 23104,
+    "name": "Knight, Galloping, Horse, Battle",
+    "clip_id": "344468",
+    "order": 42
+  },
+  {
+    "storyId": 23104,
+    "name": "Battlefield, Medieval, Knights, Warriors",
+    "clip_id": "344510",
+    "order": 43
+  },
+  {
+    "storyId": 20480,
+    "name": "Wounded, Explosion, Ptsd, Soldier",
+    "clip_id": "260328",
+    "order": 44
+  },
+  {
+    "storyId": 20480,
+    "name": "Army, Tablet, Soldier, Planning",
+    "clip_id": "260279",
+    "order": 45
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Warriors, Cavalry, Horses",
+    "clip_id": "344487",
+    "order": 46
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Comapnion, Comrade, War",
+    "clip_id": "260289",
+    "order": 47
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Warriors, Infantry, Battle",
+    "clip_id": "344455",
+    "order": 48
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Fear, Wounded, Battle",
+    "clip_id": "260327",
+    "order": 49
+  },
+  {
+    "storyId": 20480,
+    "name": "Child, Gun, Keffiyeh, Hostage",
+    "clip_id": "260282",
+    "order": 50
+  },
+  {
+    "storyId": 23374,
+    "name": "Knight, Soldier, Praying, Armor",
+    "clip_id": "344386",
+    "order": 51
+  },
+  {
+    "storyId": 22329,
+    "name": "Chimney, Smokestack, Industrial, Aerial",
+    "clip_id": "321038",
+    "order": 52
+  },
+  {
+    "storyId": 22329,
+    "name": "Chimney, Smokestack, Industrial, Aerial",
+    "clip_id": "321040",
+    "order": 53
+  },
+  {
+    "storyId": 17876,
+    "name": "black particles ",
+    "clip_id": "180358",
+    "order": 54
+  },
+  {
+    "storyId": 23104,
+    "name": "Knight, Infantry, Battle, War",
+    "clip_id": "344460",
+    "order": 55
+  },
+  {
+    "storyId": 14623,
+    "name": "industrial zone with parking lots in the city hyperlapse aerial",
+    "clip_id": "96754",
+    "order": 56
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Gun, War, Guarding",
+    "clip_id": "260284",
+    "order": 57
+  },
+  {
+    "storyId": 23104,
+    "name": "Knight, Battle, War, Fight",
+    "clip_id": "344445",
+    "order": 58
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Wounded, Wound, Bandage",
+    "clip_id": "260295",
+    "order": 59
+  },
+  {
+    "storyId": 23104,
+    "name": "Battlefield, Warriors, Dead, War",
+    "clip_id": "344503",
+    "order": 60
+  },
+  {
+    "storyId": 23374,
+    "name": "Knights, Battle, Armor, Sword",
+    "clip_id": "344381",
+    "order": 61
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, War, Communication, Military",
+    "clip_id": "260319",
+    "order": 62
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Homesick, Phone, War",
+    "clip_id": "260280",
+    "order": 63
+  },
+  {
+    "storyId": 20480,
+    "name": "War, Hostage, Fear, Violence",
+    "clip_id": "260260",
+    "order": 64
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Crying, Wound, Fear",
+    "clip_id": "260312",
+    "order": 65
+  },
+  {
+    "storyId": 23104,
+    "name": "Battle, Knights, War, Fight",
+    "clip_id": "344438",
+    "order": 66
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Battle, War, Fight",
+    "clip_id": "344457",
+    "order": 67
+  },
+  {
+    "storyId": 23104,
+    "name": "Warriors, Swords, Horse, Knights",
+    "clip_id": "344500",
+    "order": 68
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Phone, Talking, War",
+    "clip_id": "260253",
+    "order": 69
+  },
+  {
+    "storyId": 23104,
+    "name": "Knight, Battle, War, Fight",
+    "clip_id": "344448",
+    "order": 70
+  },
+  {
+    "storyId": 20480,
+    "name": "War, Hostage, Negotiation, Captive",
+    "clip_id": "260259",
+    "order": 71
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Swords, Battle, Horses",
+    "clip_id": "344495",
+    "order": 72
+  },
+  {
+    "storyId": 22329,
+    "name": "Chimney, Smokestack, Industrial, Aerial",
+    "clip_id": "321012",
+    "order": 73
+  },
+  {
+    "storyId": 22329,
+    "name": "Chimney, Smokestack, Industrial, Aerial",
+    "clip_id": "321013",
+    "order": 74
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, War, Guard, Gun",
+    "clip_id": "260322",
+    "order": 75
+  },
+  {
+    "storyId": 23104,
+    "name": "Knight, Battlefield, Fight, Battle",
+    "clip_id": "344453",
+    "order": 76
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Fear, War, Drinking",
+    "clip_id": "260304",
+    "order": 77
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Wound, Combat, War",
+    "clip_id": "260290",
+    "order": 78
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Desert, Frightened, Conflict",
+    "clip_id": "260228",
+    "order": 79
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Gun, Preparation, War",
+    "clip_id": "260283",
+    "order": 80
+  },
+  {
+    "storyId": 20480,
+    "name": "Explosion, Frightened, War, Screaming",
+    "clip_id": "260229",
+    "order": 81
+  },
+  {
+    "storyId": 22653,
+    "name": "Soldiars, Preperation, Vfx, War Room",
+    "clip_id": "331143",
+    "order": 82
+  },
+  {
+    "storyId": 20480,
+    "name": "Terrorism, Gun, Keffiyeh, Militia",
+    "clip_id": "260315",
+    "order": 83
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Military, Fear, Guard",
+    "clip_id": "260306",
+    "order": 84
+  },
+  {
+    "storyId": 20480,
+    "name": "Hostage, Capture, Captive, Soldier",
+    "clip_id": "260232",
+    "order": 85
+  },
+  {
+    "storyId": 23374,
+    "name": "Knights, Crusades, Armor, Medieval",
+    "clip_id": "344382",
+    "order": 86
+  },
+  {
+    "storyId": 20480,
+    "name": "Army, Troops, Combat, Military",
+    "clip_id": "260301",
+    "order": 87
+  },
+  {
+    "storyId": 20480,
+    "name": "Army, Troops, Sunlight, Combat",
+    "clip_id": "260255",
+    "order": 88
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Crying, Fear, War",
+    "clip_id": "260311",
+    "order": 89
+  },
+  {
+    "storyId": 28318,
+    "name": "War, Explosion, Pit, Soldiers",
+    "clip_id": "505130",
+    "order": 90
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, War, Fighting, Military",
+    "clip_id": "260321",
+    "order": 91
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, War, Phone, Army",
+    "clip_id": "260286",
+    "order": 92
+  },
+  {
+    "storyId": 20480,
+    "name": "War, Soldier, Phone, Flag",
+    "clip_id": "260310",
+    "order": 93
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, Battlefield, Explosion",
+    "clip_id": "504194",
+    "order": 94
+  },
+  {
+    "storyId": 26131,
+    "name": "News, Newspaper, Headlines, World War",
+    "clip_id": "437285",
+    "order": 95
+  },
+  {
+    "storyId": 28318,
+    "name": "War, Explosion, Soldiers, Battle",
+    "clip_id": "505131",
+    "order": 96
+  },
+  {
+    "storyId": 20480,
+    "name": "Planning, Tablet, Soldier, War",
+    "clip_id": "260318",
+    "order": 97
+  },
+  {
+    "storyId": 20480,
+    "name": "War",
+    "clip_id": "260225",
+    "order": 98
+  },
+  {
+    "storyId": 20480,
+    "name": "War, Sitting, Army, Troops",
+    "clip_id": "260305",
+    "order": 99
+  },
+  {
+    "storyId": 23790,
+    "name": "Video Game, Online Game, War, Tanks",
+    "clip_id": "366586",
+    "order": 100
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Goggles, War, Army",
+    "clip_id": "260254",
+    "order": 101
+  },
+  {
+    "storyId": 15865,
+    "name": "puddles on the ground in an abandoned warehouse",
+    "clip_id": "125523",
+    "order": 102
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, War, Phone, Army",
+    "clip_id": "260307",
+    "order": 103
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, War, Phone, Army",
+    "clip_id": "260303",
+    "order": 104
+  },
+  {
+    "storyId": 20480,
+    "name": "War, Army, Soldier, Capture",
+    "clip_id": "260261",
+    "order": 105
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Battlefield",
+    "clip_id": "504177",
+    "order": 106
+  },
+  {
+    "storyId": 20480,
+    "name": "War, Desert, Violence, Troops",
+    "clip_id": "260273",
+    "order": 107
+  },
+  {
+    "storyId": 23790,
+    "name": "Video Game, War, Tanks, Online Game",
+    "clip_id": "366579",
+    "order": 108
+  },
+  {
+    "storyId": 22329,
+    "name": "Chimney, Smokestack, Industrial, Aerial",
+    "clip_id": "321037",
+    "order": 109
+  },
+  {
+    "storyId": 22329,
+    "name": "Chimney, Smokestack, Industrial, Aerial",
+    "clip_id": "321017",
+    "order": 110
+  },
+  {
+    "storyId": 20480,
+    "name": "Conflict, Soldier, Phone, Bunker",
+    "clip_id": "260244",
+    "order": 111
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Radio, Battle, Combat",
+    "clip_id": "260320",
+    "order": 112
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Explosion, Fighting, War",
+    "clip_id": "537639",
+    "order": 113
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Army",
+    "clip_id": "504155",
+    "order": 114
+  },
+  {
+    "storyId": 26131,
+    "name": "News, Newspaper, Headlines, World War",
+    "clip_id": "437284",
+    "order": 115
+  },
+  {
+    "storyId": 20480,
+    "name": "War, Fear, Bandage, Soldier",
+    "clip_id": "260294",
+    "order": 116
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Swords, Medieval, Battle",
+    "clip_id": "344494",
+    "order": 117
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, Marching, Army",
+    "clip_id": "504146",
+    "order": 118
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Tablet, Planning, War",
+    "clip_id": "260258",
+    "order": 119
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Army",
+    "clip_id": "504154",
+    "order": 120
+  },
+  {
+    "storyId": 22329,
+    "name": "Chimney, Smokestack, Industrial, Aerial",
+    "clip_id": "321011",
+    "order": 121
+  },
+  {
+    "storyId": 28318,
+    "name": "Battlefield, Snow, Soldiers, War",
+    "clip_id": "505134",
+    "order": 122
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Army",
+    "clip_id": "504170",
+    "order": 123
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Planning, Army, Troops",
+    "clip_id": "260227",
+    "order": 124
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Uniform, Battle, War",
+    "clip_id": "260274",
+    "order": 125
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Army",
+    "clip_id": "504157",
+    "order": 126
+  },
+  {
+    "storyId": 28261,
+    "name": "Road, Cars, Port Elizabeth, Industrial Zone",
+    "clip_id": "503607",
+    "order": 127
+  },
+  {
+    "storyId": 22329,
+    "name": "Chimney, Smokestack, Industrial, Aerial",
+    "clip_id": "321046",
+    "order": 128
+  },
+  {
+    "storyId": 19191,
+    "name": "WAR2",
+    "clip_id": "222909",
+    "order": 129
+  },
+  {
+    "storyId": 15865,
+    "name": "chunks of concrete on the floor of an abandoned warehouse",
+    "clip_id": "125522",
+    "order": 130
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Fire, War, Military",
+    "clip_id": "260287",
+    "order": 131
+  },
+  {
+    "storyId": 26131,
+    "name": "News, Newspaper, Headlines, War",
+    "clip_id": "437283",
+    "order": 132
+  },
+  {
+    "storyId": 28318,
+    "name": "Battlefield, Snow, Bleeding, Soldiers",
+    "clip_id": "505136",
+    "order": 133
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, War, Military, Smoke",
+    "clip_id": "260324",
+    "order": 134
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Desert, Resting, War",
+    "clip_id": "260276",
+    "order": 135
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Wound, Trauma, Ptsd",
+    "clip_id": "260308",
+    "order": 136
+  },
+  {
+    "storyId": 28261,
+    "name": "Port Elizabeth, South Africa, Drone, Factory",
+    "clip_id": "503606",
+    "order": 137
+  },
+  {
+    "storyId": 25811,
+    "name": "Woman, Protesting, Ukraine, War",
+    "clip_id": "426813",
+    "order": 138
+  },
+  {
+    "storyId": 22329,
+    "name": "Chimney, Smokestack, Industrial, Aerial",
+    "clip_id": "321047",
+    "order": 139
+  },
+  {
+    "storyId": 25811,
+    "name": "Man, Protesting, Sign, No War",
+    "clip_id": "426811",
+    "order": 140
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Wound, War, Troops",
+    "clip_id": "260302",
+    "order": 141
+  },
+  {
+    "storyId": 26128,
+    "name": "Newspaper, World War, Rotation, Top Shot",
+    "clip_id": "437171",
+    "order": 142
+  },
+  {
+    "storyId": 28282,
+    "name": "Historic, Second World War, Soldiers, Army",
+    "clip_id": "504192",
+    "order": 143
+  },
+  {
+    "storyId": 15865,
+    "name": "stairs to a basement level in an abandoned warehouse",
+    "clip_id": "125530",
+    "order": 144
+  },
+  {
+    "storyId": 28318,
+    "name": "Soldier, Crying, Battlefield, Historic",
+    "clip_id": "505132",
+    "order": 145
+  },
+  {
+    "storyId": 29506,
+    "name": "War, Explosion, Soldier, Shrapnel",
+    "clip_id": "537690",
+    "order": 146
+  },
+  {
+    "storyId": 26131,
+    "name": "News, Newspaper, Headlines, War",
+    "clip_id": "437269",
+    "order": 147
+  },
+  {
+    "storyId": 29506,
+    "name": "Military Warfare, War, Trench, Smoke",
+    "clip_id": "537685",
+    "order": 148
+  },
+  {
+    "storyId": 25811,
+    "name": "Man, Protesting, Ukraine, War",
+    "clip_id": "426812",
+    "order": 149
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Angry, Upset, Army",
+    "clip_id": "260291",
+    "order": 150
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Army",
+    "clip_id": "504156",
+    "order": 151
+  },
+  {
+    "storyId": 23790,
+    "name": "Video Game, War, Online Game, Tanks",
+    "clip_id": "366585",
+    "order": 152
+  },
+  {
+    "storyId": 29506,
+    "name": "War, Trench, Shouting, Soldier",
+    "clip_id": "537684",
+    "order": 153
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Military Warfare, Flare, Shooting",
+    "clip_id": "537646",
+    "order": 154
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Army",
+    "clip_id": "504176",
+    "order": 155
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Army",
+    "clip_id": "504171",
+    "order": 156
+  },
+  {
+    "storyId": 29506,
+    "name": "Explosion, Trench, Shrapnel, War",
+    "clip_id": "537676",
+    "order": 157
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Factory, Chimney, Smokestack",
+    "clip_id": "320990",
+    "order": 158
+  },
+  {
+    "storyId": 29506,
+    "name": "Shrapnel, Explosion, Trench, War",
+    "clip_id": "537682",
+    "order": 159
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Phone, Uniform, War",
+    "clip_id": "260245",
+    "order": 160
+  },
+  {
+    "storyId": 29506,
+    "name": "Shrapnel, Shooting, Explosion, Military Warfare",
+    "clip_id": "537632",
+    "order": 161
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Trench, Shooting, Battle",
+    "clip_id": "537633",
+    "order": 162
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Battlefield",
+    "clip_id": "504183",
+    "order": 163
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Army",
+    "clip_id": "504148",
+    "order": 164
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Army",
+    "clip_id": "504147",
+    "order": 165
+  },
+  {
+    "storyId": 26131,
+    "name": "News, Newspaper, Headlines, Press",
+    "clip_id": "437297",
+    "order": 166
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Battlefield",
+    "clip_id": "504178",
+    "order": 167
+  },
+  {
+    "storyId": 29506,
+    "name": "Shooting, Explosion, Military Warfare, War",
+    "clip_id": "537631",
+    "order": 168
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, Battlefield, Trenches",
+    "clip_id": "504190",
+    "order": 169
+  },
+  {
+    "storyId": 29506,
+    "name": "Armored Vehicle, War, Field, Explosion",
+    "clip_id": "537686",
+    "order": 170
+  },
+  {
+    "storyId": 28318,
+    "name": "Soldiers, Battlefield, Weapon, War",
+    "clip_id": "505140",
+    "order": 171
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Factory, Chimney, Smokestack",
+    "clip_id": "320989",
+    "order": 172
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Army",
+    "clip_id": "504173",
+    "order": 173
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Wounded, Soldiers, Blood",
+    "clip_id": "504196",
+    "order": 174
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Commander, Map, Strategy",
+    "clip_id": "504160",
+    "order": 175
+  },
+  {
+    "storyId": 28318,
+    "name": "Soldier, Explosion, War, Military",
+    "clip_id": "505133",
+    "order": 176
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Rifle",
+    "clip_id": "504175",
+    "order": 177
+  },
+  {
+    "storyId": 25811,
+    "name": "Ukraine, War, Demonstration, Protest",
+    "clip_id": "426815",
+    "order": 178
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Death, Shot, War",
+    "clip_id": "537689",
+    "order": 179
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Trench, Shooting, War",
+    "clip_id": "537634",
+    "order": 180
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Trench, War, Military Warfare",
+    "clip_id": "537677",
+    "order": 181
+  },
+  {
+    "storyId": 22329,
+    "name": "Chimney, Smokestack, Industrial, Aerial",
+    "clip_id": "321045",
+    "order": 182
+  },
+  {
+    "storyId": 29506,
+    "name": "War, Explosion, Armored Vehicle, Fire",
+    "clip_id": "537688",
+    "order": 183
+  },
+  {
+    "storyId": 15865,
+    "name": "peeling paint on metal support beams in an abandoned warehouse",
+    "clip_id": "125521",
+    "order": 184
+  },
+  {
+    "storyId": 26131,
+    "name": "News, Newspaper, Headlines, War",
+    "clip_id": "437296",
+    "order": 185
+  },
+  {
+    "storyId": 29506,
+    "name": "War, Soldier, Armored Vehicle, Tank",
+    "clip_id": "537640",
+    "order": 186
+  },
+  {
+    "storyId": 23535,
+    "name": "War, Title, Beginning, Overlay",
+    "clip_id": "359127",
+    "order": 187
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Army",
+    "clip_id": "504172",
+    "order": 188
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldier, Binoculars, Army",
+    "clip_id": "504168",
+    "order": 189
+  },
+  {
+    "storyId": 29506,
+    "name": "Military Warfare, Explosion, Shrapnel, War",
+    "clip_id": "537674",
+    "order": 190
+  },
+  {
+    "storyId": 28318,
+    "name": "Soldiers, Battlefield, War, Weapon",
+    "clip_id": "505139",
+    "order": 191
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Army",
+    "clip_id": "504162",
+    "order": 192
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Wounded, Soldiers, Blood",
+    "clip_id": "504195",
+    "order": 193
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldier, Field, Army",
+    "clip_id": "504150",
+    "order": 194
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Battlefield",
+    "clip_id": "504180",
+    "order": 195
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Army",
+    "clip_id": "504153",
+    "order": 196
+  },
+  {
+    "storyId": 29506,
+    "name": "War, Explosion, Battle, Field",
+    "clip_id": "537661",
+    "order": 197
+  },
+  {
+    "storyId": 22329,
+    "name": "Chimney, Smokestack, Industrial, Aerial",
+    "clip_id": "321010",
+    "order": 198
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldier, Binoculars, Battlefield",
+    "clip_id": "504188",
+    "order": 199
+  },
+  {
+    "storyId": 23535,
+    "name": "Beginning Of Time, Bokeh, Text, War",
+    "clip_id": "359083",
+    "order": 200
+  },
+  {
+    "storyId": 29506,
+    "name": "War, Smoke, Soldier, Armored Vehicle",
+    "clip_id": "537679",
+    "order": 201
+  },
+  {
+    "storyId": 25811,
+    "name": "People, Protesting, Ukraine, War",
+    "clip_id": "426827",
+    "order": 202
+  },
+  {
+    "storyId": 15865,
+    "name": "support beams in an abandoned warehouse",
+    "clip_id": "125520",
+    "order": 203
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Mortar",
+    "clip_id": "504185",
+    "order": 204
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, Battlefield, Trenches",
+    "clip_id": "504189",
+    "order": 205
+  },
+  {
+    "storyId": 28282,
+    "name": "Wounded, Soldiers, Second World War, Casualty",
+    "clip_id": "504199",
+    "order": 206
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Army",
+    "clip_id": "504152",
+    "order": 207
+  },
+  {
+    "storyId": 28282,
+    "name": "Historic, Second World War, Snipers, Soldiers",
+    "clip_id": "504198",
+    "order": 208
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, Battlefield, Trenches",
+    "clip_id": "504184",
+    "order": 209
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldier, Commander, Looking At Camera",
+    "clip_id": "504174",
+    "order": 210
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Army",
+    "clip_id": "504169",
+    "order": 211
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldier, Binoculars, Army",
+    "clip_id": "504167",
+    "order": 212
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Armored Vehicle, Explosion, Battle",
+    "clip_id": "537643",
+    "order": 213
+  },
+  {
+    "storyId": 28318,
+    "name": "Battlefield, Injured, Snow, Soldiers",
+    "clip_id": "505137",
+    "order": 214
+  },
+  {
+    "storyId": 28318,
+    "name": "Battlefield, Snow, Soldiers, Injured",
+    "clip_id": "505138",
+    "order": 215
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldier, War, Army",
+    "clip_id": "504181",
+    "order": 216
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, Army, Binoculars",
+    "clip_id": "504166",
+    "order": 217
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Commander, Map, Strategy",
+    "clip_id": "504161",
+    "order": 218
+  },
+  {
+    "storyId": 28282,
+    "name": "Historic, Second World War, Snipers, Soldiers",
+    "clip_id": "504200",
+    "order": 219
+  },
+  {
+    "storyId": 29506,
+    "name": "Aiming, Fighting, Soldier, Shooting",
+    "clip_id": "537678",
+    "order": 220
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Binoculars, Battle, Looking",
+    "clip_id": "537638",
+    "order": 221
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldier, Helmet, Army",
+    "clip_id": "504164",
+    "order": 222
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Military Warfare, Gun, Aiming",
+    "clip_id": "537627",
+    "order": 223
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Binoculars",
+    "clip_id": "504187",
+    "order": 224
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Battlefield",
+    "clip_id": "504179",
+    "order": 225
+  },
+  {
+    "storyId": 25811,
+    "name": "Ukraine, War, Demonstration, Protest",
+    "clip_id": "426814",
+    "order": 226
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldier, Field, Army",
+    "clip_id": "504151",
+    "order": 227
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Army",
+    "clip_id": "504158",
+    "order": 228
+  },
+  {
+    "storyId": 28282,
+    "name": "Historic, Second World War, Snipers, Soldiers",
+    "clip_id": "504201",
+    "order": 229
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Snipers, Soldiers, Rifle",
+    "clip_id": "504197",
+    "order": 230
+  },
+  {
+    "storyId": 22329,
+    "name": "Chimney, Smokestack, Industrial, Aerial",
+    "clip_id": "321042",
+    "order": 231
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Army",
+    "clip_id": "504182",
+    "order": 232
+  },
+  {
+    "storyId": 29506,
+    "name": "War, Hand Grenade, Throwing, Trench",
+    "clip_id": "537687",
+    "order": 233
+  },
+  {
+    "storyId": 29506,
+    "name": "Shooting, Soldier, Camouflage Uniform, Military Warfare",
+    "clip_id": "537656",
+    "order": 234
+  },
+  {
+    "storyId": 26307,
+    "name": "Digital, Text, Typing, Animation",
+    "clip_id": "442945",
+    "order": 235
+  },
+  {
+    "storyId": 22329,
+    "name": "Chimney, Smokestack, Industrial, Aerial",
+    "clip_id": "321044",
+    "order": 236
+  },
+  {
+    "storyId": 29506,
+    "name": "Explosion, Fighting, Shooting, Soldier",
+    "clip_id": "537662",
+    "order": 237
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Army",
+    "clip_id": "504186",
+    "order": 238
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Military Warfare, Gun, Battle",
+    "clip_id": "537647",
+    "order": 239
+  },
+  {
+    "storyId": 22329,
+    "name": "Chimney, Smokestack, Industrial, Aerial",
+    "clip_id": "321043",
+    "order": 240
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Army",
+    "clip_id": "504149",
+    "order": 241
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Exiting, War, Hostage",
+    "clip_id": "537645",
+    "order": 242
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, War, Soldier, Rifle",
+    "clip_id": "504193",
+    "order": 243
+  },
+  {
+    "storyId": 25811,
+    "name": "People, Protesting, Ukraine, War",
+    "clip_id": "426816",
+    "order": 244
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, Army, Battlefield",
+    "clip_id": "504191",
+    "order": 245
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Throwing, Hand Grenade, Military Warfare",
+    "clip_id": "537651",
+    "order": 246
+  },
+  {
+    "storyId": 29506,
+    "name": "Shooting, Dust, Trench, War",
+    "clip_id": "537683",
+    "order": 247
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Commander, Map, Strategy",
+    "clip_id": "504159",
+    "order": 248
+  },
+  {
+    "storyId": 26601,
+    "name": "Bombing, Bomb Shelter, War, Scared",
+    "clip_id": "453168",
+    "order": 249
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Soldiers, War, Binoculars",
+    "clip_id": "504165",
+    "order": 250
+  },
+  {
+    "storyId": 26307,
+    "name": "Digital, Text, Typing, Animation",
+    "clip_id": "442964",
+    "order": 251
+  },
+  {
+    "storyId": 29506,
+    "name": "Hand Grenade, Throwing, Battle, War",
+    "clip_id": "537660",
+    "order": 252
+  },
+  {
+    "storyId": 29506,
+    "name": "Battle, Soldier, Gun, Death",
+    "clip_id": "537666",
+    "order": 253
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Aiming, Shooting, Gun",
+    "clip_id": "537636",
+    "order": 254
+  },
+  {
+    "storyId": 29506,
+    "name": "Camouflage Uniform, Soldier, Forest Trees, War",
+    "clip_id": "537663",
+    "order": 255
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Forest Trees, War, Shooting",
+    "clip_id": "537668",
+    "order": 256
+  },
+  {
+    "storyId": 29506,
+    "name": "Field, War, Battle, Smoke",
+    "clip_id": "537642",
+    "order": 257
+  },
+  {
+    "storyId": 19191,
+    "name": "2_28",
+    "clip_id": "222930",
+    "order": 258
+  },
+  {
+    "storyId": 17891,
+    "name": "statue on a tower aerial ",
+    "clip_id": "180826",
+    "order": 259
+  },
+  {
+    "storyId": 19191,
+    "name": "2_25",
+    "clip_id": "222924",
+    "order": 260
+  },
+  {
+    "storyId": 19191,
+    "name": "2_30",
+    "clip_id": "222942",
+    "order": 261
+  },
+  {
+    "storyId": 19191,
+    "name": "R2_1",
+    "clip_id": "222912",
+    "order": 262
+  },
+  {
+    "storyId": 27376,
+    "name": "Man, Woman, Walking, American Flag",
+    "clip_id": "475793",
+    "order": 263
+  },
+  {
+    "storyId": 17891,
+    "name": "large statue on top of a tower aerial ",
+    "clip_id": "180828",
+    "order": 264
+  },
+  {
+    "storyId": 25673,
+    "name": "War, Head, Burning, Fire",
+    "clip_id": "421896",
+    "order": 265
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Aiming, Field, Gun",
+    "clip_id": "537630",
+    "order": 266
+  },
+  {
+    "storyId": 19191,
+    "name": "2_18",
+    "clip_id": "222922",
+    "order": 267
+  },
+  {
+    "storyId": 19191,
+    "name": "R2_5",
+    "clip_id": "222941",
+    "order": 268
+  },
+  {
+    "storyId": 19191,
+    "name": "2_29",
+    "clip_id": "222925",
+    "order": 269
+  },
+  {
+    "storyId": 26307,
+    "name": "World War III",
+    "clip_id": "443011",
+    "order": 270
+  },
+  {
+    "storyId": 19191,
+    "name": "2_13",
+    "clip_id": "222917",
+    "order": 271
+  },
+  {
+    "storyId": 19191,
+    "name": "R2_3",
+    "clip_id": "222935",
+    "order": 272
+  },
+  {
+    "storyId": 19191,
+    "name": "2_11",
+    "clip_id": "222913",
+    "order": 273
+  },
+  {
+    "storyId": 19191,
+    "name": "2_19",
+    "clip_id": "222928",
+    "order": 274
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Military Warfare, Shooting, Forest Trees",
+    "clip_id": "537672",
+    "order": 275
+  },
+  {
+    "storyId": 29506,
+    "name": "Hand Grenade, Throwing, Soldier, Military Warfare",
+    "clip_id": "537691",
+    "order": 276
+  },
+  {
+    "storyId": 26307,
+    "name": "Digital, Text, Typing, Animation",
+    "clip_id": "443005",
+    "order": 277
+  },
+  {
+    "storyId": 25673,
+    "name": "War, Head, Burning, Black & White",
+    "clip_id": "421897",
+    "order": 278
+  },
+  {
+    "storyId": 19191,
+    "name": "2_23",
+    "clip_id": "222932",
+    "order": 279
+  },
+  {
+    "storyId": 19191,
+    "name": "2_33",
+    "clip_id": "222934",
+    "order": 280
+  },
+  {
+    "storyId": 19191,
+    "name": "2_20",
+    "clip_id": "222927",
+    "order": 281
+  },
+  {
+    "storyId": 19191,
+    "name": "2_27",
+    "clip_id": "222929",
+    "order": 282
+  },
+  {
+    "storyId": 19191,
+    "name": "2_21",
+    "clip_id": "222920",
+    "order": 283
+  },
+  {
+    "storyId": 19191,
+    "name": "2_12",
+    "clip_id": "222915",
+    "order": 284
+  },
+  {
+    "storyId": 19191,
+    "name": "2_32",
+    "clip_id": "222940",
+    "order": 285
+  },
+  {
+    "storyId": 16241,
+    "name": "boy wearing an aviator hat giving a thumbs up to the camera",
+    "clip_id": "135291",
+    "order": 286
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Gun, War, Aiming",
+    "clip_id": "537680",
+    "order": 287
+  },
+  {
+    "storyId": 19191,
+    "name": "2_31",
+    "clip_id": "222937",
+    "order": 288
+  },
+  {
+    "storyId": 19191,
+    "name": "R2_9",
+    "clip_id": "222910",
+    "order": 289
+  },
+  {
+    "storyId": 26307,
+    "name": "Digital, Text, Typing, Animation",
+    "clip_id": "442983",
+    "order": 290
+  },
+  {
+    "storyId": 19191,
+    "name": "2_24",
+    "clip_id": "222933",
+    "order": 291
+  },
+  {
+    "storyId": 19191,
+    "name": "R2_2",
+    "clip_id": "222921",
+    "order": 292
+  },
+  {
+    "storyId": 19191,
+    "name": "2_16",
+    "clip_id": "222918",
+    "order": 293
+  },
+  {
+    "storyId": 26307,
+    "name": "Digital, Text, Typing, Animation",
+    "clip_id": "442984",
+    "order": 294
+  },
+  {
+    "storyId": 29506,
+    "name": "Aiming, Shooting, Soldier, Gun",
+    "clip_id": "537655",
+    "order": 295
+  },
+  {
+    "storyId": 29506,
+    "name": "Shooting, Soldier, Forest Trees, War",
+    "clip_id": "537671",
+    "order": 296
+  },
+  {
+    "storyId": 19191,
+    "name": "2_10",
+    "clip_id": "222911",
+    "order": 297
+  },
+  {
+    "storyId": 19191,
+    "name": "2_17",
+    "clip_id": "222919",
+    "order": 298
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Hand Grenade, Throwing, Military Warfare",
+    "clip_id": "537659",
+    "order": 299
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Gun, War, Trees",
+    "clip_id": "537665",
+    "order": 300
+  },
+  {
+    "storyId": 19191,
+    "name": "2_26",
+    "clip_id": "222931",
+    "order": 301
+  },
+  {
+    "storyId": 16241,
+    "name": "boy in an aviator hat playing with a smartphone while sitting on a couch",
+    "clip_id": "135293",
+    "order": 302
+  },
+  {
+    "storyId": 20480,
+    "name": "Army, Camouflaged, Troops, Combat",
+    "clip_id": "260241",
+    "order": 303
+  },
+  {
+    "storyId": 20480,
+    "name": "Army, Soldier, Troops, Fire",
+    "clip_id": "260293",
+    "order": 304
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Wound, Camp, Troops",
+    "clip_id": "260313",
+    "order": 305
+  },
+  {
+    "storyId": 11815,
+    "name": "Soldier looking at rainbow in distance",
+    "clip_id": "45110",
+    "order": 306
+  },
+  {
+    "storyId": 11815,
+    "name": "Soldier staring in middle of battle at night",
+    "clip_id": "45111",
+    "order": 307
+  },
+  {
+    "storyId": 23374,
+    "name": "Knight, Sword, Battle, Armor",
+    "clip_id": "344383",
+    "order": 308
+  },
+  {
+    "storyId": 23374,
+    "name": "Knight, Sword, Horseback, Battle",
+    "clip_id": "344427",
+    "order": 309
+  },
+  {
+    "storyId": 28021,
+    "name": "Cityscape, Digital Storage, Internet, Cloud",
+    "clip_id": "496532",
+    "order": 310
+  },
+  {
+    "storyId": 23374,
+    "name": "Battle, Charge, Sword, Knight",
+    "clip_id": "344423",
+    "order": 311
+  },
+  {
+    "storyId": 23374,
+    "name": "Knight, Battle, Horseback, Medieval",
+    "clip_id": "344425",
+    "order": 312
+  },
+  {
+    "storyId": 23374,
+    "name": "Knight, Sword, Praying, Armor",
+    "clip_id": "344392",
+    "order": 313
+  },
+  {
+    "storyId": 19438,
+    "name": "Strike, Crowd, Protest, Posters",
+    "clip_id": "230038",
+    "order": 314
+  },
+  {
+    "storyId": 19046,
+    "name": "Northern-Lights, Aurora, Borealis, Atmosphere",
+    "clip_id": "217923",
+    "order": 315
+  },
+  {
+    "storyId": 23374,
+    "name": "Knights, Medieval, Crusades, Armor",
+    "clip_id": "344379",
+    "order": 316
+  },
+  {
+    "storyId": 23374,
+    "name": "Knights, Horseback, Battle, Medieval",
+    "clip_id": "344424",
+    "order": 317
+  },
+  {
+    "storyId": 23374,
+    "name": "Knight, Sword, Cleaning, Armor",
+    "clip_id": "344407",
+    "order": 318
+  },
+  {
+    "storyId": 23374,
+    "name": "Knight, Armor, Sword, Battle",
+    "clip_id": "344389",
+    "order": 319
+  },
+  {
+    "storyId": 23374,
+    "name": "Knights, Armor, Battle, Field",
+    "clip_id": "344380",
+    "order": 320
+  },
+  {
+    "storyId": 23104,
+    "name": "Warriors, Horsemen, Knights, Horses",
+    "clip_id": "344475",
+    "order": 321
+  },
+  {
+    "storyId": 23374,
+    "name": "Knights, Sword, Battle, Knight",
+    "clip_id": "344404",
+    "order": 322
+  },
+  {
+    "storyId": 23374,
+    "name": "Knight, Horseback, Battle, Sword",
+    "clip_id": "344420",
+    "order": 323
+  },
+  {
+    "storyId": 23374,
+    "name": "Knight, Cleaning, Sword, Battle",
+    "clip_id": "344406",
+    "order": 324
+  },
+  {
+    "storyId": 23104,
+    "name": "Battle, Knights, Swords, Cavalry",
+    "clip_id": "344490",
+    "order": 325
+  },
+  {
+    "storyId": 19438,
+    "name": "Protest, Crowd, Posters, Flags",
+    "clip_id": "230047",
+    "order": 326
+  },
+  {
+    "storyId": 23374,
+    "name": "Knight, Horseback, Armor, Battle",
+    "clip_id": "344416",
+    "order": 327
+  },
+  {
+    "storyId": 23104,
+    "name": "Battlefield, Knights, Medieval, Infantry",
+    "clip_id": "344489",
+    "order": 328
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Battle, Infantry, Warriors",
+    "clip_id": "344454",
+    "order": 329
+  },
+  {
+    "storyId": 23104,
+    "name": "Knight, Battle, Horses, Galloping",
+    "clip_id": "344470",
+    "order": 330
+  },
+  {
+    "storyId": 19438,
+    "name": "Strike, Crowd, People, Protest",
+    "clip_id": "230149",
+    "order": 331
+  },
+  {
+    "storyId": 23374,
+    "name": "Knight, Soldier, Praying, Battle",
+    "clip_id": "344396",
+    "order": 332
+  },
+  {
+    "storyId": 23104,
+    "name": "Horsemen, Knights, Cavalry, Battle",
+    "clip_id": "344471",
+    "order": 333
+  },
+  {
+    "storyId": 23374,
+    "name": "Knight, Armor, Prayer, Battle",
+    "clip_id": "344384",
+    "order": 334
+  },
+  {
+    "storyId": 23374,
+    "name": "Knights, Screaming, Medieval, Soldier",
+    "clip_id": "344378",
+    "order": 335
+  },
+  {
+    "storyId": 23374,
+    "name": "Field, Fog, Standing, Helmet",
+    "clip_id": "344393",
+    "order": 336
+  },
+  {
+    "storyId": 23374,
+    "name": "Knight, Sword, Lance, Soldier",
+    "clip_id": "344408",
+    "order": 337
+  },
+  {
+    "storyId": 23104,
+    "name": "Battle, Swords, Duel, Medieval",
+    "clip_id": "344436",
+    "order": 338
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Cavalry, Warriors, Battle",
+    "clip_id": "344488",
+    "order": 339
+  },
+  {
+    "storyId": 23104,
+    "name": "Battle, Knight, Smoke, Horse",
+    "clip_id": "344433",
+    "order": 340
+  },
+  {
+    "storyId": 23104,
+    "name": "Battle, Knights, Swords, Monochrome",
+    "clip_id": "344441",
+    "order": 341
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Warriors, Battle, Cavalry",
+    "clip_id": "344474",
+    "order": 342
+  },
+  {
+    "storyId": 23374,
+    "name": "Knights, Armor, Battle, Historic",
+    "clip_id": "344377",
+    "order": 343
+  },
+  {
+    "storyId": 23374,
+    "name": "Knights, Armor, Smokey, Fog",
+    "clip_id": "344372",
+    "order": 344
+  },
+  {
+    "storyId": 23104,
+    "name": "Knight, Battlefield, Cavalry, Galloping",
+    "clip_id": "344461",
+    "order": 345
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Cavalry, Falling, Battlefield",
+    "clip_id": "344443",
+    "order": 346
+  },
+  {
+    "storyId": 23374,
+    "name": "Knight, Horseback, Battle, Shouting",
+    "clip_id": "344417",
+    "order": 347
+  },
+  {
+    "storyId": 23104,
+    "name": "Battlefield, Dead, Knights, Warriors",
+    "clip_id": "344504",
+    "order": 348
+  },
+  {
+    "storyId": 23104,
+    "name": "Knight, Battle, Warrior, Violence",
+    "clip_id": "344447",
+    "order": 349
+  },
+  {
+    "storyId": 19438,
+    "name": "Strike, Leader, Crowd, People",
+    "clip_id": "230106",
+    "order": 350
+  },
+  {
+    "storyId": 19438,
+    "name": "Strike, Crowd, People, Protest",
+    "clip_id": "230156",
+    "order": 351
+  },
+  {
+    "storyId": 23374,
+    "name": "Faith, Field, Prayer, Fog",
+    "clip_id": "344394",
+    "order": 352
+  },
+  {
+    "storyId": 23104,
+    "name": "Cavalry, Knights, Warriors, Galloping",
+    "clip_id": "344469",
+    "order": 353
+  },
+  {
+    "storyId": 23104,
+    "name": "Battlefield, Knights, Warriors, Medieval",
+    "clip_id": "344444",
+    "order": 354
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Explosion, Desert, Fear",
+    "clip_id": "260239",
+    "order": 355
+  },
+  {
+    "storyId": 23104,
+    "name": "Battle, Knights, Swords, Cavalry",
+    "clip_id": "344439",
+    "order": 356
+  },
+  {
+    "storyId": 17876,
+    "name": "white particles flying in the air ",
+    "clip_id": "180385",
+    "order": 357
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Running, Communication, Radio",
+    "clip_id": "260317",
+    "order": 358
+  },
+  {
+    "storyId": 23104,
+    "name": "Battlefield, Knights, Warriors, Dead",
+    "clip_id": "344505",
+    "order": 359
+  },
+  {
+    "storyId": 13712,
+    "name": "Model, Young, Blonde, Pony Tail",
+    "clip_id": "76438",
+    "order": 360
+  },
+  {
+    "storyId": 11002,
+    "name": "Tactical Soldiers On a Mission",
+    "clip_id": "21984",
+    "order": 361
+  },
+  {
+    "storyId": 23104,
+    "name": "Battlefield, Knights, Dead, Horses",
+    "clip_id": "344506",
+    "order": 362
+  },
+  {
+    "storyId": 23104,
+    "name": "Battlefield, Swords, Knights, Horses",
+    "clip_id": "344507",
+    "order": 363
+  },
+  {
+    "storyId": 19438,
+    "name": "Crowd, Protest, Molotov Cocktail, Riot",
+    "clip_id": "230151",
+    "order": 364
+  },
+  {
+    "storyId": 23104,
+    "name": "Cavalry, Horsemen, Medieval, Warriors",
+    "clip_id": "344476",
+    "order": 365
+  },
+  {
+    "storyId": 23374,
+    "name": "Knights, Battle, Horseback, Sword",
+    "clip_id": "344431",
+    "order": 366
+  },
+  {
+    "storyId": 23104,
+    "name": "Horsemen, Cavalry, Galloping, Warriors",
+    "clip_id": "344473",
+    "order": 367
+  },
+  {
+    "storyId": 19046,
+    "name": "Northern-Lights, Aurora, Borealis, Atmosphere",
+    "clip_id": "217907",
+    "order": 368
+  },
+  {
+    "storyId": 23374,
+    "name": "Battle, Knight, Medieval, Sword",
+    "clip_id": "344426",
+    "order": 369
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Horsemen, Cavalry, Battle",
+    "clip_id": "344484",
+    "order": 370
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Collapse, Battle, Falling",
+    "clip_id": "344451",
+    "order": 371
+  },
+  {
+    "storyId": 17876,
+    "name": "smoke rising ",
+    "clip_id": "180362",
+    "order": 372
+  },
+  {
+    "storyId": 23374,
+    "name": "Knights, Horseback, Cavalry, Armor",
+    "clip_id": "344418",
+    "order": 373
+  },
+  {
+    "storyId": 23104,
+    "name": "Battlefield, Knights, Medieval, Warriors",
+    "clip_id": "344508",
+    "order": 374
+  },
+  {
+    "storyId": 23374,
+    "name": "Battle, Horseback, Knight, Sword",
+    "clip_id": "344429",
+    "order": 375
+  },
+  {
+    "storyId": 19438,
+    "name": "Strike, Car, Crowd, People",
+    "clip_id": "230163",
+    "order": 376
+  },
+  {
+    "storyId": 20480,
+    "name": "Militia, Enemy, Terrorism, Soldier",
+    "clip_id": "260270",
+    "order": 377
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Horsemen, Medieval, Cavalry",
+    "clip_id": "344485",
+    "order": 378
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Cavalry, Horsemen, Warriors",
+    "clip_id": "344481",
+    "order": 379
+  },
+  {
+    "storyId": 19438,
+    "name": "Strike, Protest, Police, Posters",
+    "clip_id": "230154",
+    "order": 380
+  },
+  {
+    "storyId": 23374,
+    "name": "Knight, Helmet, Armor, Sword",
+    "clip_id": "344391",
+    "order": 381
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Explosion, Desert, Deafening",
+    "clip_id": "260231",
+    "order": 382
+  },
+  {
+    "storyId": 23104,
+    "name": "Knight, Warrior, Medieval, Armor",
+    "clip_id": "344482",
+    "order": 383
+  },
+  {
+    "storyId": 23374,
+    "name": "Knight, Horseback, Battle, Sword",
+    "clip_id": "344428",
+    "order": 384
+  },
+  {
+    "storyId": 23374,
+    "name": "Knight, Thoughtful, Standing, Armor",
+    "clip_id": "344385",
+    "order": 385
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Horsemen, Warriors, Cavalry",
+    "clip_id": "344483",
+    "order": 386
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Stabbing, Battle, Falling",
+    "clip_id": "344452",
+    "order": 387
+  },
+  {
+    "storyId": 23374,
+    "name": "Knights, Battle, Armor, Knight",
+    "clip_id": "344375",
+    "order": 388
+  },
+  {
+    "storyId": 19438,
+    "name": "Strike, Crowd, People, Protest",
+    "clip_id": "230144",
+    "order": 389
+  },
+  {
+    "storyId": 23104,
+    "name": "Knight, Warrior, Battlefield, Infantry",
+    "clip_id": "344459",
+    "order": 390
+  },
+  {
+    "storyId": 23104,
+    "name": "Knight, Horse, Battle, Smoke",
+    "clip_id": "344432",
+    "order": 391
+  },
+  {
+    "storyId": 23374,
+    "name": "Knights, Armor, Soldier, Medieval",
+    "clip_id": "344373",
+    "order": 392
+  },
+  {
+    "storyId": 19438,
+    "name": "Strike, Crowd, People, Protest",
+    "clip_id": "230114",
+    "order": 393
+  },
+  {
+    "storyId": 17876,
+    "name": "black pieces falling ",
+    "clip_id": "180360",
+    "order": 394
+  },
+  {
+    "storyId": 17876,
+    "name": "black particles in the air ",
+    "clip_id": "180361",
+    "order": 395
+  },
+  {
+    "storyId": 17876,
+    "name": "black particles falling  ",
+    "clip_id": "180359",
+    "order": 396
+  },
+  {
+    "storyId": 23374,
+    "name": "Knight, Helmet, Armor, Ringmail",
+    "clip_id": "344387",
+    "order": 397
+  },
+  {
+    "storyId": 19438,
+    "name": "Strike, Crowd, People, Protest",
+    "clip_id": "230143",
+    "order": 398
+  },
+  {
+    "storyId": 23104,
+    "name": "Warriors, Cavalry, Horses, Knights",
+    "clip_id": "344486",
+    "order": 399
+  },
+  {
+    "storyId": 19046,
+    "name": "Northern-Lights, Aurora, Borealis, Atmosphere",
+    "clip_id": "217921",
+    "order": 400
+  },
+  {
+    "storyId": 20480,
+    "name": "Troops, Combat, Comrade, Army",
+    "clip_id": "260243",
+    "order": 401
+  },
+  {
+    "storyId": 19438,
+    "name": "Strike, Car, Crowd, People",
+    "clip_id": "230158",
+    "order": 402
+  },
+  {
+    "storyId": 23104,
+    "name": "Battle, Medieval, Fight, Swords",
+    "clip_id": "344437",
+    "order": 403
+  },
+  {
+    "storyId": 23374,
+    "name": "Knight, Horseback, Sword, Knights",
+    "clip_id": "344415",
+    "order": 404
+  },
+  {
+    "storyId": 19046,
+    "name": "Northern-Lights, Aurora, Borealis, Atmosphere",
+    "clip_id": "217922",
+    "order": 405
+  },
+  {
+    "storyId": 11625,
+    "name": "soldier running up hill and lying down and aiming gun",
+    "clip_id": "40129",
+    "order": 406
+  },
+  {
+    "storyId": 23104,
+    "name": "Battle, Knight, Horse, Medieval",
+    "clip_id": "344435",
+    "order": 407
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Usa, Flag, Phone",
+    "clip_id": "260248",
+    "order": 408
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Horses, Cavalry, Battle",
+    "clip_id": "344464",
+    "order": 409
+  },
+  {
+    "storyId": 23374,
+    "name": "Field, Fog, Standing, Helmet",
+    "clip_id": "344388",
+    "order": 410
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Irresponsible, Stupid, Military",
+    "clip_id": "260252",
+    "order": 411
+  },
+  {
+    "storyId": 19438,
+    "name": "Strike, Car, Crowd, People",
+    "clip_id": "230159",
+    "order": 412
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Armor, Warriors, Battlefield",
+    "clip_id": "344456",
+    "order": 413
+  },
+  {
+    "storyId": 13712,
+    "name": "Woman, Young, Blond, Wire Fence",
+    "clip_id": "76454",
+    "order": 414
+  },
+  {
+    "storyId": 19438,
+    "name": "Riot, Strike, Crowd, People",
+    "clip_id": "230033",
+    "order": 415
+  },
+  {
+    "storyId": 19046,
+    "name": "Northern-Lights, Aurora, Borealis, Atmosphere",
+    "clip_id": "217919",
+    "order": 416
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Battle, Duel, Cavalry",
+    "clip_id": "344492",
+    "order": 417
+  },
+  {
+    "storyId": 23104,
+    "name": "Battle, Knight, Horse, Sword",
+    "clip_id": "344434",
+    "order": 418
+  },
+  {
+    "storyId": 19438,
+    "name": "Strike, Car, Crowd, People",
+    "clip_id": "230164",
+    "order": 419
+  },
+  {
+    "storyId": 19046,
+    "name": "Northern-Lights, Aurora, Borealis, Atmosphere",
+    "clip_id": "217910",
+    "order": 420
+  },
+  {
+    "storyId": 22600,
+    "name": "Trucks, Lorry, Warehouse, Parking Lot",
+    "clip_id": "326873",
+    "order": 421
+  },
+  {
+    "storyId": 17876,
+    "name": "white particles falling ",
+    "clip_id": "180395",
+    "order": 422
+  },
+  {
+    "storyId": 19046,
+    "name": "Northern-Lights, Aurora, Borealis, Atmosphere",
+    "clip_id": "217905",
+    "order": 423
+  },
+  {
+    "storyId": 23104,
+    "name": "Battle, Knights, Swords, Horses",
+    "clip_id": "344493",
+    "order": 424
+  },
+  {
+    "storyId": 11002,
+    "name": "Soldier Focusing On Shot",
+    "clip_id": "21974",
+    "order": 425
+  },
+  {
+    "storyId": 22591,
+    "name": "Eye, Pupil, Memory, Imagination",
+    "clip_id": "329568",
+    "order": 426
+  },
+  {
+    "storyId": 23104,
+    "name": "Battle, Knights, Warriors, Cavalry",
+    "clip_id": "344501",
+    "order": 427
+  },
+  {
+    "storyId": 19046,
+    "name": "Northern-Lights, Aurora, Borealis, Atmosphere",
+    "clip_id": "217908",
+    "order": 428
+  },
+  {
+    "storyId": 19046,
+    "name": "Northern-Lights, Aurora, Borealis, Atmosphere",
+    "clip_id": "217916",
+    "order": 429
+  },
+  {
+    "storyId": 23104,
+    "name": "Battlefield, Medieval, Knights, Warriors",
+    "clip_id": "344509",
+    "order": 430
+  },
+  {
+    "storyId": 19438,
+    "name": "Strike, Car, Crowd, People",
+    "clip_id": "230161",
+    "order": 431
+  },
+  {
+    "storyId": 11002,
+    "name": "Soldier Formation ",
+    "clip_id": "21962",
+    "order": 432
+  },
+  {
+    "storyId": 17876,
+    "name": "smoke moving ",
+    "clip_id": "180363",
+    "order": 433
+  },
+  {
+    "storyId": 19438,
+    "name": "Strike, Car, Crowd, People",
+    "clip_id": "230160",
+    "order": 434
+  },
+  {
+    "storyId": 20480,
+    "name": "Army, Troops, Negotiation, Force",
+    "clip_id": "260269",
+    "order": 435
+  },
+  {
+    "storyId": 19438,
+    "name": "Strike, Crowd, People, Protest",
+    "clip_id": "230147",
+    "order": 436
+  },
+  {
+    "storyId": 23104,
+    "name": "Battle, Knights, Warriors, Horse",
+    "clip_id": "344502",
+    "order": 437
+  },
+  {
+    "storyId": 19046,
+    "name": "Northern-Lights, Aurora, Borealis, Atmosphere",
+    "clip_id": "217917",
+    "order": 438
+  },
+  {
+    "storyId": 20480,
+    "name": "Keffiyeh, Guarding, Camp, Glowing",
+    "clip_id": "260314",
+    "order": 439
+  },
+  {
+    "storyId": 19046,
+    "name": "Northern-Lights, Aurora, Borealis, Atmosphere",
+    "clip_id": "217920",
+    "order": 440
+  },
+  {
+    "storyId": 11002,
+    "name": "Soldiers Entering Abandoned Building ",
+    "clip_id": "21960",
+    "order": 441
+  },
+  {
+    "storyId": 20480,
+    "name": "Child, Soldier, Keffiyeh, Terrorism",
+    "clip_id": "260281",
+    "order": 442
+  },
+  {
+    "storyId": 19046,
+    "name": "Northern-Lights, Aurora, Borealis, Atmosphere",
+    "clip_id": "217918",
+    "order": 443
+  },
+  {
+    "storyId": 19438,
+    "name": "Strike, Crowd, Police, People",
+    "clip_id": "230141",
+    "order": 444
+  },
+  {
+    "storyId": 11002,
+    "name": "Soldiers In Dark Place",
+    "clip_id": "21970",
+    "order": 445
+  },
+  {
+    "storyId": 23104,
+    "name": "Battle, Knights, Medieval, Horses",
+    "clip_id": "344499",
+    "order": 446
+  },
+  {
+    "storyId": 19438,
+    "name": "Molotov Cocktail, Petrol Bomb, Protest, Riot",
+    "clip_id": "230026",
+    "order": 447
+  },
+  {
+    "storyId": 19046,
+    "name": "Northern-Lights, Aurora, Borealis, Atmosphere",
+    "clip_id": "217898",
+    "order": 448
+  },
+  {
+    "storyId": 19046,
+    "name": "Northern-Lights, Aurora, Borealis, Atmosphere",
+    "clip_id": "217906",
+    "order": 449
+  },
+  {
+    "storyId": 19046,
+    "name": "Northern-Lights, Aurora, Borealis, Atmosphere",
+    "clip_id": "217901",
+    "order": 450
+  },
+  {
+    "storyId": 19046,
+    "name": "Northern-Lights, Aurora, Borealis, Atmosphere",
+    "clip_id": "217903",
+    "order": 451
+  },
+  {
+    "storyId": 19046,
+    "name": "Northern-Lights, Aurora, Borealis, Atmosphere",
+    "clip_id": "217902",
+    "order": 452
+  },
+  {
+    "storyId": 19046,
+    "name": "Northern-Lights, Aurora, Borealis, Atmosphere",
+    "clip_id": "217909",
+    "order": 453
+  },
+  {
+    "storyId": 19046,
+    "name": "Northern-Lights, Aurora, Borealis, Atmosphere",
+    "clip_id": "217900",
+    "order": 454
+  },
+  {
+    "storyId": 13712,
+    "name": "Woman, Young, Running, Blond",
+    "clip_id": "76481",
+    "order": 455
+  },
+  {
+    "storyId": 11002,
+    "name": "Soldiers Making An Entrance",
+    "clip_id": "21982",
+    "order": 456
+  },
+  {
+    "storyId": 19046,
+    "name": "Northern-Lights, Aurora, Borealis, Atmosphere",
+    "clip_id": "217904",
+    "order": 457
+  },
+  {
+    "storyId": 19438,
+    "name": "Strike, Crowd, People, Protest",
+    "clip_id": "230145",
+    "order": 458
+  },
+  {
+    "storyId": 16678,
+    "name": "used up bullet casings falling onto a dirty ground ",
+    "clip_id": "147489",
+    "order": 459
+  },
+  {
+    "storyId": 23374,
+    "name": "Knights, Helmet, Armor, Ringmail",
+    "clip_id": "344397",
+    "order": 460
+  },
+  {
+    "storyId": 13712,
+    "name": "Woman, Young, Taking Picture, Phone Camera",
+    "clip_id": "76455",
+    "order": 461
+  },
+  {
+    "storyId": 19438,
+    "name": "Strike, Car, Petrol Bomb, Riot",
+    "clip_id": "230165",
+    "order": 462
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Hostage, Militia, Enemy",
+    "clip_id": "260233",
+    "order": 463
+  },
+  {
+    "storyId": 11625,
+    "name": "soldier crawling up hill and looking through binoculars",
+    "clip_id": "40123",
+    "order": 464
+  },
+  {
+    "storyId": 19438,
+    "name": "Strike, Confrontation, Car, Demonstration",
+    "clip_id": "230166",
+    "order": 465
+  },
+  {
+    "storyId": 19046,
+    "name": "Northern-Lights, Aurora, Borealis, Atmosphere",
+    "clip_id": "217899",
+    "order": 466
+  },
+  {
+    "storyId": 23104,
+    "name": "Slitting, Throat, Blood, Violence",
+    "clip_id": "344449",
+    "order": 467
+  },
+  {
+    "storyId": 19438,
+    "name": "Strike, Crowd, People, Protest",
+    "clip_id": "230142",
+    "order": 468
+  },
+  {
+    "storyId": 15865,
+    "name": "chipped paint and rusted beams in an abandoned warehouse",
+    "clip_id": "125525",
+    "order": 469
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Phone, Social-Media, Combat",
+    "clip_id": "260296",
+    "order": 470
+  },
+  {
+    "storyId": 11002,
+    "name": "Soldiers Eye",
+    "clip_id": "21975",
+    "order": 471
+  },
+  {
+    "storyId": 11002,
+    "name": "Scopes Light",
+    "clip_id": "21977",
+    "order": 472
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Lookout, Guard, Window",
+    "clip_id": "260242",
+    "order": 473
+  },
+  {
+    "storyId": 20480,
+    "name": "Keffiyeh, Hostage, Child, Troops",
+    "clip_id": "260263",
+    "order": 474
+  },
+  {
+    "storyId": 24010,
+    "name": "Shivering, Survivor, Blanket, Old Man",
+    "clip_id": "373600",
+    "order": 475
+  },
+  {
+    "storyId": 22653,
+    "name": "Soldiar, Preperation, Augmented Reality, Vfx",
+    "clip_id": "331140",
+    "order": 476
+  },
+  {
+    "storyId": 17342,
+    "name": "barbed wire on a fence ",
+    "clip_id": "165707",
+    "order": 477
+  },
+  {
+    "storyId": 11815,
+    "name": "Masked soldier in front of setting sun",
+    "clip_id": "45109",
+    "order": 478
+  },
+  {
+    "storyId": 22653,
+    "name": "Soldiars, Preperation, Ar Glasses, Vfx",
+    "clip_id": "331142",
+    "order": 479
+  },
+  {
+    "storyId": 11815,
+    "name": "Soldier turning around from setting sun",
+    "clip_id": "45108",
+    "order": 480
+  },
+  {
+    "storyId": 19438,
+    "name": "Strike, Crowd, Protest, Posters",
+    "clip_id": "230146",
+    "order": 481
+  },
+  {
+    "storyId": 20480,
+    "name": "Captive, Army, Frightened, Hostage",
+    "clip_id": "260236",
+    "order": 482
+  },
+  {
+    "storyId": 13712,
+    "name": "Woman, Young, Blond, Pony Tail",
+    "clip_id": "76477",
+    "order": 483
+  },
+  {
+    "storyId": 11002,
+    "name": "Two Soldiers In Smokey Room",
+    "clip_id": "22004",
+    "order": 484
+  },
+  {
+    "storyId": 13712,
+    "name": "Woman, Young, Blond, Sitting",
+    "clip_id": "76485",
+    "order": 485
+  },
+  {
+    "storyId": 11002,
+    "name": "Team Of Soldiers On Mission ",
+    "clip_id": "21961",
+    "order": 486
+  },
+  {
+    "storyId": 22591,
+    "name": "Eye, Pupil, Memory, Imagination",
+    "clip_id": "329579",
+    "order": 487
+  },
+  {
+    "storyId": 13712,
+    "name": "Woman, Young, Posing, Concrete Block",
+    "clip_id": "76486",
+    "order": 488
+  },
+  {
+    "storyId": 13712,
+    "name": "Woman, Young, Climbing, Wire Fence",
+    "clip_id": "76439",
+    "order": 489
+  },
+  {
+    "storyId": 18164,
+    "name": "soldiers patrolling in a forest ",
+    "clip_id": "191821",
+    "order": 490
+  },
+  {
+    "storyId": 25811,
+    "name": "People, Protesting, Ukraine, Demonstration",
+    "clip_id": "426817",
+    "order": 491
+  },
+  {
+    "storyId": 22591,
+    "name": "Eye, Pupil, Memory, Imagination",
+    "clip_id": "329573",
+    "order": 492
+  },
+  {
+    "storyId": 25811,
+    "name": "People, Protesting, Ukraine, Democracy",
+    "clip_id": "426819",
+    "order": 493
+  },
+  {
+    "storyId": 20480,
+    "name": "Bunker, Fire, Camp, American",
+    "clip_id": "260309",
+    "order": 494
+  },
+  {
+    "storyId": 11815,
+    "name": "Soldier standing behind red smoke",
+    "clip_id": "45112",
+    "order": 495
+  },
+  {
+    "storyId": 22653,
+    "name": "Soldiars, Firearm, Weapon, Infographic",
+    "clip_id": "331141",
+    "order": 496
+  },
+  {
+    "storyId": 25811,
+    "name": "Woman, Looking At Camera, Portrait, Sad",
+    "clip_id": "426809",
+    "order": 497
+  },
+  {
+    "storyId": 17427,
+    "name": "drone blowing mist over a field",
+    "clip_id": "168001",
+    "order": 498
+  },
+  {
+    "storyId": 13712,
+    "name": "Woman, Young, Climbing, Wire Fence",
+    "clip_id": "76441",
+    "order": 499
+  },
+  {
+    "storyId": 28318,
+    "name": "Injured, Soldier, Battlefield, Bleeding",
+    "clip_id": "505135",
+    "order": 500
+  },
+  {
+    "storyId": 19438,
+    "name": "Strike, Car, Crowd, People",
+    "clip_id": "230167",
+    "order": 501
+  },
+  {
+    "storyId": 25811,
+    "name": "People, Protesting, Ukraine, Demonstration",
+    "clip_id": "426818",
+    "order": 502
+  },
+  {
+    "storyId": 25811,
+    "name": "People, Protesting, Ukraine, Democracy",
+    "clip_id": "426821",
+    "order": 503
+  },
+  {
+    "storyId": 16362,
+    "name": "cars parked near buildings on a sunny day aerial",
+    "clip_id": "138236",
+    "order": 504
+  },
+  {
+    "storyId": 25811,
+    "name": "People, Preparing, Signs, Ukraine",
+    "clip_id": "426824",
+    "order": 505
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Shooting, Explosion, Gun",
+    "clip_id": "537649",
+    "order": 506
+  },
+  {
+    "storyId": 25811,
+    "name": "Ukraine, Russia, Conflict, People",
+    "clip_id": "426828",
+    "order": 507
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Shooting, Fighting, Gun",
+    "clip_id": "537650",
+    "order": 508
+  },
+  {
+    "storyId": 29506,
+    "name": "Tank, Military Warfare, Battle, Driving",
+    "clip_id": "537641",
+    "order": 509
+  },
+  {
+    "storyId": 25811,
+    "name": "Woman, Protesting, Ukraine, Flag",
+    "clip_id": "426810",
+    "order": 510
+  },
+  {
+    "storyId": 25811,
+    "name": "Woman, Demonstration, Ukraine, Democracy",
+    "clip_id": "426808",
+    "order": 511
+  },
+  {
+    "storyId": 23535,
+    "name": "Everyone Has Secrets, Title, Text, Overlay",
+    "clip_id": "359088",
+    "order": 512
+  },
+  {
+    "storyId": 25811,
+    "name": "People, Preparing, Signs, Ukraine",
+    "clip_id": "426825",
+    "order": 513
+  },
+  {
+    "storyId": 23535,
+    "name": "Halloween, Title, Overlay, Horror",
+    "clip_id": "359073",
+    "order": 514
+  },
+  {
+    "storyId": 29506,
+    "name": "Road, Car, Intercept, Hostage",
+    "clip_id": "537658",
+    "order": 515
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Military Warfare, Gun, Shooting",
+    "clip_id": "537628",
+    "order": 516
+  },
+  {
+    "storyId": 25811,
+    "name": "People, Preparing, Signs, Ukraine",
+    "clip_id": "426826",
+    "order": 517
+  },
+  {
+    "storyId": 23535,
+    "name": "Horror House, Title, Scary, Movie",
+    "clip_id": "359113",
+    "order": 518
+  },
+  {
+    "storyId": 25589,
+    "name": "Tank, Cannon, Army Tank, Red Lights",
+    "clip_id": "419410",
+    "order": 519
+  },
+  {
+    "storyId": 23535,
+    "name": "This Spring, Title, Word, Overlay",
+    "clip_id": "359092",
+    "order": 520
+  },
+  {
+    "storyId": 25811,
+    "name": "Woman, Portrait, Sad, Ukraine",
+    "clip_id": "426823",
+    "order": 521
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Intercept, Hostage, Car",
+    "clip_id": "537669",
+    "order": 522
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Military Warfare, Gun, Shooting",
+    "clip_id": "537657",
+    "order": 523
+  },
+  {
+    "storyId": 25589,
+    "name": "Tank, Cannon, Army Tank, Red Lights",
+    "clip_id": "419411",
+    "order": 524
+  },
+  {
+    "storyId": 25811,
+    "name": "Demonstration, Sad, Ukraine, Democracy",
+    "clip_id": "426820",
+    "order": 525
+  },
+  {
+    "storyId": 29506,
+    "name": "Shooting, Soldier, Gun, Trench",
+    "clip_id": "537635",
+    "order": 526
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Military Warfare, Gun, Battle",
+    "clip_id": "537624",
+    "order": 527
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Forest Trees, Aiming, Camouflage Uniform",
+    "clip_id": "537673",
+    "order": 528
+  },
+  {
+    "storyId": 16678,
+    "name": "bullet casings falling onto the floor ",
+    "clip_id": "147475",
+    "order": 529
+  },
+  {
+    "storyId": 25811,
+    "name": "People, Protesting, Ukraine, Democracy",
+    "clip_id": "426822",
+    "order": 530
+  },
+  {
+    "storyId": 29506,
+    "name": "Aiming, Sights, Soldier, Gun",
+    "clip_id": "537692",
+    "order": 531
+  },
+  {
+    "storyId": 17342,
+    "name": "barbed wire on the border fence",
+    "clip_id": "165737",
+    "order": 532
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Military Warfare, Aiming, Gun",
+    "clip_id": "537652",
+    "order": 533
+  },
+  {
+    "storyId": 25589,
+    "name": "Tank, Army Tank, Turret, Cannon",
+    "clip_id": "419406",
+    "order": 534
+  },
+  {
+    "storyId": 25811,
+    "name": "Woman, Protesting, Ukraine, Megaphone",
+    "clip_id": "426834",
+    "order": 535
+  },
+  {
+    "storyId": 18647,
+    "name": "Normandy, France, Memorial, Monument",
+    "clip_id": "206243",
+    "order": 536
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Military Warfare, Gun, Battle",
+    "clip_id": "537623",
+    "order": 537
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Military Warfare, Gun, Battle",
+    "clip_id": "537644",
+    "order": 538
+  },
+  {
+    "storyId": 17342,
+    "name": "barbed wire fencing by a house and car ",
+    "clip_id": "165719",
+    "order": 539
+  },
+  {
+    "storyId": 15865,
+    "name": "puddles of water on the floor of an abandoned warehouse",
+    "clip_id": "125524",
+    "order": 540
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Buildings, Chimney, Factory",
+    "clip_id": "321018",
+    "order": 541
+  },
+  {
+    "storyId": 15865,
+    "name": "large empty warehouse with puddles of water on the ground",
+    "clip_id": "125528",
+    "order": 542
+  },
+  {
+    "storyId": 15865,
+    "name": "stop sign indicating a no entry zone for forklifts in an abandoned warehouse",
+    "clip_id": "125527",
+    "order": 543
+  },
+  {
+    "storyId": 25589,
+    "name": "Tank, Cannon, Army Tank, Red Lights",
+    "clip_id": "419409",
+    "order": 544
+  },
+  {
+    "storyId": 20683,
+    "name": "Protester, Walking, Sign, Demonstration",
+    "clip_id": "266759",
+    "order": 545
+  },
+  {
+    "storyId": 17342,
+    "name": "barbed wire along the border fence ",
+    "clip_id": "165740",
+    "order": 546
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Rifle, Shooting, Gun",
+    "clip_id": "537654",
+    "order": 547
+  },
+  {
+    "storyId": 16678,
+    "name": "bullet casings falling into a pile on the floor",
+    "clip_id": "147480",
+    "order": 548
+  },
+  {
+    "storyId": 17342,
+    "name": "barbed wire by a minefield ",
+    "clip_id": "165744",
+    "order": 549
+  },
+  {
+    "storyId": 26601,
+    "name": "Man, Working, Office, Alert",
+    "clip_id": "453192",
+    "order": 550
+  },
+  {
+    "storyId": 18647,
+    "name": "Coast, Aerial, Cliff, Sea",
+    "clip_id": "206241",
+    "order": 551
+  },
+  {
+    "storyId": 15865,
+    "name": "peeling paint and dirty frosted windows in an abandoned warehouse",
+    "clip_id": "125529",
+    "order": 552
+  },
+  {
+    "storyId": 27376,
+    "name": "Man, Woman, Walking, Dogs",
+    "clip_id": "475792",
+    "order": 553
+  },
+  {
+    "storyId": 17342,
+    "name": "fenced in town ",
+    "clip_id": "165723",
+    "order": 554
+  },
+  {
+    "storyId": 16678,
+    "name": "various kinds of empty bullet casings all over the ground ",
+    "clip_id": "147488",
+    "order": 555
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Buildings, Chimney, Factory",
+    "clip_id": "321009",
+    "order": 556
+  },
+  {
+    "storyId": 16678,
+    "name": "empty bullet casings falling onto a dirty ground ",
+    "clip_id": "147490",
+    "order": 557
+  },
+  {
+    "storyId": 22329,
+    "name": "Aerial, Chimney, Drone, Factory",
+    "clip_id": "321014",
+    "order": 558
+  },
+  {
+    "storyId": 17342,
+    "name": "deserted road by a fence ",
+    "clip_id": "165716",
+    "order": 559
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Military Warfare, Gun, Aiming",
+    "clip_id": "537670",
+    "order": 560
+  },
+  {
+    "storyId": 29506,
+    "name": "Camouflage Uniform, Soldier, Running, Military Warfare",
+    "clip_id": "537664",
+    "order": 561
+  },
+  {
+    "storyId": 16161,
+    "name": "warning sign",
+    "clip_id": "132648",
+    "order": 562
+  },
+  {
+    "storyId": 25589,
+    "name": "Tank, Cannon, Army Tank, Red Lights",
+    "clip_id": "419407",
+    "order": 563
+  },
+  {
+    "storyId": 23104,
+    "name": "Knights, Battle, Swords, Infantry",
+    "clip_id": "344498",
+    "order": 564
+  },
+  {
+    "storyId": 16678,
+    "name": "empty bullet casings hitting the ground ",
+    "clip_id": "147495",
+    "order": 565
+  },
+  {
+    "storyId": 17342,
+    "name": "yellow sign warning of mines ",
+    "clip_id": "165749",
+    "order": 566
+  },
+  {
+    "storyId": 17342,
+    "name": "yellow sign by a minefield ",
+    "clip_id": "165746",
+    "order": 567
+  },
+  {
+    "storyId": 19191,
+    "name": "R2_4",
+    "clip_id": "222938",
+    "order": 568
+  },
+  {
+    "storyId": 17342,
+    "name": "barbed wire on a border fence ",
+    "clip_id": "165718",
+    "order": 569
+  },
+  {
+    "storyId": 16678,
+    "name": "empty bullet casings falling onto sand on the floor",
+    "clip_id": "147484",
+    "order": 570
+  },
+  {
+    "storyId": 25589,
+    "name": "Tank, Cannon, Army Tank, Red Lights",
+    "clip_id": "419408",
+    "order": 571
+  },
+  {
+    "storyId": 17891,
+    "name": "victory park in Moscow aerial ",
+    "clip_id": "180825",
+    "order": 572
+  },
+  {
+    "storyId": 15865,
+    "name": "standing water on the floor and sun shining through holes in the ceiling of an empty warehouse",
+    "clip_id": "125526",
+    "order": 573
+  },
+  {
+    "storyId": 26601,
+    "name": "Man, Laptop, Bomb Shelter, Floor Pillow",
+    "clip_id": "453159",
+    "order": 574
+  },
+  {
+    "storyId": 17342,
+    "name": "border fence with barbed wire ",
+    "clip_id": "165708",
+    "order": 575
+  },
+  {
+    "storyId": 16678,
+    "name": "various bullet casings falling onto the floor ",
+    "clip_id": "147481",
+    "order": 576
+  },
+  {
+    "storyId": 17891,
+    "name": "large statue on a tower at sunset aerial ",
+    "clip_id": "180829",
+    "order": 577
+  },
+  {
+    "storyId": 19192,
+    "name": "AT_5",
+    "clip_id": "222962",
+    "order": 578
+  },
+  {
+    "storyId": 17342,
+    "name": "trees along the border ",
+    "clip_id": "165705",
+    "order": 579
+  },
+  {
+    "storyId": 16678,
+    "name": "used up bullets on the floor",
+    "clip_id": "147485",
+    "order": 580
+  },
+  {
+    "storyId": 26601,
+    "name": "Bombing, Bomb Shelter, Man, Laptop",
+    "clip_id": "453167",
+    "order": 581
+  },
+  {
+    "storyId": 16678,
+    "name": "sand falling onto empty bullet casings on the floor ",
+    "clip_id": "147478",
+    "order": 582
+  },
+  {
+    "storyId": 16678,
+    "name": "empty bullet casings falling into a pile on the floor",
+    "clip_id": "147482",
+    "order": 583
+  },
+  {
+    "storyId": 17342,
+    "name": "electric fence lining the border ",
+    "clip_id": "165728",
+    "order": 584
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Buildings, Chimney, Factory",
+    "clip_id": "321007",
+    "order": 585
+  },
+  {
+    "storyId": 19192,
+    "name": "AT_6",
+    "clip_id": "222963",
+    "order": 586
+  },
+  {
+    "storyId": 19191,
+    "name": "2_22",
+    "clip_id": "222923",
+    "order": 587
+  },
+  {
+    "storyId": 16678,
+    "name": "bullet casings and sand falling onto the floor ",
+    "clip_id": "147477",
+    "order": 588
+  },
+  {
+    "storyId": 16678,
+    "name": "empty bullet casings falling into a pile on a dirty ground ",
+    "clip_id": "147491",
+    "order": 589
+  },
+  {
+    "storyId": 17342,
+    "name": "minefield sign on the border ",
+    "clip_id": "165748",
+    "order": 590
+  },
+  {
+    "storyId": 17342,
+    "name": "road along the border ",
+    "clip_id": "165733",
+    "order": 591
+  },
+  {
+    "storyId": 16678,
+    "name": "empty shell casings on the floor",
+    "clip_id": "147486",
+    "order": 592
+  },
+  {
+    "storyId": 19192,
+    "name": "T_10",
+    "clip_id": "222952",
+    "order": 593
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Buildings, Chimney, Factory",
+    "clip_id": "321035",
+    "order": 594
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Town Buildings, Smokestack, Chimney",
+    "clip_id": "321001",
+    "order": 595
+  },
+  {
+    "storyId": 16161,
+    "name": "skull in a bunker ",
+    "clip_id": "132645",
+    "order": 596
+  },
+  {
+    "storyId": 16678,
+    "name": "empty bullet casings and sand falling onto a dirty floor",
+    "clip_id": "147494",
+    "order": 597
+  },
+  {
+    "storyId": 16678,
+    "name": "used up bullets all over the ground ",
+    "clip_id": "147487",
+    "order": 598
+  },
+  {
+    "storyId": 18164,
+    "name": "soldier looking ",
+    "clip_id": "191820",
+    "order": 599
+  },
+  {
+    "storyId": 19192,
+    "name": "T_20",
+    "clip_id": "222949",
+    "order": 600
+  },
+  {
+    "storyId": 17342,
+    "name": "border fence by the road ",
+    "clip_id": "165714",
+    "order": 601
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Buildings, Chimney, Factory",
+    "clip_id": "321002",
+    "order": 602
+  },
+  {
+    "storyId": 16678,
+    "name": "bullet casings in a pile on the floor",
+    "clip_id": "147483",
+    "order": 603
+  },
+  {
+    "storyId": 17342,
+    "name": "barbed wire all over a fence ",
+    "clip_id": "165709",
+    "order": 604
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Explosion, Trench, Shooting",
+    "clip_id": "537637",
+    "order": 605
+  },
+  {
+    "storyId": 17342,
+    "name": "minefield signs along the border ",
+    "clip_id": "165747",
+    "order": 606
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Buildings, Chimney, Factory",
+    "clip_id": "320991",
+    "order": 607
+  },
+  {
+    "storyId": 19191,
+    "name": "2_15",
+    "clip_id": "222916",
+    "order": 608
+  },
+  {
+    "storyId": 16678,
+    "name": "sand falling onto empty bullet shells on the floor ",
+    "clip_id": "147479",
+    "order": 609
+  },
+  {
+    "storyId": 16678,
+    "name": "sand and empty bullet casings falling into a pile on the floor",
+    "clip_id": "147493",
+    "order": 610
+  },
+  {
+    "storyId": 19191,
+    "name": "2_14",
+    "clip_id": "222914",
+    "order": 611
+  },
+  {
+    "storyId": 18164,
+    "name": "soldier looking at a tablet ",
+    "clip_id": "191822",
+    "order": 612
+  },
+  {
+    "storyId": 19192,
+    "name": "T_19",
+    "clip_id": "222950",
+    "order": 613
+  },
+  {
+    "storyId": 16678,
+    "name": "shell casings and sand falling onto the floor into a pile",
+    "clip_id": "147476",
+    "order": 614
+  },
+  {
+    "storyId": 19192,
+    "name": "T_16",
+    "clip_id": "222947",
+    "order": 615
+  },
+  {
+    "storyId": 19191,
+    "name": "R2_6",
+    "clip_id": "222939",
+    "order": 616
+  },
+  {
+    "storyId": 17342,
+    "name": "wire fencing along the border ",
+    "clip_id": "165710",
+    "order": 617
+  },
+  {
+    "storyId": 17342,
+    "name": "warning signs by a minefield ",
+    "clip_id": "165743",
+    "order": 618
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Buildings, Chimney, Factory",
+    "clip_id": "320996",
+    "order": 619
+  },
+  {
+    "storyId": 17342,
+    "name": "security fence on the border ",
+    "clip_id": "165704",
+    "order": 620
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Buildings, Chimney, Factory",
+    "clip_id": "321019",
+    "order": 621
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Buildings, Chimney, Factory",
+    "clip_id": "321024",
+    "order": 622
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Buildings, Chimney, Factory",
+    "clip_id": "321008",
+    "order": 623
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Buildings, Chimney, Factory",
+    "clip_id": "320997",
+    "order": 624
+  },
+  {
+    "storyId": 17342,
+    "name": "barbed wire fencing by a minefield ",
+    "clip_id": "165745",
+    "order": 625
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Buildings, Chimney, Factory",
+    "clip_id": "321023",
+    "order": 626
+  },
+  {
+    "storyId": 18164,
+    "name": "soldiers listening outside",
+    "clip_id": "191836",
+    "order": 627
+  },
+  {
+    "storyId": 17342,
+    "name": "electric fencing along the border",
+    "clip_id": "165725",
+    "order": 628
+  },
+  {
+    "storyId": 19191,
+    "name": "R2_8",
+    "clip_id": "222926",
+    "order": 629
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Gun, Scope, Sights",
+    "clip_id": "537648",
+    "order": 630
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Military Warfare, Gun, Battle",
+    "clip_id": "537626",
+    "order": 631
+  },
+  {
+    "storyId": 18164,
+    "name": "soldiers training ",
+    "clip_id": "191829",
+    "order": 632
+  },
+  {
+    "storyId": 29506,
+    "name": "Shooting, Soldier, Military Warfare, Gun",
+    "clip_id": "537625",
+    "order": 633
+  },
+  {
+    "storyId": 18164,
+    "name": "soldier sitting ",
+    "clip_id": "191812",
+    "order": 634
+  },
+  {
+    "storyId": 17342,
+    "name": "clouds moving over the border fence timelapse ",
+    "clip_id": "165730",
+    "order": 635
+  },
+  {
+    "storyId": 17342,
+    "name": "border fence by trees",
+    "clip_id": "165706",
+    "order": 636
+  },
+  {
+    "storyId": 18164,
+    "name": "soldier standing outside ",
+    "clip_id": "191819",
+    "order": 637
+  },
+  {
+    "storyId": 16678,
+    "name": "sand falling onto a pile of used up bullet casings ",
+    "clip_id": "147492",
+    "order": 638
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Military Warfare, Gun, Shooting",
+    "clip_id": "537629",
+    "order": 639
+  },
+  {
+    "storyId": 18164,
+    "name": "soldiers standing and listening ",
+    "clip_id": "191834",
+    "order": 640
+  },
+  {
+    "storyId": 18164,
+    "name": "soldiers outside in the field ",
+    "clip_id": "191815",
+    "order": 641
+  },
+  {
+    "storyId": 18164,
+    "name": "soldiers entering a house ",
+    "clip_id": "191831",
+    "order": 642
+  },
+  {
+    "storyId": 18164,
+    "name": "woman soldier looking at her phone ",
+    "clip_id": "191837",
+    "order": 643
+  },
+  {
+    "storyId": 17342,
+    "name": "electric fencing on the border",
+    "clip_id": "165726",
+    "order": 644
+  },
+  {
+    "storyId": 18164,
+    "name": "person holding their gun POV",
+    "clip_id": "191841",
+    "order": 645
+  },
+  {
+    "storyId": 18164,
+    "name": "soldier holding his gun POV",
+    "clip_id": "191842",
+    "order": 646
+  },
+  {
+    "storyId": 17342,
+    "name": "border fence by the road ",
+    "clip_id": "165717",
+    "order": 647
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Buildings, Chimney, Factory",
+    "clip_id": "321048",
+    "order": 648
+  },
+  {
+    "storyId": 17342,
+    "name": "electric fence on the border ",
+    "clip_id": "165727",
+    "order": 649
+  },
+  {
+    "storyId": 18164,
+    "name": "soldiers in a forest ",
+    "clip_id": "191818",
+    "order": 650
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Buildings, Chimney, Factory",
+    "clip_id": "320994",
+    "order": 651
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Buildings, Chimney, Factory",
+    "clip_id": "321000",
+    "order": 652
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Buildings, Chimney, Factory",
+    "clip_id": "320992",
+    "order": 653
+  },
+  {
+    "storyId": 18164,
+    "name": "soldiers running out of a building ",
+    "clip_id": "191832",
+    "order": 654
+  },
+  {
+    "storyId": 19191,
+    "name": "R2_7",
+    "clip_id": "222936",
+    "order": 655
+  },
+  {
+    "storyId": 17342,
+    "name": "signs by a minefield ",
+    "clip_id": "165742",
+    "order": 656
+  },
+  {
+    "storyId": 18164,
+    "name": "soldiers kicking in a door ",
+    "clip_id": "191830",
+    "order": 657
+  },
+  {
+    "storyId": 17342,
+    "name": "border fence by a town ",
+    "clip_id": "165720",
+    "order": 658
+  },
+  {
+    "storyId": 29506,
+    "name": "Soldier, Gun, Battle, Aiming",
+    "clip_id": "537667",
+    "order": 659
+  },
+  {
+    "storyId": 17342,
+    "name": "deserted road by the border fence ",
+    "clip_id": "165738",
+    "order": 660
+  },
+  {
+    "storyId": 18164,
+    "name": "woman solder looking at her phone outside ",
+    "clip_id": "191838",
+    "order": 661
+  },
+  {
+    "storyId": 18164,
+    "name": "soldiers standing together ",
+    "clip_id": "191833",
+    "order": 662
+  },
+  {
+    "storyId": 18164,
+    "name": "soldiers standing together outside ",
+    "clip_id": "191835",
+    "order": 663
+  },
+  {
+    "storyId": 18164,
+    "name": "soldiers outside ",
+    "clip_id": "191814",
+    "order": 664
+  },
+  {
+    "storyId": 18164,
+    "name": "soldiers surrounding a building ",
+    "clip_id": "191823",
+    "order": 665
+  },
+  {
+    "storyId": 18164,
+    "name": "soldiers entering a building ",
+    "clip_id": "191825",
+    "order": 666
+  },
+  {
+    "storyId": 17342,
+    "name": "trees outside of the border ",
+    "clip_id": "165729",
+    "order": 667
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Buildings, Chimney, Factory",
+    "clip_id": "320998",
+    "order": 668
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Buildings, Chimney, Factory",
+    "clip_id": "320993",
+    "order": 669
+  },
+  {
+    "storyId": 18164,
+    "name": "soldiers outside together ",
+    "clip_id": "191817",
+    "order": 670
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Buildings, Chimney, Factory",
+    "clip_id": "321036",
+    "order": 671
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Buildings, Chimney, Factory",
+    "clip_id": "320995",
+    "order": 672
+  },
+  {
+    "storyId": 22329,
+    "name": "Industrial, Buildings, Chimney, Factory",
+    "clip_id": "320999",
+    "order": 673
+  },
+  {
+    "storyId": 18164,
+    "name": "soldiers standing outside together ",
+    "clip_id": "191839",
+    "order": 674
+  },
+  {
+    "storyId": 18164,
+    "name": "soldiers sitting on the ground",
+    "clip_id": "191840",
+    "order": 675
+  },
+  {
+    "storyId": 18164,
+    "name": "soldiers talking ",
+    "clip_id": "191816",
+    "order": 676
+  },
+  {
+    "storyId": 17342,
+    "name": "empty road by the fence ",
+    "clip_id": "165715",
+    "order": 677
+  },
+  {
+    "storyId": 18164,
+    "name": "soldier on a phone ",
+    "clip_id": "191813",
+    "order": 678
+  },
+  {
+    "storyId": 18164,
+    "name": "soldiers leaving a house with their guns ",
+    "clip_id": "191828",
+    "order": 679
+  },
+  {
+    "storyId": 18164,
+    "name": "soldiers leaving a house ",
+    "clip_id": "191827",
+    "order": 680
+  },
+  {
+    "storyId": 18164,
+    "name": "soldiers entering a locked building ",
+    "clip_id": "191826",
+    "order": 681
+  },
+  {
+    "storyId": 18164,
+    "name": "soldiers surrounding a building by trees ",
+    "clip_id": "191824",
+    "order": 682
+  },
+  {
+    "storyId": 27376,
+    "name": "Man, Woman, Standing, Park",
+    "clip_id": "475794",
+    "order": 683
+  },
+  {
+    "storyId": 26601,
+    "name": "Man, Laptop, Bomb Shelter, Working",
+    "clip_id": "453163",
+    "order": 684
+  },
+  {
+    "storyId": 26601,
+    "name": "Man, Laptop, Bomb Shelter, Typing",
+    "clip_id": "453164",
+    "order": 685
+  },
+  {
+    "storyId": 13539,
+    "name": "pipe separating bubbles in polluted war",
+    "clip_id": "72803",
+    "order": 686
+  },
+  {
+    "storyId": 14584,
+    "name": "kids playing tug of war ",
+    "clip_id": "95223",
+    "order": 687
+  },
+  {
+    "storyId": 13370,
+    "name": "helicopter lowering to landing zone in forest",
+    "clip_id": "69115",
+    "order": 688
+  },
+  {
+    "storyId": 16161,
+    "name": "quarantine zone sign on a brick wall",
+    "clip_id": "132644",
+    "order": 689
+  },
+  {
+    "storyId": 16054,
+    "name": "woman warring headphones while sitting next to photography and recording equipment",
+    "clip_id": "129776",
+    "order": 690
+  },
+  {
+    "storyId": 17541,
+    "name": "two sisters waring plants in the garden",
+    "clip_id": "171765",
+    "order": 691
+  },
+  {
+    "storyId": 17541,
+    "name": "two sisters waring plants in the garden",
+    "clip_id": "171764",
+    "order": 692
+  }
+]

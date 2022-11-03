@@ -1,0 +1,14 @@
+[
+  {
+    "query": "tea pot",
+    "clip_id": "239643",
+    "story_id": "19799",
+    "autoRank": "0.328047267979037"
+  },
+  {
+    "query": "tea pot",
+    "clip_id": "49271",
+    "story_id": "12127",
+    "autoRank": "0.3250980856312381"
+  }
+]

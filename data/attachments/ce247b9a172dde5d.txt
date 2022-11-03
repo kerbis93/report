@@ -1,0 +1,5702 @@
+[
+  {
+    "storyId": 24627,
+    "name": "Tourist, Wandering, Alley, Old City",
+    "clip_id": "389805",
+    "order": 0
+  },
+  {
+    "storyId": 24627,
+    "name": "Old City, Street, Pov, Scooters",
+    "clip_id": "389816",
+    "order": 1
+  },
+  {
+    "storyId": 24627,
+    "name": "Old City, Alley, Street, Wandering",
+    "clip_id": "389817",
+    "order": 2
+  },
+  {
+    "storyId": 28284,
+    "name": "Man, Photographer, Camera, City",
+    "clip_id": "504240",
+    "order": 3
+  },
+  {
+    "storyId": 13167,
+    "name": "couple walking through a market",
+    "clip_id": "66242",
+    "order": 4
+  },
+  {
+    "storyId": 11971,
+    "name": "people walking near ancient building with stairs in grey day",
+    "clip_id": "47395",
+    "order": 5
+  },
+  {
+    "storyId": 11800,
+    "name": "boats docked near shore with people",
+    "clip_id": "44718",
+    "order": 6
+  },
+  {
+    "storyId": 28284,
+    "name": "Man, Photographer, Camera, Park",
+    "clip_id": "504255",
+    "order": 7
+  },
+  {
+    "storyId": 11555,
+    "name": "person walking through poppy field in bright day",
+    "clip_id": "38660",
+    "order": 8
+  },
+  {
+    "storyId": 11358,
+    "name": "man walking in the desert",
+    "clip_id": "35127",
+    "order": 9
+  },
+  {
+    "storyId": 11358,
+    "name": "man standing on cliff edge in the desert",
+    "clip_id": "35133",
+    "order": 10
+  },
+  {
+    "storyId": 11924,
+    "name": "woman walking on rocks between waterfall and forest in cold day",
+    "clip_id": "46940",
+    "order": 11
+  },
+  {
+    "storyId": 11884,
+    "name": "girl staring at the nature from car in bright day",
+    "clip_id": "46511",
+    "order": 12
+  },
+  {
+    "storyId": 11998,
+    "name": "man walking on dunes with shadow in bright day",
+    "clip_id": "47735",
+    "order": 13
+  },
+  {
+    "storyId": 11358,
+    "name": "man walking in the desert with his dog",
+    "clip_id": "35128",
+    "order": 14
+  },
+  {
+    "storyId": 11358,
+    "name": "close up of man wandering in the desert",
+    "clip_id": "35119",
+    "order": 15
+  },
+  {
+    "storyId": 11751,
+    "name": "man riding a bike in a hill in desert on bright day aerial",
+    "clip_id": "43654",
+    "order": 16
+  },
+  {
+    "storyId": 11358,
+    "name": "view of man standing with the desert scape in the background",
+    "clip_id": "35134",
+    "order": 17
+  },
+  {
+    "storyId": 11888,
+    "name": "young people walking in third world village",
+    "clip_id": "46543",
+    "order": 18
+  },
+  {
+    "storyId": 11555,
+    "name": "woman walking in poppy field with yellow dress",
+    "clip_id": "38652",
+    "order": 19
+  },
+  {
+    "storyId": 11998,
+    "name": "man walking on dunes with camera in bright day",
+    "clip_id": "47693",
+    "order": 20
+  },
+  {
+    "storyId": 11755,
+    "name": "model walking in alley near mountains in bright day",
+    "clip_id": "43724",
+    "order": 21
+  },
+  {
+    "storyId": 11998,
+    "name": "man in white robe walking up a dune in bright desert",
+    "clip_id": "47699",
+    "order": 22
+  },
+  {
+    "storyId": 17221,
+    "name": "Man Morocco Travel",
+    "clip_id": "163140",
+    "order": 23
+  },
+  {
+    "storyId": 11358,
+    "name": "man in a bandana wandering in the desert  ",
+    "clip_id": "35118",
+    "order": 24
+  },
+  {
+    "storyId": 11358,
+    "name": "close up of man walking in the desert",
+    "clip_id": "35129",
+    "order": 25
+  },
+  {
+    "storyId": 11755,
+    "name": "woman walking in alley with handbag in bright day",
+    "clip_id": "43723",
+    "order": 26
+  },
+  {
+    "storyId": 11998,
+    "name": "legs of man in white robe walking on bright desert",
+    "clip_id": "47701",
+    "order": 27
+  },
+  {
+    "storyId": 11758,
+    "name": "woman legs walking at the beach in bright day",
+    "clip_id": "43849",
+    "order": 28
+  },
+  {
+    "storyId": 24627,
+    "name": "Bakery, Pastry Shop, Woman, Window Shopping",
+    "clip_id": "389812",
+    "order": 29
+  },
+  {
+    "storyId": 11758,
+    "name": "woman legs walking in the shore while leaving footprints in bright day",
+    "clip_id": "43848",
+    "order": 30
+  },
+  {
+    "storyId": 11998,
+    "name": "man in white robe walking down a dune in bright desert",
+    "clip_id": "47700",
+    "order": 31
+  },
+  {
+    "storyId": 11629,
+    "name": "woman waving scarf while walking in forest",
+    "clip_id": "40182",
+    "order": 32
+  },
+  {
+    "storyId": 11884,
+    "name": "woman walking in the woods viewed from far",
+    "clip_id": "46517",
+    "order": 33
+  },
+  {
+    "storyId": 11358,
+    "name": "man and his dog walking towards the camera",
+    "clip_id": "35116",
+    "order": 34
+  },
+  {
+    "storyId": 11358,
+    "name": "man walking walking towards camera in the desert",
+    "clip_id": "35113",
+    "order": 35
+  },
+  {
+    "storyId": 24112,
+    "name": "Monk, Forest, Walking, Robe",
+    "clip_id": "376368",
+    "order": 36
+  },
+  {
+    "storyId": 11758,
+    "name": "woman's leg walking in the sand at the beach in bright day",
+    "clip_id": "43854",
+    "order": 37
+  },
+  {
+    "storyId": 20091,
+    "name": "Split, Town, Timelapse, City",
+    "clip_id": "247555",
+    "order": 38
+  },
+  {
+    "storyId": 11755,
+    "name": "woman walking down the stairs in small alley",
+    "clip_id": "43727",
+    "order": 39
+  },
+  {
+    "storyId": 11358,
+    "name": "man and his dog walking into the horizon in the desert",
+    "clip_id": "35111",
+    "order": 40
+  },
+  {
+    "storyId": 11713,
+    "name": "blonde model walking in bright forest",
+    "clip_id": "42427",
+    "order": 41
+  },
+  {
+    "storyId": 11358,
+    "name": "man and his dog walking through the desolate desert ",
+    "clip_id": "35117",
+    "order": 42
+  },
+  {
+    "storyId": 11870,
+    "name": "girl running in grass path in cold fresh day",
+    "clip_id": "46376",
+    "order": 43
+  },
+  {
+    "storyId": 11782,
+    "name": "man walking the road surrounded by forest in dark day",
+    "clip_id": "44430",
+    "order": 44
+  },
+  {
+    "storyId": 11751,
+    "name": "cyclist riding a bike in bright mountain in desert aerial",
+    "clip_id": "43655",
+    "order": 45
+  },
+  {
+    "storyId": 11817,
+    "name": "person sitting on a surfboard in the sea late in the day",
+    "clip_id": "45180",
+    "order": 46
+  },
+  {
+    "storyId": 11782,
+    "name": "young man walking the road surrounded by forest in dark day",
+    "clip_id": "44431",
+    "order": 47
+  },
+  {
+    "storyId": 11358,
+    "name": "man walking in the distance in the desert",
+    "clip_id": "35112",
+    "order": 48
+  },
+  {
+    "storyId": 11884,
+    "name": "woman walking in dense the forest in bright day",
+    "clip_id": "46518",
+    "order": 49
+  },
+  {
+    "storyId": 11722,
+    "name": "peacock wandering in forest",
+    "clip_id": "42761",
+    "order": 50
+  },
+  {
+    "storyId": 11358,
+    "name": "man wandering in the desert with his dog",
+    "clip_id": "35110",
+    "order": 51
+  },
+  {
+    "storyId": 11884,
+    "name": "young woman posing in dense woods in bright day",
+    "clip_id": "46519",
+    "order": 52
+  },
+  {
+    "storyId": 11884,
+    "name": "girl wandering in the forest while touching the branches",
+    "clip_id": "46513",
+    "order": 53
+  },
+  {
+    "storyId": 11358,
+    "name": "man walking in the distance with his dog in the desert",
+    "clip_id": "35114",
+    "order": 54
+  },
+  {
+    "storyId": 18679,
+    "name": "Women, Wandering, Grapevine, Vineyard",
+    "clip_id": "207466",
+    "order": 55
+  },
+  {
+    "storyId": 11758,
+    "name": "woman legs walking in the sea in bright day",
+    "clip_id": "43850",
+    "order": 56
+  },
+  {
+    "storyId": 11782,
+    "name": "young person walking in dark forest",
+    "clip_id": "44416",
+    "order": 57
+  },
+  {
+    "storyId": 11782,
+    "name": "man staring at trees in dark green forest",
+    "clip_id": "44397",
+    "order": 58
+  },
+  {
+    "storyId": 11358,
+    "name": "man with beard looking tired from his journey in the desert",
+    "clip_id": "35132",
+    "order": 59
+  },
+  {
+    "storyId": 11358,
+    "name": "man cupping his hands and pouring water so his dog can drink",
+    "clip_id": "35122",
+    "order": 60
+  },
+  {
+    "storyId": 11358,
+    "name": "dog walking behind his owner in the desert",
+    "clip_id": "35131",
+    "order": 61
+  },
+  {
+    "storyId": 11629,
+    "name": "woman walking on path in forest holding white scarf",
+    "clip_id": "40185",
+    "order": 62
+  },
+  {
+    "storyId": 11782,
+    "name": "man's legs walking on a dead tree in bright day with mist",
+    "clip_id": "44406",
+    "order": 63
+  },
+  {
+    "storyId": 11782,
+    "name": "young man walking in the middle of the road near dark forest",
+    "clip_id": "44428",
+    "order": 64
+  },
+  {
+    "storyId": 13167,
+    "name": "couple turning towards each other",
+    "clip_id": "66262",
+    "order": 65
+  },
+  {
+    "storyId": 11782,
+    "name": "man walking on grass field in forest direction in day filled with mist",
+    "clip_id": "44411",
+    "order": 66
+  },
+  {
+    "storyId": 24112,
+    "name": "Monk, Forest, Walking, Robe",
+    "clip_id": "376369",
+    "order": 67
+  },
+  {
+    "storyId": 11629,
+    "name": "woman walking in forest with white scarf on shoulders",
+    "clip_id": "40184",
+    "order": 68
+  },
+  {
+    "storyId": 11782,
+    "name": "man walking in dark green forest",
+    "clip_id": "44395",
+    "order": 69
+  },
+  {
+    "storyId": 11358,
+    "name": "man walking with his dog in the rocky desert",
+    "clip_id": "35142",
+    "order": 70
+  },
+  {
+    "storyId": 11782,
+    "name": "man walking the road near forest in dark day",
+    "clip_id": "44432",
+    "order": 71
+  },
+  {
+    "storyId": 11782,
+    "name": "young man walking in dark forest between bushes",
+    "clip_id": "44415",
+    "order": 72
+  },
+  {
+    "storyId": 11782,
+    "name": "man walking on dead tree in day with mist",
+    "clip_id": "44404",
+    "order": 73
+  },
+  {
+    "storyId": 11782,
+    "name": "low angle of man walking the road surrounded by forest in dark day",
+    "clip_id": "44434",
+    "order": 74
+  },
+  {
+    "storyId": 11782,
+    "name": "man walking in dark forest between bushes",
+    "clip_id": "44414",
+    "order": 75
+  },
+  {
+    "storyId": 24112,
+    "name": "Monk, Forest, Walking, Robe",
+    "clip_id": "376370",
+    "order": 76
+  },
+  {
+    "storyId": 11782,
+    "name": "person walking in dark dense woods",
+    "clip_id": "44421",
+    "order": 77
+  },
+  {
+    "storyId": 16265,
+    "name": "man walking into the woods with his guitar on a strap on his back ",
+    "clip_id": "136116",
+    "order": 78
+  },
+  {
+    "storyId": 11751,
+    "name": "man riding on bike bright desert with green trees aerial",
+    "clip_id": "43649",
+    "order": 79
+  },
+  {
+    "storyId": 20091,
+    "name": "Split, Cathedral, Timelapse, Saint-Domnius",
+    "clip_id": "247561",
+    "order": 80
+  },
+  {
+    "storyId": 11782,
+    "name": "man walking in dark dense forest",
+    "clip_id": "44422",
+    "order": 81
+  },
+  {
+    "storyId": 11998,
+    "name": "man with camera walking in bright desert",
+    "clip_id": "47711",
+    "order": 82
+  },
+  {
+    "storyId": 11782,
+    "name": "man walking on a log of tree in day filled with mist",
+    "clip_id": "44405",
+    "order": 83
+  },
+  {
+    "storyId": 11358,
+    "name": "man walking with his dog in the desert ",
+    "clip_id": "35115",
+    "order": 84
+  },
+  {
+    "storyId": 11782,
+    "name": "person walking in dark forest between bushes",
+    "clip_id": "44417",
+    "order": 85
+  },
+  {
+    "storyId": 11629,
+    "name": "woman holding scarf above head and walking in forest",
+    "clip_id": "40190",
+    "order": 86
+  },
+  {
+    "storyId": 11782,
+    "name": "man walking in the middle of the road near dark forest",
+    "clip_id": "44427",
+    "order": 87
+  },
+  {
+    "storyId": 11358,
+    "name": "man walking on the top of a mountain in the desert with his dog",
+    "clip_id": "35139",
+    "order": 88
+  },
+  {
+    "storyId": 11333,
+    "name": "man driving car on road in field on rainy day",
+    "clip_id": "34477",
+    "order": 89
+  },
+  {
+    "storyId": 11782,
+    "name": "man's legs walking in dark green forest",
+    "clip_id": "44401",
+    "order": 90
+  },
+  {
+    "storyId": 11333,
+    "name": "man legs walking on wooden bridge in bright day",
+    "clip_id": "34485",
+    "order": 91
+  },
+  {
+    "storyId": 11782,
+    "name": "young man walking in dark green forest",
+    "clip_id": "44402",
+    "order": 92
+  },
+  {
+    "storyId": 24044,
+    "name": "Grand Central Terminal, Traveling, Bag, Wandering",
+    "clip_id": "374199",
+    "order": 93
+  },
+  {
+    "storyId": 11866,
+    "name": "big brown buffalo walking in green field",
+    "clip_id": "46321",
+    "order": 94
+  },
+  {
+    "storyId": 11866,
+    "name": "half shaved buffalo standing in green field",
+    "clip_id": "46319",
+    "order": 95
+  },
+  {
+    "storyId": 11758,
+    "name": "model in bikini walking on the shore in bright day",
+    "clip_id": "43855",
+    "order": 96
+  },
+  {
+    "storyId": 11751,
+    "name": "cyclist riding a bicycle in desert mountain on bright day aerial",
+    "clip_id": "43656",
+    "order": 97
+  },
+  {
+    "storyId": 11333,
+    "name": "man driving a car in road with fog in field",
+    "clip_id": "34478",
+    "order": 98
+  },
+  {
+    "storyId": 11782,
+    "name": "man walking in dark dense woods",
+    "clip_id": "44418",
+    "order": 99
+  },
+  {
+    "storyId": 11866,
+    "name": "small young buffalo walking in green field near buffaloes ",
+    "clip_id": "46320",
+    "order": 100
+  },
+  {
+    "storyId": 18723,
+    "name": "Desert, Sand, Women, Outdoor",
+    "clip_id": "209000",
+    "order": 101
+  },
+  {
+    "storyId": 11629,
+    "name": "woman holding scarf above head in forest",
+    "clip_id": "40191",
+    "order": 102
+  },
+  {
+    "storyId": 11629,
+    "name": "woman holding and waving white scarf while walking in forest",
+    "clip_id": "40189",
+    "order": 103
+  },
+  {
+    "storyId": 20091,
+    "name": "Split, Timelapse, Town, City",
+    "clip_id": "247559",
+    "order": 104
+  },
+  {
+    "storyId": 11629,
+    "name": "woman walking while waving white scarf in forest",
+    "clip_id": "40183",
+    "order": 105
+  },
+  {
+    "storyId": 11332,
+    "name": "horses standing in field on windy day",
+    "clip_id": "34443",
+    "order": 106
+  },
+  {
+    "storyId": 11782,
+    "name": "man walking on dead tree log with mist",
+    "clip_id": "44403",
+    "order": 107
+  },
+  {
+    "storyId": 20091,
+    "name": "Split, Town, Timelapse, City",
+    "clip_id": "247557",
+    "order": 108
+  },
+  {
+    "storyId": 11629,
+    "name": "woman holding scarf on head and walking in forest",
+    "clip_id": "40187",
+    "order": 109
+  },
+  {
+    "storyId": 18723,
+    "name": "Desert, Sand, Women, Outdoor",
+    "clip_id": "208998",
+    "order": 110
+  },
+  {
+    "storyId": 18723,
+    "name": "Desert, Sand, Women, Outdoor",
+    "clip_id": "209013",
+    "order": 111
+  },
+  {
+    "storyId": 18723,
+    "name": "Desert, Sand, Women, Outdoor",
+    "clip_id": "208999",
+    "order": 112
+  },
+  {
+    "storyId": 24983,
+    "name": "Man, Wandering, Jungle, Barefoot",
+    "clip_id": "401390",
+    "order": 113
+  },
+  {
+    "storyId": 11333,
+    "name": "man driving through lake in the wilderness in clear day",
+    "clip_id": "34484",
+    "order": 114
+  },
+  {
+    "storyId": 20091,
+    "name": "Town, Timelapse, Split, Croatia",
+    "clip_id": "247556",
+    "order": 115
+  },
+  {
+    "storyId": 18723,
+    "name": "Desert, Sand, Women, Outdoor",
+    "clip_id": "209012",
+    "order": 116
+  },
+  {
+    "storyId": 18723,
+    "name": "Desert, Sand, Outdoor, Wandering",
+    "clip_id": "209006",
+    "order": 117
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375559",
+    "order": 118
+  },
+  {
+    "storyId": 11480,
+    "name": "man walking and standing in doorway in Middle East",
+    "clip_id": "37197",
+    "order": 119
+  },
+  {
+    "storyId": 11839,
+    "name": "people watching the horizon in mountain cliff",
+    "clip_id": "45622",
+    "order": 120
+  },
+  {
+    "storyId": 20091,
+    "name": "Palm-Tree, Timelapse, Sky, Clouds",
+    "clip_id": "247553",
+    "order": 121
+  },
+  {
+    "storyId": 18723,
+    "name": "Desert, Sand, Women, Outdoor",
+    "clip_id": "208997",
+    "order": 122
+  },
+  {
+    "storyId": 11751,
+    "name": "man riding a bicycle down a hill in desert on bright day aerial",
+    "clip_id": "43652",
+    "order": 123
+  },
+  {
+    "storyId": 18723,
+    "name": "Desert, Sand, Women, Outdoor",
+    "clip_id": "208996",
+    "order": 124
+  },
+  {
+    "storyId": 11686,
+    "name": "sheeps eatig grass on hill surrounded by mountains",
+    "clip_id": "41470",
+    "order": 125
+  },
+  {
+    "storyId": 18723,
+    "name": "Desert, Sand, Outdoor, Wandering",
+    "clip_id": "209008",
+    "order": 126
+  },
+  {
+    "storyId": 18483,
+    "name": "Girl, Young, Wandering, Snowy",
+    "clip_id": "202443",
+    "order": 127
+  },
+  {
+    "storyId": 18679,
+    "name": "Women, Wandering, Vineyard, Tour",
+    "clip_id": "207403",
+    "order": 128
+  },
+  {
+    "storyId": 11629,
+    "name": "woman waving scarf and walking in forest",
+    "clip_id": "40188",
+    "order": 129
+  },
+  {
+    "storyId": 18723,
+    "name": "Desert, Sand, Women, Outdoor",
+    "clip_id": "209003",
+    "order": 130
+  },
+  {
+    "storyId": 18723,
+    "name": "Desert, Sand, Women, Outdoor",
+    "clip_id": "209002",
+    "order": 131
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375593",
+    "order": 132
+  },
+  {
+    "storyId": 18723,
+    "name": "Desert, Sand, Women, Outdoor",
+    "clip_id": "209001",
+    "order": 133
+  },
+  {
+    "storyId": 28284,
+    "name": "Man, Photographer, Camera, Park",
+    "clip_id": "504254",
+    "order": 134
+  },
+  {
+    "storyId": 28284,
+    "name": "Man, Photographer, Camera, Park",
+    "clip_id": "504256",
+    "order": 135
+  },
+  {
+    "storyId": 20091,
+    "name": "Split, Town, Timelapse, City",
+    "clip_id": "247560",
+    "order": 136
+  },
+  {
+    "storyId": 28284,
+    "name": "Man, Photographer, Camera, Park",
+    "clip_id": "504251",
+    "order": 137
+  },
+  {
+    "storyId": 28284,
+    "name": "Man, Photographer, Camera, Park",
+    "clip_id": "504245",
+    "order": 138
+  },
+  {
+    "storyId": 18723,
+    "name": "Desert, Sand, Women, Outdoor",
+    "clip_id": "209004",
+    "order": 139
+  },
+  {
+    "storyId": 28284,
+    "name": "Man, Photographer, Camera, Park",
+    "clip_id": "504250",
+    "order": 140
+  },
+  {
+    "storyId": 28284,
+    "name": "Man, Photographer, Camera, Park",
+    "clip_id": "504249",
+    "order": 141
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375591",
+    "order": 142
+  },
+  {
+    "storyId": 11884,
+    "name": "woman riding in a car with her head out of the window ",
+    "clip_id": "46510",
+    "order": 143
+  },
+  {
+    "storyId": 11751,
+    "name": "man riding a bike down a hill on bright day aerial",
+    "clip_id": "43653",
+    "order": 144
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375565",
+    "order": 145
+  },
+  {
+    "storyId": 11751,
+    "name": "man riding bicycle on a hill in desert on bright day aerial",
+    "clip_id": "43650",
+    "order": 146
+  },
+  {
+    "storyId": 11629,
+    "name": "woman turning and walking holding scarf in forest",
+    "clip_id": "40186",
+    "order": 147
+  },
+  {
+    "storyId": 27117,
+    "name": "Woman, Happy, Tulip, Field",
+    "clip_id": "468793",
+    "order": 148
+  },
+  {
+    "storyId": 11555,
+    "name": "young woman walking in a poppy field in bright day",
+    "clip_id": "38656",
+    "order": 149
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Lava Field, Misty Landscape",
+    "clip_id": "375605",
+    "order": 150
+  },
+  {
+    "storyId": 18723,
+    "name": "Desert, Sand, Outdoor, Wandering",
+    "clip_id": "209005",
+    "order": 151
+  },
+  {
+    "storyId": 18723,
+    "name": "Desert, Sand, Outdoor, Wandering",
+    "clip_id": "209010",
+    "order": 152
+  },
+  {
+    "storyId": 11751,
+    "name": "man riding a bicycle on a hill in desert on bright day aerial",
+    "clip_id": "43651",
+    "order": 153
+  },
+  {
+    "storyId": 18679,
+    "name": "Man, Wandering, Vineyard, Tour",
+    "clip_id": "207508",
+    "order": 154
+  },
+  {
+    "storyId": 28284,
+    "name": "Man, Photographer, Camera, Park",
+    "clip_id": "504247",
+    "order": 155
+  },
+  {
+    "storyId": 27117,
+    "name": "Woman, Wandering, Happy, Field",
+    "clip_id": "468772",
+    "order": 156
+  },
+  {
+    "storyId": 27117,
+    "name": "Woman, Smiling, Summer Hat, Flowers",
+    "clip_id": "468786",
+    "order": 157
+  },
+  {
+    "storyId": 18723,
+    "name": "Desert, Sand, Outdoor, Wandering",
+    "clip_id": "209009",
+    "order": 158
+  },
+  {
+    "storyId": 28284,
+    "name": "Man, Photographer, Camera, Park",
+    "clip_id": "504244",
+    "order": 159
+  },
+  {
+    "storyId": 18723,
+    "name": "Desert, Sand, Outdoor, Wandering",
+    "clip_id": "209007",
+    "order": 160
+  },
+  {
+    "storyId": 27385,
+    "name": "Woman, Tourist, Wandering, Petra",
+    "clip_id": "476120",
+    "order": 161
+  },
+  {
+    "storyId": 18723,
+    "name": "Desert, Sand, Outdoor, Wandering",
+    "clip_id": "209011",
+    "order": 162
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375558",
+    "order": 163
+  },
+  {
+    "storyId": 28284,
+    "name": "Man, Photographer, Camera, Park",
+    "clip_id": "504246",
+    "order": 164
+  },
+  {
+    "storyId": 27117,
+    "name": "Woman, Happy, Field, Flowers",
+    "clip_id": "468792",
+    "order": 165
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375567",
+    "order": 166
+  },
+  {
+    "storyId": 24983,
+    "name": "Barefoot, Walknig, Wandering, Jungle",
+    "clip_id": "401380",
+    "order": 167
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375560",
+    "order": 168
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375594",
+    "order": 169
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Lava Field",
+    "clip_id": "375616",
+    "order": 170
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375590",
+    "order": 171
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375592",
+    "order": 172
+  },
+  {
+    "storyId": 26160,
+    "name": "Woman, Walking, Beach, Shore",
+    "clip_id": "438094",
+    "order": 173
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375548",
+    "order": 174
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375557",
+    "order": 175
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375600",
+    "order": 176
+  },
+  {
+    "storyId": 26160,
+    "name": "Older, Woman, Walking, Beach",
+    "clip_id": "438118",
+    "order": 177
+  },
+  {
+    "storyId": 24983,
+    "name": "Man, Wandering, Jungle, Barefoot",
+    "clip_id": "401387",
+    "order": 178
+  },
+  {
+    "storyId": 24983,
+    "name": "Man, Wandering, Jungle, Walknig",
+    "clip_id": "401388",
+    "order": 179
+  },
+  {
+    "storyId": 26160,
+    "name": "Older, Woman, Walking, Beach",
+    "clip_id": "438092",
+    "order": 180
+  },
+  {
+    "storyId": 24983,
+    "name": "Man, Wandering, Jungle, Barefoot",
+    "clip_id": "401379",
+    "order": 181
+  },
+  {
+    "storyId": 26160,
+    "name": "Woman, Walking, Beach, Dunes",
+    "clip_id": "438082",
+    "order": 182
+  },
+  {
+    "storyId": 17221,
+    "name": "Man Morocco Travel Tourism Market Colors",
+    "clip_id": "163139",
+    "order": 183
+  },
+  {
+    "storyId": 27117,
+    "name": "Woman, Walking, Happy, Flowers",
+    "clip_id": "468787",
+    "order": 184
+  },
+  {
+    "storyId": 27420,
+    "name": "Woman, Masca, Village, Tenerife",
+    "clip_id": "476932",
+    "order": 185
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Lava Field",
+    "clip_id": "375602",
+    "order": 186
+  },
+  {
+    "storyId": 26160,
+    "name": "Older, Woman, Walking, Beach",
+    "clip_id": "438081",
+    "order": 187
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375549",
+    "order": 188
+  },
+  {
+    "storyId": 24983,
+    "name": "Man, Wandering, Rocks, Touring",
+    "clip_id": "401411",
+    "order": 189
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375568",
+    "order": 190
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375571",
+    "order": 191
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375599",
+    "order": 192
+  },
+  {
+    "storyId": 24983,
+    "name": "Trees, Jungle, Man, Wandering",
+    "clip_id": "401386",
+    "order": 193
+  },
+  {
+    "storyId": 26160,
+    "name": "Woman, Walking, Beach, Shore",
+    "clip_id": "438083",
+    "order": 194
+  },
+  {
+    "storyId": 24983,
+    "name": "Man, Wandering, Jungle, Walknig",
+    "clip_id": "401409",
+    "order": 195
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375563",
+    "order": 196
+  },
+  {
+    "storyId": 28072,
+    "name": "Anaga National Park, Woman, Wandering, Tenerife",
+    "clip_id": "497985",
+    "order": 197
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Lava Field, Misty Landscape",
+    "clip_id": "375604",
+    "order": 198
+  },
+  {
+    "storyId": 17221,
+    "name": "Man Morocco Travel Tourism Market Colors City",
+    "clip_id": "163141",
+    "order": 199
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375601",
+    "order": 200
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375569",
+    "order": 201
+  },
+  {
+    "storyId": 17221,
+    "name": "Man Morocco Travel Tourism",
+    "clip_id": "163138",
+    "order": 202
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375555",
+    "order": 203
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375550",
+    "order": 204
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375562",
+    "order": 205
+  },
+  {
+    "storyId": 16265,
+    "name": "sun shining through the trees on a man with a guitar on his back",
+    "clip_id": "136111",
+    "order": 206
+  },
+  {
+    "storyId": 24983,
+    "name": "Man, Wandering, Jungle, Barefoot",
+    "clip_id": "401436",
+    "order": 207
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375597",
+    "order": 208
+  },
+  {
+    "storyId": 24983,
+    "name": "Man, Running, Barefoot, Jungle",
+    "clip_id": "401389",
+    "order": 209
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375561",
+    "order": 210
+  },
+  {
+    "storyId": 26160,
+    "name": "Older, Woman, Walking, Beach",
+    "clip_id": "438093",
+    "order": 211
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375556",
+    "order": 212
+  },
+  {
+    "storyId": 16265,
+    "name": "man looking around at the forest ",
+    "clip_id": "136112",
+    "order": 213
+  },
+  {
+    "storyId": 16265,
+    "name": "man walking in the forest with a guitar on his back ",
+    "clip_id": "136115",
+    "order": 214
+  },
+  {
+    "storyId": 16265,
+    "name": "man playing music on a guitar  outside",
+    "clip_id": "136137",
+    "order": 215
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375553",
+    "order": 216
+  },
+  {
+    "storyId": 16265,
+    "name": "man walking into a dense forest with a guitar on his back ",
+    "clip_id": "136147",
+    "order": 217
+  },
+  {
+    "storyId": 13691,
+    "name": "small bird walks on top of a wall next to water",
+    "clip_id": "76095",
+    "order": 218
+  },
+  {
+    "storyId": 16265,
+    "name": "man walking alone in the forest ",
+    "clip_id": "136125",
+    "order": 219
+  },
+  {
+    "storyId": 16265,
+    "name": "man standing and looking at the trees in the woods while the sun is shining through the trees ",
+    "clip_id": "136114",
+    "order": 220
+  },
+  {
+    "storyId": 16265,
+    "name": "man walking into the forest with his guitar slung around his back",
+    "clip_id": "136117",
+    "order": 221
+  },
+  {
+    "storyId": 16265,
+    "name": "man standing in the forest with his guitar on his back ",
+    "clip_id": "136050",
+    "order": 222
+  },
+  {
+    "storyId": 16265,
+    "name": "man playing on a red guitar outside ",
+    "clip_id": "136356",
+    "order": 223
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375582",
+    "order": 224
+  },
+  {
+    "storyId": 24983,
+    "name": "Man, Wandering, Jungle, Barefoot",
+    "clip_id": "401385",
+    "order": 225
+  },
+  {
+    "storyId": 26160,
+    "name": "Older, Woman, Walking, Beach",
+    "clip_id": "438080",
+    "order": 226
+  },
+  {
+    "storyId": 16265,
+    "name": "man walking inside of the forest alone ",
+    "clip_id": "136124",
+    "order": 227
+  },
+  {
+    "storyId": 24983,
+    "name": "Man, Wandering, Jungle, Touring",
+    "clip_id": "401415",
+    "order": 228
+  },
+  {
+    "storyId": 16265,
+    "name": "man walking by trees in a thick forest while carrying a guitar ",
+    "clip_id": "136382",
+    "order": 229
+  },
+  {
+    "storyId": 16265,
+    "name": "man playing music on his guitar outside ",
+    "clip_id": "136136",
+    "order": 230
+  },
+  {
+    "storyId": 24983,
+    "name": "Man, Running, Barefoot, Jungle",
+    "clip_id": "401434",
+    "order": 231
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375564",
+    "order": 232
+  },
+  {
+    "storyId": 16265,
+    "name": "man walking into the forest by himself while holding a guitar",
+    "clip_id": "136142",
+    "order": 233
+  },
+  {
+    "storyId": 16265,
+    "name": "sun shining through the forest trees and onto a man walking with a guitar on his back ",
+    "clip_id": "136153",
+    "order": 234
+  },
+  {
+    "storyId": 16265,
+    "name": "man standing in front of the woods with a guitar on his back while the sun shines through the trees ",
+    "clip_id": "136146",
+    "order": 235
+  },
+  {
+    "storyId": 16265,
+    "name": "man standing and looking at the forest ",
+    "clip_id": "136113",
+    "order": 236
+  },
+  {
+    "storyId": 16265,
+    "name": "light shining through the trees by a man with a guitar ",
+    "clip_id": "136109",
+    "order": 237
+  },
+  {
+    "storyId": 26160,
+    "name": "Woman, Walking, Beach, Dunes",
+    "clip_id": "438117",
+    "order": 238
+  },
+  {
+    "storyId": 26160,
+    "name": "Woman, Walking, Beach, Shore",
+    "clip_id": "438107",
+    "order": 239
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375551",
+    "order": 240
+  },
+  {
+    "storyId": 26160,
+    "name": "Woman, Walking, Beach, Dunes",
+    "clip_id": "438120",
+    "order": 241
+  },
+  {
+    "storyId": 24983,
+    "name": "Man, Wandering, Jungle, Walknig",
+    "clip_id": "401427",
+    "order": 242
+  },
+  {
+    "storyId": 16265,
+    "name": "man standing in the middle of the forest with his guitar on his back ",
+    "clip_id": "136118",
+    "order": 243
+  },
+  {
+    "storyId": 16265,
+    "name": "man standing in front of trees in the woods with his guitar ",
+    "clip_id": "136121",
+    "order": 244
+  },
+  {
+    "storyId": 16265,
+    "name": "man walking alone in the forest with his guitar on a strap ",
+    "clip_id": "136379",
+    "order": 245
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375566",
+    "order": 246
+  },
+  {
+    "storyId": 26160,
+    "name": "Woman, Walking, Beach, Dunes",
+    "clip_id": "438119",
+    "order": 247
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375573",
+    "order": 248
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375617",
+    "order": 249
+  },
+  {
+    "storyId": 16265,
+    "name": "man standing on the forest floor with a guitar on his back ",
+    "clip_id": "136110",
+    "order": 250
+  },
+  {
+    "storyId": 16265,
+    "name": "man walking into a thick forest with his guitar on his back",
+    "clip_id": "136151",
+    "order": 251
+  },
+  {
+    "storyId": 16265,
+    "name": "trees in a thick forest",
+    "clip_id": "136372",
+    "order": 252
+  },
+  {
+    "storyId": 16265,
+    "name": "man looking at the trees in a forest while holding a guitar on his back ",
+    "clip_id": "136144",
+    "order": 253
+  },
+  {
+    "storyId": 16265,
+    "name": "man alone in the woods with a guitar on his back ",
+    "clip_id": "136380",
+    "order": 254
+  },
+  {
+    "storyId": 16265,
+    "name": "man looking into the woods and starting to walk ",
+    "clip_id": "136145",
+    "order": 255
+  },
+  {
+    "storyId": 16265,
+    "name": "man starting to walk into a forest with a guitar on his back while the sun is shining through the trees ",
+    "clip_id": "136150",
+    "order": 256
+  },
+  {
+    "storyId": 16265,
+    "name": "man walking alone in the woods while carrying his guitar on his back  ",
+    "clip_id": "136381",
+    "order": 257
+  },
+  {
+    "storyId": 16265,
+    "name": "man holding a guitar by the headstock outside ",
+    "clip_id": "136140",
+    "order": 258
+  },
+  {
+    "storyId": 16265,
+    "name": "man playing a guitar alone outside ",
+    "clip_id": "136222",
+    "order": 259
+  },
+  {
+    "storyId": 16265,
+    "name": "man walking and looking around the thick forest with a guitar on his back  ",
+    "clip_id": "136384",
+    "order": 260
+  },
+  {
+    "storyId": 16265,
+    "name": "man standing alone by trees in the forest ",
+    "clip_id": "136126",
+    "order": 261
+  },
+  {
+    "storyId": 16265,
+    "name": "man holding the headstock of a guitar outside ",
+    "clip_id": "136139",
+    "order": 262
+  },
+  {
+    "storyId": 24983,
+    "name": "Man, Wandering, Jungle, Barefoot",
+    "clip_id": "401406",
+    "order": 263
+  },
+  {
+    "storyId": 16265,
+    "name": "man playing on his guitar in the middle of the forest",
+    "clip_id": "136130",
+    "order": 264
+  },
+  {
+    "storyId": 16265,
+    "name": "man strumming on a guitar outside",
+    "clip_id": "136133",
+    "order": 265
+  },
+  {
+    "storyId": 16265,
+    "name": "sun shining through the trees and onto a man with a guitar on his back ",
+    "clip_id": "136152",
+    "order": 266
+  },
+  {
+    "storyId": 16265,
+    "name": "man walking alone in the forest while carrying a red guitar",
+    "clip_id": "136383",
+    "order": 267
+  },
+  {
+    "storyId": 16265,
+    "name": "man playing his guitar alone in the forest",
+    "clip_id": "136135",
+    "order": 268
+  },
+  {
+    "storyId": 16265,
+    "name": "man standing in the forest with a guitar ",
+    "clip_id": "136048",
+    "order": 269
+  },
+  {
+    "storyId": 16265,
+    "name": "man strumming on his guitar outside ",
+    "clip_id": "136132",
+    "order": 270
+  },
+  {
+    "storyId": 16265,
+    "name": "man playing music in the forest with his guitar ",
+    "clip_id": "136128",
+    "order": 271
+  },
+  {
+    "storyId": 16265,
+    "name": "man with a guitar strapped to his back walking through the forest ",
+    "clip_id": "136374",
+    "order": 272
+  },
+  {
+    "storyId": 16265,
+    "name": "man standing and looking at the forest with his guitar on his back ",
+    "clip_id": "136049",
+    "order": 273
+  },
+  {
+    "storyId": 16265,
+    "name": "man looking at the trees in the forest while standing with a guitar on his back ",
+    "clip_id": "136051",
+    "order": 274
+  },
+  {
+    "storyId": 16265,
+    "name": "man walking by himself in the forest with his guitar",
+    "clip_id": "136141",
+    "order": 275
+  },
+  {
+    "storyId": 16265,
+    "name": "man playing on a red guitar",
+    "clip_id": "136355",
+    "order": 276
+  },
+  {
+    "storyId": 16265,
+    "name": "man walking into a thick forest with a guitar around his back ",
+    "clip_id": "136148",
+    "order": 277
+  },
+  {
+    "storyId": 24983,
+    "name": "Tree Trunk, Change Focus, Man, Wandering",
+    "clip_id": "401394",
+    "order": 278
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375578",
+    "order": 279
+  },
+  {
+    "storyId": 16265,
+    "name": "man playing by himself on a guitar in the forest",
+    "clip_id": "136138",
+    "order": 280
+  },
+  {
+    "storyId": 16265,
+    "name": "man walking into a thick forest with a guitar on his back",
+    "clip_id": "136376",
+    "order": 281
+  },
+  {
+    "storyId": 26160,
+    "name": "Woman, Walking, Swamp, Wandering",
+    "clip_id": "438075",
+    "order": 282
+  },
+  {
+    "storyId": 24983,
+    "name": "Man, Wandering, Jungle, Barefoot",
+    "clip_id": "401407",
+    "order": 283
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375577",
+    "order": 284
+  },
+  {
+    "storyId": 16265,
+    "name": "man walking next to trees in the forest while wearing a guitar on his back",
+    "clip_id": "136370",
+    "order": 285
+  },
+  {
+    "storyId": 16265,
+    "name": "man strumming a guitar outside ",
+    "clip_id": "136221",
+    "order": 286
+  },
+  {
+    "storyId": 16265,
+    "name": "man playing his guitar outside",
+    "clip_id": "136352",
+    "order": 287
+  },
+  {
+    "storyId": 16265,
+    "name": "sunlight shining off a man playing the guitar in the forest ",
+    "clip_id": "136220",
+    "order": 288
+  },
+  {
+    "storyId": 16265,
+    "name": "man walking alone in the forest with a guitar on his back",
+    "clip_id": "136375",
+    "order": 289
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375598",
+    "order": 290
+  },
+  {
+    "storyId": 16265,
+    "name": "man beginning to walk into a thick forest with a guitar on his back ",
+    "clip_id": "136149",
+    "order": 291
+  },
+  {
+    "storyId": 16265,
+    "name": "man playing music on his guitar alone in the forest",
+    "clip_id": "136349",
+    "order": 292
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375595",
+    "order": 293
+  },
+  {
+    "storyId": 24085,
+    "name": "Traveller, Man, Misty Landscape, Wandering",
+    "clip_id": "375596",
+    "order": 294
+  },
+  {
+    "storyId": 16265,
+    "name": "man holding a guitar and looking at his phone ",
+    "clip_id": "136364",
+    "order": 295
+  },
+  {
+    "storyId": 16265,
+    "name": "man standing alone by the forest with a guitar on his back ",
+    "clip_id": "136143",
+    "order": 296
+  },
+  {
+    "storyId": 16265,
+    "name": "man walking and looking at trees in the forest with a guitar on his back",
+    "clip_id": "136377",
+    "order": 297
+  },
+  {
+    "storyId": 16265,
+    "name": "man standing with a guitar in the woods ",
+    "clip_id": "136123",
+    "order": 298
+  },
+  {
+    "storyId": 16265,
+    "name": "man playing the guitar next to a tree",
+    "clip_id": "136361",
+    "order": 299
+  },
+  {
+    "storyId": 16265,
+    "name": "man playing his guitar in nature",
+    "clip_id": "136351",
+    "order": 300
+  },
+  {
+    "storyId": 16265,
+    "name": "man playing the guitar while alone in the forest ",
+    "clip_id": "136350",
+    "order": 301
+  },
+  {
+    "storyId": 16265,
+    "name": "man focusing while playing the guitar",
+    "clip_id": "136348",
+    "order": 302
+  },
+  {
+    "storyId": 16265,
+    "name": "man holding a guitar on his lap while looking at his phone",
+    "clip_id": "136366",
+    "order": 303
+  },
+  {
+    "storyId": 16265,
+    "name": "man concentrating while he plays the guitar outside",
+    "clip_id": "136346",
+    "order": 304
+  },
+  {
+    "storyId": 16265,
+    "name": "man standing in front of trees in the forest with his guitar ",
+    "clip_id": "136120",
+    "order": 305
+  },
+  {
+    "storyId": 16265,
+    "name": "man standing in the middle of the woods with his guitar ",
+    "clip_id": "136119",
+    "order": 306
+  },
+  {
+    "storyId": 16265,
+    "name": "man standing in the forest and looking at the trees and growth ",
+    "clip_id": "136122",
+    "order": 307
+  },
+  {
+    "storyId": 16265,
+    "name": "man looking at his guitar while he is playing ",
+    "clip_id": "136219",
+    "order": 308
+  },
+  {
+    "storyId": 16265,
+    "name": "man walking through the woods next to trees while wearing his guitar on his back ",
+    "clip_id": "136378",
+    "order": 309
+  },
+  {
+    "storyId": 24983,
+    "name": "Rock, Jungle, Man, Wandering",
+    "clip_id": "401408",
+    "order": 310
+  },
+  {
+    "storyId": 24983,
+    "name": "Man, Wandering, Jungle, Trail",
+    "clip_id": "401381",
+    "order": 311
+  },
+  {
+    "storyId": 16265,
+    "name": "man playing on his guitar in the forest ",
+    "clip_id": "136129",
+    "order": 312
+  },
+  {
+    "storyId": 16265,
+    "name": "man walking by trees in the forest with a guitar on his back",
+    "clip_id": "136371",
+    "order": 313
+  },
+  {
+    "storyId": 16265,
+    "name": "man concentrating while he is playing the guitar by trees ",
+    "clip_id": "136347",
+    "order": 314
+  },
+  {
+    "storyId": 16265,
+    "name": "man with a guitar on his back walking in the thick woods ",
+    "clip_id": "136373",
+    "order": 315
+  },
+  {
+    "storyId": 24983,
+    "name": "Man, Wandering, Jungle, Barefoot",
+    "clip_id": "401382",
+    "order": 316
+  },
+  {
+    "storyId": 16265,
+    "name": "man playing on a guitar and looking up",
+    "clip_id": "136357",
+    "order": 317
+  },
+  {
+    "storyId": 26160,
+    "name": "Woman, Walking, Beach, Dunes",
+    "clip_id": "438078",
+    "order": 318
+  },
+  {
+    "storyId": 27420,
+    "name": "Houses, Mountains, Walking, Wandering",
+    "clip_id": "476964",
+    "order": 319
+  },
+  {
+    "storyId": 24983,
+    "name": "Man, Wandering, Jungle, Palm Trees",
+    "clip_id": "401392",
+    "order": 320
+  },
+  {
+    "storyId": 24983,
+    "name": "Man, Wandering, Jungle, Walknig",
+    "clip_id": "401393",
+    "order": 321
+  },
+  {
+    "storyId": 24983,
+    "name": "Man, Wandering, Jungle, Barefoot",
+    "clip_id": "401383",
+    "order": 322
+  },
+  {
+    "storyId": 24983,
+    "name": "Man, Wandering, Jungle, Barefoot",
+    "clip_id": "401391",
+    "order": 323
+  },
+  {
+    "storyId": 11483,
+    "name": "Manhattan Bridge and New York City skyline timelapse",
+    "clip_id": "37241",
+    "order": 324
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Metro, Station, Walking",
+    "clip_id": "287440",
+    "order": 325
+  },
+  {
+    "storyId": 15682,
+    "name": "cars on bridges in the city aerial ",
+    "clip_id": "121385",
+    "order": 326
+  },
+  {
+    "storyId": 11483,
+    "name": "timelapse of New York City skyline during rush hour",
+    "clip_id": "37242",
+    "order": 327
+  },
+  {
+    "storyId": 12099,
+    "name": "clouds over a city timelapse",
+    "clip_id": "48971",
+    "order": 328
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Mobile, Talking, City",
+    "clip_id": "287388",
+    "order": 329
+  },
+  {
+    "storyId": 21890,
+    "name": "City, Cityscape, Buildings, Skyscrapers",
+    "clip_id": "306335",
+    "order": 330
+  },
+  {
+    "storyId": 11669,
+    "name": "woman with white scarf viewing city across river at sunset",
+    "clip_id": "40612",
+    "order": 331
+  },
+  {
+    "storyId": 21893,
+    "name": "City, Aerial, Business Area, Hyperlapses",
+    "clip_id": "306378",
+    "order": 332
+  },
+  {
+    "storyId": 11790,
+    "name": "cars driving in city streets",
+    "clip_id": "44519",
+    "order": 333
+  },
+  {
+    "storyId": 17560,
+    "name": "woman walking on a high rise balcony with a cup of coffee",
+    "clip_id": "172433",
+    "order": 334
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Businesswoman, Standing, Looking",
+    "clip_id": "287311",
+    "order": 335
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Mobile, Talking, City",
+    "clip_id": "287288",
+    "order": 336
+  },
+  {
+    "storyId": 17984,
+    "name": "City, Harbor, Scenic, Megalopolis",
+    "clip_id": "184506",
+    "order": 337
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Metro, Station, Waiting",
+    "clip_id": "287414",
+    "order": 338
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Walking, City, Sun",
+    "clip_id": "287306",
+    "order": 339
+  },
+  {
+    "storyId": 18997,
+    "name": "city along the water at night aerial ",
+    "clip_id": "136158",
+    "order": 340
+  },
+  {
+    "storyId": 11989,
+    "name": "Colosseum surrounded by buildings in bright day",
+    "clip_id": "47598",
+    "order": 341
+  },
+  {
+    "storyId": 21893,
+    "name": "City, Aerial, Business Area, Hyperlapses",
+    "clip_id": "306384",
+    "order": 342
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Metro, Traveling, Mobile",
+    "clip_id": "287417",
+    "order": 343
+  },
+  {
+    "storyId": 11989,
+    "name": "aerial shot zooming on tower roof in city",
+    "clip_id": "47601",
+    "order": 344
+  },
+  {
+    "storyId": 22517,
+    "name": "Man, Young, Buildings, Sunset",
+    "clip_id": "327024",
+    "order": 345
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Metro, Traveling, City",
+    "clip_id": "287422",
+    "order": 346
+  },
+  {
+    "storyId": 17560,
+    "name": "man walking to a window in a high rise office",
+    "clip_id": "172500",
+    "order": 347
+  },
+  {
+    "storyId": 12061,
+    "name": "alleyways between the residential buildings in a poor part of town",
+    "clip_id": "48301",
+    "order": 348
+  },
+  {
+    "storyId": 13838,
+    "name": "sun rising over the busy city timelapse",
+    "clip_id": "79527",
+    "order": 349
+  },
+  {
+    "storyId": 11732,
+    "name": "time lapse of tall buildings seen from below",
+    "clip_id": "43101",
+    "order": 350
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Metro, Traveling, Mobile",
+    "clip_id": "287418",
+    "order": 351
+  },
+  {
+    "storyId": 22517,
+    "name": "Parkour, Running, Somersault, Parking Lot",
+    "clip_id": "326978",
+    "order": 352
+  },
+  {
+    "storyId": 23139,
+    "name": "Man, Homeless, Walking, City",
+    "clip_id": "345788",
+    "order": 353
+  },
+  {
+    "storyId": 17560,
+    "name": "business people leaving a meeting",
+    "clip_id": "172485",
+    "order": 354
+  },
+  {
+    "storyId": 17560,
+    "name": "businessman talking on a phone on a high rise balcony",
+    "clip_id": "172441",
+    "order": 355
+  },
+  {
+    "storyId": 12547,
+    "name": "man riding bicycle through city square and scaring pigeons",
+    "clip_id": "57197",
+    "order": 356
+  },
+  {
+    "storyId": 12603,
+    "name": "lit up city street at sunset aerial",
+    "clip_id": "57890",
+    "order": 357
+  },
+  {
+    "storyId": 12344,
+    "name": "Sun shining on horizon behind city",
+    "clip_id": "53851",
+    "order": 358
+  },
+  {
+    "storyId": 22517,
+    "name": "Free Runner, Buildings, City Lights, Standing",
+    "clip_id": "326991",
+    "order": 359
+  },
+  {
+    "storyId": 22517,
+    "name": "Man, Cityscape, Hood, Buildings",
+    "clip_id": "326983",
+    "order": 360
+  },
+  {
+    "storyId": 17890,
+    "name": "buildings in the city aerial ",
+    "clip_id": "180727",
+    "order": 361
+  },
+  {
+    "storyId": 19423,
+    "name": "Drive, Timelapse, City, Outdoor",
+    "clip_id": "229289",
+    "order": 362
+  },
+  {
+    "storyId": 20383,
+    "name": "Man, Walking, City, Bag",
+    "clip_id": "256607",
+    "order": 363
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Walking, City, Pavement",
+    "clip_id": "287294",
+    "order": 364
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Metro, City, Traveling",
+    "clip_id": "287428",
+    "order": 365
+  },
+  {
+    "storyId": 17560,
+    "name": "man opening a laptop computer during a business meeting",
+    "clip_id": "172445",
+    "order": 366
+  },
+  {
+    "storyId": 17560,
+    "name": "business people bowing while departing from meeting",
+    "clip_id": "172483",
+    "order": 367
+  },
+  {
+    "storyId": 21275,
+    "name": "Buildings, City, Sunset, Office Buildings",
+    "clip_id": "285246",
+    "order": 368
+  },
+  {
+    "storyId": 17560,
+    "name": "man in a suit looking straight at the camera",
+    "clip_id": "172379",
+    "order": 369
+  },
+  {
+    "storyId": 11989,
+    "name": "large city with white buildings extending to the horizon",
+    "clip_id": "47596",
+    "order": 370
+  },
+  {
+    "storyId": 21893,
+    "name": "City, Aerial, Business Area, Hyperlapses",
+    "clip_id": "306382",
+    "order": 371
+  },
+  {
+    "storyId": 22517,
+    "name": "Parkour, Jumping, City, Building",
+    "clip_id": "326963",
+    "order": 372
+  },
+  {
+    "storyId": 12523,
+    "name": "Muslim Woman in the city looking at the camera",
+    "clip_id": "56943",
+    "order": 373
+  },
+  {
+    "storyId": 21337,
+    "name": "Business, Woman, Walking, City",
+    "clip_id": "287372",
+    "order": 374
+  },
+  {
+    "storyId": 21890,
+    "name": "City, Cityscape, Buildings, Skyscrapers",
+    "clip_id": "306336",
+    "order": 375
+  },
+  {
+    "storyId": 11607,
+    "name": "woman photographer in short denim dress kneels on the ground to get a shot",
+    "clip_id": "39699",
+    "order": 376
+  },
+  {
+    "storyId": 11268,
+    "name": "city landscape with rivers flowing through",
+    "clip_id": "32755",
+    "order": 377
+  },
+  {
+    "storyId": 17560,
+    "name": "business people meeting while sitting at a table with a laptop computer",
+    "clip_id": "172389",
+    "order": 378
+  },
+  {
+    "storyId": 11607,
+    "name": "woman sits on a rattling bus going through a brightly lit city",
+    "clip_id": "39690",
+    "order": 379
+  },
+  {
+    "storyId": 18395,
+    "name": "Excited, Man, Walking, City",
+    "clip_id": "200111",
+    "order": 380
+  },
+  {
+    "storyId": 22517,
+    "name": "City, Buildings, Standing, Ledge",
+    "clip_id": "327002",
+    "order": 381
+  },
+  {
+    "storyId": 12440,
+    "name": "city seen through apartment windows",
+    "clip_id": "55802",
+    "order": 382
+  },
+  {
+    "storyId": 13577,
+    "name": "traffic and billboards at Times Square timelapse",
+    "clip_id": "73580",
+    "order": 383
+  },
+  {
+    "storyId": 21355,
+    "name": "Woman, Lying, Bed, Laptop",
+    "clip_id": "288285",
+    "order": 384
+  },
+  {
+    "storyId": 22517,
+    "name": "Man, Young, Standing, Buildings",
+    "clip_id": "327000",
+    "order": 385
+  },
+  {
+    "storyId": 20270,
+    "name": "Dancer, Man, City, Urban",
+    "clip_id": "250728",
+    "order": 386
+  },
+  {
+    "storyId": 22517,
+    "name": "Parkour, Jumping, City, Building",
+    "clip_id": "326965",
+    "order": 387
+  },
+  {
+    "storyId": 11330,
+    "name": "woman writing on table in coffee shop through window",
+    "clip_id": "34422",
+    "order": 388
+  },
+  {
+    "storyId": 11268,
+    "name": "river flows in between city on cloudy day",
+    "clip_id": "32756",
+    "order": 389
+  },
+  {
+    "storyId": 17985,
+    "name": "City, Urban, Bridge, Pedestrians",
+    "clip_id": "184540",
+    "order": 390
+  },
+  {
+    "storyId": 20510,
+    "name": "City, Rome, Italy, Landscape",
+    "clip_id": "261362",
+    "order": 391
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Mobile, Talking, City",
+    "clip_id": "287312",
+    "order": 392
+  },
+  {
+    "storyId": 22517,
+    "name": "Free Runner, Parkour, Jumping, Buildings",
+    "clip_id": "326956",
+    "order": 393
+  },
+  {
+    "storyId": 12406,
+    "name": "New York City skyline and bridges from inside a car",
+    "clip_id": "55104",
+    "order": 394
+  },
+  {
+    "storyId": 18127,
+    "name": "Woman, City, New York, New York City",
+    "clip_id": "190108",
+    "order": 395
+  },
+  {
+    "storyId": 18332,
+    "name": "Sicily, Volcano, City, Town",
+    "clip_id": "197706",
+    "order": 396
+  },
+  {
+    "storyId": 17560,
+    "name": "business people walking to a table in a high rise office",
+    "clip_id": "172400",
+    "order": 397
+  },
+  {
+    "storyId": 19423,
+    "name": "Drive, Timelapse, City, Outdoor",
+    "clip_id": "229288",
+    "order": 398
+  },
+  {
+    "storyId": 13205,
+    "name": "New York City skyline at sunset",
+    "clip_id": "66900",
+    "order": 399
+  },
+  {
+    "storyId": 18513,
+    "name": "Guy, Young, Handsome, Bristles",
+    "clip_id": "203050",
+    "order": 400
+  },
+  {
+    "storyId": 11989,
+    "name": "landscape of white city with river and bridges",
+    "clip_id": "47595",
+    "order": 401
+  },
+  {
+    "storyId": 17560,
+    "name": "two business people meeting while standing in front of a window",
+    "clip_id": "172390",
+    "order": 402
+  },
+  {
+    "storyId": 17560,
+    "name": "businessman talking on a phone on a high rise balcony",
+    "clip_id": "172437",
+    "order": 403
+  },
+  {
+    "storyId": 22083,
+    "name": "City, Train Ride, Railway, Travel",
+    "clip_id": "313307",
+    "order": 404
+  },
+  {
+    "storyId": 13593,
+    "name": "sunset and lights in the city timelapse",
+    "clip_id": "73844",
+    "order": 405
+  },
+  {
+    "storyId": 12603,
+    "name": "tall building in city aerial",
+    "clip_id": "57889",
+    "order": 406
+  },
+  {
+    "storyId": 17560,
+    "name": "business people walking to a table in a high rise office",
+    "clip_id": "172401",
+    "order": 407
+  },
+  {
+    "storyId": 18442,
+    "name": "Woman, Man, Window, Looking",
+    "clip_id": "201069",
+    "order": 408
+  },
+  {
+    "storyId": 27261,
+    "name": "Crowded, Walking, Pedestrians, Tokyo",
+    "clip_id": "459408",
+    "order": 409
+  },
+  {
+    "storyId": 11286,
+    "name": "black smoke rising near factory by chimneys timelapse",
+    "clip_id": "33306",
+    "order": 410
+  },
+  {
+    "storyId": 17560,
+    "name": "man in a suit looking out a window in a high rise a city",
+    "clip_id": "172382",
+    "order": 411
+  },
+  {
+    "storyId": 22517,
+    "name": "City, Parkour, Jumping, Buildings",
+    "clip_id": "326969",
+    "order": 412
+  },
+  {
+    "storyId": 11286,
+    "name": "black smoke rising near factory",
+    "clip_id": "33281",
+    "order": 413
+  },
+  {
+    "storyId": 11784,
+    "name": "Friends overlooking city at night",
+    "clip_id": "44448",
+    "order": 414
+  },
+  {
+    "storyId": 22707,
+    "name": "City, Buildings, River, Skyscrapers",
+    "clip_id": "333097",
+    "order": 415
+  },
+  {
+    "storyId": 21139,
+    "name": "Delivery Man, Bicycle, Smartphone, Helmet",
+    "clip_id": "280237",
+    "order": 416
+  },
+  {
+    "storyId": 12456,
+    "name": "Man, Running, Urban, Town",
+    "clip_id": "56017",
+    "order": 417
+  },
+  {
+    "storyId": 12697,
+    "name": "woman taking pictures of skyscrapers at night by the harbor rack-focus",
+    "clip_id": "59107",
+    "order": 418
+  },
+  {
+    "storyId": 22517,
+    "name": "Free Runner, Parkour, Jumping, Buildings",
+    "clip_id": "326998",
+    "order": 419
+  },
+  {
+    "storyId": 11633,
+    "name": "driving through tunnel with little lights on ceiling ",
+    "clip_id": "40249",
+    "order": 420
+  },
+  {
+    "storyId": 22517,
+    "name": "Young, Man, Building, Windows",
+    "clip_id": "327020",
+    "order": 421
+  },
+  {
+    "storyId": 21890,
+    "name": "City, Cityscape, Buildings, Skyscrapers",
+    "clip_id": "306337",
+    "order": 422
+  },
+  {
+    "storyId": 17560,
+    "name": "man in a suit sitting at a table and using a laptop computer while a woman is sitting down next to him",
+    "clip_id": "172387",
+    "order": 423
+  },
+  {
+    "storyId": 21890,
+    "name": "City, Cityscape, Buildings, Skyscrapers",
+    "clip_id": "306339",
+    "order": 424
+  },
+  {
+    "storyId": 19423,
+    "name": "Drive, Timelapse, City, Outdoor",
+    "clip_id": "229285",
+    "order": 425
+  },
+  {
+    "storyId": 23139,
+    "name": "Man, Homeless, Poverty, Food",
+    "clip_id": "345777",
+    "order": 426
+  },
+  {
+    "storyId": 12414,
+    "name": "glass buildings in front of bridge aerial",
+    "clip_id": "55425",
+    "order": 427
+  },
+  {
+    "storyId": 19035,
+    "name": "Businesswoman, City, Confident, Woman",
+    "clip_id": "217718",
+    "order": 428
+  },
+  {
+    "storyId": 11827,
+    "name": "man inspecting a camera while wearing headphones",
+    "clip_id": "45359",
+    "order": 429
+  },
+  {
+    "storyId": 26348,
+    "name": "Woman, Walking, Sidewalk, City",
+    "clip_id": "444402",
+    "order": 430
+  },
+  {
+    "storyId": 17560,
+    "name": "two women talking on a high rise balcony",
+    "clip_id": "172436",
+    "order": 431
+  },
+  {
+    "storyId": 21574,
+    "name": "City, Buildings, Drone, City Lights",
+    "clip_id": "295374",
+    "order": 432
+  },
+  {
+    "storyId": 18303,
+    "name": "Istanbul, Turkey, Aerial, Drone",
+    "clip_id": "196831",
+    "order": 433
+  },
+  {
+    "storyId": 21827,
+    "name": "Toronto, City, Cityscape, Lake",
+    "clip_id": "303855",
+    "order": 434
+  },
+  {
+    "storyId": 12697,
+    "name": "young woman standing by the harbor smiling while she sends texts on her phone",
+    "clip_id": "59103",
+    "order": 435
+  },
+  {
+    "storyId": 17560,
+    "name": "man in a suit in a high rise office looking straight at the camera ",
+    "clip_id": "172492",
+    "order": 436
+  },
+  {
+    "storyId": 13550,
+    "name": "cars stuck in traffic by the city aerial",
+    "clip_id": "72967",
+    "order": 437
+  },
+  {
+    "storyId": 12344,
+    "name": "View of bridge crossing aqueduct in city in the evening",
+    "clip_id": "53849",
+    "order": 438
+  },
+  {
+    "storyId": 26827,
+    "name": "Woman, Standing, Crosswalk, Tokyo",
+    "clip_id": "459373",
+    "order": 439
+  },
+  {
+    "storyId": 11607,
+    "name": "woman on public transport looks through a window at a passing city street",
+    "clip_id": "39691",
+    "order": 440
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Walking, City, Sun",
+    "clip_id": "287305",
+    "order": 441
+  },
+  {
+    "storyId": 21269,
+    "name": "Man, Skateboarding, Skateboard, Cobbled Street",
+    "clip_id": "285127",
+    "order": 442
+  },
+  {
+    "storyId": 21827,
+    "name": "Toronto, City, Cityscape, Lake",
+    "clip_id": "303794",
+    "order": 443
+  },
+  {
+    "storyId": 22517,
+    "name": "Parkour, Somersault, Jumping, Buildings",
+    "clip_id": "327005",
+    "order": 444
+  },
+  {
+    "storyId": 17560,
+    "name": "man in a suit in a high rise office looking straight at the camera ",
+    "clip_id": "172489",
+    "order": 445
+  },
+  {
+    "storyId": 19064,
+    "name": "Criminal, Ski-Mask, Escape, Running",
+    "clip_id": "218264",
+    "order": 446
+  },
+  {
+    "storyId": 20383,
+    "name": "Man, Walking, Black-Man, City",
+    "clip_id": "256736",
+    "order": 447
+  },
+  {
+    "storyId": 13597,
+    "name": "moon going down and sun rising over New York City bridges timelapse",
+    "clip_id": "73935",
+    "order": 448
+  },
+  {
+    "storyId": 21286,
+    "name": "Teenagers, Walking, Bridge, Buildings",
+    "clip_id": "285829",
+    "order": 449
+  },
+  {
+    "storyId": 12997,
+    "name": "man looking straight at camera and throws drink ground in city",
+    "clip_id": "63119",
+    "order": 450
+  },
+  {
+    "storyId": 20742,
+    "name": "Ambulance, City, First-Aid, Medical-Staff",
+    "clip_id": "268580",
+    "order": 451
+  },
+  {
+    "storyId": 21779,
+    "name": "City, Cityscape, Los Angeles, Skyscrapers",
+    "clip_id": "301295",
+    "order": 452
+  },
+  {
+    "storyId": 13415,
+    "name": "store and buildings in a city",
+    "clip_id": "69824",
+    "order": 453
+  },
+  {
+    "storyId": 17529,
+    "name": "Aerial, Building, Church, City",
+    "clip_id": "171316",
+    "order": 454
+  },
+  {
+    "storyId": 13575,
+    "name": "cars traveling on a bridge timelapse",
+    "clip_id": "73555",
+    "order": 455
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Walking, City, Looking",
+    "clip_id": "287298",
+    "order": 456
+  },
+  {
+    "storyId": 16964,
+    "name": "Hyperlapse, City, Traffic, Buildings",
+    "clip_id": "210140",
+    "order": 457
+  },
+  {
+    "storyId": 11052,
+    "name": "pedestrian light changing from red to green during the day in a city",
+    "clip_id": "23511",
+    "order": 458
+  },
+  {
+    "storyId": 21402,
+    "name": "Black Man, Walking, City Buildings, Carrying",
+    "clip_id": "289831",
+    "order": 459
+  },
+  {
+    "storyId": 18368,
+    "name": "Man, Portrait, Caucasian, City",
+    "clip_id": "199457",
+    "order": 460
+  },
+  {
+    "storyId": 17560,
+    "name": "man in a suit in a high rise office looking straight at the camera ",
+    "clip_id": "172491",
+    "order": 461
+  },
+  {
+    "storyId": 11790,
+    "name": "man scrolling on cellphone in city next to a road",
+    "clip_id": "44509",
+    "order": 462
+  },
+  {
+    "storyId": 17560,
+    "name": "people waving at a tablet display during a business meeting",
+    "clip_id": "172477",
+    "order": 463
+  },
+  {
+    "storyId": 23139,
+    "name": "Man, Homeless, Poverty, Eating",
+    "clip_id": "345822",
+    "order": 464
+  },
+  {
+    "storyId": 17560,
+    "name": "woman and a man in a business meeting",
+    "clip_id": "172410",
+    "order": 465
+  },
+  {
+    "storyId": 11827,
+    "name": "man standing on a suspension bridge and looking straight at the camera",
+    "clip_id": "45380",
+    "order": 466
+  },
+  {
+    "storyId": 13593,
+    "name": "boats sailing over the water by Manhattan timelapse",
+    "clip_id": "73842",
+    "order": 467
+  },
+  {
+    "storyId": 12603,
+    "name": "lit up city buildings and tall tower aerial",
+    "clip_id": "57891",
+    "order": 468
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Metro, City, Traveling",
+    "clip_id": "287474",
+    "order": 469
+  },
+  {
+    "storyId": 28021,
+    "name": "Berlin, Tv Tower, Cityscape, Vfx",
+    "clip_id": "496570",
+    "order": 470
+  },
+  {
+    "storyId": 21402,
+    "name": "Musician, Resting, River, City",
+    "clip_id": "289827",
+    "order": 471
+  },
+  {
+    "storyId": 11268,
+    "name": "woman sitting on graffiti wall overlooking city with rivers on cloudy day",
+    "clip_id": "32759",
+    "order": 472
+  },
+  {
+    "storyId": 24716,
+    "name": "Hand, Window, City, Winter",
+    "clip_id": "393046",
+    "order": 473
+  },
+  {
+    "storyId": 10806,
+    "name": "City lights bokeh",
+    "clip_id": "16931",
+    "order": 474
+  },
+  {
+    "storyId": 14541,
+    "name": "man and a woman photographing from inside a car driving in a city street",
+    "clip_id": "93881",
+    "order": 475
+  },
+  {
+    "storyId": 22083,
+    "name": "Railroad, Yurikamome Train, Train Ride, City",
+    "clip_id": "313290",
+    "order": 476
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Standing, Waiting, Looking",
+    "clip_id": "287289",
+    "order": 477
+  },
+  {
+    "storyId": 11286,
+    "name": "black smoke rising from fire near trees on cloudy day",
+    "clip_id": "33275",
+    "order": 478
+  },
+  {
+    "storyId": 22209,
+    "name": "Man, Homeless, Smoking, Street",
+    "clip_id": "317653",
+    "order": 479
+  },
+  {
+    "storyId": 19035,
+    "name": "Buildings, Business, Businesswoman, City",
+    "clip_id": "217717",
+    "order": 480
+  },
+  {
+    "storyId": 23139,
+    "name": "Man, Homeless, Poverty, City",
+    "clip_id": "345810",
+    "order": 481
+  },
+  {
+    "storyId": 13786,
+    "name": "sunset and lights over the city timelapse ",
+    "clip_id": "78288",
+    "order": 482
+  },
+  {
+    "storyId": 18127,
+    "name": "Woman, Public Transportation, Train, Phone",
+    "clip_id": "190105",
+    "order": 483
+  },
+  {
+    "storyId": 17000,
+    "name": "Architecture, City, Skyline, Sunset",
+    "clip_id": "157971",
+    "order": 484
+  },
+  {
+    "storyId": 14150,
+    "name": "woman walking down a city alley",
+    "clip_id": "85745",
+    "order": 485
+  },
+  {
+    "storyId": 13304,
+    "name": "trucks and cars driving in the city next to buildings aerial",
+    "clip_id": "68581",
+    "order": 486
+  },
+  {
+    "storyId": 11989,
+    "name": "cars driving on a bridge above green river in city",
+    "clip_id": "47597",
+    "order": 487
+  },
+  {
+    "storyId": 12446,
+    "name": "Eiffel Tower full view aerial panning up",
+    "clip_id": "55879",
+    "order": 488
+  },
+  {
+    "storyId": 12389,
+    "name": "train on bridge over waterway near city aerial",
+    "clip_id": "54647",
+    "order": 489
+  },
+  {
+    "storyId": 18127,
+    "name": "Woman, City, New York, New York City",
+    "clip_id": "190104",
+    "order": 490
+  },
+  {
+    "storyId": 22209,
+    "name": "Man, Homeless, Beggar, Dog",
+    "clip_id": "317622",
+    "order": 491
+  },
+  {
+    "storyId": 21779,
+    "name": "City, Cityscape, Los Angeles, Skyscrapers",
+    "clip_id": "301294",
+    "order": 492
+  },
+  {
+    "storyId": 13741,
+    "name": "woman taking selfies in city at night bokeh",
+    "clip_id": "77236",
+    "order": 493
+  },
+  {
+    "storyId": 17560,
+    "name": "business people greeting each other by bowing",
+    "clip_id": "172396",
+    "order": 494
+  },
+  {
+    "storyId": 17985,
+    "name": "City, Bridge, Cars, Traffic",
+    "clip_id": "184526",
+    "order": 495
+  },
+  {
+    "storyId": 28021,
+    "name": "Bridge, Traffic, Infographics, Digital",
+    "clip_id": "496539",
+    "order": 496
+  },
+  {
+    "storyId": 18127,
+    "name": "Woman, City, New York, New York City",
+    "clip_id": "190124",
+    "order": 497
+  },
+  {
+    "storyId": 12697,
+    "name": "young woman by the harbor listening to music on her cellphone",
+    "clip_id": "59095",
+    "order": 498
+  },
+  {
+    "storyId": 13288,
+    "name": "colorful lights with blue background bokeh",
+    "clip_id": "68338",
+    "order": 499
+  },
+  {
+    "storyId": 11610,
+    "name": "birds-eye view of buildings on overcast day ",
+    "clip_id": "39755",
+    "order": 500
+  },
+  {
+    "storyId": 16181,
+    "name": "bridges over a river in a city aerial",
+    "clip_id": "133168",
+    "order": 501
+  },
+  {
+    "storyId": 25423,
+    "name": "Frankfurt, Metropolis, Dark, City Lights",
+    "clip_id": "414299",
+    "order": 502
+  },
+  {
+    "storyId": 12603,
+    "name": "lit up city tower aerial",
+    "clip_id": "57892",
+    "order": 503
+  },
+  {
+    "storyId": 22517,
+    "name": "Free Runner, Parkour, Jumping, Buildings",
+    "clip_id": "326955",
+    "order": 504
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Metro, Arriving, Waiting",
+    "clip_id": "287458",
+    "order": 505
+  },
+  {
+    "storyId": 11286,
+    "name": "black smoke and fire rising near industrial chimneys",
+    "clip_id": "33272",
+    "order": 506
+  },
+  {
+    "storyId": 21402,
+    "name": "Musician, City Plaza, Walking, Carrying",
+    "clip_id": "289834",
+    "order": 507
+  },
+  {
+    "storyId": 17842,
+    "name": "road lit up by car headlights at night",
+    "clip_id": "179447",
+    "order": 508
+  },
+  {
+    "storyId": 17560,
+    "name": "two business people talking near a table in a high rise office",
+    "clip_id": "172486",
+    "order": 509
+  },
+  {
+    "storyId": 12697,
+    "name": "young woman listening to music by the harbor rack-focus ",
+    "clip_id": "59099",
+    "order": 510
+  },
+  {
+    "storyId": 10806,
+    "name": "Bokeh city lights",
+    "clip_id": "16932",
+    "order": 511
+  },
+  {
+    "storyId": 17560,
+    "name": "man in a suit in a high rise office looking straight at the camera ",
+    "clip_id": "172498",
+    "order": 512
+  },
+  {
+    "storyId": 18127,
+    "name": "Woman, City, New York, New York City",
+    "clip_id": "190109",
+    "order": 513
+  },
+  {
+    "storyId": 12061,
+    "name": "inner city traffic on busy urban road at night",
+    "clip_id": "48291",
+    "order": 514
+  },
+  {
+    "storyId": 12603,
+    "name": "tall building in city in Berlin Germany aerial",
+    "clip_id": "57879",
+    "order": 515
+  },
+  {
+    "storyId": 10806,
+    "name": "Blurry city lights",
+    "clip_id": "16933",
+    "order": 516
+  },
+  {
+    "storyId": 24744,
+    "name": "Street, Buildings, Tramway, Old City",
+    "clip_id": "394005",
+    "order": 517
+  },
+  {
+    "storyId": 23139,
+    "name": "Man, Homeless, Poverty, City",
+    "clip_id": "345784",
+    "order": 518
+  },
+  {
+    "storyId": 23139,
+    "name": "Man, Homeless, Sleeping, Streets",
+    "clip_id": "345818",
+    "order": 519
+  },
+  {
+    "storyId": 22517,
+    "name": "Man, Young, Standing, Ledge",
+    "clip_id": "326999",
+    "order": 520
+  },
+  {
+    "storyId": 10806,
+    "name": "Bokeh of city lights",
+    "clip_id": "16930",
+    "order": 521
+  },
+  {
+    "storyId": 14561,
+    "name": "woman running by the city's harbor ",
+    "clip_id": "94570",
+    "order": 522
+  },
+  {
+    "storyId": 17560,
+    "name": "man in a suit in a high rise office looking straight at the camera ",
+    "clip_id": "172497",
+    "order": 523
+  },
+  {
+    "storyId": 22517,
+    "name": "Young, Man, Walking, Buildings",
+    "clip_id": "327018",
+    "order": 524
+  },
+  {
+    "storyId": 11052,
+    "name": "cars driving by at night",
+    "clip_id": "23530",
+    "order": 525
+  },
+  {
+    "storyId": 24872,
+    "name": "Cityscape, Mexico City, Buildings, Dawn",
+    "clip_id": "398370",
+    "order": 526
+  },
+  {
+    "storyId": 26002,
+    "name": "Champs Elysees, Film, Paris, City",
+    "clip_id": "432674",
+    "order": 527
+  },
+  {
+    "storyId": 13198,
+    "name": "monument in a park in front of a city aerial",
+    "clip_id": "66740",
+    "order": 528
+  },
+  {
+    "storyId": 13205,
+    "name": "Brooklyn Bridge at night",
+    "clip_id": "66937",
+    "order": 529
+  },
+  {
+    "storyId": 21355,
+    "name": "Woman, Lying, Bed, Laptop",
+    "clip_id": "288283",
+    "order": 530
+  },
+  {
+    "storyId": 22083,
+    "name": "Railway, Yurikamome Train, Railroad, Tunnel",
+    "clip_id": "313288",
+    "order": 531
+  },
+  {
+    "storyId": 21570,
+    "name": "City, Drone, Buildings, Houses",
+    "clip_id": "295111",
+    "order": 532
+  },
+  {
+    "storyId": 23958,
+    "name": "City, Buildings, Drone, Metropolis",
+    "clip_id": "371263",
+    "order": 533
+  },
+  {
+    "storyId": 17560,
+    "name": "man talking during a business meeting meeting around a table in a high rise office",
+    "clip_id": "172423",
+    "order": 534
+  },
+  {
+    "storyId": 16514,
+    "name": "woman holding a sign stating \"I Am Capable\" on a city street",
+    "clip_id": "142514",
+    "order": 535
+  },
+  {
+    "storyId": 11609,
+    "name": "top view of sea next to city coastline on sunny day",
+    "clip_id": "39740",
+    "order": 536
+  },
+  {
+    "storyId": 12931,
+    "name": "Architecture, Skyscraper, Downtown, Nyc",
+    "clip_id": "61826",
+    "order": 537
+  },
+  {
+    "storyId": 15105,
+    "name": "newly wed couple on a motorcycle ",
+    "clip_id": "108730",
+    "order": 538
+  },
+  {
+    "storyId": 11286,
+    "name": "smoke rising from industrial factory",
+    "clip_id": "33313",
+    "order": 539
+  },
+  {
+    "storyId": 11286,
+    "name": "industrial factory on cloudy day",
+    "clip_id": "33312",
+    "order": 540
+  },
+  {
+    "storyId": 11033,
+    "name": "downtown in the city",
+    "clip_id": "22868",
+    "order": 541
+  },
+  {
+    "storyId": 17984,
+    "name": "Megalopolis, Kowloon, Bay, Hong Kong",
+    "clip_id": "184503",
+    "order": 542
+  },
+  {
+    "storyId": 11052,
+    "name": "abstract city lights ",
+    "clip_id": "23534",
+    "order": 543
+  },
+  {
+    "storyId": 11610,
+    "name": "top view of city by the water on overcast day",
+    "clip_id": "39757",
+    "order": 544
+  },
+  {
+    "storyId": 11669,
+    "name": "woman viewing city from across lake at sunset",
+    "clip_id": "40608",
+    "order": 545
+  },
+  {
+    "storyId": 15260,
+    "name": "man looking straight at the camera and turning away",
+    "clip_id": "111895",
+    "order": 546
+  },
+  {
+    "storyId": 17281,
+    "name": "clouds rolling by in a city during sunset timelapse",
+    "clip_id": "164337",
+    "order": 547
+  },
+  {
+    "storyId": 21570,
+    "name": "City, Drone, Usa, Buildings",
+    "clip_id": "295063",
+    "order": 548
+  },
+  {
+    "storyId": 17083,
+    "name": "City, Urban, Buildings, Offices",
+    "clip_id": "159695",
+    "order": 549
+  },
+  {
+    "storyId": 22208,
+    "name": "Homeless, Walking, Alone, Thinking",
+    "clip_id": "317582",
+    "order": 550
+  },
+  {
+    "storyId": 13288,
+    "name": "buildings with lights in city on cloudy evening",
+    "clip_id": "68339",
+    "order": 551
+  },
+  {
+    "storyId": 21139,
+    "name": "Delivery Man, Courier Bag, Bicycle, Street",
+    "clip_id": "280240",
+    "order": 552
+  },
+  {
+    "storyId": 23139,
+    "name": "Man, Homeless, Bagger, Poverty",
+    "clip_id": "345775",
+    "order": 553
+  },
+  {
+    "storyId": 21056,
+    "name": "Buildings, City, Stadium, Clouds",
+    "clip_id": "276711",
+    "order": 554
+  },
+  {
+    "storyId": 21355,
+    "name": "Woman, Lying, Bed, Laptop",
+    "clip_id": "288284",
+    "order": 555
+  },
+  {
+    "storyId": 18395,
+    "name": "Businessman, Texting, Smartphone, City",
+    "clip_id": "200101",
+    "order": 556
+  },
+  {
+    "storyId": 13415,
+    "name": "buildings in a dense city",
+    "clip_id": "69826",
+    "order": 557
+  },
+  {
+    "storyId": 12061,
+    "name": "driving through the city outskirts push bikes and motorbikes",
+    "clip_id": "48293",
+    "order": 558
+  },
+  {
+    "storyId": 12033,
+    "name": "people walking over crossing at traffic light in between cars timelapse",
+    "clip_id": "48001",
+    "order": 559
+  },
+  {
+    "storyId": 11561,
+    "name": "view of old city with new building in background ",
+    "clip_id": "38727",
+    "order": 560
+  },
+  {
+    "storyId": 11349,
+    "name": "silhouette of couple overlooking city",
+    "clip_id": "34810",
+    "order": 561
+  },
+  {
+    "storyId": 22517,
+    "name": "Parkour, Somersault, City Lights, Buildings",
+    "clip_id": "327008",
+    "order": 562
+  },
+  {
+    "storyId": 27349,
+    "name": "City, Kaleidoscope, Mirror, Dark",
+    "clip_id": "475039",
+    "order": 563
+  },
+  {
+    "storyId": 16065,
+    "name": "deserted intersection in a city",
+    "clip_id": "130003",
+    "order": 564
+  },
+  {
+    "storyId": 23147,
+    "name": "Looking, City Buildings, River, Tracksuit",
+    "clip_id": "346333",
+    "order": 565
+  },
+  {
+    "storyId": 13597,
+    "name": "traffic over New York City bridges timelapse",
+    "clip_id": "73936",
+    "order": 566
+  },
+  {
+    "storyId": 18081,
+    "name": "Berlin, Germany, Aerial, Alexander Platz",
+    "clip_id": "187963",
+    "order": 567
+  },
+  {
+    "storyId": 15717,
+    "name": "light traffic on a quiet commercial street",
+    "clip_id": "122349",
+    "order": 568
+  },
+  {
+    "storyId": 11044,
+    "name": "man with fire stick spinning at night",
+    "clip_id": "23250",
+    "order": 569
+  },
+  {
+    "storyId": 21173,
+    "name": "Walking, City Street, Raining, Downtown",
+    "clip_id": "282022",
+    "order": 570
+  },
+  {
+    "storyId": 13838,
+    "name": "sunset over the city traffic timelapse",
+    "clip_id": "79553",
+    "order": 571
+  },
+  {
+    "storyId": 11607,
+    "name": "passenger ferry waits at the terminus on the bay across from the city at night",
+    "clip_id": "39721",
+    "order": 572
+  },
+  {
+    "storyId": 22517,
+    "name": "Man, Young, Sitting, Buildings",
+    "clip_id": "326981",
+    "order": 573
+  },
+  {
+    "storyId": 18395,
+    "name": "Man, Smartphone, City, Coffee",
+    "clip_id": "200100",
+    "order": 574
+  },
+  {
+    "storyId": 21402,
+    "name": "City, Busker, Guitar, Carrying",
+    "clip_id": "289830",
+    "order": 575
+  },
+  {
+    "storyId": 13838,
+    "name": "cloud formations over the city timelapse",
+    "clip_id": "79554",
+    "order": 576
+  },
+  {
+    "storyId": 13198,
+    "name": "boats on a river while cars drive on a street in a city aerial",
+    "clip_id": "66702",
+    "order": 577
+  },
+  {
+    "storyId": 21269,
+    "name": "Activity, City, Cool, Man",
+    "clip_id": "285126",
+    "order": 578
+  },
+  {
+    "storyId": 13900,
+    "name": "taxis lining the road ",
+    "clip_id": "81054",
+    "order": 579
+  },
+  {
+    "storyId": 16933,
+    "name": "Woman, Young, Narrow-Street, Strolling",
+    "clip_id": "156044",
+    "order": 580
+  },
+  {
+    "storyId": 21172,
+    "name": "Cityscape, Fence, City, Grey",
+    "clip_id": "281983",
+    "order": 581
+  },
+  {
+    "storyId": 12406,
+    "name": "Shot of New York City skyline from inside a car",
+    "clip_id": "55108",
+    "order": 582
+  },
+  {
+    "storyId": 11349,
+    "name": "silhouette of hands holding each other in front of blurred lights",
+    "clip_id": "34809",
+    "order": 583
+  },
+  {
+    "storyId": 21776,
+    "name": "City Lights, Las Vegas, Hotel, Tourism",
+    "clip_id": "301190",
+    "order": 584
+  },
+  {
+    "storyId": 21574,
+    "name": "Buildings, City, Capitol, Drone",
+    "clip_id": "295352",
+    "order": 585
+  },
+  {
+    "storyId": 27717,
+    "name": "Miami, City, Hyperlapse, Ocean",
+    "clip_id": "485997",
+    "order": 586
+  },
+  {
+    "storyId": 13741,
+    "name": "woman scrolling on cellphone in front of lights bokeh",
+    "clip_id": "77243",
+    "order": 587
+  },
+  {
+    "storyId": 21139,
+    "name": "Delivery Man, Bicycle, Bridge, Graffiti",
+    "clip_id": "280323",
+    "order": 588
+  },
+  {
+    "storyId": 11330,
+    "name": "woman taking a selfie and sitting outside at cafe",
+    "clip_id": "34425",
+    "order": 589
+  },
+  {
+    "storyId": 17842,
+    "name": "road passing under a tunnel",
+    "clip_id": "179434",
+    "order": 590
+  },
+  {
+    "storyId": 21890,
+    "name": "City, Cityscape, Buildings, Mirror",
+    "clip_id": "306340",
+    "order": 591
+  },
+  {
+    "storyId": 11286,
+    "name": "black smoke rising by factory near chimneys",
+    "clip_id": "33305",
+    "order": 592
+  },
+  {
+    "storyId": 27717,
+    "name": "Miami, City, Hyperlapse, Ship",
+    "clip_id": "485998",
+    "order": 593
+  },
+  {
+    "storyId": 17985,
+    "name": "City, Urban, Bridge, Buildings",
+    "clip_id": "184534",
+    "order": 594
+  },
+  {
+    "storyId": 20739,
+    "name": "Dubai, Traffic, Cityscape, Skyscrapers",
+    "clip_id": "268395",
+    "order": 595
+  },
+  {
+    "storyId": 14623,
+    "name": "cars, traffic and lights at night hyperlapse aerial",
+    "clip_id": "96743",
+    "order": 596
+  },
+  {
+    "storyId": 25989,
+    "name": "Istanbul, Turkey, City, River",
+    "clip_id": "432421",
+    "order": 597
+  },
+  {
+    "storyId": 24206,
+    "name": "Moon, City Lights, Walking, Gazing",
+    "clip_id": "379657",
+    "order": 598
+  },
+  {
+    "storyId": 26562,
+    "name": "Fountain Of The Boat, Rome, City, Square Of Spain",
+    "clip_id": "451832",
+    "order": 599
+  },
+  {
+    "storyId": 17088,
+    "name": "Culver City, California, Los Angeles, Street",
+    "clip_id": "159809",
+    "order": 600
+  },
+  {
+    "storyId": 11827,
+    "name": "man with headphones and a smartphone walking while moving in rhythm",
+    "clip_id": "45363",
+    "order": 601
+  },
+  {
+    "storyId": 17842,
+    "name": "raised roads and an intersection ",
+    "clip_id": "179433",
+    "order": 602
+  },
+  {
+    "storyId": 13610,
+    "name": "water moving under a bridge by the city timelapse",
+    "clip_id": "74297",
+    "order": 603
+  },
+  {
+    "storyId": 21776,
+    "name": "City Lights, Las Vegas, Tourism, Hotel",
+    "clip_id": "301223",
+    "order": 604
+  },
+  {
+    "storyId": 12163,
+    "name": "Yacht floating in the sea on the edge of the city aerial",
+    "clip_id": "49733",
+    "order": 605
+  },
+  {
+    "storyId": 21782,
+    "name": "Coastal City, Vancouver, Cityscape, Aerial",
+    "clip_id": "294621",
+    "order": 606
+  },
+  {
+    "storyId": 14184,
+    "name": "traffic flowing through an intersection at night timelapse",
+    "clip_id": "86312",
+    "order": 607
+  },
+  {
+    "storyId": 26827,
+    "name": "Woman, Walking, Sidewalk, Tokyo",
+    "clip_id": "459363",
+    "order": 608
+  },
+  {
+    "storyId": 15931,
+    "name": "steel structure between two sky scrapers on a sunny day low angle",
+    "clip_id": "126940",
+    "order": 609
+  },
+  {
+    "storyId": 23139,
+    "name": "Man, Homeless, Poverty, City",
+    "clip_id": "345779",
+    "order": 610
+  },
+  {
+    "storyId": 13198,
+    "name": "park in the middle of a city aerial",
+    "clip_id": "66743",
+    "order": 611
+  },
+  {
+    "storyId": 17000,
+    "name": "Architecture, City, Skyline, Sunset",
+    "clip_id": "157970",
+    "order": 612
+  },
+  {
+    "storyId": 18997,
+    "name": "Hong Kong city lights and buildings aerial ",
+    "clip_id": "136986",
+    "order": 613
+  },
+  {
+    "storyId": 16902,
+    "name": "lit up roads in a city at dusk aerial",
+    "clip_id": "154905",
+    "order": 614
+  },
+  {
+    "storyId": 27472,
+    "name": "New York, City, Drone, Scenery",
+    "clip_id": "478619",
+    "order": 615
+  },
+  {
+    "storyId": 11052,
+    "name": "traffic light changing to green in front of trees in the wind on a road",
+    "clip_id": "23513",
+    "order": 616
+  },
+  {
+    "storyId": 19822,
+    "name": "Mask, Abstract, Man, City",
+    "clip_id": "240276",
+    "order": 617
+  },
+  {
+    "storyId": 19822,
+    "name": "Mask, Abstract, Man, City",
+    "clip_id": "240292",
+    "order": 618
+  },
+  {
+    "storyId": 21139,
+    "name": "Delivery Man, Bicycle, Street, Empty",
+    "clip_id": "280274",
+    "order": 619
+  },
+  {
+    "storyId": 21571,
+    "name": "Sunset, City, River, Buildings",
+    "clip_id": "295140",
+    "order": 620
+  },
+  {
+    "storyId": 13205,
+    "name": "West Tower of the Brooklyn Bridge",
+    "clip_id": "66925",
+    "order": 621
+  },
+  {
+    "storyId": 13205,
+    "name": "New York City skyline at night",
+    "clip_id": "66893",
+    "order": 622
+  },
+  {
+    "storyId": 11286,
+    "name": "black smoke and large flames behind trees on cloudy day",
+    "clip_id": "33310",
+    "order": 623
+  },
+  {
+    "storyId": 12061,
+    "name": "city in the evening with a white cloudy sky",
+    "clip_id": "48287",
+    "order": 624
+  },
+  {
+    "storyId": 28021,
+    "name": "Traffic, Top Shot, City, Junction",
+    "clip_id": "496518",
+    "order": 625
+  },
+  {
+    "storyId": 12440,
+    "name": "city seen through windows in an apartment",
+    "clip_id": "55811",
+    "order": 626
+  },
+  {
+    "storyId": 16036,
+    "name": "people and cars on the streets of New York City at night",
+    "clip_id": "129311",
+    "order": 627
+  },
+  {
+    "storyId": 17560,
+    "name": "man in a suit in a high rise office looking straight at the camera ",
+    "clip_id": "172493",
+    "order": 628
+  },
+  {
+    "storyId": 14561,
+    "name": "woman running at the harbor ",
+    "clip_id": "94566",
+    "order": 629
+  },
+  {
+    "storyId": 13566,
+    "name": "road leading into the city at sunset",
+    "clip_id": "73239",
+    "order": 630
+  },
+  {
+    "storyId": 18081,
+    "name": "Berlin, Germany, Aerial, Alexander Platz",
+    "clip_id": "187961",
+    "order": 631
+  },
+  {
+    "storyId": 24452,
+    "name": "Girls, Old City, Posing, Looking At Camera",
+    "clip_id": "384903",
+    "order": 632
+  },
+  {
+    "storyId": 12697,
+    "name": "young woman taking pictures with her cellphone by the harbor at night",
+    "clip_id": "59105",
+    "order": 633
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Walking, Stairs, Enter",
+    "clip_id": "287342",
+    "order": 634
+  },
+  {
+    "storyId": 11268,
+    "name": "blonde woman sitting on wall overlooking city with rivers",
+    "clip_id": "32758",
+    "order": 635
+  },
+  {
+    "storyId": 17068,
+    "name": "City, Urban, Skyscrapers, Harbor",
+    "clip_id": "159352",
+    "order": 636
+  },
+  {
+    "storyId": 19822,
+    "name": "Mask, Abstract, Man, City",
+    "clip_id": "240270",
+    "order": 637
+  },
+  {
+    "storyId": 18127,
+    "name": "Woman, City, New York, New York City",
+    "clip_id": "190110",
+    "order": 638
+  },
+  {
+    "storyId": 21779,
+    "name": "Lake, City, Park, Los Angeles",
+    "clip_id": "301269",
+    "order": 639
+  },
+  {
+    "storyId": 17985,
+    "name": "City, Urban, Skyscrapers, Buildings",
+    "clip_id": "184533",
+    "order": 640
+  },
+  {
+    "storyId": 22990,
+    "name": "City, Sky, Clouds, Buildings",
+    "clip_id": "341305",
+    "order": 641
+  },
+  {
+    "storyId": 15526,
+    "name": "man looking through a window with the reflection of buildings",
+    "clip_id": "117818",
+    "order": 642
+  },
+  {
+    "storyId": 18513,
+    "name": "Guy, Young, Handsome, Bristles",
+    "clip_id": "203051",
+    "order": 643
+  },
+  {
+    "storyId": 12881,
+    "name": "empty tables and chairs in courtyard in old city",
+    "clip_id": "61174",
+    "order": 644
+  },
+  {
+    "storyId": 11795,
+    "name": "View of ancient roman building through narrow street",
+    "clip_id": "44579",
+    "order": 645
+  },
+  {
+    "storyId": 12697,
+    "name": "woman taking pictures with her cellphone by the harbor rack-focus",
+    "clip_id": "59106",
+    "order": 646
+  },
+  {
+    "storyId": 17985,
+    "name": "City, Urban, Bridge, River",
+    "clip_id": "184531",
+    "order": 647
+  },
+  {
+    "storyId": 18202,
+    "name": "Antarctica, Antarctic, City, Village",
+    "clip_id": "193243",
+    "order": 648
+  },
+  {
+    "storyId": 17985,
+    "name": "City, Dusk, Scenry, Scenic",
+    "clip_id": "184516",
+    "order": 649
+  },
+  {
+    "storyId": 13304,
+    "name": "people walking at a crosswalk in the city ",
+    "clip_id": "68582",
+    "order": 650
+  },
+  {
+    "storyId": 26827,
+    "name": "Woman, Standing, Overpass, Road",
+    "clip_id": "459389",
+    "order": 651
+  },
+  {
+    "storyId": 21402,
+    "name": "Busker, Musician, Guitar, City",
+    "clip_id": "289873",
+    "order": 652
+  },
+  {
+    "storyId": 23166,
+    "name": "Highway, Taillights, City, Building Lights",
+    "clip_id": "302135",
+    "order": 653
+  },
+  {
+    "storyId": 27349,
+    "name": "City, Mirror, Cars, Buildings",
+    "clip_id": "475040",
+    "order": 654
+  },
+  {
+    "storyId": 11330,
+    "name": "woman drinking coffee and looking through window",
+    "clip_id": "34418",
+    "order": 655
+  },
+  {
+    "storyId": 12406,
+    "name": "construction inside the city ",
+    "clip_id": "55109",
+    "order": 656
+  },
+  {
+    "storyId": 21402,
+    "name": "Busker, Sidewalk, Alone, Footbridge",
+    "clip_id": "289916",
+    "order": 657
+  },
+  {
+    "storyId": 13936,
+    "name": "cars driving on superhighway by the city",
+    "clip_id": "81620",
+    "order": 658
+  },
+  {
+    "storyId": 22517,
+    "name": "City, Sunset, Man, Silhouette",
+    "clip_id": "327021",
+    "order": 659
+  },
+  {
+    "storyId": 22709,
+    "name": "Street, Traffic, Road, Buildings",
+    "clip_id": "333124",
+    "order": 660
+  },
+  {
+    "storyId": 23166,
+    "name": "City, Ocean, Coast, Honolulu",
+    "clip_id": "302719",
+    "order": 661
+  },
+  {
+    "storyId": 15526,
+    "name": "man looking at a church through balcony doors",
+    "clip_id": "117820",
+    "order": 662
+  },
+  {
+    "storyId": 21567,
+    "name": "Aerial, City, Cityscape, Clouds",
+    "clip_id": "295040",
+    "order": 663
+  },
+  {
+    "storyId": 13304,
+    "name": "clouds moving over a city timelapse",
+    "clip_id": "68584",
+    "order": 664
+  },
+  {
+    "storyId": 22517,
+    "name": "Handstand, City Lights, Cityscape, Buildings",
+    "clip_id": "327006",
+    "order": 665
+  },
+  {
+    "storyId": 13077,
+    "name": "vehicles driving on highway into city timelapse",
+    "clip_id": "64591",
+    "order": 666
+  },
+  {
+    "storyId": 12278,
+    "name": "boats sailing under bridge in city at dawn timelapse",
+    "clip_id": "52171",
+    "order": 667
+  },
+  {
+    "storyId": 11920,
+    "name": "man playing a cello while reading sheet music on a rooftop",
+    "clip_id": "46862",
+    "order": 668
+  },
+  {
+    "storyId": 13077,
+    "name": "vehicles driving into city timelapse",
+    "clip_id": "64590",
+    "order": 669
+  },
+  {
+    "storyId": 11286,
+    "name": "black smoke rising up from factory fire",
+    "clip_id": "33277",
+    "order": 670
+  },
+  {
+    "storyId": 13610,
+    "name": "sunrise over Manhattan timelapse",
+    "clip_id": "74299",
+    "order": 671
+  },
+  {
+    "storyId": 11784,
+    "name": "City with lake and mountains in the evening",
+    "clip_id": "44445",
+    "order": 672
+  },
+  {
+    "storyId": 21827,
+    "name": "Toronto, City, Cityscape, Buldings",
+    "clip_id": "303942",
+    "order": 673
+  },
+  {
+    "storyId": 26562,
+    "name": "Rome, Hyperlapse, Piazza Del Popolo, City",
+    "clip_id": "451833",
+    "order": 674
+  },
+  {
+    "storyId": 11827,
+    "name": "man looking around while standing on a bridge with a city skyline in the background",
+    "clip_id": "45375",
+    "order": 675
+  },
+  {
+    "storyId": 11330,
+    "name": "woman sitting at coffee table in cafe",
+    "clip_id": "34411",
+    "order": 676
+  },
+  {
+    "storyId": 22517,
+    "name": "Young, Man, Buildings, Bokeh",
+    "clip_id": "327011",
+    "order": 677
+  },
+  {
+    "storyId": 13426,
+    "name": "new York City skyline ",
+    "clip_id": "69947",
+    "order": 678
+  },
+  {
+    "storyId": 21531,
+    "name": "City, Buildings, Snowy Mountains, Town",
+    "clip_id": "293604",
+    "order": 679
+  },
+  {
+    "storyId": 15432,
+    "name": "man running fast in a dark room with florescent lights on the wall",
+    "clip_id": "115789",
+    "order": 680
+  },
+  {
+    "storyId": 14150,
+    "name": "Woman walking in a city looking over her shoulder",
+    "clip_id": "85742",
+    "order": 681
+  },
+  {
+    "storyId": 12272,
+    "name": "City of Prague seen from above",
+    "clip_id": "52079",
+    "order": 682
+  },
+  {
+    "storyId": 17232,
+    "name": "women looking directly at the camera outside",
+    "clip_id": "163384",
+    "order": 683
+  },
+  {
+    "storyId": 13198,
+    "name": "busy city streets next to buildings aerial",
+    "clip_id": "66744",
+    "order": 684
+  },
+  {
+    "storyId": 12365,
+    "name": "cars driving in streets in city aerial",
+    "clip_id": "54375",
+    "order": 685
+  },
+  {
+    "storyId": 17088,
+    "name": "Culver City, California, Los Angeles, Street",
+    "clip_id": "159814",
+    "order": 686
+  },
+  {
+    "storyId": 13198,
+    "name": "cars driving over a bridge and a river by a city aerial",
+    "clip_id": "66703",
+    "order": 687
+  },
+  {
+    "storyId": 26209,
+    "name": "Cars, Roads, Highway, Buildings",
+    "clip_id": "439649",
+    "order": 688
+  },
+  {
+    "storyId": 16059,
+    "name": "empty streets downtown in the city",
+    "clip_id": "129862",
+    "order": 689
+  },
+  {
+    "storyId": 26827,
+    "name": "Woman, Walking, Bridge, City",
+    "clip_id": "459349",
+    "order": 690
+  },
+  {
+    "storyId": 17560,
+    "name": "man in a suit in a high rise office looking straight at the camera ",
+    "clip_id": "172504",
+    "order": 691
+  },
+  {
+    "storyId": 21402,
+    "name": "Busker, Guitar Case, Sidewalk, City",
+    "clip_id": "289844",
+    "order": 692
+  },
+  {
+    "storyId": 19390,
+    "name": "Woman, Business, Confident, City",
+    "clip_id": "228334",
+    "order": 693
+  },
+  {
+    "storyId": 26209,
+    "name": "Highway, Cars, Roads, Railroad",
+    "clip_id": "440782",
+    "order": 694
+  },
+  {
+    "storyId": 11915,
+    "name": "Man overlooking city from roof top",
+    "clip_id": "46793",
+    "order": 695
+  },
+  {
+    "storyId": 19822,
+    "name": "Mask, Abstract, Man, City",
+    "clip_id": "240288",
+    "order": 696
+  },
+  {
+    "storyId": 21893,
+    "name": "City, Aerial, Business Area, Hyperlapses",
+    "clip_id": "306376",
+    "order": 697
+  },
+  {
+    "storyId": 14626,
+    "name": "sunrise over a city with smog aerial",
+    "clip_id": "96818",
+    "order": 698
+  },
+  {
+    "storyId": 17068,
+    "name": "City, Urban, Skyscrapers, Harbor",
+    "clip_id": "159337",
+    "order": 699
+  },
+  {
+    "storyId": 16896,
+    "name": "large buildings in the city aerial ",
+    "clip_id": "154644",
+    "order": 700
+  },
+  {
+    "storyId": 19035,
+    "name": "Businesswoman, City, Standing, Woman",
+    "clip_id": "217874",
+    "order": 701
+  },
+  {
+    "storyId": 17104,
+    "name": "Man, Office, Finance, City",
+    "clip_id": "160292",
+    "order": 702
+  },
+  {
+    "storyId": 11044,
+    "name": "fire dancer dancing at night",
+    "clip_id": "23252",
+    "order": 703
+  },
+  {
+    "storyId": 23958,
+    "name": "City, Buildings, Parks, Drone",
+    "clip_id": "371262",
+    "order": 704
+  },
+  {
+    "storyId": 18127,
+    "name": "Woman, City, New York, New York City",
+    "clip_id": "190127",
+    "order": 705
+  },
+  {
+    "storyId": 21827,
+    "name": "Toronto, City, Cityscape, Buldings",
+    "clip_id": "303944",
+    "order": 706
+  },
+  {
+    "storyId": 17529,
+    "name": "Aerial, Building, Church, City",
+    "clip_id": "171322",
+    "order": 707
+  },
+  {
+    "storyId": 17068,
+    "name": "Bridge, Port, Construction, City",
+    "clip_id": "159359",
+    "order": 708
+  },
+  {
+    "storyId": 11033,
+    "name": "skyscraper's in the city",
+    "clip_id": "22870",
+    "order": 709
+  },
+  {
+    "storyId": 14884,
+    "name": "Castle, Japan, Asia, Above",
+    "clip_id": "103702",
+    "order": 710
+  },
+  {
+    "storyId": 15778,
+    "name": "city along the coast aerial",
+    "clip_id": "123746",
+    "order": 711
+  },
+  {
+    "storyId": 15819,
+    "name": "empty street in the city",
+    "clip_id": "124698",
+    "order": 712
+  },
+  {
+    "storyId": 24714,
+    "name": "Scooter, Man, Phone, Buildings",
+    "clip_id": "392944",
+    "order": 713
+  },
+  {
+    "storyId": 23139,
+    "name": "Man, Homeless, Poverty, Eating",
+    "clip_id": "345824",
+    "order": 714
+  },
+  {
+    "storyId": 12603,
+    "name": "tall building in city at sunset aerial",
+    "clip_id": "57884",
+    "order": 715
+  },
+  {
+    "storyId": 27717,
+    "name": "Miami, City, Hyperlapse, Ocean",
+    "clip_id": "485994",
+    "order": 716
+  },
+  {
+    "storyId": 15432,
+    "name": "man playing soccer in a dark room with florescent lights on the wall ",
+    "clip_id": "115784",
+    "order": 717
+  },
+  {
+    "storyId": 12098,
+    "name": "Glass buildings in city on cloudy day from below",
+    "clip_id": "48961",
+    "order": 718
+  },
+  {
+    "storyId": 12523,
+    "name": "Muslim Woman taking a selfie in the city with her phone",
+    "clip_id": "56948",
+    "order": 719
+  },
+  {
+    "storyId": 13198,
+    "name": "river in between farms and a town aerial",
+    "clip_id": "66722",
+    "order": 720
+  },
+  {
+    "storyId": 11893,
+    "name": "Central Park and New York City at sunset aerial",
+    "clip_id": "46612",
+    "order": 721
+  },
+  {
+    "storyId": 27842,
+    "name": "Cab, Driver, Taxi, Man",
+    "clip_id": "490152",
+    "order": 722
+  },
+  {
+    "storyId": 14551,
+    "name": "people walking in the city streets timelapse ",
+    "clip_id": "94220",
+    "order": 723
+  },
+  {
+    "storyId": 12456,
+    "name": "Man, Running, Urban, Town",
+    "clip_id": "56013",
+    "order": 724
+  },
+  {
+    "storyId": 22517,
+    "name": "Parkour, Getting Ready, City, Buildings",
+    "clip_id": "326953",
+    "order": 725
+  },
+  {
+    "storyId": 16980,
+    "name": "Vintage, Film, Super-8, City",
+    "clip_id": "157576",
+    "order": 726
+  },
+  {
+    "storyId": 12033,
+    "name": "people walking on crossing and cars driving on road by traffic light timelapse",
+    "clip_id": "47999",
+    "order": 727
+  },
+  {
+    "storyId": 13838,
+    "name": "sunrise over the city timelapse ",
+    "clip_id": "79552",
+    "order": 728
+  },
+  {
+    "storyId": 13438,
+    "name": "clouds moving over city building seen through apartment window on stormy day",
+    "clip_id": "70234",
+    "order": 729
+  },
+  {
+    "storyId": 22931,
+    "name": "Street, Tram, City Lighting, Buildings",
+    "clip_id": "339471",
+    "order": 730
+  },
+  {
+    "storyId": 22517,
+    "name": "Free Runner, Jumping, Sitting, Ledge",
+    "clip_id": "326987",
+    "order": 731
+  },
+  {
+    "storyId": 25608,
+    "name": "Droneception, Mexico City, Compositing, Drone",
+    "clip_id": "419813",
+    "order": 732
+  },
+  {
+    "storyId": 21173,
+    "name": "Friends, Tying Hair, Fashion Model, Photoshoot",
+    "clip_id": "282045",
+    "order": 733
+  },
+  {
+    "storyId": 21827,
+    "name": "Toronto, City, Cityscape, Buldings",
+    "clip_id": "303861",
+    "order": 734
+  },
+  {
+    "storyId": 15432,
+    "name": "man running in a dark room with florescent lights on the wall",
+    "clip_id": "115788",
+    "order": 735
+  },
+  {
+    "storyId": 21139,
+    "name": "Delivery Man, City, Wet Sidewalk, Courier Bag",
+    "clip_id": "280230",
+    "order": 736
+  },
+  {
+    "storyId": 27717,
+    "name": "Miami, City, Hyperlapse, Ocean",
+    "clip_id": "486000",
+    "order": 737
+  },
+  {
+    "storyId": 22209,
+    "name": "Man, Homeless, Beggar, Dog",
+    "clip_id": "317616",
+    "order": 738
+  },
+  {
+    "storyId": 11286,
+    "name": "chimney and factory with smoke on cloudy day",
+    "clip_id": "33314",
+    "order": 739
+  },
+  {
+    "storyId": 21531,
+    "name": "Buildings, City, Snowy Mountains, Sea",
+    "clip_id": "293593",
+    "order": 740
+  },
+  {
+    "storyId": 19428,
+    "name": "Lights, City, Vehicles, Driving",
+    "clip_id": "229506",
+    "order": 741
+  },
+  {
+    "storyId": 13900,
+    "name": "people going up and down escalators timelapse",
+    "clip_id": "81046",
+    "order": 742
+  },
+  {
+    "storyId": 21779,
+    "name": "City, Cityscape, Los Angeles, Skyscrapers",
+    "clip_id": "301283",
+    "order": 743
+  },
+  {
+    "storyId": 13205,
+    "name": "sailboat sailing by buildings in New York at sunrise",
+    "clip_id": "66897",
+    "order": 744
+  },
+  {
+    "storyId": 22517,
+    "name": "Man, Young, Buildings, Walking",
+    "clip_id": "327023",
+    "order": 745
+  },
+  {
+    "storyId": 24802,
+    "name": "City Buildings, Skyscrapers, London, River",
+    "clip_id": "396248",
+    "order": 746
+  },
+  {
+    "storyId": 27167,
+    "name": "New York, City, Skyline, Hyperlapse",
+    "clip_id": "470069",
+    "order": 747
+  },
+  {
+    "storyId": 14172,
+    "name": "Woman looking straight into camera turning and walking away",
+    "clip_id": "86073",
+    "order": 748
+  },
+  {
+    "storyId": 18202,
+    "name": "Antarctica, Antarctic, City, Village",
+    "clip_id": "193236",
+    "order": 749
+  },
+  {
+    "storyId": 22517,
+    "name": "Parkour, Somersault, Jumping, Free Runner",
+    "clip_id": "327019",
+    "order": 750
+  },
+  {
+    "storyId": 23165,
+    "name": "Island, Mountain, City, Hawaii",
+    "clip_id": "302149",
+    "order": 751
+  },
+  {
+    "storyId": 13304,
+    "name": "cars and trucks driving along a highway next to buildings in the city aerial",
+    "clip_id": "68580",
+    "order": 752
+  },
+  {
+    "storyId": 24723,
+    "name": "Stadium, Soccer, Dark, Town",
+    "clip_id": "393430",
+    "order": 753
+  },
+  {
+    "storyId": 12414,
+    "name": "buildings with reflective glass in the city aerial",
+    "clip_id": "55426",
+    "order": 754
+  },
+  {
+    "storyId": 12603,
+    "name": "buildings and blocks in city aerial",
+    "clip_id": "57883",
+    "order": 755
+  },
+  {
+    "storyId": 14884,
+    "name": "Castle, Japan, Asia, Above",
+    "clip_id": "103700",
+    "order": 756
+  },
+  {
+    "storyId": 23139,
+    "name": "Man, Homeless, Poverty, City",
+    "clip_id": "345787",
+    "order": 757
+  },
+  {
+    "storyId": 19822,
+    "name": "Mask, Abstract, Man, City",
+    "clip_id": "240282",
+    "order": 758
+  },
+  {
+    "storyId": 18202,
+    "name": "Antarctica, Antarctic, City, Village",
+    "clip_id": "193240",
+    "order": 759
+  },
+  {
+    "storyId": 17083,
+    "name": "City, Urban, Buildings, Offices",
+    "clip_id": "159693",
+    "order": 760
+  },
+  {
+    "storyId": 14884,
+    "name": "Castle, Japan, Asia, Above",
+    "clip_id": "103701",
+    "order": 761
+  },
+  {
+    "storyId": 13824,
+    "name": "bridges going over the river surrounded by buildings aerial",
+    "clip_id": "79197",
+    "order": 762
+  },
+  {
+    "storyId": 17000,
+    "name": "Architecture, City, Skyline, Sunset",
+    "clip_id": "157976",
+    "order": 763
+  },
+  {
+    "storyId": 16540,
+    "name": "Woman, tongue, selfie, headphones",
+    "clip_id": "143315",
+    "order": 764
+  },
+  {
+    "storyId": 19448,
+    "name": "Buildings, City, Urban, Amsterdam",
+    "clip_id": "230359",
+    "order": 765
+  },
+  {
+    "storyId": 21286,
+    "name": "Teens, Young, City, Yellow Car",
+    "clip_id": "285833",
+    "order": 766
+  },
+  {
+    "storyId": 17060,
+    "name": "buildings in the city aerial ",
+    "clip_id": "159124",
+    "order": 767
+  },
+  {
+    "storyId": 17435,
+    "name": "trees near buildings in a city street",
+    "clip_id": "168230",
+    "order": 768
+  },
+  {
+    "storyId": 16502,
+    "name": "red flashing lights from emergency services ",
+    "clip_id": "142195",
+    "order": 769
+  },
+  {
+    "storyId": 19822,
+    "name": "Mask, Abstract, Man, City",
+    "clip_id": "240291",
+    "order": 770
+  },
+  {
+    "storyId": 14551,
+    "name": "people walking in between the buildings in Japan timelapse ",
+    "clip_id": "94218",
+    "order": 771
+  },
+  {
+    "storyId": 17106,
+    "name": "Businessman, Office, Portrait, City",
+    "clip_id": "160358",
+    "order": 772
+  },
+  {
+    "storyId": 12377,
+    "name": "dome of church in city aerial",
+    "clip_id": "54540",
+    "order": 773
+  },
+  {
+    "storyId": 22517,
+    "name": "Parkour, Free Runner, Jumping, Buildings",
+    "clip_id": "326989",
+    "order": 774
+  },
+  {
+    "storyId": 18127,
+    "name": "Man, Woman, Couple, Urban",
+    "clip_id": "190077",
+    "order": 775
+  },
+  {
+    "storyId": 18145,
+    "name": "train pulling into a station",
+    "clip_id": "190976",
+    "order": 776
+  },
+  {
+    "storyId": 13288,
+    "name": "city buildings on shoreline on cloudy day",
+    "clip_id": "68324",
+    "order": 777
+  },
+  {
+    "storyId": 12406,
+    "name": "crossing over a bridge into New York City",
+    "clip_id": "55105",
+    "order": 778
+  },
+  {
+    "storyId": 12193,
+    "name": "Ellis Island during the day",
+    "clip_id": "50122",
+    "order": 779
+  },
+  {
+    "storyId": 15432,
+    "name": "man standing with flashing florescent lights around him",
+    "clip_id": "115800",
+    "order": 780
+  },
+  {
+    "storyId": 13566,
+    "name": "sign on the highway for San Francisco ",
+    "clip_id": "73221",
+    "order": 781
+  },
+  {
+    "storyId": 14884,
+    "name": "Castle, Japan, Asia, Above",
+    "clip_id": "103699",
+    "order": 782
+  },
+  {
+    "storyId": 25585,
+    "name": "Bridge, New York, Traffic, Cars",
+    "clip_id": "419270",
+    "order": 783
+  },
+  {
+    "storyId": 17560,
+    "name": "business people having a meeting around a table in a high rise office",
+    "clip_id": "172419",
+    "order": 784
+  },
+  {
+    "storyId": 25579,
+    "name": "New York City, Skyscrapers, Evening, Metropolis",
+    "clip_id": "418851",
+    "order": 785
+  },
+  {
+    "storyId": 26499,
+    "name": "City, Dawn, Hyperlapse, Ukraine",
+    "clip_id": "449744",
+    "order": 786
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Looking, Taxi, City",
+    "clip_id": "287299",
+    "order": 787
+  },
+  {
+    "storyId": 13596,
+    "name": "moon rising over the Brooklyn Bridge timelapse",
+    "clip_id": "73933",
+    "order": 788
+  },
+  {
+    "storyId": 21779,
+    "name": "City, Cityscape, Los Angeles, Skyscrapers",
+    "clip_id": "301272",
+    "order": 789
+  },
+  {
+    "storyId": 21173,
+    "name": "Sitting, Thinking, City, Sidewalk",
+    "clip_id": "281999",
+    "order": 790
+  },
+  {
+    "storyId": 23139,
+    "name": "Man, Homeless, Poverty, City",
+    "clip_id": "345814",
+    "order": 791
+  },
+  {
+    "storyId": 13532,
+    "name": "people walking on raised bridge in city at night timelapse",
+    "clip_id": "72681",
+    "order": 792
+  },
+  {
+    "storyId": 22208,
+    "name": "Homeless, Alone, Shopping Cart, Smoking",
+    "clip_id": "317586",
+    "order": 793
+  },
+  {
+    "storyId": 13677,
+    "name": "man walking down the sidewalk in the city",
+    "clip_id": "75863",
+    "order": 794
+  },
+  {
+    "storyId": 17104,
+    "name": "Man, Office, Finance, City",
+    "clip_id": "160288",
+    "order": 795
+  },
+  {
+    "storyId": 12406,
+    "name": "close up of windows reflecting skyscrapers in New York",
+    "clip_id": "55082",
+    "order": 796
+  },
+  {
+    "storyId": 18081,
+    "name": "Berlin, Germany, Aerial, Alexander Platz",
+    "clip_id": "187989",
+    "order": 797
+  },
+  {
+    "storyId": 17231,
+    "name": "Cologne, Cathedral, Aerial, City",
+    "clip_id": "163323",
+    "order": 798
+  },
+  {
+    "storyId": 21571,
+    "name": "City, Buildings, Skyscrapers, City View",
+    "clip_id": "295175",
+    "order": 799
+  },
+  {
+    "storyId": 17104,
+    "name": "Man, Office, Finance, City",
+    "clip_id": "160291",
+    "order": 800
+  },
+  {
+    "storyId": 18254,
+    "name": "River, Venice, Boats, Italy",
+    "clip_id": "195349",
+    "order": 801
+  },
+  {
+    "storyId": 14696,
+    "name": "traffic moving on a downtown street in a city timelapse",
+    "clip_id": "98803",
+    "order": 802
+  },
+  {
+    "storyId": 14150,
+    "name": "woman standing and looking straight into the camera",
+    "clip_id": "85747",
+    "order": 803
+  },
+  {
+    "storyId": 12606,
+    "name": "city skyscrapers at night timelapse",
+    "clip_id": "57928",
+    "order": 804
+  },
+  {
+    "storyId": 13711,
+    "name": "a clock tower ",
+    "clip_id": "76428",
+    "order": 805
+  },
+  {
+    "storyId": 14696,
+    "name": "clouds moving above a city in the daytime timelapse",
+    "clip_id": "98798",
+    "order": 806
+  },
+  {
+    "storyId": 25407,
+    "name": "New York City, Skyscrapers, Metropolis, Hudson River",
+    "clip_id": "413938",
+    "order": 807
+  },
+  {
+    "storyId": 14629,
+    "name": "traffic moving around a roundabout aerial",
+    "clip_id": "96833",
+    "order": 808
+  },
+  {
+    "storyId": 11349,
+    "name": "silhouette of couple kissing in front of city lights",
+    "clip_id": "34806",
+    "order": 809
+  },
+  {
+    "storyId": 22517,
+    "name": "Man, Young, Walking, Ledge",
+    "clip_id": "326988",
+    "order": 810
+  },
+  {
+    "storyId": 24206,
+    "name": "Camera, Moon, Woman, Photography",
+    "clip_id": "379660",
+    "order": 811
+  },
+  {
+    "storyId": 11052,
+    "name": "turning arrow flashes green on a set of traffic lights in the road",
+    "clip_id": "23510",
+    "order": 812
+  },
+  {
+    "storyId": 13173,
+    "name": "people walking on pavement on side of street on cloudy dim day",
+    "clip_id": "66352",
+    "order": 813
+  },
+  {
+    "storyId": 12365,
+    "name": "cars in city streets at sunset aerial",
+    "clip_id": "54382",
+    "order": 814
+  },
+  {
+    "storyId": 28718,
+    "name": "Police Chase, City Sidewalk, Running, Criminal",
+    "clip_id": "516077",
+    "order": 815
+  },
+  {
+    "storyId": 18127,
+    "name": "Woman, City, New York, New York City",
+    "clip_id": "190115",
+    "order": 816
+  },
+  {
+    "storyId": 18081,
+    "name": "Berlin, Germany, Aerial, Alexander Platz",
+    "clip_id": "187967",
+    "order": 817
+  },
+  {
+    "storyId": 19630,
+    "name": "skyscrapers in a city skyline near a river aerial",
+    "clip_id": "184168",
+    "order": 818
+  },
+  {
+    "storyId": 16978,
+    "name": "people walking by a landmark aerial ",
+    "clip_id": "157542",
+    "order": 819
+  },
+  {
+    "storyId": 15526,
+    "name": "man staring at a city through a window ",
+    "clip_id": "117821",
+    "order": 820
+  },
+  {
+    "storyId": 21779,
+    "name": "City, Cityscape, Los Angeles, Skyscrapers",
+    "clip_id": "301270",
+    "order": 821
+  },
+  {
+    "storyId": 19822,
+    "name": "Mask, Abstract, Man, City",
+    "clip_id": "240290",
+    "order": 822
+  },
+  {
+    "storyId": 18081,
+    "name": "Berlin, Germany, Aerial, Alexander Platz",
+    "clip_id": "187984",
+    "order": 823
+  },
+  {
+    "storyId": 17068,
+    "name": "Bridge, Port, Construction, City",
+    "clip_id": "159364",
+    "order": 824
+  },
+  {
+    "storyId": 12401,
+    "name": "boat crossing the water by a large city aerial",
+    "clip_id": "54989",
+    "order": 825
+  },
+  {
+    "storyId": 20739,
+    "name": "Dubai, Skyscrapers, City, Uae",
+    "clip_id": "268264",
+    "order": 826
+  },
+  {
+    "storyId": 21570,
+    "name": "City, Houses, Buildings, High Way",
+    "clip_id": "295130",
+    "order": 827
+  },
+  {
+    "storyId": 27259,
+    "name": "Woman, Man, Holding Hands, Date",
+    "clip_id": "472834",
+    "order": 828
+  },
+  {
+    "storyId": 14172,
+    "name": "Woman looking at sites in an old city",
+    "clip_id": "86084",
+    "order": 829
+  },
+  {
+    "storyId": 21573,
+    "name": "City, Skyscrapers, Dallas, Aerial",
+    "clip_id": "295348",
+    "order": 830
+  },
+  {
+    "storyId": 16493,
+    "name": "Japan, Tower, Tokyo, Timelapse",
+    "clip_id": "141884",
+    "order": 831
+  },
+  {
+    "storyId": 21574,
+    "name": "City, Drone, Buildings, Above",
+    "clip_id": "295303",
+    "order": 832
+  },
+  {
+    "storyId": 11330,
+    "name": "woman holding and picking up beetroot",
+    "clip_id": "34381",
+    "order": 833
+  },
+  {
+    "storyId": 25840,
+    "name": "Car, Driving, Head Lights, Rain",
+    "clip_id": "427857",
+    "order": 834
+  },
+  {
+    "storyId": 26505,
+    "name": "Hollywood, Florida, City Lights, Hyperlapse",
+    "clip_id": "449899",
+    "order": 835
+  },
+  {
+    "storyId": 21465,
+    "name": "Houses, Clouds, Colorful, England",
+    "clip_id": "291565",
+    "order": 836
+  },
+  {
+    "storyId": 11286,
+    "name": "large flames and black smoke rising on cloudy day",
+    "clip_id": "33311",
+    "order": 837
+  },
+  {
+    "storyId": 11562,
+    "name": "person checking time on smartphone while looking at city view at sundown",
+    "clip_id": "38737",
+    "order": 838
+  },
+  {
+    "storyId": 18081,
+    "name": "Berlin, Germany, Aerial, Alexander Platz",
+    "clip_id": "187972",
+    "order": 839
+  },
+  {
+    "storyId": 17065,
+    "name": "City, Urban, Buildings, Skyscrapers",
+    "clip_id": "159234",
+    "order": 840
+  },
+  {
+    "storyId": 21827,
+    "name": "Toronto, City, Cityscape, Buldings",
+    "clip_id": "303812",
+    "order": 841
+  },
+  {
+    "storyId": 16980,
+    "name": "Vintage, Film, Super-8, City",
+    "clip_id": "157572",
+    "order": 842
+  },
+  {
+    "storyId": 27241,
+    "name": "Chicago, City, Skyscrapers, Cityscape",
+    "clip_id": "472135",
+    "order": 843
+  },
+  {
+    "storyId": 13838,
+    "name": "city traffic at night timelapse",
+    "clip_id": "79543",
+    "order": 844
+  },
+  {
+    "storyId": 27725,
+    "name": "New York, Traffic, Triborough Bridge, Cars",
+    "clip_id": "486419",
+    "order": 845
+  },
+  {
+    "storyId": 13936,
+    "name": "car driving on a road by big buildings in the city",
+    "clip_id": "81623",
+    "order": 846
+  },
+  {
+    "storyId": 12406,
+    "name": "crossing into the city from a bridge",
+    "clip_id": "55107",
+    "order": 847
+  },
+  {
+    "storyId": 17088,
+    "name": "Culver City, California, Los Angeles, Street",
+    "clip_id": "159810",
+    "order": 848
+  },
+  {
+    "storyId": 13711,
+    "name": "New Jersey September 11th memorial sign and skyscrapers in the background",
+    "clip_id": "76435",
+    "order": 849
+  },
+  {
+    "storyId": 13566,
+    "name": "skyscrapers and bridge along the water aerial",
+    "clip_id": "73246",
+    "order": 850
+  },
+  {
+    "storyId": 21911,
+    "name": "Timelapse, Cars, Light, City",
+    "clip_id": "307492",
+    "order": 851
+  },
+  {
+    "storyId": 17000,
+    "name": "Architecture, City, Skyline, Sunset",
+    "clip_id": "157987",
+    "order": 852
+  },
+  {
+    "storyId": 21827,
+    "name": "Toronto, City, Cityscape, Buldings",
+    "clip_id": "303903",
+    "order": 853
+  },
+  {
+    "storyId": 11663,
+    "name": "outlying city light art display with neon lights at the edge of the city",
+    "clip_id": "40511",
+    "order": 854
+  },
+  {
+    "storyId": 13741,
+    "name": "woman looking at cellphone in front of street lights bokeh",
+    "clip_id": "77229",
+    "order": 855
+  },
+  {
+    "storyId": 27259,
+    "name": "Young, Woman, Man, Kissing",
+    "clip_id": "472810",
+    "order": 856
+  },
+  {
+    "storyId": 23131,
+    "name": "Clouds, River, Sky, Sun",
+    "clip_id": "302074",
+    "order": 857
+  },
+  {
+    "storyId": 12414,
+    "name": "cars and traffic on a bridge in front of buildings in aerial",
+    "clip_id": "55432",
+    "order": 858
+  },
+  {
+    "storyId": 15596,
+    "name": "highway outside of the city at night hyperlapse ",
+    "clip_id": "119749",
+    "order": 859
+  },
+  {
+    "storyId": 18127,
+    "name": "Woman, City, New York, New York City",
+    "clip_id": "190126",
+    "order": 860
+  },
+  {
+    "storyId": 11052,
+    "name": "Small City Traffic light turns red in front of a tree during the day",
+    "clip_id": "23514",
+    "order": 861
+  },
+  {
+    "storyId": 18540,
+    "name": "Bird, City, Sky, Sunset",
+    "clip_id": "203779",
+    "order": 862
+  },
+  {
+    "storyId": 16493,
+    "name": "Japan, Tower, Tokyo, Timelapse",
+    "clip_id": "141885",
+    "order": 863
+  },
+  {
+    "storyId": 25840,
+    "name": "Buildings, City, Overcast, Driving",
+    "clip_id": "427859",
+    "order": 864
+  },
+  {
+    "storyId": 13844,
+    "name": "Sunset over a construction site in a city timelapse  ",
+    "clip_id": "79891",
+    "order": 865
+  },
+  {
+    "storyId": 18744,
+    "name": "Black, Man, Mask, Covid-19",
+    "clip_id": "209466",
+    "order": 866
+  },
+  {
+    "storyId": 15931,
+    "name": "buildings in an empty street in a city ",
+    "clip_id": "126938",
+    "order": 867
+  },
+  {
+    "storyId": 12997,
+    "name": "bridge over vehicles parked on street with people walking past shops rack focus",
+    "clip_id": "63133",
+    "order": 868
+  },
+  {
+    "storyId": 26827,
+    "name": "Woman, Drinking, Cup, City",
+    "clip_id": "463775",
+    "order": 869
+  },
+  {
+    "storyId": 11732,
+    "name": "time lapse of  view of stone eagle and clouds over city",
+    "clip_id": "43107",
+    "order": 870
+  },
+  {
+    "storyId": 13580,
+    "name": "smokestacks next to the water in New York City timelapse  ",
+    "clip_id": "73673",
+    "order": 871
+  },
+  {
+    "storyId": 17984,
+    "name": "Skyscrapers, City, Harbor, Scenic",
+    "clip_id": "184501",
+    "order": 872
+  },
+  {
+    "storyId": 14840,
+    "name": "cars driving on the highway at night timelapse",
+    "clip_id": "102665",
+    "order": 873
+  },
+  {
+    "storyId": 18202,
+    "name": "Chimneys, Antarctica, Antarctic, City",
+    "clip_id": "193234",
+    "order": 874
+  },
+  {
+    "storyId": 16980,
+    "name": "Vintage, Film, Super-8, City",
+    "clip_id": "157575",
+    "order": 875
+  },
+  {
+    "storyId": 11607,
+    "name": "city on the bay lit up at night with a purple clouded sky",
+    "clip_id": "39722",
+    "order": 876
+  },
+  {
+    "storyId": 18878,
+    "name": "Woman, Mask, Covid-19, Empty",
+    "clip_id": "213235",
+    "order": 877
+  },
+  {
+    "storyId": 12603,
+    "name": "tall building and skyline in city with skyscraper aerial",
+    "clip_id": "57880",
+    "order": 878
+  },
+  {
+    "storyId": 13900,
+    "name": "lights going on and off in an apartment building timelapse",
+    "clip_id": "81034",
+    "order": 879
+  },
+  {
+    "storyId": 11052,
+    "name": "traffic light with moon and star in background ",
+    "clip_id": "23538",
+    "order": 880
+  },
+  {
+    "storyId": 27871,
+    "name": "Traffic, Road, Cars, Vehicles",
+    "clip_id": "491263",
+    "order": 881
+  },
+  {
+    "storyId": 19064,
+    "name": "Criminal, Ski-Mask, Escape, Running",
+    "clip_id": "218263",
+    "order": 882
+  },
+  {
+    "storyId": 13575,
+    "name": "cars traveling over a bridge next to the city timelapse",
+    "clip_id": "73556",
+    "order": 883
+  },
+  {
+    "storyId": 19822,
+    "name": "Man, Abstract, Suit, City",
+    "clip_id": "240295",
+    "order": 884
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Taxi, City, Hurry",
+    "clip_id": "287300",
+    "order": 885
+  },
+  {
+    "storyId": 13677,
+    "name": "man walking in the park and looking at the Manhattan Bridge",
+    "clip_id": "75856",
+    "order": 886
+  },
+  {
+    "storyId": 21893,
+    "name": "City, Aerial, Business Area, Hyperlapses",
+    "clip_id": "306374",
+    "order": 887
+  },
+  {
+    "storyId": 18725,
+    "name": "Black, Man, City, Alleyway",
+    "clip_id": "209050",
+    "order": 888
+  },
+  {
+    "storyId": 12193,
+    "name": "fountain and Christmas tree by skating rink at Rockefeller Center",
+    "clip_id": "50121",
+    "order": 889
+  },
+  {
+    "storyId": 11052,
+    "name": "abstract traffic light ",
+    "clip_id": "23532",
+    "order": 890
+  },
+  {
+    "storyId": 21890,
+    "name": "City, Cityscape, Buildings, Skyscrapers",
+    "clip_id": "306331",
+    "order": 891
+  },
+  {
+    "storyId": 23141,
+    "name": "Woman, House, Entering, Visit",
+    "clip_id": "345880",
+    "order": 892
+  },
+  {
+    "storyId": 13173,
+    "name": "reflection of cars and people on street",
+    "clip_id": "66355",
+    "order": 893
+  },
+  {
+    "storyId": 17000,
+    "name": "Architecture, City, Skyline, Sunset",
+    "clip_id": "157979",
+    "order": 894
+  },
+  {
+    "storyId": 14561,
+    "name": "woman running by the water in the city ",
+    "clip_id": "94573",
+    "order": 895
+  },
+  {
+    "storyId": 18254,
+    "name": "River, Boats, Venice, Italy",
+    "clip_id": "195356",
+    "order": 896
+  },
+  {
+    "storyId": 19035,
+    "name": "Businesswoman, Phonecall, City, Happy",
+    "clip_id": "217879",
+    "order": 897
+  },
+  {
+    "storyId": 26827,
+    "name": "Cars, Traffic, Road, Crosswalk",
+    "clip_id": "459413",
+    "order": 898
+  },
+  {
+    "storyId": 14551,
+    "name": "people and cars in the city timelapse ",
+    "clip_id": "94223",
+    "order": 899
+  },
+  {
+    "storyId": 22208,
+    "name": "Homeless, Smoking, Cigarette, City",
+    "clip_id": "317587",
+    "order": 900
+  },
+  {
+    "storyId": 13173,
+    "name": "glass building in city",
+    "clip_id": "66363",
+    "order": 901
+  },
+  {
+    "storyId": 24744,
+    "name": "Street, Buildings, Old City, Lisbon",
+    "clip_id": "394014",
+    "order": 902
+  },
+  {
+    "storyId": 13677,
+    "name": "man in boots walking outside",
+    "clip_id": "75851",
+    "order": 903
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Mobile, Talking, City",
+    "clip_id": "287291",
+    "order": 904
+  },
+  {
+    "storyId": 13677,
+    "name": "man standing on the subway ",
+    "clip_id": "75876",
+    "order": 905
+  },
+  {
+    "storyId": 23166,
+    "name": "Honolulu, City, Mountain, Coast",
+    "clip_id": "302682",
+    "order": 906
+  },
+  {
+    "storyId": 26749,
+    "name": "Man, Running, Evening, City",
+    "clip_id": "456839",
+    "order": 907
+  },
+  {
+    "storyId": 17435,
+    "name": "glass windows on buildings in a city ",
+    "clip_id": "168234",
+    "order": 908
+  },
+  {
+    "storyId": 18015,
+    "name": "City, Hong Kong, China, Buildings",
+    "clip_id": "185311",
+    "order": 909
+  },
+  {
+    "storyId": 17842,
+    "name": "road exiting a tunnel at night",
+    "clip_id": "179440",
+    "order": 910
+  },
+  {
+    "storyId": 15935,
+    "name": "American flag waving in the wind on top of the Brooklyn Bridge ",
+    "clip_id": "126989",
+    "order": 911
+  },
+  {
+    "storyId": 16368,
+    "name": "Urban, City, Cityscape, Downtown",
+    "clip_id": "138485",
+    "order": 912
+  },
+  {
+    "storyId": 12726,
+    "name": "city by the water aerial",
+    "clip_id": "59453",
+    "order": 913
+  },
+  {
+    "storyId": 23139,
+    "name": "Man, Homeless, Poverty, City",
+    "clip_id": "345783",
+    "order": 914
+  },
+  {
+    "storyId": 22009,
+    "name": "Oldtown, Topshot, Rome, Rooftops",
+    "clip_id": "311117",
+    "order": 915
+  },
+  {
+    "storyId": 17842,
+    "name": "street lights and buildings",
+    "clip_id": "179427",
+    "order": 916
+  },
+  {
+    "storyId": 21269,
+    "name": "Activity, City, Cool, Man",
+    "clip_id": "285128",
+    "order": 917
+  },
+  {
+    "storyId": 16964,
+    "name": "Hyperlapse, City, Traffic, Buildings",
+    "clip_id": "210145",
+    "order": 918
+  },
+  {
+    "storyId": 11044,
+    "name": "fire dancer spinning fire staff ",
+    "clip_id": "23254",
+    "order": 919
+  },
+  {
+    "storyId": 18081,
+    "name": "Berlin, Germany, Aerial, Alexander Platz",
+    "clip_id": "187968",
+    "order": 920
+  },
+  {
+    "storyId": 16388,
+    "name": "skyscrapers on the water's edge",
+    "clip_id": "139027",
+    "order": 921
+  },
+  {
+    "storyId": 13077,
+    "name": "sun setting over city by ocean timelapse",
+    "clip_id": "64587",
+    "order": 922
+  },
+  {
+    "storyId": 28021,
+    "name": "Cityscape, Vfx, Glow, City",
+    "clip_id": "496572",
+    "order": 923
+  },
+  {
+    "storyId": 19542,
+    "name": "Cycling, Young Woman, 20-24 Years, Bicycle",
+    "clip_id": "232756",
+    "order": 924
+  },
+  {
+    "storyId": 15931,
+    "name": "downtown buildings in a city low angle",
+    "clip_id": "126935",
+    "order": 925
+  },
+  {
+    "storyId": 21574,
+    "name": "City, Buildings, Drone, Above",
+    "clip_id": "295358",
+    "order": 926
+  },
+  {
+    "storyId": 12272,
+    "name": "Bridges crossing river in city of Prague",
+    "clip_id": "52080",
+    "order": 927
+  },
+  {
+    "storyId": 15141,
+    "name": "boats moving by Manhattan at sunset and lights in the night sky timelapse",
+    "clip_id": "109364",
+    "order": 928
+  },
+  {
+    "storyId": 16095,
+    "name": "police-blocked intersection with occasional cars aerial",
+    "clip_id": "130556",
+    "order": 929
+  },
+  {
+    "storyId": 13936,
+    "name": "waves breaking onto the beach next to the city",
+    "clip_id": "81622",
+    "order": 930
+  },
+  {
+    "storyId": 13783,
+    "name": "man in a leather jacket looking towards the city at sunset",
+    "clip_id": "78207",
+    "order": 931
+  },
+  {
+    "storyId": 12957,
+    "name": "town with stadium on border by beach aerial",
+    "clip_id": "62442",
+    "order": 932
+  },
+  {
+    "storyId": 27259,
+    "name": "Young, Woman, Man, Running",
+    "clip_id": "472859",
+    "order": 933
+  },
+  {
+    "storyId": 14561,
+    "name": "motivated woman running in the city ",
+    "clip_id": "94567",
+    "order": 934
+  },
+  {
+    "storyId": 26827,
+    "name": "Woman, Walking, Footbridge, Road",
+    "clip_id": "459352",
+    "order": 935
+  },
+  {
+    "storyId": 17000,
+    "name": "Architecture, City, Skyline, Sunset",
+    "clip_id": "157989",
+    "order": 936
+  },
+  {
+    "storyId": 13426,
+    "name": "subway coming into the station",
+    "clip_id": "69949",
+    "order": 937
+  },
+  {
+    "storyId": 17985,
+    "name": "Ny, New York, City, Buildings",
+    "clip_id": "184511",
+    "order": 938
+  },
+  {
+    "storyId": 16404,
+    "name": "man looking straight ahead and at his phone",
+    "clip_id": "139505",
+    "order": 939
+  },
+  {
+    "storyId": 27259,
+    "name": "Young, Woman, Man, Date",
+    "clip_id": "472778",
+    "order": 940
+  },
+  {
+    "storyId": 21337,
+    "name": "Woman, Working, Businesswoman, Laptop",
+    "clip_id": "287376",
+    "order": 941
+  },
+  {
+    "storyId": 12396,
+    "name": "woman jumping rope at sunrise in urban area",
+    "clip_id": "54838",
+    "order": 942
+  },
+  {
+    "storyId": 13198,
+    "name": "cars driving over a bridge and through streets of a city aerial",
+    "clip_id": "66704",
+    "order": 943
+  },
+  {
+    "storyId": 26270,
+    "name": "New York, Central Park, City, Manhattan",
+    "clip_id": "441476",
+    "order": 944
+  },
+  {
+    "storyId": 21139,
+    "name": "Delivery Man, Bicycle, City, Buildings",
+    "clip_id": "280334",
+    "order": 945
+  },
+  {
+    "storyId": 12456,
+    "name": "Man, Running, Urban, Town",
+    "clip_id": "56012",
+    "order": 946
+  },
+  {
+    "storyId": 13577,
+    "name": "traffic inside New York City timelapse ",
+    "clip_id": "73575",
+    "order": 947
+  },
+  {
+    "storyId": 27259,
+    "name": "Young, Woman, Man, Kissing",
+    "clip_id": "472862",
+    "order": 948
+  },
+  {
+    "storyId": 23131,
+    "name": "Clouds, City, Tower, Buildings",
+    "clip_id": "302089",
+    "order": 949
+  }
+]

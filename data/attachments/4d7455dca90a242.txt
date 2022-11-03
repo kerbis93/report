@@ -1,0 +1,920 @@
+[
+  {
+    "storyId": 16840,
+    "name": "sun in the afternoon behind spinning wind turbines aerial",
+    "clip_id": "152985",
+    "order": 0
+  },
+  {
+    "storyId": 25194,
+    "name": "Woman, Seller, Cashier, Calculating",
+    "clip_id": "397688",
+    "order": 1
+  },
+  {
+    "storyId": 25194,
+    "name": "Woman, Sustainability, Shop, Refill",
+    "clip_id": "397682",
+    "order": 2
+  },
+  {
+    "storyId": 25194,
+    "name": "Woman, Sustainability, Shop, Refill",
+    "clip_id": "397677",
+    "order": 3
+  },
+  {
+    "storyId": 25194,
+    "name": "Woman, Sustainability, Shop, Street Sign",
+    "clip_id": "397695",
+    "order": 4
+  },
+  {
+    "storyId": 25194,
+    "name": "Woman, Sustainability, Shop, Refill",
+    "clip_id": "397676",
+    "order": 5
+  },
+  {
+    "storyId": 25194,
+    "name": "Woman, Sustainability, Shop, Stock",
+    "clip_id": "397686",
+    "order": 6
+  },
+  {
+    "storyId": 25194,
+    "name": "Woman, Sustainability, Shop, Stock",
+    "clip_id": "397685",
+    "order": 7
+  },
+  {
+    "storyId": 25194,
+    "name": "Woman, Shopping, Sustainability, Shop",
+    "clip_id": "397675",
+    "order": 8
+  },
+  {
+    "storyId": 25194,
+    "name": "Woman, Shopping, Paying, Credit Card",
+    "clip_id": "397681",
+    "order": 9
+  },
+  {
+    "storyId": 16840,
+    "name": "shadow of a turning wind turbine on a field aerial",
+    "clip_id": "152989",
+    "order": 10
+  },
+  {
+    "storyId": 25095,
+    "name": "Wind Turbine, Mountain, Snowy Top, Energy",
+    "clip_id": "405112",
+    "order": 11
+  },
+  {
+    "storyId": 25194,
+    "name": "Woman, Sustainability, Shop, Tablet",
+    "clip_id": "397684",
+    "order": 12
+  },
+  {
+    "storyId": 25095,
+    "name": "Mountain, Snowy Top, Wind Turbines, Trees",
+    "clip_id": "405086",
+    "order": 13
+  },
+  {
+    "storyId": 25194,
+    "name": "Woman, Sustainability, Shop, Shopping",
+    "clip_id": "397683",
+    "order": 14
+  },
+  {
+    "storyId": 16840,
+    "name": "wind turbine turning aerial",
+    "clip_id": "152986",
+    "order": 15
+  },
+  {
+    "storyId": 25095,
+    "name": "Mountain, Snowy Top, Wind Turbines, Trees",
+    "clip_id": "405088",
+    "order": 16
+  },
+  {
+    "storyId": 16840,
+    "name": "field of turning wind turbines",
+    "clip_id": "152987",
+    "order": 17
+  },
+  {
+    "storyId": 16840,
+    "name": "sun behind spinning wind turbines aerial",
+    "clip_id": "152984",
+    "order": 18
+  },
+  {
+    "storyId": 25095,
+    "name": "Mountain, Snowy Top, Wind Turbines, Trees",
+    "clip_id": "405090",
+    "order": 19
+  },
+  {
+    "storyId": 25194,
+    "name": "Woman, Seller, Cashier, Calculating",
+    "clip_id": "397687",
+    "order": 20
+  },
+  {
+    "storyId": 25095,
+    "name": "Mountain, Snowy Top, Wind Turbines, Trees",
+    "clip_id": "405094",
+    "order": 21
+  },
+  {
+    "storyId": 16840,
+    "name": "wind turbines in a field turning aerial",
+    "clip_id": "152982",
+    "order": 22
+  },
+  {
+    "storyId": 25095,
+    "name": "Mountain, Snowy Top, Wind Turbines, Trees",
+    "clip_id": "405092",
+    "order": 23
+  },
+  {
+    "storyId": 29244,
+    "name": "Windturbine, Windfarm, Greenenergy, Windpower",
+    "clip_id": "531190",
+    "order": 24
+  },
+  {
+    "storyId": 16840,
+    "name": "wind turbine turning\n in the afternoon",
+    "clip_id": "152990",
+    "order": 25
+  },
+  {
+    "storyId": 25095,
+    "name": "Mountain, Snowy Top, Wind Turbines, Trees",
+    "clip_id": "405098",
+    "order": 26
+  },
+  {
+    "storyId": 16840,
+    "name": "wind turbine spinning in the afternoon",
+    "clip_id": "152991",
+    "order": 27
+  },
+  {
+    "storyId": 29244,
+    "name": "Windturbine, Windfarm, Greenenergy, Windpower",
+    "clip_id": "531196",
+    "order": 28
+  },
+  {
+    "storyId": 29244,
+    "name": "Windturbine, Windfarm, Greenenergy, Windpower",
+    "clip_id": "531189",
+    "order": 29
+  },
+  {
+    "storyId": 25095,
+    "name": "Mountain, Snowy Top, Wind Turbines, Trees",
+    "clip_id": "405097",
+    "order": 30
+  },
+  {
+    "storyId": 25095,
+    "name": "Wind Turbines, Mountain, Snowy Top, Energy",
+    "clip_id": "405110",
+    "order": 31
+  },
+  {
+    "storyId": 16840,
+    "name": "field of wind turbines turning aerial",
+    "clip_id": "152988",
+    "order": 32
+  },
+  {
+    "storyId": 29244,
+    "name": "Windturbine, Windfarm, Greenenergy, Windpower",
+    "clip_id": "531195",
+    "order": 33
+  },
+  {
+    "storyId": 29244,
+    "name": "Windturbine, Windfarm, Greenenergy, Windpower",
+    "clip_id": "531188",
+    "order": 34
+  },
+  {
+    "storyId": 12320,
+    "name": "Aerial of wind turbine towers in open fields ",
+    "clip_id": "53293",
+    "order": 35
+  },
+  {
+    "storyId": 12320,
+    "name": "Wind turbine spinning in wind farm seen from above ",
+    "clip_id": "53295",
+    "order": 36
+  },
+  {
+    "storyId": 12320,
+    "name": "Wind turbine spinning in time lapse",
+    "clip_id": "53296",
+    "order": 37
+  },
+  {
+    "storyId": 12320,
+    "name": "Wind turbine spins in front of highway",
+    "clip_id": "53289",
+    "order": 38
+  },
+  {
+    "storyId": 12320,
+    "name": "Wind turbines spinning in wind farm in front of highway",
+    "clip_id": "53291",
+    "order": 39
+  },
+  {
+    "storyId": 12320,
+    "name": "Wind turbine spinning in front of highway",
+    "clip_id": "53288",
+    "order": 40
+  },
+  {
+    "storyId": 12320,
+    "name": "Wind turbines spinning in front of highway in farmlands",
+    "clip_id": "53292",
+    "order": 41
+  },
+  {
+    "storyId": 12320,
+    "name": "Wind turbine spinning in front of farmlands on sunny day",
+    "clip_id": "53294",
+    "order": 42
+  },
+  {
+    "storyId": 12320,
+    "name": "Wind turbine spinning in time lapse on sunny day",
+    "clip_id": "53297",
+    "order": 43
+  },
+  {
+    "storyId": 13530,
+    "name": "line of wind turbines turning on cloudy day timelapse",
+    "clip_id": "72640",
+    "order": 44
+  },
+  {
+    "storyId": 24510,
+    "name": "Wind Farm, Turbine, Environment, Generator",
+    "clip_id": "385992",
+    "order": 45
+  },
+  {
+    "storyId": 12320,
+    "name": "Wind turbine spinning in front of farmlands and highway",
+    "clip_id": "53290",
+    "order": 46
+  },
+  {
+    "storyId": 13530,
+    "name": "clouds moving over row of wind turbines turning",
+    "clip_id": "72641",
+    "order": 47
+  },
+  {
+    "storyId": 24510,
+    "name": "Wind Farm, Turbine, Environment, Generator",
+    "clip_id": "385990",
+    "order": 48
+  },
+  {
+    "storyId": 13530,
+    "name": "wind turbine blades turning low-angle",
+    "clip_id": "72646",
+    "order": 49
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbine rotating in a field in the country aerial",
+    "clip_id": "156207",
+    "order": 50
+  },
+  {
+    "storyId": 13530,
+    "name": "line of wind turbines turning on cloudy day",
+    "clip_id": "72639",
+    "order": 51
+  },
+  {
+    "storyId": 13530,
+    "name": "wind turbine turning with clouds over-head low-angle",
+    "clip_id": "72643",
+    "order": 52
+  },
+  {
+    "storyId": 13530,
+    "name": "wind turbine turning with clouds over-head low-angle",
+    "clip_id": "72644",
+    "order": 53
+  },
+  {
+    "storyId": 13530,
+    "name": "wind turbine spinning with clouds over-head low-angle",
+    "clip_id": "72645",
+    "order": 54
+  },
+  {
+    "storyId": 13530,
+    "name": "wind turbines turning with clouds over-head",
+    "clip_id": "72634",
+    "order": 55
+  },
+  {
+    "storyId": 13530,
+    "name": "clouds moving over wind turbines turning",
+    "clip_id": "72635",
+    "order": 56
+  },
+  {
+    "storyId": 17744,
+    "name": "Plant, Environment, Coffee, Bar",
+    "clip_id": "176930",
+    "order": 57
+  },
+  {
+    "storyId": 24510,
+    "name": "Wind Farm, Turbine, Environment, Generator",
+    "clip_id": "385988",
+    "order": 58
+  },
+  {
+    "storyId": 13530,
+    "name": "stripey wind turbine blades turning low-angle",
+    "clip_id": "72649",
+    "order": 59
+  },
+  {
+    "storyId": 13530,
+    "name": "wind turbine turning and low-angle timelapse",
+    "clip_id": "72647",
+    "order": 60
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbine being repaired in a field in the country aerial",
+    "clip_id": "156179",
+    "order": 61
+  },
+  {
+    "storyId": 13530,
+    "name": "wind turbines spinning during overcast evening ",
+    "clip_id": "72642",
+    "order": 62
+  },
+  {
+    "storyId": 13530,
+    "name": "stripey wind turbine blades turning low-angle",
+    "clip_id": "72648",
+    "order": 63
+  },
+  {
+    "storyId": 24510,
+    "name": "Wind Farm, Turbine, Environment, Generator",
+    "clip_id": "385993",
+    "order": 64
+  },
+  {
+    "storyId": 24510,
+    "name": "Wind Farm, Turbine, Environment, Generator",
+    "clip_id": "385991",
+    "order": 65
+  },
+  {
+    "storyId": 25194,
+    "name": "Woman, Paying, Credit Card, Wifi",
+    "clip_id": "397678",
+    "order": 66
+  },
+  {
+    "storyId": 24510,
+    "name": "Wind Farm, Turbine, Environment, Generator",
+    "clip_id": "385989",
+    "order": 67
+  },
+  {
+    "storyId": 18211,
+    "name": "engineers designing turbines",
+    "clip_id": "193587",
+    "order": 68
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbine rotating in a field in the country aerial",
+    "clip_id": "156193",
+    "order": 69
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbine rotating in a field in the country aerial",
+    "clip_id": "156194",
+    "order": 70
+  },
+  {
+    "storyId": 18864,
+    "name": "Summer, Lifestyles, People, Young Adult",
+    "clip_id": "212813",
+    "order": 71
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbines rotating in a field in the country aerial",
+    "clip_id": "156199",
+    "order": 72
+  },
+  {
+    "storyId": 18211,
+    "name": "engineers designing turbines",
+    "clip_id": "193593",
+    "order": 73
+  },
+  {
+    "storyId": 18211,
+    "name": "Renewable Energy Engineer on site",
+    "clip_id": "193582",
+    "order": 74
+  },
+  {
+    "storyId": 18536,
+    "name": "Business, Businesswoman, Engineer, Green",
+    "clip_id": "203504",
+    "order": 75
+  },
+  {
+    "storyId": 25194,
+    "name": "Woman, Shopping, Paying, Credit Card",
+    "clip_id": "397679",
+    "order": 76
+  },
+  {
+    "storyId": 18211,
+    "name": "engineer designing turbines",
+    "clip_id": "193590",
+    "order": 77
+  },
+  {
+    "storyId": 25095,
+    "name": "Fields, Trees, Mountain, Valley",
+    "clip_id": "405075",
+    "order": 78
+  },
+  {
+    "storyId": 18536,
+    "name": "Business, Businesswoman, Green, Energy",
+    "clip_id": "203511",
+    "order": 79
+  },
+  {
+    "storyId": 25194,
+    "name": "Woman, Shopping, Paying, Credit Card",
+    "clip_id": "397680",
+    "order": 80
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbine rotating in a field in the country aerial",
+    "clip_id": "156195",
+    "order": 81
+  },
+  {
+    "storyId": 18211,
+    "name": "engineers designing turbines",
+    "clip_id": "193591",
+    "order": 82
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbines rotating in a field in the country aerial",
+    "clip_id": "156198",
+    "order": 83
+  },
+  {
+    "storyId": 18536,
+    "name": "Business, Businessman, Engineer, Green",
+    "clip_id": "203507",
+    "order": 84
+  },
+  {
+    "storyId": 25095,
+    "name": "Fields, Mountain, Valley, Snowy Top",
+    "clip_id": "405077",
+    "order": 85
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbines rotating in a field in the country aerial",
+    "clip_id": "156197",
+    "order": 86
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbine under construction in a field in the country aerial",
+    "clip_id": "156183",
+    "order": 87
+  },
+  {
+    "storyId": 18211,
+    "name": "engineer designing turbines",
+    "clip_id": "193586",
+    "order": 88
+  },
+  {
+    "storyId": 28853,
+    "name": "Wind Turbine, Green Energy, Wind Farm, Countryside",
+    "clip_id": "520885",
+    "order": 89
+  },
+  {
+    "storyId": 18536,
+    "name": "Business, Businesswoman, Green, Energy",
+    "clip_id": "203506",
+    "order": 90
+  },
+  {
+    "storyId": 18211,
+    "name": "Two scientists working in a laboratory",
+    "clip_id": "193628",
+    "order": 91
+  },
+  {
+    "storyId": 18211,
+    "name": "engineer designing turbines",
+    "clip_id": "193589",
+    "order": 92
+  },
+  {
+    "storyId": 25095,
+    "name": "Fields, Trees, Mountain, Valley",
+    "clip_id": "405073",
+    "order": 93
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbine with a missing blade aerial",
+    "clip_id": "156188",
+    "order": 94
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbine being repaired in a field in the country aerial",
+    "clip_id": "156180",
+    "order": 95
+  },
+  {
+    "storyId": 18536,
+    "name": "Business, Businesswoman, Green, Energy",
+    "clip_id": "203505",
+    "order": 96
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbine with a missing blade aerial",
+    "clip_id": "156189",
+    "order": 97
+  },
+  {
+    "storyId": 25095,
+    "name": "Fields, Mountain, Valley, Snowy Top",
+    "clip_id": "405082",
+    "order": 98
+  },
+  {
+    "storyId": 25095,
+    "name": "Fields, Mountain, Valley, Snowy Top",
+    "clip_id": "405078",
+    "order": 99
+  },
+  {
+    "storyId": 18211,
+    "name": "Renewable Energy Engineers on site",
+    "clip_id": "193578",
+    "order": 100
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbine rotating in a field in the country aerial",
+    "clip_id": "156206",
+    "order": 101
+  },
+  {
+    "storyId": 18211,
+    "name": "engineers designing turbines",
+    "clip_id": "193588",
+    "order": 102
+  },
+  {
+    "storyId": 16940,
+    "name": "wind farm in operation aerial",
+    "clip_id": "156211",
+    "order": 103
+  },
+  {
+    "storyId": 28853,
+    "name": "Wind Turbine, Green Energy, Wind Farm, Countryside",
+    "clip_id": "520887",
+    "order": 104
+  },
+  {
+    "storyId": 25095,
+    "name": "Fields, Mountain, Valley, Snowy Top",
+    "clip_id": "405084",
+    "order": 105
+  },
+  {
+    "storyId": 18211,
+    "name": "Renewable Energy Engineers on site",
+    "clip_id": "193579",
+    "order": 106
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbine under construction in a field in the country aerial",
+    "clip_id": "156181",
+    "order": 107
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbine rotating in a field in the country aerial",
+    "clip_id": "156205",
+    "order": 108
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbine under construction in a field in the country aerial",
+    "clip_id": "156182",
+    "order": 109
+  },
+  {
+    "storyId": 18211,
+    "name": "engineers designing turbines",
+    "clip_id": "193592",
+    "order": 110
+  },
+  {
+    "storyId": 18536,
+    "name": "Business, Businesswoman, Green, Energy",
+    "clip_id": "203503",
+    "order": 111
+  },
+  {
+    "storyId": 18211,
+    "name": "Renewable Energy Engineer on site",
+    "clip_id": "193583",
+    "order": 112
+  },
+  {
+    "storyId": 25095,
+    "name": "Fields, Mountain, Valley, Snowy Top",
+    "clip_id": "405081",
+    "order": 113
+  },
+  {
+    "storyId": 18536,
+    "name": "Business, Businessman, Engineer, Green",
+    "clip_id": "203508",
+    "order": 114
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbine with a missing blade under construction aerial",
+    "clip_id": "156204",
+    "order": 115
+  },
+  {
+    "storyId": 18536,
+    "name": "Business, Businesswoman, Green, Energy",
+    "clip_id": "203509",
+    "order": 116
+  },
+  {
+    "storyId": 28853,
+    "name": "Wind Turbine, Green Energy, Wind Farm, Countryside",
+    "clip_id": "520894",
+    "order": 117
+  },
+  {
+    "storyId": 18211,
+    "name": "Renewable Energy Engineer on site",
+    "clip_id": "193580",
+    "order": 118
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbines rotating in a field in the country aerial",
+    "clip_id": "156209",
+    "order": 119
+  },
+  {
+    "storyId": 28853,
+    "name": "Wind Turbine, Green Energy, Wind Farm, Countryside",
+    "clip_id": "520884",
+    "order": 120
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbine rotating in a field in the country aerial",
+    "clip_id": "156192",
+    "order": 121
+  },
+  {
+    "storyId": 29244,
+    "name": "Windturbine, Windfarm, Greenenergy, Windpower",
+    "clip_id": "531193",
+    "order": 122
+  },
+  {
+    "storyId": 28853,
+    "name": "Wind Turbine, Green Energy, Wind Farm, Countryside",
+    "clip_id": "520886",
+    "order": 123
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbine rotating in a field in the country aerial",
+    "clip_id": "156196",
+    "order": 124
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbines rotating in a field in the country aerial",
+    "clip_id": "156200",
+    "order": 125
+  },
+  {
+    "storyId": 29244,
+    "name": "Windturbine, Windfarm, Greenenergy, Windpower",
+    "clip_id": "531194",
+    "order": 126
+  },
+  {
+    "storyId": 18211,
+    "name": "Renewable Energy Engineer on site",
+    "clip_id": "193581",
+    "order": 127
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbine in operation on a cloudy day aerial",
+    "clip_id": "156214",
+    "order": 128
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbine with a missing blade aerial",
+    "clip_id": "156201",
+    "order": 129
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbine  in a field in the country aerial",
+    "clip_id": "156203",
+    "order": 130
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbines rotating in a field in the country aerial",
+    "clip_id": "156208",
+    "order": 131
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbines rotating in a field in the country aerial",
+    "clip_id": "156191",
+    "order": 132
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbine being repaired in a field in the country aerial",
+    "clip_id": "156178",
+    "order": 133
+  },
+  {
+    "storyId": 16940,
+    "name": "wind farm in operation aerial",
+    "clip_id": "156212",
+    "order": 134
+  },
+  {
+    "storyId": 28853,
+    "name": "Wind Turbine, Green Energy, Wind Farm, Countryside",
+    "clip_id": "520877",
+    "order": 135
+  },
+  {
+    "storyId": 28853,
+    "name": "Wind Turbine, Green Energy, Wind Farm, Countryside",
+    "clip_id": "520873",
+    "order": 136
+  },
+  {
+    "storyId": 28853,
+    "name": "Wind Turbine, Green Energy, Wind Farm, Countryside",
+    "clip_id": "520882",
+    "order": 137
+  },
+  {
+    "storyId": 16940,
+    "name": "wind farm in operation aerial",
+    "clip_id": "156210",
+    "order": 138
+  },
+  {
+    "storyId": 28853,
+    "name": "Wind Turbine, Green Energy, Wind Farm, Countryside",
+    "clip_id": "520872",
+    "order": 139
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbine in a wind farm in operation aerial",
+    "clip_id": "156213",
+    "order": 140
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbine  in a field in the country aerial",
+    "clip_id": "156202",
+    "order": 141
+  },
+  {
+    "storyId": 25095,
+    "name": "Fields, Mountain, Valley, Snowy Top",
+    "clip_id": "405071",
+    "order": 142
+  },
+  {
+    "storyId": 16940,
+    "name": "wind turbines rotating in a field in the country aerial",
+    "clip_id": "156190",
+    "order": 143
+  },
+  {
+    "storyId": 28853,
+    "name": "Wind Turbine, Green Energy, Wind Farm, Countryside",
+    "clip_id": "520871",
+    "order": 144
+  },
+  {
+    "storyId": 28853,
+    "name": "Wind Turbine, Green Energy, Wind Farm, Countryside",
+    "clip_id": "520878",
+    "order": 145
+  },
+  {
+    "storyId": 28853,
+    "name": "Wind Turbine, Green Energy, Trees, Countryside",
+    "clip_id": "520874",
+    "order": 146
+  },
+  {
+    "storyId": 28853,
+    "name": "Wind Turbine, Green Energy, Wind Farm, Countryside",
+    "clip_id": "520875",
+    "order": 147
+  },
+  {
+    "storyId": 28853,
+    "name": "Wind Turbine, Green Energy, Wind Farm, Countryside",
+    "clip_id": "520890",
+    "order": 148
+  },
+  {
+    "storyId": 28853,
+    "name": "Wind Turbine, Green Energy, Wind Farm, Countryside",
+    "clip_id": "520888",
+    "order": 149
+  },
+  {
+    "storyId": 28853,
+    "name": "Wind Turbine, Green Energy, Countryside, Ecology",
+    "clip_id": "520893",
+    "order": 150
+  },
+  {
+    "storyId": 14185,
+    "name": "man singing a sustained note into a mic",
+    "clip_id": "86358",
+    "order": 151
+  },
+  {
+    "storyId": 14185,
+    "name": "man with headphones on singing a sustained note into a mic",
+    "clip_id": "86374",
+    "order": 152
+  }
+]

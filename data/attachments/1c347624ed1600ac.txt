@@ -1,0 +1,386 @@
+[
+  {
+    "storyId": 14262,
+    "name": "woman closing her eyes while listening to music on her headphones ",
+    "clip_id": "88507",
+    "order": 0
+  },
+  {
+    "storyId": 14262,
+    "name": "woman listening to music on her headphones ",
+    "clip_id": "88524",
+    "order": 1
+  },
+  {
+    "storyId": 13796,
+    "name": "Girl, Dance, Beach, Vibe",
+    "clip_id": "78488",
+    "order": 2
+  },
+  {
+    "storyId": 11974,
+    "name": "DJ spinning disk and playing music for party",
+    "clip_id": "47443",
+    "order": 3
+  },
+  {
+    "storyId": 11974,
+    "name": "Champagne being poured into glasses",
+    "clip_id": "47437",
+    "order": 4
+  },
+  {
+    "storyId": 12601,
+    "name": "Audience waving wildly towards live concert and stage",
+    "clip_id": "57795",
+    "order": 5
+  },
+  {
+    "storyId": 11974,
+    "name": "Blurry view of people sitting at dinner party",
+    "clip_id": "47440",
+    "order": 6
+  },
+  {
+    "storyId": 11974,
+    "name": "Blurry view of a dinner party",
+    "clip_id": "47439",
+    "order": 7
+  },
+  {
+    "storyId": 18991,
+    "name": "Girl, Young, Diner, Headphones",
+    "clip_id": "216844",
+    "order": 8
+  },
+  {
+    "storyId": 11974,
+    "name": "DJ playing music in front of small crowd at gathering",
+    "clip_id": "47442",
+    "order": 9
+  },
+  {
+    "storyId": 11974,
+    "name": "DJ busy performing in dark",
+    "clip_id": "47445",
+    "order": 10
+  },
+  {
+    "storyId": 13796,
+    "name": "Girl, Beach, Party, Dance",
+    "clip_id": "78490",
+    "order": 11
+  },
+  {
+    "storyId": 12601,
+    "name": "Audience members in crowded music venue jumping and dancing",
+    "clip_id": "57751",
+    "order": 12
+  },
+  {
+    "storyId": 11974,
+    "name": "Blurry lights at night",
+    "clip_id": "47438",
+    "order": 13
+  },
+  {
+    "storyId": 12601,
+    "name": "Crowded audience members dance and wave during live show",
+    "clip_id": "57749",
+    "order": 14
+  },
+  {
+    "storyId": 22589,
+    "name": "Friends, Celebrating, Pier, Lake",
+    "clip_id": "305284",
+    "order": 15
+  },
+  {
+    "storyId": 22589,
+    "name": "Friends, Sitting, Pier, Lake",
+    "clip_id": "305077",
+    "order": 16
+  },
+  {
+    "storyId": 12601,
+    "name": "Audience hands waving back and forth quickly towards live concert and light show",
+    "clip_id": "57859",
+    "order": 17
+  },
+  {
+    "storyId": 11974,
+    "name": "DJ spinning disk and playing music",
+    "clip_id": "47436",
+    "order": 18
+  },
+  {
+    "storyId": 12601,
+    "name": "Audience members wildly wave arms in the air towards stage at live concert and light show",
+    "clip_id": "57843",
+    "order": 19
+  },
+  {
+    "storyId": 12601,
+    "name": "Audience waves arms in the air during live concert and light show",
+    "clip_id": "57791",
+    "order": 20
+  },
+  {
+    "storyId": 14262,
+    "name": "woman closing her eyes and listening to music on her headphones ",
+    "clip_id": "88508",
+    "order": 21
+  },
+  {
+    "storyId": 12601,
+    "name": "Crowd at live concert and light show clapping hands and applauding",
+    "clip_id": "57754",
+    "order": 22
+  },
+  {
+    "storyId": 18991,
+    "name": "Girl, Young, Diner, Headphones",
+    "clip_id": "216845",
+    "order": 23
+  },
+  {
+    "storyId": 22589,
+    "name": "Friends, Sitting, Pier, Lake",
+    "clip_id": "305096",
+    "order": 24
+  },
+  {
+    "storyId": 22589,
+    "name": "Friends, Sitting, Pier, Lake",
+    "clip_id": "305271",
+    "order": 25
+  },
+  {
+    "storyId": 14262,
+    "name": "woman putting her headphones on and listening to music ",
+    "clip_id": "88506",
+    "order": 26
+  },
+  {
+    "storyId": 22589,
+    "name": "Friends, Sitting, Pier, Lake",
+    "clip_id": "305082",
+    "order": 27
+  },
+  {
+    "storyId": 17029,
+    "name": "city at night aerial ",
+    "clip_id": "158541",
+    "order": 28
+  },
+  {
+    "storyId": 22589,
+    "name": "Friends, Sitting, Pier, Lake",
+    "clip_id": "305085",
+    "order": 29
+  },
+  {
+    "storyId": 18991,
+    "name": "Girl, Young, Diner, Headphones",
+    "clip_id": "216846",
+    "order": 30
+  },
+  {
+    "storyId": 13796,
+    "name": "Bottle, Orange, Silhouette, Figure",
+    "clip_id": "78485",
+    "order": 31
+  },
+  {
+    "storyId": 19958,
+    "name": "Girl, Rooftop, Smoking, City",
+    "clip_id": "243993",
+    "order": 32
+  },
+  {
+    "storyId": 22589,
+    "name": "Friends, Sitting, Pier, Lake",
+    "clip_id": "305074",
+    "order": 33
+  },
+  {
+    "storyId": 19958,
+    "name": "Girl, Rooftop, Smoking, City",
+    "clip_id": "244007",
+    "order": 34
+  },
+  {
+    "storyId": 22589,
+    "name": "Friends, Sitting, Pier, Lake",
+    "clip_id": "305071",
+    "order": 35
+  },
+  {
+    "storyId": 19958,
+    "name": "Girl, Rooftop, Smoking, City",
+    "clip_id": "243992",
+    "order": 36
+  },
+  {
+    "storyId": 19958,
+    "name": "Girl, Rooftop, Smoking, City",
+    "clip_id": "243996",
+    "order": 37
+  },
+  {
+    "storyId": 22589,
+    "name": "Friends, Sitting, Pier, Lake",
+    "clip_id": "305092",
+    "order": 38
+  },
+  {
+    "storyId": 19958,
+    "name": "Girl, Rooftop, Smoking, City",
+    "clip_id": "243989",
+    "order": 39
+  },
+  {
+    "storyId": 13796,
+    "name": "Beach, Party, Dance, People",
+    "clip_id": "78486",
+    "order": 40
+  },
+  {
+    "storyId": 13796,
+    "name": "Girl, Beach, Smile, Horizon",
+    "clip_id": "78487",
+    "order": 41
+  },
+  {
+    "storyId": 22589,
+    "name": "Friends, Celebrating, Pier, Lake",
+    "clip_id": "305312",
+    "order": 42
+  },
+  {
+    "storyId": 19958,
+    "name": "Girl, Rooftop, Smoking, City",
+    "clip_id": "243998",
+    "order": 43
+  },
+  {
+    "storyId": 19958,
+    "name": "Girl, Smoking, Joint, Rooftop",
+    "clip_id": "244002",
+    "order": 44
+  },
+  {
+    "storyId": 19958,
+    "name": "Girl, Smoking, Joint, Rooftop",
+    "clip_id": "243997",
+    "order": 45
+  },
+  {
+    "storyId": 19958,
+    "name": "Shoes, White-Boots, White-Boots, Fashion",
+    "clip_id": "244000",
+    "order": 46
+  },
+  {
+    "storyId": 19958,
+    "name": "Girl, Rooftop, Smoking, City",
+    "clip_id": "244005",
+    "order": 47
+  },
+  {
+    "storyId": 19958,
+    "name": "Girl, Rooftop, Smoking, City",
+    "clip_id": "244004",
+    "order": 48
+  },
+  {
+    "storyId": 19958,
+    "name": "Girl, Rooftop, Smoking, City",
+    "clip_id": "243991",
+    "order": 49
+  },
+  {
+    "storyId": 19958,
+    "name": "Girl, Smoking, Joint, Rooftop",
+    "clip_id": "243999",
+    "order": 50
+  },
+  {
+    "storyId": 19958,
+    "name": "Girl, Rooftop, Smoking, City",
+    "clip_id": "244003",
+    "order": 51
+  },
+  {
+    "storyId": 19958,
+    "name": "Girl, Smoking, Joint, City",
+    "clip_id": "244001",
+    "order": 52
+  },
+  {
+    "storyId": 19958,
+    "name": "Girl, Rooftop, Smoking, City",
+    "clip_id": "243994",
+    "order": 53
+  },
+  {
+    "storyId": 19958,
+    "name": "Girl, Rooftop, Smoking, City",
+    "clip_id": "244006",
+    "order": 54
+  },
+  {
+    "storyId": 19958,
+    "name": "Shoes, White-Boots, White-Boots, Fashion",
+    "clip_id": "243987",
+    "order": 55
+  },
+  {
+    "storyId": 19958,
+    "name": "Girl, Rooftop, Smoking, City",
+    "clip_id": "243990",
+    "order": 56
+  },
+  {
+    "storyId": 19958,
+    "name": "Girl, Rooftop, Smoking, City",
+    "clip_id": "243995",
+    "order": 57
+  },
+  {
+    "storyId": 19563,
+    "name": "NA_1",
+    "clip_id": "234106",
+    "order": 58
+  },
+  {
+    "storyId": 17029,
+    "name": "sign overlooking the city aerial ",
+    "clip_id": "158543",
+    "order": 59
+  },
+  {
+    "storyId": 17029,
+    "name": "cars driving in the city at night aerial ",
+    "clip_id": "158546",
+    "order": 60
+  },
+  {
+    "storyId": 17029,
+    "name": "city lights at night aerial ",
+    "clip_id": "158547",
+    "order": 61
+  },
+  {
+    "storyId": 17029,
+    "name": "buildings at night in the city aerial ",
+    "clip_id": "158548",
+    "order": 62
+  },
+  {
+    "storyId": 17029,
+    "name": "lights twinkling in the city aerial ",
+    "clip_id": "158544",
+    "order": 63
+  }
+]

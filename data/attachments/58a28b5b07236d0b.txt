@@ -1,0 +1,14 @@
+[
+  {
+    "query": "having fun",
+    "clip_id": "102524",
+    "story_id": "14833",
+    "autoRank": "0.34389184860105904"
+  },
+  {
+    "query": "having fun",
+    "clip_id": "296422",
+    "story_id": "21612",
+    "autoRank": "0.34235430206562728"
+  }
+]

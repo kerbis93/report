@@ -1,0 +1,20 @@
+[
+  {
+    "query": "cinematic shot",
+    "clip_id": "217911",
+    "story_id": "19047",
+    "autoRank": "0.32923231756897414"
+  },
+  {
+    "query": "cinematic shot",
+    "clip_id": "407775",
+    "story_id": "25173",
+    "autoRank": "0.32775419187916005"
+  },
+  {
+    "query": "cinematic shot",
+    "clip_id": "55617",
+    "story_id": "12431",
+    "autoRank": "0.32454764926390861"
+  }
+]

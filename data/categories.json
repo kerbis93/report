@@ -1,0 +1,2237 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments",
+      "children" : [ {
+        "name" : "Verify search term = \"Eye Candy\"",
+        "uid" : "bd284ace37803778",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667470973409,
+          "stop" : 1667470990402,
+          "duration" : 16993
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"abstract visuals\"",
+        "uid" : "1a16a3b90ea54460",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667470990404,
+          "stop" : 1667471002783,
+          "duration" : 12379
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"authentic style\"",
+        "uid" : "8d1373a5816b240d",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471005989,
+          "stop" : 1667471020976,
+          "duration" : 14987
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"big empty space\"",
+        "uid" : "593fcba04f4944fc",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471047212,
+          "stop" : 1667471056724,
+          "duration" : 9512
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"big size model\"",
+        "uid" : "7dafda66bee7b5aa",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471056725,
+          "stop" : 1667471077611,
+          "duration" : 20886
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"black\"",
+        "uid" : "e704c3ffb063c9d6",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471097196,
+          "stop" : 1667471102922,
+          "duration" : 5726
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "5", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"cinematic shot\"",
+        "uid" : "4b3bae0492c99ea8",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471209052,
+          "stop" : 1667471229350,
+          "duration" : 20298
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"coffee berries\"",
+        "uid" : "da752ab7f95fdb30",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471249652,
+          "stop" : 1667471270968,
+          "duration" : 21316
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"commercial vibe\"",
+        "uid" : "c64c11e718e2f412",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471270969,
+          "stop" : 1667471289605,
+          "duration" : 18636
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "17", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"cyberpunk\"",
+        "uid" : "5057ca934c97b010",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471289606,
+          "stop" : 1667471292120,
+          "duration" : 2514
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"divine\"",
+        "uid" : "2050df9962cfeeed",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471292121,
+          "stop" : 1667471293694,
+          "duration" : 1573
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"documentary of domestic animals\"",
+        "uid" : "40c056f802328d2a",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471293695,
+          "stop" : 1667471316262,
+          "duration" : 22567
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"domestic violence\"",
+        "uid" : "74c5661126069331",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471316263,
+          "stop" : 1667471337958,
+          "duration" : 21695
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"drone\"",
+        "uid" : "5b2274ab3bd09df3",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471359801,
+          "stop" : 1667471378166,
+          "duration" : 18365
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"fool around  slang\"",
+        "uid" : "ffb75b66da99e0a7",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471513960,
+          "stop" : 1667471534454,
+          "duration" : 20494
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"gender fluid\"",
+        "uid" : "4745af3ac651ad71",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471534460,
+          "stop" : 1667471553159,
+          "duration" : 18699
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"goofing around  - slang\"",
+        "uid" : "240532edb2e9344f",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471574349,
+          "stop" : 1667471594665,
+          "duration" : 20316
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"graphical loop\"",
+        "uid" : "d5c80d32f8516934",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471596008,
+          "stop" : 1667471613542,
+          "duration" : 17534
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"having fun\"",
+        "uid" : "59f6d30214508119",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471631567,
+          "stop" : 1667471653274,
+          "duration" : 21707
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"innocent\"",
+        "uid" : "bc7809d8facfc6c5",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471681573,
+          "stop" : 1667471683407,
+          "duration" : 1834
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"intro\"",
+        "uid" : "ee057dfcf060f139",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471683408,
+          "stop" : 1667471687088,
+          "duration" : 3680
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"master\"",
+        "uid" : "1bf3c33df3abe189",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471724860,
+          "stop" : 1667471731474,
+          "duration" : 6614
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "6", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"melting statue\"",
+        "uid" : "c31f7e705265aaa2",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471731475,
+          "stop" : 1667471749888,
+          "duration" : 18413
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"overweight\"",
+        "uid" : "49e930863950b57d",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471832160,
+          "stop" : 1667471836176,
+          "duration" : 4016
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"park\"",
+        "uid" : "885f7a3a06a3d843",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471836182,
+          "stop" : 1667471856425,
+          "duration" : 20243
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"pop colture\"",
+        "uid" : "5bf1c1c341cf8552",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471856426,
+          "stop" : 1667471864877,
+          "duration" : 8451
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"school bus\"",
+        "uid" : "f45657c25a98a03",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471905284,
+          "stop" : 1667471931687,
+          "duration" : 26403
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"sustainability\"",
+        "uid" : "3ed827a6b531d1b2",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472115896,
+          "stop" : 1667472120022,
+          "duration" : 4126
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "5", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"tea pot\"",
+        "uid" : "6ac96e6d8b550ab7",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472120023,
+          "stop" : 1667472139905,
+          "duration" : 19882
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"techno\"",
+        "uid" : "6f54acaebc905aaf",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472139907,
+          "stop" : 1667472145518,
+          "duration" : 5611
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"the big bang\"",
+        "uid" : "30eb68d906d1992b",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472146531,
+          "stop" : 1667472167455,
+          "duration" : 20924
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"tiktok\"",
+        "uid" : "1c33df9096bc79f4",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472167456,
+          "stop" : 1667472171212,
+          "duration" : 3756
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"tribal\"",
+        "uid" : "2c3d09b483757ef",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472172712,
+          "stop" : 1667472180724,
+          "duration" : 8012
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "7", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"vibing - slang\"",
+        "uid" : "8eb8fb7ac06fa549",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472181570,
+          "stop" : 1667472184049,
+          "duration" : 2479
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"vj\"",
+        "uid" : "a62ac240581d417e",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472184049,
+          "stop" : 1667472199378,
+          "duration" : 15329
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "18", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"wandering city\"",
+        "uid" : "226786b9265e5e67",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472199380,
+          "stop" : 1667472220396,
+          "duration" : 21016
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"war zone\"",
+        "uid" : "7dd16e6a87fbdadc",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472220401,
+          "stop" : 1667472237839,
+          "duration" : 17438
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "15", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"wireframe\"",
+        "uid" : "b83506185fc352b5",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472259481,
+          "stop" : 1667472261035,
+          "duration" : 1554
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"woman falling with colorful light\"",
+        "uid" : "3c529ad0085cec0a",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472261036,
+          "stop" : 1667472280399,
+          "duration" : 19363
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"woman in a dreamy scene\"",
+        "uid" : "d128d62d9a18c60b",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472280400,
+          "stop" : 1667472304883,
+          "duration" : 24483
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"working out at home\"",
+        "uid" : "1ee88364f801c124",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472304883,
+          "stop" : 1667472325900,
+          "duration" : 21017
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"yellow cab\"",
+        "uid" : "830d00962b08a4fe",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472325904,
+          "stop" : 1667472344831,
+          "duration" : 18927
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"youtube\"",
+        "uid" : "3857cef1ba05cc3c",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472344832,
+          "stop" : 1667472352260,
+          "duration" : 7428
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "6", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"Eye Candy\"",
+        "uid" : "763fead1deb4d4c4",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472352271,
+          "stop" : 1667472353468,
+          "duration" : 1197
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"abstract visuals\"",
+        "uid" : "cb34569f451d7b80",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472353469,
+          "stop" : 1667472354347,
+          "duration" : 878
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"authentic style\"",
+        "uid" : "6330be7d04b8c83d",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472356055,
+          "stop" : 1667472357928,
+          "duration" : 1873
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"black\"",
+        "uid" : "5ff2809e987f2401",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472398427,
+          "stop" : 1667472419616,
+          "duration" : 21189
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"black children\"",
+        "uid" : "b57cdab29268856",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472456616,
+          "stop" : 1667472477872,
+          "duration" : 21256
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"cherry blossom\"",
+        "uid" : "ae6399c9e9050017",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472506017,
+          "stop" : 1667472509528,
+          "duration" : 3511
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "5", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"cinematic shot\"",
+        "uid" : "69e76f655eec52a4",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472509529,
+          "stop" : 1667472511152,
+          "duration" : 1623
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"coffee berries\"",
+        "uid" : "c9d5ec4674f60029",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472521539,
+          "stop" : 1667472522518,
+          "duration" : 979
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"cyberpunk\"",
+        "uid" : "9d971714d8086ab4",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472523038,
+          "stop" : 1667472525360,
+          "duration" : 2322
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"divine\"",
+        "uid" : "a0f27fd2255f8d9d",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472525361,
+          "stop" : 1667472526158,
+          "duration" : 797
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"domestic violence\"",
+        "uid" : "57521135dd14a446",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472526752,
+          "stop" : 1667472527925,
+          "duration" : 1173
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"drone\"",
+        "uid" : "b13517daa46133b8",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472549418,
+          "stop" : 1667472568505,
+          "duration" : 19087
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"egg white\"",
+        "uid" : "9bb3a3942eae6a29",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472599918,
+          "stop" : 1667472601427,
+          "duration" : 1509
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"empty train\"",
+        "uid" : "58858de8ff49dc7",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472615818,
+          "stop" : 1667472618236,
+          "duration" : 2418
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"fast car\"",
+        "uid" : "188720263551fd2c",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472618236,
+          "stop" : 1667472622539,
+          "duration" : 4303
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "5", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"gender fluid\"",
+        "uid" : "b15ec04b75284a5c",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472643953,
+          "stop" : 1667472647513,
+          "duration" : 3560
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"having fun\"",
+        "uid" : "ae69d90d5aca1ce5",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472691992,
+          "stop" : 1667472700038,
+          "duration" : 8046
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "10", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"innocent\"",
+        "uid" : "438c6746cf4b3e3b",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472731636,
+          "stop" : 1667472735035,
+          "duration" : 3399
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"intro\"",
+        "uid" : "cfabfb88ca7f8198",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472735036,
+          "stop" : 1667472737878,
+          "duration" : 2842
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"lights in a tunnel\"",
+        "uid" : "edfd2ac4892eb1e0",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472737878,
+          "stop" : 1667472740957,
+          "duration" : 3079
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"master\"",
+        "uid" : "46dbf074b462cf91",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472754287,
+          "stop" : 1667472759564,
+          "duration" : 5277
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "6", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"melting statue\"",
+        "uid" : "ec4f4d5752d74a90",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472759567,
+          "stop" : 1667472760326,
+          "duration" : 759
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"modern dance\"",
+        "uid" : "f94422a0ff35df63",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472779651,
+          "stop" : 1667472790164,
+          "duration" : 10513
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "9", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"overweight\"",
+        "uid" : "e596c57092ac805",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472832789,
+          "stop" : 1667472835550,
+          "duration" : 2761
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"park\"",
+        "uid" : "4d56c434cdcc614",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472835555,
+          "stop" : 1667472855796,
+          "duration" : 20241
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"school bus\"",
+        "uid" : "ecc299e6653ba3d4",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472873922,
+          "stop" : 1667472879231,
+          "duration" : 5309
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "5", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"slow motion\"",
+        "uid" : "5305ebc4d7f50460",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472898982,
+          "stop" : 1667472916457,
+          "duration" : 17475
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "19", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"street style\"",
+        "uid" : "325620d47f3159ad",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472974910,
+          "stop" : 1667472983573,
+          "duration" : 8663
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "10", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"sustainability\"",
+        "uid" : "5750cb1906ce9c38",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667473010971,
+          "stop" : 1667473013019,
+          "duration" : 2048
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"tea pot\"",
+        "uid" : "c9a07a80b5a65ce",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667473013020,
+          "stop" : 1667473014660,
+          "duration" : 1640
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"techno\"",
+        "uid" : "8f047e65529b5b6e",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667473014661,
+          "stop" : 1667473017815,
+          "duration" : 3154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"the big bang\"",
+        "uid" : "8444a12809438cd1",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667473018737,
+          "stop" : 1667473019975,
+          "duration" : 1238
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"tiktok\"",
+        "uid" : "ef11c7e7ac8cc306",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667473019976,
+          "stop" : 1667473024518,
+          "duration" : 4542
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"tribal\"",
+        "uid" : "5fa4bfd5d7a34c87",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667473025807,
+          "stop" : 1667473032010,
+          "duration" : 6203
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "7", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"vj\"",
+        "uid" : "2beebccfa673bb5f",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667473032875,
+          "stop" : 1667473048968,
+          "duration" : 16093
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "18", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"wandering city\"",
+        "uid" : "3458886bd1d4b6f5",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667473048969,
+          "stop" : 1667473051017,
+          "duration" : 2048
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"war zone\"",
+        "uid" : "46de0b1749ad1054",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667473051018,
+          "stop" : 1667473053713,
+          "duration" : 2695
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"wireframe\"",
+        "uid" : "23875bef42c3f2dd",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667473065930,
+          "stop" : 1667473066827,
+          "duration" : 897
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"working out at home\"",
+        "uid" : "92a523ca8d6e61a7",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667473067746,
+          "stop" : 1667473068648,
+          "duration" : 902
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"yellow cab\"",
+        "uid" : "6766ce51de0c85be",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667473068649,
+          "stop" : 1667473070360,
+          "duration" : 1711
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"youtube\"",
+        "uid" : "e0d1d3eeee5c5544",
+        "parentUid" : "ac70bd953d829c9ccea51138ee373067",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667473070361,
+          "stop" : 1667473076995,
+          "duration" : 6634
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "6", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "ac70bd953d829c9ccea51138ee373067"
+    }, {
+      "name" : "Error parsing response to JSON: \nTypeError: Cannot read properties of null (reading 'clipList')\n Response text: \n {\"errors\":[{\"message\":\"Failed to parse query string at line 1, column 32. See https://aka.ms/azure-search-full-query for supported syntax.\",\"locations\":[{\"line\":2,\"column\":3}],\"path\":[\"clipList\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\",\"exception\":{\"name\":\"RestError\",\"code\":\"InvalidRequestParameter\",\"statusCode\":400,\"request\":{\"streamResponseStatusCodes\":{},\"url\":\"https://test-al-footage-v1.search.windows.net/indexes('cms-categories-indexes-v3')/docs/search.post.search?api-version=2020-06-30-Preview\",\"method\":\"POST\",\"headers\":{\"_headersMap\":{\"content-type\":{\"name\":\"Content-Type\",\"value\":\"application/json\"},\"accept\":{\"name\":\"Accept\",\"value\":\"application/json;odata.metadata=none\"},\"user-agent\":{\"name\":\"User-Agent\",\"value\":\"azsdk-js-search-documents/11.3.0 core-http/2.2.7 Node/v16.14.2 OS/(x64-Linux-5.4.0-1089-azure)\"},\"x-ms-client-request-id\":{\"name\":\"x-ms-client-request-id\",\"value\":\"1d66145c-2378-4aaf-8d7d-010e25106c6e\"},\"api-key\":{\"name\":\"api-key\",\"value\":\"09414DD76465B181BF562174F44B81BD\"},\"cookie\":{\"name\":\"Cookie\",\"value\":\"\"}}},\"body\":\"{\\\"count\\\":false,\\\"orderby\\\":\\\"search.score() desc\\\",\\\"queryType\\\":\\\"full\\\",\\\"search\\\":\\\"(name:('amazing view/scenery'))\\\",\\\"searchMode\\\":\\\"all\\\",\\\"skip\\\":null}\",\"withCredentials\":false,\"timeout\":0,\"keepAlive\":true,\"requestId\":\"1d66145c-2378-4aaf-8d7d-010e25106c6e\",\"operationSpec\":{\"path\":\"/docs/search.post.search\",\"httpMethod\":\"POST\",\"responses\":{\"200\":{\"bodyMapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchDocumentsResult\",\"modelProperties\":{\"count\":{\"serializedName\":\"@odata\\\\.count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"facets\":{\"serializedName\":\"@search\\\\.facets\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\"}}}}}},\"nextPageParameters\":{\"serializedName\":\"@search\\\\.nextPageParameters\",\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\"}}}},\"nextLink\":{\"serializedName\":\"@odata\\\\.nextLink\",\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}}},\"default\":{\"bodyMapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\",\"modelProperties\":{\"code\":{\"serializedName\":\"code\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"message\":{\"serializedName\":\"message\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"details\":{\"serializedName\":\"details\",\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\"}}}}}}}}},\"requestBody\":{\"parameterPath\":\"searchRequest\",\"mapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\",\"modelProperties\":{\"includeTotalResultCount\":{\"serializedName\":\"count\",\"type\":{\"name\":\"Boolean\"}},\"facets\":{\"serializedName\":\"facets\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"highlightFields\":{\"serializedName\":\"highlight\",\"type\":{\"name\":\"String\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"queryType\":{\"serializedName\":\"queryType\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"simple\",\"full\"]}},\"scoringStatistics\":{\"serializedName\":\"scoringStatistics\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"local\",\"global\"]}},\"sessionId\":{\"serializedName\":\"sessionId\",\"type\":{\"name\":\"String\"}},\"scoringParameters\":{\"serializedName\":\"scoringParameters\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"scoringProfile\":{\"serializedName\":\"scoringProfile\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"searchMode\":{\"serializedName\":\"searchMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"any\",\"all\"]}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"skip\":{\"serializedName\":\"skip\",\"type\":{\"name\":\"Number\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}}},\"queryParameters\":[{\"parameterPath\":\"apiVersion\",\"mapper\":{\"serializedName\":\"api-version\",\"required\":true,\"type\":{\"name\":\"String\"}}}],\"urlParameters\":[{\"parameterPath\":\"endpoint\",\"mapper\":{\"serializedName\":\"endpoint\",\"required\":true,\"type\":{\"name\":\"String\"}},\"skipEncoding\":true},{\"parameterPath\":\"indexName\",\"mapper\":{\"serializedName\":\"indexName\",\"required\":true,\"type\":{\"name\":\"String\"}}}],\"headerParameters\":[{\"parameterPath\":\"accept\",\"mapper\":{\"defaultValue\":\"application/json\",\"isConstant\":true,\"serializedName\":\"Accept\",\"type\":{\"name\":\"String\"}}},{\"parameterPath\":[\"options\",\"requestOptionsParam\",\"xMsClientRequestId\"],\"mapper\":{\"serializedName\":\"x-ms-client-request-id\",\"type\":{\"name\":\"Uuid\"}}},{\"parameterPath\":[\"options\",\"contentType\"],\"mapper\":{\"defaultValue\":\"application/json\",\"isConstant\":true,\"serializedName\":\"Content-Type\",\"type\":{\"name\":\"String\"}}}],\"mediaType\":\"json\",\"serializer\":{\"modelMappers\":{\"SearchError\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\",\"modelProperties\":{\"code\":{\"serializedName\":\"code\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"message\":{\"serializedName\":\"message\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"details\":{\"serializedName\":\"details\",\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\"}}}}}}},\"SearchDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchDocumentsResult\",\"modelProperties\":{\"count\":{\"serializedName\":\"@odata\\\\.count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"facets\":{\"serializedName\":\"@search\\\\.facets\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\"}}}}}},\"nextPageParameters\":{\"serializedName\":\"@search\\\\.nextPageParameters\",\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\"}}}},\"nextLink\":{\"serializedName\":\"@odata\\\\.nextLink\",\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"FacetResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"count\":{\"serializedName\":\"count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"SearchRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\",\"modelProperties\":{\"includeTotalResultCount\":{\"serializedName\":\"count\",\"type\":{\"name\":\"Boolean\"}},\"facets\":{\"serializedName\":\"facets\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"highlightFields\":{\"serializedName\":\"highlight\",\"type\":{\"name\":\"String\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"queryType\":{\"serializedName\":\"queryType\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"simple\",\"full\"]}},\"scoringStatistics\":{\"serializedName\":\"scoringStatistics\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"local\",\"global\"]}},\"sessionId\":{\"serializedName\":\"sessionId\",\"type\":{\"name\":\"String\"}},\"scoringParameters\":{\"serializedName\":\"scoringParameters\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"scoringProfile\":{\"serializedName\":\"scoringProfile\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"searchMode\":{\"serializedName\":\"searchMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"any\",\"all\"]}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"skip\":{\"serializedName\":\"skip\",\"type\":{\"name\":\"Number\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}},\"SearchResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"_score\":{\"serializedName\":\"@search\\\\.score\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"_highlights\":{\"serializedName\":\"@search\\\\.highlights\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}}}}}}},\"SuggestDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestDocumentsResult\",\"modelProperties\":{\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestResult\"}}}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"SuggestResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"_text\":{\"serializedName\":\"@search\\\\.text\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"SuggestRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestRequest\",\"modelProperties\":{\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"useFuzzyMatching\":{\"serializedName\":\"fuzzy\",\"type\":{\"name\":\"Boolean\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"required\":true,\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"suggesterName\":{\"serializedName\":\"suggesterName\",\"required\":true,\"type\":{\"name\":\"String\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}},\"IndexBatch\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexBatch\",\"modelProperties\":{\"actions\":{\"serializedName\":\"value\",\"required\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexAction\"}}}}}}},\"IndexAction\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexAction\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"__actionType\":{\"serializedName\":\"@search\\\\.action\",\"required\":true,\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"upload\",\"merge\",\"mergeOrUpload\",\"delete\"]}}}}},\"IndexDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexDocumentsResult\",\"modelProperties\":{\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexingResult\"}}}}}}},\"IndexingResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexingResult\",\"modelProperties\":{\"key\":{\"serializedName\":\"key\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"errorMessage\":{\"serializedName\":\"errorMessage\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"succeeded\":{\"serializedName\":\"status\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Boolean\"}},\"statusCode\":{\"serializedName\":\"statusCode\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"AutocompleteResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteResult\",\"modelProperties\":{\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteItem\"}}}}}}},\"AutocompleteItem\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteItem\",\"modelProperties\":{\"text\":{\"serializedName\":\"text\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"queryPlusText\":{\"serializedName\":\"queryPlusText\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"AutocompleteRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteRequest\",\"modelProperties\":{\"searchText\":{\"serializedName\":\"search\",\"required\":true,\"type\":{\"name\":\"String\"}},\"autocompleteMode\":{\"serializedName\":\"autocompleteMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"oneTerm\",\"twoTerms\",\"oneTermWithContext\"]}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"useFuzzyMatching\":{\"serializedName\":\"fuzzy\",\"type\":{\"name\":\"Boolean\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"suggesterName\":{\"serializedName\":\"suggesterName\",\"required\":true,\"type\":{\"name\":\"String\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}}},\"isXML\":false}}},\"response\":{\"headers\":{\"_headersMap\":{\"cache-control\":{\"name\":\"cache-control\",\"value\":\"no-cache\"},\"content-language\":{\"name\":\"content-language\",\"value\":\"en\"},\"content-length\":{\"name\":\"content-length\",\"value\":\"343\"},\"content-type\":{\"name\":\"content-type\",\"value\":\"application/json; charset=utf-8\"},\"date\":{\"name\":\"date\",\"value\":\"Thu, 03 Nov 2022 10:23:23 GMT\"},\"elapsed-time\":{\"name\":\"elapsed-time\",\"value\":\"209\"},\"expires\":{\"name\":\"expires\",\"value\":\"-1\"},\"pragma\":{\"name\":\"pragma\",\"value\":\"no-cache\"},\"preference-applied\":{\"name\":\"preference-applied\",\"value\":\"odata.include-annotations=\\\"*\\\"\"},\"request-id\":{\"name\":\"request-id\",\"value\":\"1d66145c-2378-4aaf-8d7d-010e25106c6e\"},\"strict-transport-security\":{\"name\":\"strict-transport-security\",\"value\":\"max-age=15724800; includeSubDomains\"}}},\"request\":{\"streamResponseStatusCodes\":{},\"url\":\"https://test-al-footage-v1.search.windows.net/indexes('cms-categories-indexes-v3')/docs/search.post.search?api-version=2020-06-30-Preview\",\"method\":\"POST\",\"headers\":{\"_headersMap\":{\"content-type\":{\"name\":\"Content-Type\",\"value\":\"application/json\"},\"accept\":{\"name\":\"Accept\",\"value\":\"application/json;odata.metadata=none\"},\"user-agent\":{\"name\":\"User-Agent\",\"value\":\"azsdk-js-search-documents/11.3.0 core-http/2.2.7 Node/v16.14.2 OS/(x64-Linux-5.4.0-1089-azure)\"},\"x-ms-client-request-id\":{\"name\":\"x-ms-client-request-id\",\"value\":\"1d66145c-2378-4aaf-8d7d-010e25106c6e\"},\"api-key\":{\"name\":\"api-key\",\"value\":\"09414DD76465B181BF562174F44B81BD\"},\"cookie\":{\"name\":\"Cookie\",\"value\":\"\"}}},\"body\":\"{\\\"count\\\":false,\\\"orderby\\\":\\\"search.score() desc\\\",\\\"queryType\\\":\\\"full\\\",\\\"search\\\":\\\"(name:('amazing view/scenery'))\\\",\\\"searchMode\\\":\\\"all\\\",\\\"skip\\\":null}\",\"withCredentials\":false,\"timeout\":0,\"keepAlive\":true,\"requestId\":\"1d66145c-2378-4aaf-8d7d-010e25106c6e\",\"operationSpec\":{\"path\":\"/docs/search.post.search\",\"httpMethod\":\"POST\",\"responses\":{\"200\":{\"bodyMapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchDocumentsResult\",\"modelProperties\":{\"count\":{\"serializedName\":\"@odata\\\\.count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"facets\":{\"serializedName\":\"@search\\\\.facets\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\"}}}}}},\"nextPageParameters\":{\"serializedName\":\"@search\\\\.nextPageParameters\",\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\"}}}},\"nextLink\":{\"serializedName\":\"@odata\\\\.nextLink\",\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}}},\"default\":{\"bodyMapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\",\"modelProperties\":{\"code\":{\"serializedName\":\"code\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"message\":{\"serializedName\":\"message\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"details\":{\"serializedName\":\"details\",\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\"}}}}}}}}},\"requestBody\":{\"parameterPath\":\"searchRequest\",\"mapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\",\"modelProperties\":{\"includeTotalResultCount\":{\"serializedName\":\"count\",\"type\":{\"name\":\"Boolean\"}},\"facets\":{\"serializedName\":\"facets\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"highlightFields\":{\"serializedName\":\"highlight\",\"type\":{\"name\":\"String\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"queryType\":{\"serializedName\":\"queryType\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"simple\",\"full\"]}},\"scoringStatistics\":{\"serializedName\":\"scoringStatistics\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"local\",\"global\"]}},\"sessionId\":{\"serializedName\":\"sessionId\",\"type\":{\"name\":\"String\"}},\"scoringParameters\":{\"serializedName\":\"scoringParameters\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"scoringProfile\":{\"serializedName\":\"scoringProfile\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"searchMode\":{\"serializedName\":\"searchMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"any\",\"all\"]}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"skip\":{\"serializedName\":\"skip\",\"type\":{\"name\":\"Number\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}}},\"queryParameters\":[{\"parameterPath\":\"apiVersion\",\"mapper\":{\"serializedName\":\"api-version\",\"required\":true,\"type\":{\"name\":\"String\"}}}],\"urlParameters\":[{\"parameterPath\":\"endpoint\",\"mapper\":{\"serializedName\":\"endpoint\",\"required\":true,\"type\":{\"name\":\"String\"}},\"skipEncoding\":true},{\"parameterPath\":\"indexName\",\"mapper\":{\"serializedName\":\"indexName\",\"required\":true,\"type\":{\"name\":\"String\"}}}],\"headerParameters\":[{\"parameterPath\":\"accept\",\"mapper\":{\"defaultValue\":\"application/json\",\"isConstant\":true,\"serializedName\":\"Accept\",\"type\":{\"name\":\"String\"}}},{\"parameterPath\":[\"options\",\"requestOptionsParam\",\"xMsClientRequestId\"],\"mapper\":{\"serializedName\":\"x-ms-client-request-id\",\"type\":{\"name\":\"Uuid\"}}},{\"parameterPath\":[\"options\",\"contentType\"],\"mapper\":{\"defaultValue\":\"application/json\",\"isConstant\":true,\"serializedName\":\"Content-Type\",\"type\":{\"name\":\"String\"}}}],\"mediaType\":\"json\",\"serializer\":{\"modelMappers\":{\"SearchError\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\",\"modelProperties\":{\"code\":{\"serializedName\":\"code\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"message\":{\"serializedName\":\"message\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"details\":{\"serializedName\":\"details\",\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\"}}}}}}},\"SearchDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchDocumentsResult\",\"modelProperties\":{\"count\":{\"serializedName\":\"@odata\\\\.count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"facets\":{\"serializedName\":\"@search\\\\.facets\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\"}}}}}},\"nextPageParameters\":{\"serializedName\":\"@search\\\\.nextPageParameters\",\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\"}}}},\"nextLink\":{\"serializedName\":\"@odata\\\\.nextLink\",\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"FacetResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"count\":{\"serializedName\":\"count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"SearchRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\",\"modelProperties\":{\"includeTotalResultCount\":{\"serializedName\":\"count\",\"type\":{\"name\":\"Boolean\"}},\"facets\":{\"serializedName\":\"facets\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"highlightFields\":{\"serializedName\":\"highlight\",\"type\":{\"name\":\"String\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"queryType\":{\"serializedName\":\"queryType\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"simple\",\"full\"]}},\"scoringStatistics\":{\"serializedName\":\"scoringStatistics\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"local\",\"global\"]}},\"sessionId\":{\"serializedName\":\"sessionId\",\"type\":{\"name\":\"String\"}},\"scoringParameters\":{\"serializedName\":\"scoringParameters\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"scoringProfile\":{\"serializedName\":\"scoringProfile\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"searchMode\":{\"serializedName\":\"searchMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"any\",\"all\"]}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"skip\":{\"serializedName\":\"skip\",\"type\":{\"name\":\"Number\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}},\"SearchResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"_score\":{\"serializedName\":\"@search\\\\.score\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"_highlights\":{\"serializedName\":\"@search\\\\.highlights\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}}}}}}},\"SuggestDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestDocumentsResult\",\"modelProperties\":{\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestResult\"}}}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"SuggestResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"_text\":{\"serializedName\":\"@search\\\\.text\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"SuggestRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestRequest\",\"modelProperties\":{\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"useFuzzyMatching\":{\"serializedName\":\"fuzzy\",\"type\":{\"name\":\"Boolean\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"required\":true,\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"suggesterName\":{\"serializedName\":\"suggesterName\",\"required\":true,\"type\":{\"name\":\"String\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}},\"IndexBatch\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexBatch\",\"modelProperties\":{\"actions\":{\"serializedName\":\"value\",\"required\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexAction\"}}}}}}},\"IndexAction\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexAction\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"__actionType\":{\"serializedName\":\"@search\\\\.action\",\"required\":true,\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"upload\",\"merge\",\"mergeOrUpload\",\"delete\"]}}}}},\"IndexDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexDocumentsResult\",\"modelProperties\":{\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexingResult\"}}}}}}},\"IndexingResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexingResult\",\"modelProperties\":{\"key\":{\"serializedName\":\"key\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"errorMessage\":{\"serializedName\":\"errorMessage\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"succeeded\":{\"serializedName\":\"status\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Boolean\"}},\"statusCode\":{\"serializedName\":\"statusCode\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"AutocompleteResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteResult\",\"modelProperties\":{\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteItem\"}}}}}}},\"AutocompleteItem\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteItem\",\"modelProperties\":{\"text\":{\"serializedName\":\"text\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"queryPlusText\":{\"serializedName\":\"queryPlusText\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"AutocompleteRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteRequest\",\"modelProperties\":{\"searchText\":{\"serializedName\":\"search\",\"required\":true,\"type\":{\"name\":\"String\"}},\"autocompleteMode\":{\"serializedName\":\"autocompleteMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"oneTerm\",\"twoTerms\",\"oneTermWithContext\"]}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"useFuzzyMatching\":{\"serializedName\":\"fuzzy\",\"type\":{\"name\":\"Boolean\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"suggesterName\":{\"serializedName\":\"suggesterName\",\"required\":true,\"type\":{\"name\":\"String\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}}},\"isXML\":false}}},\"status\":400,\"bodyAsText\":\"{\\\"error\\\":{\\\"code\\\":\\\"InvalidRequestParameter\\\",\\\"message\\\":\\\"Failed to parse query string at line 1, column 32. See https://aka.ms/azure-search-full-query for supported syntax.\\\",\\\"details\\\":[{\\\"code\\\":\\\"InvalidSearchSyntax\\\",\\\"message\\\":\\\"Failed to parse query string at line 1, column 32. See https://aka.ms/azure-search-full-query for supported syntax.\\\"}]}}\",\"parsedBody\":{\"error\":{\"code\":\"InvalidRequestParameter\",\"message\":\"Failed to parse query string at line 1, column 32. See https://aka.ms/azure-search-full-query for supported syntax.\",\"details\":[{\"code\":\"InvalidSearchSyntax\",\"message\":\"Failed to parse query string at line 1, column 32. See https://aka.ms/azure-search-full-query for supported syntax.\"}]}}},\"details\":{\"error\":{\"code\":\"InvalidRequestParameter\",\"message\":\"Failed to parse query string at line 1, column 32. See https://aka.ms/azure-search-full-query for supported syntax.\",\"details\":[{\"code\":\"InvalidSearchSyntax\",\"message\":\"Failed to parse query string at line 1, column 32. See https://aka.ms/azure-search-full-query for supported syntax.\"}]}},\"stacktrace\":[\"RestError: Failed to parse query string at line 1, column 32. See https://aka.ms/azure-search-full-query for supported syntax.\",\"    at handleErrorResponse (/usr/src/app/node_modules/@azure/core-http/src/policies/deserializationPolicy.ts:274:17)\",\"    at /usr/src/app/node_modules/@azure/core-http/src/policies/deserializationPolicy.ts:179:47\",\"    at processTicksAndRejections (node:internal/process/task_queues:96:5)\",\"    at SearchClient.sendOperationRequest (/usr/src/app/node_modules/@azure/core-http/src/serviceClient.ts:520:23)\",\"    at AzureSearchClient.searchDocuments (/usr/src/app/node_modules/@azure/search-documents/src/searchClient.ts:270:22)\",\"    at AzureSearchClient.search (/usr/src/app/node_modules/@azure/search-documents/src/searchClient.ts:378:26)\",\"    at AzureSearchClient.queryWithTotalCount (/usr/src/app/src/common/providers/searchEngines/azure/azureSearchClient.ts:21:27)\",\"    at AzureSearchService.search (/usr/src/app/src/common/providers/searchEngines/azure/azureSearchService.ts:17:22)\",\"    at CollectionsService.getCategoriesBySearchTerms (/usr/src/app/src/domains/video/services/v1/collectionSearchService.ts:93:23)\",\"    at VideoSearchStaffPicksService.extractIdentifiedSearchTermsToCategoryIds (/usr/src/app/src/domains/video/services/v1/videoSearchStaffPicksService.ts:60:56)\"]}}}],\"data\":null}\n",
+      "children" : [ {
+        "name" : "Verify search term = \"amazing view/scenery\"",
+        "uid" : "e4e883843a9e495a",
+        "parentUid" : "3860c41dc97f7db9fc8fe1eb3633d281",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471002789,
+          "stop" : 1667471005677,
+          "duration" : 2888
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "3860c41dc97f7db9fc8fe1eb3633d281"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"artgrid\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"artgrid\"",
+        "uid" : "886f9a6a8f560126",
+        "parentUid" : "d1d5c68caa5b49a95a71f941731a9b18",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471005679,
+          "stop" : 1667471005985,
+          "duration" : 306
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"artgrid\"",
+        "uid" : "56162df5f368afb1",
+        "parentUid" : "d1d5c68caa5b49a95a71f941731a9b18",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472355527,
+          "stop" : 1667472356054,
+          "duration" : 527
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "d1d5c68caa5b49a95a71f941731a9b18"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"beyonce\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"beyonce\"",
+        "uid" : "50a8420eab50b634",
+        "parentUid" : "8d1449acf56cf0dba37c2e7e9152be28",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471046990,
+          "stop" : 1667471047211,
+          "duration" : 221
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"beyonce\"",
+        "uid" : "9bd396d6964792f",
+        "parentUid" : "8d1449acf56cf0dba37c2e7e9152be28",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472385264,
+          "stop" : 1667472386004,
+          "duration" : 740
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "8d1449acf56cf0dba37c2e7e9152be28"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"bussiness\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"bussiness\"",
+        "uid" : "79b160164cc8ad11",
+        "parentUid" : "7c66bb7f3884d4852337e2e8a8387205",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471162945,
+          "stop" : 1667471163877,
+          "duration" : 932
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"bussiness\"",
+        "uid" : "b20ee81f824409fc",
+        "parentUid" : "7c66bb7f3884d4852337e2e8a8387205",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472477875,
+          "stop" : 1667472478286,
+          "duration" : 411
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "7c66bb7f3884d4852337e2e8a8387205"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"google\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"google\"",
+        "uid" : "6cb88897bddd4a0",
+        "parentUid" : "dff95f9ea7d36878869d4e0271522f3c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471594671,
+          "stop" : 1667471595388,
+          "duration" : 717
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"google\"",
+        "uid" : "7461e2a59ffe9f4f",
+        "parentUid" : "dff95f9ea7d36878869d4e0271522f3c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472668425,
+          "stop" : 1667472669104,
+          "duration" : 679
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "dff95f9ea7d36878869d4e0271522f3c"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"goosebumps\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"goosebumps\"",
+        "uid" : "8e47d310d6d9d1b6",
+        "parentUid" : "3b3c5c299eb83b3465ad2e619fb489fa",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471595390,
+          "stop" : 1667471596006,
+          "duration" : 616
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"goosebumps\"",
+        "uid" : "32cfac331ab0c186",
+        "parentUid" : "3b3c5c299eb83b3465ad2e619fb489fa",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472669105,
+          "stop" : 1667472671513,
+          "duration" : 2408
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "3b3c5c299eb83b3465ad2e619fb489fa"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"humanity\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"humanity\"",
+        "uid" : "86b6f2c1791ce5c4",
+        "parentUid" : "1f2af534b6f881df0216fd7b9eac1414",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471680882,
+          "stop" : 1667471681572,
+          "duration" : 690
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"humanity\"",
+        "uid" : "73382095551a48f7",
+        "parentUid" : "1f2af534b6f881df0216fd7b9eac1414",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472730936,
+          "stop" : 1667472731634,
+          "duration" : 698
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "1f2af534b6f881df0216fd7b9eac1414"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"reverb\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"reverb\"",
+        "uid" : "60f43953829c2a1c",
+        "parentUid" : "1cf4712f7c111d8e7737e31e9522bffb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471875709,
+          "stop" : 1667471876378,
+          "duration" : 669
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"reverb\"",
+        "uid" : "920565c39b6b6010",
+        "parentUid" : "1cf4712f7c111d8e7737e31e9522bffb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472866132,
+          "stop" : 1667472866615,
+          "duration" : 483
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "1cf4712f7c111d8e7737e31e9522bffb"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"scorsese\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"scorsese\"",
+        "uid" : "f15003c0ee5742bb",
+        "parentUid" : "716706c6e3e2eb0d36761a0fefaf6631",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667471931688,
+          "stop" : 1667471933104,
+          "duration" : 1416
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"scorsese\"",
+        "uid" : "f75edbd02ff0b1c1",
+        "parentUid" : "716706c6e3e2eb0d36761a0fefaf6631",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472879236,
+          "stop" : 1667472879808,
+          "duration" : 572
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "716706c6e3e2eb0d36761a0fefaf6631"
+    }, {
+      "name" : "Error parsing response to JSON: \nTypeError: Cannot read properties of null (reading 'clipList')\n Response text: \n {\"errors\":[{\"message\":\"Failed to parse query string at line 1, column 33. See https://aka.ms/azure-search-full-query for supported syntax.\",\"locations\":[{\"line\":2,\"column\":3}],\"path\":[\"clipList\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\",\"exception\":{\"name\":\"RestError\",\"code\":\"InvalidRequestParameter\",\"statusCode\":400,\"request\":{\"streamResponseStatusCodes\":{},\"url\":\"https://test-al-footage-v1.search.windows.net/indexes('cms-categories-indexes-v3')/docs/search.post.search?api-version=2020-06-30-Preview\",\"method\":\"POST\",\"headers\":{\"_headersMap\":{\"content-type\":{\"name\":\"Content-Type\",\"value\":\"application/json\"},\"accept\":{\"name\":\"Accept\",\"value\":\"application/json;odata.metadata=none\"},\"user-agent\":{\"name\":\"User-Agent\",\"value\":\"azsdk-js-search-documents/11.3.0 core-http/2.2.7 Node/v16.14.2 OS/(x64-Linux-5.4.0-1089-azure)\"},\"x-ms-client-request-id\":{\"name\":\"x-ms-client-request-id\",\"value\":\"4e753028-29c5-4ebe-9806-43760fb4ce61\"},\"api-key\":{\"name\":\"api-key\",\"value\":\"09414DD76465B181BF562174F44B81BD\"},\"cookie\":{\"name\":\"Cookie\",\"value\":\"\"}}},\"body\":\"{\\\"count\\\":false,\\\"orderby\\\":\\\"search.score() desc\\\",\\\"queryType\\\":\\\"full\\\",\\\"search\\\":\\\"(name:('stunning view/scenery'))\\\",\\\"searchMode\\\":\\\"all\\\",\\\"skip\\\":null}\",\"withCredentials\":false,\"timeout\":0,\"keepAlive\":true,\"requestId\":\"4e753028-29c5-4ebe-9806-43760fb4ce61\",\"operationSpec\":{\"path\":\"/docs/search.post.search\",\"httpMethod\":\"POST\",\"responses\":{\"200\":{\"bodyMapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchDocumentsResult\",\"modelProperties\":{\"count\":{\"serializedName\":\"@odata\\\\.count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"facets\":{\"serializedName\":\"@search\\\\.facets\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\"}}}}}},\"nextPageParameters\":{\"serializedName\":\"@search\\\\.nextPageParameters\",\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\"}}}},\"nextLink\":{\"serializedName\":\"@odata\\\\.nextLink\",\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}}},\"default\":{\"bodyMapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\",\"modelProperties\":{\"code\":{\"serializedName\":\"code\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"message\":{\"serializedName\":\"message\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"details\":{\"serializedName\":\"details\",\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\"}}}}}}}}},\"requestBody\":{\"parameterPath\":\"searchRequest\",\"mapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\",\"modelProperties\":{\"includeTotalResultCount\":{\"serializedName\":\"count\",\"type\":{\"name\":\"Boolean\"}},\"facets\":{\"serializedName\":\"facets\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"highlightFields\":{\"serializedName\":\"highlight\",\"type\":{\"name\":\"String\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"queryType\":{\"serializedName\":\"queryType\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"simple\",\"full\"]}},\"scoringStatistics\":{\"serializedName\":\"scoringStatistics\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"local\",\"global\"]}},\"sessionId\":{\"serializedName\":\"sessionId\",\"type\":{\"name\":\"String\"}},\"scoringParameters\":{\"serializedName\":\"scoringParameters\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"scoringProfile\":{\"serializedName\":\"scoringProfile\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"searchMode\":{\"serializedName\":\"searchMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"any\",\"all\"]}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"skip\":{\"serializedName\":\"skip\",\"type\":{\"name\":\"Number\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}}},\"queryParameters\":[{\"parameterPath\":\"apiVersion\",\"mapper\":{\"serializedName\":\"api-version\",\"required\":true,\"type\":{\"name\":\"String\"}}}],\"urlParameters\":[{\"parameterPath\":\"endpoint\",\"mapper\":{\"serializedName\":\"endpoint\",\"required\":true,\"type\":{\"name\":\"String\"}},\"skipEncoding\":true},{\"parameterPath\":\"indexName\",\"mapper\":{\"serializedName\":\"indexName\",\"required\":true,\"type\":{\"name\":\"String\"}}}],\"headerParameters\":[{\"parameterPath\":\"accept\",\"mapper\":{\"defaultValue\":\"application/json\",\"isConstant\":true,\"serializedName\":\"Accept\",\"type\":{\"name\":\"String\"}}},{\"parameterPath\":[\"options\",\"requestOptionsParam\",\"xMsClientRequestId\"],\"mapper\":{\"serializedName\":\"x-ms-client-request-id\",\"type\":{\"name\":\"Uuid\"}}},{\"parameterPath\":[\"options\",\"contentType\"],\"mapper\":{\"defaultValue\":\"application/json\",\"isConstant\":true,\"serializedName\":\"Content-Type\",\"type\":{\"name\":\"String\"}}}],\"mediaType\":\"json\",\"serializer\":{\"modelMappers\":{\"SearchError\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\",\"modelProperties\":{\"code\":{\"serializedName\":\"code\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"message\":{\"serializedName\":\"message\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"details\":{\"serializedName\":\"details\",\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\"}}}}}}},\"SearchDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchDocumentsResult\",\"modelProperties\":{\"count\":{\"serializedName\":\"@odata\\\\.count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"facets\":{\"serializedName\":\"@search\\\\.facets\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\"}}}}}},\"nextPageParameters\":{\"serializedName\":\"@search\\\\.nextPageParameters\",\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\"}}}},\"nextLink\":{\"serializedName\":\"@odata\\\\.nextLink\",\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"FacetResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"count\":{\"serializedName\":\"count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"SearchRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\",\"modelProperties\":{\"includeTotalResultCount\":{\"serializedName\":\"count\",\"type\":{\"name\":\"Boolean\"}},\"facets\":{\"serializedName\":\"facets\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"highlightFields\":{\"serializedName\":\"highlight\",\"type\":{\"name\":\"String\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"queryType\":{\"serializedName\":\"queryType\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"simple\",\"full\"]}},\"scoringStatistics\":{\"serializedName\":\"scoringStatistics\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"local\",\"global\"]}},\"sessionId\":{\"serializedName\":\"sessionId\",\"type\":{\"name\":\"String\"}},\"scoringParameters\":{\"serializedName\":\"scoringParameters\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"scoringProfile\":{\"serializedName\":\"scoringProfile\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"searchMode\":{\"serializedName\":\"searchMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"any\",\"all\"]}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"skip\":{\"serializedName\":\"skip\",\"type\":{\"name\":\"Number\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}},\"SearchResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"_score\":{\"serializedName\":\"@search\\\\.score\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"_highlights\":{\"serializedName\":\"@search\\\\.highlights\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}}}}}}},\"SuggestDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestDocumentsResult\",\"modelProperties\":{\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestResult\"}}}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"SuggestResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"_text\":{\"serializedName\":\"@search\\\\.text\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"SuggestRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestRequest\",\"modelProperties\":{\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"useFuzzyMatching\":{\"serializedName\":\"fuzzy\",\"type\":{\"name\":\"Boolean\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"required\":true,\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"suggesterName\":{\"serializedName\":\"suggesterName\",\"required\":true,\"type\":{\"name\":\"String\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}},\"IndexBatch\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexBatch\",\"modelProperties\":{\"actions\":{\"serializedName\":\"value\",\"required\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexAction\"}}}}}}},\"IndexAction\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexAction\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"__actionType\":{\"serializedName\":\"@search\\\\.action\",\"required\":true,\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"upload\",\"merge\",\"mergeOrUpload\",\"delete\"]}}}}},\"IndexDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexDocumentsResult\",\"modelProperties\":{\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexingResult\"}}}}}}},\"IndexingResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexingResult\",\"modelProperties\":{\"key\":{\"serializedName\":\"key\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"errorMessage\":{\"serializedName\":\"errorMessage\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"succeeded\":{\"serializedName\":\"status\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Boolean\"}},\"statusCode\":{\"serializedName\":\"statusCode\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"AutocompleteResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteResult\",\"modelProperties\":{\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteItem\"}}}}}}},\"AutocompleteItem\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteItem\",\"modelProperties\":{\"text\":{\"serializedName\":\"text\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"queryPlusText\":{\"serializedName\":\"queryPlusText\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"AutocompleteRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteRequest\",\"modelProperties\":{\"searchText\":{\"serializedName\":\"search\",\"required\":true,\"type\":{\"name\":\"String\"}},\"autocompleteMode\":{\"serializedName\":\"autocompleteMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"oneTerm\",\"twoTerms\",\"oneTermWithContext\"]}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"useFuzzyMatching\":{\"serializedName\":\"fuzzy\",\"type\":{\"name\":\"Boolean\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"suggesterName\":{\"serializedName\":\"suggesterName\",\"required\":true,\"type\":{\"name\":\"String\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}}},\"isXML\":false}}},\"response\":{\"headers\":{\"_headersMap\":{\"cache-control\":{\"name\":\"cache-control\",\"value\":\"no-cache\"},\"content-language\":{\"name\":\"content-language\",\"value\":\"en\"},\"content-length\":{\"name\":\"content-length\",\"value\":\"343\"},\"content-type\":{\"name\":\"content-type\",\"value\":\"application/json; charset=utf-8\"},\"date\":{\"name\":\"date\",\"value\":\"Thu, 03 Nov 2022 10:41:25 GMT\"},\"elapsed-time\":{\"name\":\"elapsed-time\",\"value\":\"144\"},\"expires\":{\"name\":\"expires\",\"value\":\"-1\"},\"pragma\":{\"name\":\"pragma\",\"value\":\"no-cache\"},\"preference-applied\":{\"name\":\"preference-applied\",\"value\":\"odata.include-annotations=\\\"*\\\"\"},\"request-id\":{\"name\":\"request-id\",\"value\":\"4e753028-29c5-4ebe-9806-43760fb4ce61\"},\"strict-transport-security\":{\"name\":\"strict-transport-security\",\"value\":\"max-age=15724800; includeSubDomains\"}}},\"request\":{\"streamResponseStatusCodes\":{},\"url\":\"https://test-al-footage-v1.search.windows.net/indexes('cms-categories-indexes-v3')/docs/search.post.search?api-version=2020-06-30-Preview\",\"method\":\"POST\",\"headers\":{\"_headersMap\":{\"content-type\":{\"name\":\"Content-Type\",\"value\":\"application/json\"},\"accept\":{\"name\":\"Accept\",\"value\":\"application/json;odata.metadata=none\"},\"user-agent\":{\"name\":\"User-Agent\",\"value\":\"azsdk-js-search-documents/11.3.0 core-http/2.2.7 Node/v16.14.2 OS/(x64-Linux-5.4.0-1089-azure)\"},\"x-ms-client-request-id\":{\"name\":\"x-ms-client-request-id\",\"value\":\"4e753028-29c5-4ebe-9806-43760fb4ce61\"},\"api-key\":{\"name\":\"api-key\",\"value\":\"09414DD76465B181BF562174F44B81BD\"},\"cookie\":{\"name\":\"Cookie\",\"value\":\"\"}}},\"body\":\"{\\\"count\\\":false,\\\"orderby\\\":\\\"search.score() desc\\\",\\\"queryType\\\":\\\"full\\\",\\\"search\\\":\\\"(name:('stunning view/scenery'))\\\",\\\"searchMode\\\":\\\"all\\\",\\\"skip\\\":null}\",\"withCredentials\":false,\"timeout\":0,\"keepAlive\":true,\"requestId\":\"4e753028-29c5-4ebe-9806-43760fb4ce61\",\"operationSpec\":{\"path\":\"/docs/search.post.search\",\"httpMethod\":\"POST\",\"responses\":{\"200\":{\"bodyMapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchDocumentsResult\",\"modelProperties\":{\"count\":{\"serializedName\":\"@odata\\\\.count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"facets\":{\"serializedName\":\"@search\\\\.facets\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\"}}}}}},\"nextPageParameters\":{\"serializedName\":\"@search\\\\.nextPageParameters\",\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\"}}}},\"nextLink\":{\"serializedName\":\"@odata\\\\.nextLink\",\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}}},\"default\":{\"bodyMapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\",\"modelProperties\":{\"code\":{\"serializedName\":\"code\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"message\":{\"serializedName\":\"message\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"details\":{\"serializedName\":\"details\",\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\"}}}}}}}}},\"requestBody\":{\"parameterPath\":\"searchRequest\",\"mapper\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\",\"modelProperties\":{\"includeTotalResultCount\":{\"serializedName\":\"count\",\"type\":{\"name\":\"Boolean\"}},\"facets\":{\"serializedName\":\"facets\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"highlightFields\":{\"serializedName\":\"highlight\",\"type\":{\"name\":\"String\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"queryType\":{\"serializedName\":\"queryType\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"simple\",\"full\"]}},\"scoringStatistics\":{\"serializedName\":\"scoringStatistics\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"local\",\"global\"]}},\"sessionId\":{\"serializedName\":\"sessionId\",\"type\":{\"name\":\"String\"}},\"scoringParameters\":{\"serializedName\":\"scoringParameters\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"scoringProfile\":{\"serializedName\":\"scoringProfile\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"searchMode\":{\"serializedName\":\"searchMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"any\",\"all\"]}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"skip\":{\"serializedName\":\"skip\",\"type\":{\"name\":\"Number\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}}},\"queryParameters\":[{\"parameterPath\":\"apiVersion\",\"mapper\":{\"serializedName\":\"api-version\",\"required\":true,\"type\":{\"name\":\"String\"}}}],\"urlParameters\":[{\"parameterPath\":\"endpoint\",\"mapper\":{\"serializedName\":\"endpoint\",\"required\":true,\"type\":{\"name\":\"String\"}},\"skipEncoding\":true},{\"parameterPath\":\"indexName\",\"mapper\":{\"serializedName\":\"indexName\",\"required\":true,\"type\":{\"name\":\"String\"}}}],\"headerParameters\":[{\"parameterPath\":\"accept\",\"mapper\":{\"defaultValue\":\"application/json\",\"isConstant\":true,\"serializedName\":\"Accept\",\"type\":{\"name\":\"String\"}}},{\"parameterPath\":[\"options\",\"requestOptionsParam\",\"xMsClientRequestId\"],\"mapper\":{\"serializedName\":\"x-ms-client-request-id\",\"type\":{\"name\":\"Uuid\"}}},{\"parameterPath\":[\"options\",\"contentType\"],\"mapper\":{\"defaultValue\":\"application/json\",\"isConstant\":true,\"serializedName\":\"Content-Type\",\"type\":{\"name\":\"String\"}}}],\"mediaType\":\"json\",\"serializer\":{\"modelMappers\":{\"SearchError\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\",\"modelProperties\":{\"code\":{\"serializedName\":\"code\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"message\":{\"serializedName\":\"message\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"details\":{\"serializedName\":\"details\",\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchError\"}}}}}}},\"SearchDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchDocumentsResult\",\"modelProperties\":{\"count\":{\"serializedName\":\"@odata\\\\.count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"facets\":{\"serializedName\":\"@search\\\\.facets\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\"}}}}}},\"nextPageParameters\":{\"serializedName\":\"@search\\\\.nextPageParameters\",\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\"}}}},\"nextLink\":{\"serializedName\":\"@odata\\\\.nextLink\",\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"FacetResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"FacetResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"count\":{\"serializedName\":\"count\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"SearchRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchRequest\",\"modelProperties\":{\"includeTotalResultCount\":{\"serializedName\":\"count\",\"type\":{\"name\":\"Boolean\"}},\"facets\":{\"serializedName\":\"facets\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"highlightFields\":{\"serializedName\":\"highlight\",\"type\":{\"name\":\"String\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"queryType\":{\"serializedName\":\"queryType\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"simple\",\"full\"]}},\"scoringStatistics\":{\"serializedName\":\"scoringStatistics\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"local\",\"global\"]}},\"sessionId\":{\"serializedName\":\"sessionId\",\"type\":{\"name\":\"String\"}},\"scoringParameters\":{\"serializedName\":\"scoringParameters\",\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}},\"scoringProfile\":{\"serializedName\":\"scoringProfile\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"searchMode\":{\"serializedName\":\"searchMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"any\",\"all\"]}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"skip\":{\"serializedName\":\"skip\",\"type\":{\"name\":\"Number\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}},\"SearchResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SearchResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"_score\":{\"serializedName\":\"@search\\\\.score\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"_highlights\":{\"serializedName\":\"@search\\\\.highlights\",\"readOnly\":true,\"type\":{\"name\":\"Dictionary\",\"value\":{\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"String\"}}}}}}}}},\"SuggestDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestDocumentsResult\",\"modelProperties\":{\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestResult\"}}}},\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"SuggestResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestResult\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"_text\":{\"serializedName\":\"@search\\\\.text\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"SuggestRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"SuggestRequest\",\"modelProperties\":{\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"useFuzzyMatching\":{\"serializedName\":\"fuzzy\",\"type\":{\"name\":\"Boolean\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"orderBy\":{\"serializedName\":\"orderby\",\"type\":{\"name\":\"String\"}},\"searchText\":{\"serializedName\":\"search\",\"required\":true,\"type\":{\"name\":\"String\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"select\":{\"serializedName\":\"select\",\"type\":{\"name\":\"String\"}},\"suggesterName\":{\"serializedName\":\"suggesterName\",\"required\":true,\"type\":{\"name\":\"String\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}},\"IndexBatch\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexBatch\",\"modelProperties\":{\"actions\":{\"serializedName\":\"value\",\"required\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexAction\"}}}}}}},\"IndexAction\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexAction\",\"additionalProperties\":{\"type\":{\"name\":\"Object\"}},\"modelProperties\":{\"__actionType\":{\"serializedName\":\"@search\\\\.action\",\"required\":true,\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"upload\",\"merge\",\"mergeOrUpload\",\"delete\"]}}}}},\"IndexDocumentsResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexDocumentsResult\",\"modelProperties\":{\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexingResult\"}}}}}}},\"IndexingResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"IndexingResult\",\"modelProperties\":{\"key\":{\"serializedName\":\"key\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"errorMessage\":{\"serializedName\":\"errorMessage\",\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"succeeded\":{\"serializedName\":\"status\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Boolean\"}},\"statusCode\":{\"serializedName\":\"statusCode\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Number\"}}}}},\"AutocompleteResult\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteResult\",\"modelProperties\":{\"coverage\":{\"serializedName\":\"@search\\\\.coverage\",\"readOnly\":true,\"type\":{\"name\":\"Number\"}},\"results\":{\"serializedName\":\"value\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"Sequence\",\"element\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteItem\"}}}}}}},\"AutocompleteItem\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteItem\",\"modelProperties\":{\"text\":{\"serializedName\":\"text\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}},\"queryPlusText\":{\"serializedName\":\"queryPlusText\",\"required\":true,\"readOnly\":true,\"type\":{\"name\":\"String\"}}}}},\"AutocompleteRequest\":{\"type\":{\"name\":\"Composite\",\"className\":\"AutocompleteRequest\",\"modelProperties\":{\"searchText\":{\"serializedName\":\"search\",\"required\":true,\"type\":{\"name\":\"String\"}},\"autocompleteMode\":{\"serializedName\":\"autocompleteMode\",\"type\":{\"name\":\"Enum\",\"allowedValues\":[\"oneTerm\",\"twoTerms\",\"oneTermWithContext\"]}},\"filter\":{\"serializedName\":\"filter\",\"type\":{\"name\":\"String\"}},\"useFuzzyMatching\":{\"serializedName\":\"fuzzy\",\"type\":{\"name\":\"Boolean\"}},\"highlightPostTag\":{\"serializedName\":\"highlightPostTag\",\"type\":{\"name\":\"String\"}},\"highlightPreTag\":{\"serializedName\":\"highlightPreTag\",\"type\":{\"name\":\"String\"}},\"minimumCoverage\":{\"serializedName\":\"minimumCoverage\",\"type\":{\"name\":\"Number\"}},\"searchFields\":{\"serializedName\":\"searchFields\",\"type\":{\"name\":\"String\"}},\"suggesterName\":{\"serializedName\":\"suggesterName\",\"required\":true,\"type\":{\"name\":\"String\"}},\"top\":{\"serializedName\":\"top\",\"type\":{\"name\":\"Number\"}}}}}},\"isXML\":false}}},\"status\":400,\"bodyAsText\":\"{\\\"error\\\":{\\\"code\\\":\\\"InvalidRequestParameter\\\",\\\"message\\\":\\\"Failed to parse query string at line 1, column 33. See https://aka.ms/azure-search-full-query for supported syntax.\\\",\\\"details\\\":[{\\\"code\\\":\\\"InvalidSearchSyntax\\\",\\\"message\\\":\\\"Failed to parse query string at line 1, column 33. See https://aka.ms/azure-search-full-query for supported syntax.\\\"}]}}\",\"parsedBody\":{\"error\":{\"code\":\"InvalidRequestParameter\",\"message\":\"Failed to parse query string at line 1, column 33. See https://aka.ms/azure-search-full-query for supported syntax.\",\"details\":[{\"code\":\"InvalidSearchSyntax\",\"message\":\"Failed to parse query string at line 1, column 33. See https://aka.ms/azure-search-full-query for supported syntax.\"}]}}},\"details\":{\"error\":{\"code\":\"InvalidRequestParameter\",\"message\":\"Failed to parse query string at line 1, column 33. See https://aka.ms/azure-search-full-query for supported syntax.\",\"details\":[{\"code\":\"InvalidSearchSyntax\",\"message\":\"Failed to parse query string at line 1, column 33. See https://aka.ms/azure-search-full-query for supported syntax.\"}]}},\"stacktrace\":[\"RestError: Failed to parse query string at line 1, column 33. See https://aka.ms/azure-search-full-query for supported syntax.\",\"    at handleErrorResponse (/usr/src/app/node_modules/@azure/core-http/src/policies/deserializationPolicy.ts:274:17)\",\"    at /usr/src/app/node_modules/@azure/core-http/src/policies/deserializationPolicy.ts:179:47\",\"    at runMicrotasks (<anonymous>)\",\"    at processTicksAndRejections (node:internal/process/task_queues:96:5)\",\"    at SearchClient.sendOperationRequest (/usr/src/app/node_modules/@azure/core-http/src/serviceClient.ts:520:23)\",\"    at AzureSearchClient.searchDocuments (/usr/src/app/node_modules/@azure/search-documents/src/searchClient.ts:270:22)\",\"    at AzureSearchClient.search (/usr/src/app/node_modules/@azure/search-documents/src/searchClient.ts:378:26)\",\"    at AzureSearchClient.queryWithTotalCount (/usr/src/app/src/common/providers/searchEngines/azure/azureSearchClient.ts:21:27)\",\"    at AzureSearchService.search (/usr/src/app/src/common/providers/searchEngines/azure/azureSearchService.ts:17:22)\",\"    at CollectionsService.getCategoriesBySearchTerms (/usr/src/app/src/domains/video/services/v1/collectionSearchService.ts:93:23)\"]}}}],\"data\":null}\n",
+      "children" : [ {
+        "name" : "Verify search term = \"stunning view/scenery\"",
+        "uid" : "5f41078ef9b6f7f8",
+        "parentUid" : "d19f5d6a5c33582fee639e5c4442ef3d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472084598,
+          "stop" : 1667472085645,
+          "duration" : 1047
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "d19f5d6a5c33582fee639e5c4442ef3d"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"tecnology\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"tecnology\"",
+        "uid" : "1c1e95a141d96c0a",
+        "parentUid" : "24c76e65665567c9de8906e93ace5333",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472145519,
+          "stop" : 1667472146529,
+          "duration" : 1010
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"tecnology\"",
+        "uid" : "1c858705b0c6862e",
+        "parentUid" : "24c76e65665567c9de8906e93ace5333",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667473017821,
+          "stop" : 1667473018736,
+          "duration" : 915
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "24c76e65665567c9de8906e93ace5333"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"tim burton\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"tim burton\"",
+        "uid" : "c2657f708fd1cf4f",
+        "parentUid" : "ee2d1f5ae94566841e4aed4d28924692",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472171213,
+          "stop" : 1667472172008,
+          "duration" : 795
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"tim burton\"",
+        "uid" : "26a27ef72084b305",
+        "parentUid" : "ee2d1f5ae94566841e4aed4d28924692",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667473024519,
+          "stop" : 1667473024969,
+          "duration" : 450
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "ee2d1f5ae94566841e4aed4d28924692"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"time\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"time\"",
+        "uid" : "a00ca189bc40d586",
+        "parentUid" : "3eba2bc9835d8ba8d4d1a04ba53a45d6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472172009,
+          "stop" : 1667472172711,
+          "duration" : 702
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"time\"",
+        "uid" : "242421f454fc9e7e",
+        "parentUid" : "3eba2bc9835d8ba8d4d1a04ba53a45d6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667473024970,
+          "stop" : 1667473025806,
+          "duration" : 836
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "3eba2bc9835d8ba8d4d1a04ba53a45d6"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"valetines\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"valetines\"",
+        "uid" : "b9fadc32cca7baf4",
+        "parentUid" : "16fc5c43d23b1961f7bf96337f45ce8e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472180725,
+          "stop" : 1667472181570,
+          "duration" : 845
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"valetines\"",
+        "uid" : "20edf1302f8531a6",
+        "parentUid" : "16fc5c43d23b1961f7bf96337f45ce8e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667473032011,
+          "stop" : 1667473032447,
+          "duration" : 436
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "16fc5c43d23b1961f7bf96337f45ce8e"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"amazing view/scenery\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"amazing view/scenery\"",
+        "uid" : "7c447f4e835c6065",
+        "parentUid" : "d99be2eb658f19a2eaf48fe27b311964",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472354348,
+          "stop" : 1667472355526,
+          "duration" : 1178
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "d99be2eb658f19a2eaf48fe27b311964"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"big empty space\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"big empty space\"",
+        "uid" : "eb2e4fb09d3c8153",
+        "parentUid" : "57487176de4a6f419c5375081b88d040",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472386005,
+          "stop" : 1667472386553,
+          "duration" : 548
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "57487176de4a6f419c5375081b88d040"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"big size model\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"big size model\"",
+        "uid" : "942fd84879afecd6",
+        "parentUid" : "a9059ee40f2e6c45b0d58dcf5b14e33a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472386555,
+          "stop" : 1667472387125,
+          "duration" : 570
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "a9059ee40f2e6c45b0d58dcf5b14e33a"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"commercial vibe\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"commercial vibe\"",
+        "uid" : "65d15d4671cb532b",
+        "parentUid" : "0648e2878235d6efb02f15a814d13a50",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472522522,
+          "stop" : 1667472523036,
+          "duration" : 514
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "0648e2878235d6efb02f15a814d13a50"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"documentary of domestic animals\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"documentary of domestic animals\"",
+        "uid" : "321395aba012116e",
+        "parentUid" : "f5d9c8aa66d9b9ea30e5177ca76b28d8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472526159,
+          "stop" : 1667472526750,
+          "duration" : 591
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "f5d9c8aa66d9b9ea30e5177ca76b28d8"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"fool around  slang\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"fool around  slang\"",
+        "uid" : "aa6ff61c0965c646",
+        "parentUid" : "bb39213a137e82124fab92549d8f4ea1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472643436,
+          "stop" : 1667472643951,
+          "duration" : 515
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "bb39213a137e82124fab92549d8f4ea1"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"goofing around  - slang\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"goofing around  - slang\"",
+        "uid" : "ac1364d058d25803",
+        "parentUid" : "433ea49f74360f8c02a0a9a934801176",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472667911,
+          "stop" : 1667472668423,
+          "duration" : 512
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "433ea49f74360f8c02a0a9a934801176"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"graphical loop\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"graphical loop\"",
+        "uid" : "9ff320ae938e32cf",
+        "parentUid" : "131bfbbbfec2d1dcf20356ee9d3d8981",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472671514,
+          "stop" : 1667472672198,
+          "duration" : 684
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "131bfbbbfec2d1dcf20356ee9d3d8981"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"pop colture\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"pop colture\"",
+        "uid" : "a1c36e99d9fb58c4",
+        "parentUid" : "74e2297d2fd383dba15bf70c7f043147",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472855801,
+          "stop" : 1667472856199,
+          "duration" : 398
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "74e2297d2fd383dba15bf70c7f043147"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"stunning view/scenery\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"stunning view/scenery\"",
+        "uid" : "469052e9ab64b944",
+        "parentUid" : "d8813c75f42233428f38a7a4e70931c2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667472983573,
+          "stop" : 1667472984422,
+          "duration" : 849
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "d8813c75f42233428f38a7a4e70931c2"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"vibing - slang\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"vibing - slang\"",
+        "uid" : "2aea8a704bc14bed",
+        "parentUid" : "7ad158c07ba002a98a97ce9e5726870a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667473032448,
+          "stop" : 1667473032873,
+          "duration" : 425
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "7ad158c07ba002a98a97ce9e5726870a"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"woman falling with colorful light\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"woman falling with colorful light\"",
+        "uid" : "c16f12b737fc82ad",
+        "parentUid" : "a533091a8b3af31aa565ab594e2c3b2a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667473066828,
+          "stop" : 1667473067252,
+          "duration" : 424
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "a533091a8b3af31aa565ab594e2c3b2a"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerms\":\"woman in a dreamy scene\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"woman in a dreamy scene\"",
+        "uid" : "182cd3d49902b2c8",
+        "parentUid" : "834bd391cd07038f021cacca0454b0d0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667473067254,
+          "stop" : 1667473067744,
+          "duration" : 490
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "834bd391cd07038f021cacca0454b0d0"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  }, {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "incorrect data check",
+      "children" : [ {
+        "name" : "Verify search term = \"shapes\"",
+        "uid" : "109daa38420313c8",
+        "parentUid" : "2e5f79effac986bb98cd3e664915d9d9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1667471933106,
+          "stop" : 1667471950788,
+          "duration" : 17682
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "2e5f79effac986bb98cd3e664915d9d9"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

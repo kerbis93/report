@@ -1,0 +1,14 @@
+[
+  {
+    "query": "fool around  slang",
+    "clip_id": "187310",
+    "story_id": "18065",
+    "autoRank": "0.30298282056294229"
+  },
+  {
+    "query": "fool around  slang",
+    "clip_id": "178492",
+    "story_id": "17794",
+    "autoRank": "0.30248756354425094"
+  }
+]

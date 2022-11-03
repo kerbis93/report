@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "ad9933e0a1988ecbfa9917c5035c43ac",
+    "name" : "Footage | Search term | AI | Vespa semantical tests",
+    "statistic" : {
+      "failed" : 123,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 72,
+      "unknown" : 0,
+      "total" : 196
+    }
+  } ]
+}
